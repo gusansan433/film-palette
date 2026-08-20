@@ -5,7 +5,7 @@ export function TitleField({ count }: { count: number }) {
         Search by color
       </p>
       <h1 className="display relative mt-2 text-4xl leading-none sm:text-6xl">
-        公版色库
+        Open Palette
       </h1>
       <p className="mt-3 max-w-xl text-sm leading-6 text-[var(--muted)]">
         点选颜色，找到近似颜色的照片；也可以按类型查找。

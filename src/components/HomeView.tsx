@@ -263,7 +263,7 @@ export function HomeView({ initialItems }: HomeViewProps) {
       </main>
 
       <footer className="relative z-10 mx-auto w-full max-w-[1400px] px-4 pb-10 text-xs leading-6 text-[var(--muted)] sm:px-8 sm:pb-12">
-        <p>© 2026 公版色库 · filmpalette.art</p>
+        <p>© 2026 Open Palette · filmpalette.art</p>
         <p className="mt-2 max-w-2xl">
           画面来自 Flickr、维基共享资源、Openverse、美国国会图书馆、互联网档案馆、大都会艺术博物馆等公有领域及自由许可作品，以及用户标注出处后上传的画面。版权归原作者及权利人所有。标明出处不等于获得授权。
         </p>
@@ -481,8 +481,8 @@ function MatchBox({
   onFile: (file: File) => void;
 }) {
   return (
-    <label
-      className="block cursor-pointer rounded-md border border-dashed border-[var(--acid)]/40 bg-[rgba(45,223,204,0.05)] px-4 py-5"
+    <div
+      className="rounded-md border border-dashed border-[var(--acid)]/45 bg-[rgba(45,223,204,0.05)] px-4 py-5"
       onDragOver={(event) => event.preventDefault()}
       onDrop={(event) => {
         event.preventDefault();
@@ -490,23 +490,33 @@ function MatchBox({
         if (file) onFile(file);
       }}
     >
-      <span className="text-xs tracking-[0.24em] text-[var(--acid)]">用图片搜色</span>
-      <p className="mt-2 text-sm leading-6 text-[var(--paper)]">
-        拖入或点选一张画、照片。只用来抽色、找相近画面，不会放进图库。
+      <p className="text-xs tracking-[0.24em] text-[var(--acid)]">以图识图</p>
+      <label
+        className={`mt-3 flex min-h-[7.5rem] cursor-pointer flex-col items-center justify-center gap-2 rounded-sm border border-dashed border-[var(--acid)]/55 bg-[rgba(45,223,204,0.08)] px-4 py-6 text-center transition-colors hover:border-[var(--acid)]/80 hover:bg-[rgba(45,223,204,0.12)] ${busy ? "pointer-events-none opacity-60" : ""}`}
+      >
+        <span className="text-sm tracking-[0.12em] text-[var(--acid)]">
+          {busy ? "正在识别…" : "选择图片"}
+        </span>
+        <span className="text-[11px] leading-5 text-[var(--muted)]">
+          或将图片拖放到此处
+        </span>
+        <input
+          ref={fileRef}
+          type="file"
+          accept="image/jpeg,image/png,image/webp"
+          className="sr-only"
+          disabled={busy}
+          onChange={(event) => {
+            const file = event.target.files?.[0];
+            if (file) onFile(file);
+            event.target.value = "";
+          }}
+        />
+      </label>
+      <p className="mt-3 text-sm leading-6 text-[var(--paper)]">
+        您的照片只会被用来提取颜色，以搜寻站内颜色相近的图片，不会被放进图库。
       </p>
-      <input
-        ref={fileRef}
-        type="file"
-        accept="image/jpeg,image/png,image/webp"
-        className="sr-only"
-        disabled={busy}
-        onChange={(event) => {
-          const file = event.target.files?.[0];
-          if (file) onFile(file);
-          event.target.value = "";
-        }}
-      />
-    </label>
+    </div>
   );
 }
 
@@ -520,7 +530,6 @@ function UploadBox({
   onFile: (file: File, meta: UploadMeta) => void;
 }) {
   const [titleEn, setTitleEn] = useState("");
-  const [titleZh, setTitleZh] = useState("");
   const [director, setDirector] = useState("");
   const [sourceLabel, setSourceLabel] = useState("");
   const [rights, setRights] = useState(false);
@@ -532,7 +541,7 @@ function UploadBox({
       return;
     }
     if (sourceLabel.trim().length < 2) {
-        setHint("请先填写来源。");
+      setHint("请先填写来源。");
       return;
     }
     if (!rights) {
@@ -542,7 +551,7 @@ function UploadBox({
     setHint("");
     onFile(file, {
       titleEn: titleEn.trim(),
-      titleZh: titleZh.trim(),
+      titleZh: "",
       director: director.trim(),
       sourceLabel: sourceLabel.trim(),
     });
@@ -559,9 +568,9 @@ function UploadBox({
       }}
       onSubmit={(event) => event.preventDefault()}
     >
-      <p className="text-xs tracking-[0.24em] text-[var(--acid)]">上传画面</p>
+      <p className="text-xs tracking-[0.24em] text-[var(--acid)]">上传图片</p>
       <p className="text-sm leading-6 text-[var(--paper)]">
-        先写清标题和来源，再选图。剧照、摄影、海报、画作都可以。只上传你有权使用的画面。
+        请注明来源（只上传您有权使用的图片）
       </p>
       <label className="block text-[11px] text-[var(--muted)]">
         标题
@@ -571,22 +580,6 @@ function UploadBox({
           required
           className="mt-1 w-full border border-[var(--line)] bg-transparent px-2 py-2 text-sm text-[var(--paper)] outline-none"
           placeholder="Nosferatu / 星夜 / 来源作品名"
-        />
-      </label>
-      <label className="block text-[11px] text-[var(--muted)]">
-        中文名（可选）
-        <input
-          value={titleZh}
-          onChange={(event) => setTitleZh(event.target.value)}
-          className="mt-1 w-full border border-[var(--line)] bg-transparent px-2 py-2 text-sm text-[var(--paper)] outline-none"
-        />
-      </label>
-      <label className="block text-[11px] text-[var(--muted)]">
-        导演（可选）
-        <input
-          value={director}
-          onChange={(event) => setDirector(event.target.value)}
-          className="mt-1 w-full border border-[var(--line)] bg-transparent px-2 py-2 text-sm text-[var(--paper)] outline-none"
         />
       </label>
       <label className="block text-[11px] text-[var(--muted)]">
@@ -608,9 +601,21 @@ function UploadBox({
         />
         我确认这张图是公有领域、已获授权，或由我拍摄/持有权利。
       </label>
+      <label className="block text-[11px] text-[var(--muted)]">
+        导演（可选）
+        <input
+          value={director}
+          onChange={(event) => setDirector(event.target.value)}
+          className="mt-1 w-full border border-[var(--line)] bg-transparent px-2 py-2 text-sm text-[var(--paper)] outline-none"
+          placeholder="（如果您的图片来自于某部电影）"
+        />
+      </label>
       {hint && <p className="text-[11px] text-[var(--acid)]">{hint}</p>}
-      <label className="block cursor-pointer text-sm text-[var(--acid)] underline decoration-[var(--line)]">
-        {busy ? "正在处理…" : "选择图片"}
+      <label className="mt-1 flex min-h-[4.5rem] cursor-pointer flex-col items-center justify-center gap-1 rounded-sm border border-dashed border-[var(--acid)]/50 bg-[rgba(45,223,204,0.06)] px-3 py-4 text-center transition-colors hover:border-[var(--acid)]/75 hover:bg-[rgba(45,223,204,0.1)]">
+        <span className="text-sm tracking-[0.12em] text-[var(--acid)]">
+          {busy ? "正在处理…" : "选择图片"}
+        </span>
+        <span className="text-[11px] text-[var(--muted)]">或拖放到此处</span>
         <input
           ref={fileRef}
           type="file"
