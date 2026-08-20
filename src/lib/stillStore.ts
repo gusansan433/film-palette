@@ -33,12 +33,15 @@ export async function stillFromBuffer(input: {
   fileKey: string;
   kind?: CatalogItem["kind"];
   sourceLabel?: string;
+  /** Line art / ink / sculpture photos that may fail chroma gate */
+  allowGray?: boolean;
 }): Promise<CatalogItem | null> {
   if (input.buffer.byteLength < 4000) return null;
   if (isTitleCard(input.title) || isTitleCard(input.fileKey)) return null;
   if (isUnsafeItem(input)) return null;
   const analysis = await analyzeImageBuffer(input.buffer);
-  const allowGray = looksLikeMeme(`${input.title} ${input.fileKey ?? ""}`);
+  const allowGray =
+    Boolean(input.allowGray) || looksLikeMeme(`${input.title} ${input.fileKey ?? ""}`);
   if (!isColorful(analysis) && !allowGray) return null;
   const id = crypto.randomUUID();
   let localUrl = "";
