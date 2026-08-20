@@ -1,0 +1,35 @@
+{
+  "name": "film-palette",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "node --use-env-proxy ./node_modules/next/dist/bin/next dev",
+    "build": "next build",
+    "start": "node --use-env-proxy ./node_modules/next/dist/bin/next start",
+    "lint": "eslint",
+    "ingest": "node --use-env-proxy ./node_modules/tsx/dist/cli.mjs scripts/ingest.ts",
+    "seed": "node --use-env-proxy ./node_modules/tsx/dist/cli.mjs scripts/ingest.ts --seed --force --count=40",
+    "photos": "node --use-env-proxy ./node_modules/tsx/dist/cli.mjs scripts/ingest.ts --photos --count=250",
+    "memes": "node --use-env-proxy ./node_modules/tsx/dist/cli.mjs scripts/ingest.ts --photos --memes --count=40",
+    "art": "node --use-env-proxy ./node_modules/tsx/dist/cli.mjs scripts/ingest.ts --photos --art --count=80",
+    "daily": "node --use-env-proxy ./node_modules/tsx/dist/cli.mjs scripts/ingest.ts --photos --art --count=100"
+  },
+  "dependencies": {
+    "next": "16.3.1",
+    "react": "19.2.8",
+    "react-dom": "19.2.8",
+    "sharp": "^0.35.3",
+    "undici": "^8.10.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.3.1",
+    "tailwindcss": "^4",
+    "tsx": "^4.23.12",
+    "typescript": "^5"
+  }
+}

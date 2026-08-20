@@ -1,0 +1,9 @@
+node_modules
+.next
+.git
+logs
+data/ingest.lock
+data/*.tmp
+data/catalog.json.truncated
+public/uploads/*
+!public/uploads/.gitkeep
