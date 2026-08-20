@@ -20,7 +20,7 @@ async function main() {
         prefer: memes
           ? /meme/i
           : art
-            ? /nianhua|yangliuqing|taohuawu|embroidery|textile|porcelain|brocade|cloisonne|paper cut|jianzhi|yunjin|calico|menshen|folk|mural|graffiti|thangka|iznik|batik|fresco|sculpture/i
+            ? /painting|botticelli|caravaggio|vermeer|rembrandt|monet|van gogh|klimt|matisse|sargent|leyendecker|beardsley|fresco|mural|nianhua|embroidery|textile|porcelain/i
             : undefined,
       })
     : await ingestDaily({

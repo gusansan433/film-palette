@@ -228,11 +228,14 @@ export async function ingestPhotos(options?: {
         : await collectPhotoCandidates(seen);
     const graphic = options?.prefer
       ?? /poster|runway|fashion|wpa|couture|art deco|theatrical|painting|meme|van gogh|monet|vermeer|hokusai|klimt|ukiyo|rembrandt|botticelli|fresco|pompeii|lascaux|furniture|morris|thonet|chippendale/i;
-    const candidates = memesOnly || artOnly
+    const painterBias =
+      /painting|botticelli|leonardo|durer|michelangelo|raphael|titian|bruegel|tintoretto|veronese|greco|caravaggio|rubens|hals|gentileschi|velazquez|rembrandt|steen|vermeer|ruisdael|watteau|boucher|fragonard|reynolds|gainsborough|david|goya|blake|friedrich|turner|constable|ingres|delacroix|gericault|corot|millet|courbet|daumier|menzel|bouguereau|cabanel|alma-tadema|gerome|repin|aivazovsky|shishkin|surikov|kuindzhi|rossetti|millais|burne-jones|waterhouse|leighton|beardsley|manet|monet|renoir|degas|pissarro|sisley|morisot|cassatt|van gogh|cezanne|gauguin|seurat|signac|lautrec|rousseau|redon|bonnard|klimt|schiele|mucha|matisse|kandinsky|klee|mondrian|malevich|modigliani|munch|whistler|homer|sargent|leyendecker|rackham|dore|bilibin|illustration|fresco|mural/i;
+    const bias = artOnly ? painterBias : graphic;
+    const candidates = memesOnly
       ? shuffle(raw)
       : [
-          ...shuffle(raw.filter((item) => graphic.test(item.title))),
-          ...shuffle(raw.filter((item) => !graphic.test(item.title))),
+          ...shuffle(raw.filter((item) => bias.test(`${item.title} ${item.author ?? ""}`))),
+          ...shuffle(raw.filter((item) => !bias.test(`${item.title} ${item.author ?? ""}`))),
         ];
     console.log(`${memesOnly ? "meme" : artOnly ? "art" : "photo"} candidates: ${candidates.length}`);
 
