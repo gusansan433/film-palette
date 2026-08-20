@@ -16,6 +16,7 @@ import {
   withSearchTags,
 } from "@/lib/classify";
 import type { CatalogItem, MediaCategory, PaletteColor, PeopleCount, SubjectTag } from "@/lib/types";
+import { summarizeUsageRights } from "@/lib/usageRights";
 
 type SimilarItem = CatalogItem & { matchScore?: number };
 
@@ -183,8 +184,7 @@ export function HomeView({ initialItems }: HomeViewProps) {
       <KandinskyField />
       <div className="grain" />
       <header className="relative z-10 mx-auto flex w-full max-w-[1400px] flex-col gap-2 px-4 pb-2 pt-8 sm:px-8 sm:pt-10">
-        <TitleField />
-        <p className="text-sm text-[var(--muted)]">目前图库 {items.length} 张</p>
+        <TitleField count={items.length} />
       </header>
 
       <main className="relative z-10 mx-auto grid w-full max-w-[1400px] gap-8 px-4 py-6 sm:px-8 lg:grid-cols-[minmax(260px,340px)_minmax(0,1fr)]">
@@ -263,7 +263,7 @@ export function HomeView({ initialItems }: HomeViewProps) {
       </main>
 
       <footer className="relative z-10 mx-auto w-full max-w-[1400px] px-4 pb-10 text-xs leading-6 text-[var(--muted)] sm:px-8 sm:pb-12">
-        <p>© 2026 Film Palette · filmpalette.art</p>
+        <p>© 2026 公版色库 · filmpalette.art</p>
         <p className="mt-2 max-w-2xl">
           画面来自 Flickr、维基共享资源、Openverse、美国国会图书馆、互联网档案馆、大都会艺术博物馆等公有领域及自由许可作品，以及用户标注出处后上传的画面。版权归原作者及权利人所有。标明出处不等于获得授权。
         </p>
@@ -280,6 +280,21 @@ export function HomeView({ initialItems }: HomeViewProps) {
       )}
     </div>
     </IntroGate>
+  );
+}
+
+function UsageRightsLine({ item }: { item: CatalogItem }) {
+  const usage = summarizeUsageRights(item);
+  return (
+    <div className="flex gap-2">
+      <dt className="shrink-0 text-[var(--acid)]">使用</dt>
+      <dd
+        className="line-clamp-2 text-[10px] leading-4 text-[var(--muted)]"
+        title={usage.detail}
+      >
+        {usage.short}
+      </dd>
+    </div>
   );
 }
 
@@ -301,6 +316,7 @@ function FilmCredits({ item }: { item: CatalogItem }) {
             {item.photographer || item.author || "未注明"}
           </dd>
         </div>
+        <UsageRightsLine item={item} />
         {tags ? <p className="pt-1 text-[10px] tracking-[0.12em] text-[var(--muted)]">{tags}</p> : null}
       </dl>
     );
@@ -325,6 +341,7 @@ function FilmCredits({ item }: { item: CatalogItem }) {
           <dd className="truncate text-[var(--paper)]">{item.sourceLabel || "用户上传"}</dd>
         </div>
       )}
+      <UsageRightsLine item={item} />
       {tags ? <p className="pt-1 text-[10px] tracking-[0.12em] text-[var(--muted)]">{tags}</p> : null}
     </dl>
   );

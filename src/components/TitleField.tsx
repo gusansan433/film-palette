@@ -1,14 +1,17 @@
-export function TitleField() {
+export function TitleField({ count }: { count: number }) {
   return (
     <div className="relative py-2">
       <p className="text-[11px] tracking-[0.28em] text-[var(--muted)] uppercase">
         Search by color
       </p>
       <h1 className="display relative mt-2 text-4xl leading-none sm:text-6xl">
-        Film Palette
+        公版色库
       </h1>
       <p className="mt-3 max-w-xl text-sm leading-6 text-[var(--muted)]">
-        点颜色搜图，也可以按类型、人数和内容筛。剧照、摄影、海报、名画都可以。
+        点选颜色，找到近似颜色的照片；也可以按类型查找。
+      </p>
+      <p className="mt-2 text-sm text-[var(--muted)]">
+        目前图库 {count} 张 · 每天北京时间 8:00 更新约 100 张
       </p>
     </div>
   );

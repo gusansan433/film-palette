@@ -19,7 +19,7 @@ export function IntroGate({ children }: { children: React.ReactNode }) {
           <p className="text-[11px] tracking-[0.32em] text-[var(--muted)] uppercase">
             filmpalette.art
           </p>
-          <h1 className="display mt-4 text-5xl leading-none sm:text-8xl">Film Palette</h1>
+          <h1 className="display mt-4 text-5xl leading-none sm:text-8xl">公版色库</h1>
           <p className="mt-8 text-sm tracking-[0.24em] text-[var(--acid)]">点击进入</p>
         </div>
       </button>

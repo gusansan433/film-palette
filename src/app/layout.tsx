@@ -13,9 +13,9 @@ const manrope = Manrope({
 });
 
 export const metadata: Metadata = {
-  title: "Film Palette · filmpalette.art",
+  title: "公版色库 · filmpalette.art",
   description:
-    "按颜色搜索公有领域与自由许可画面：电影剧照、摄影、海报、名画。点色或上传图片，匹配相近色调。",
+    "点选颜色，找到近似颜色的照片；也可以按类型查找。公有领域与自由许可画面色库。",
 };
 
 export const viewport = {
