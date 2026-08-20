@@ -8,6 +8,7 @@ import { looksLikeMeme } from "./classify";
 import { isTitleCard, sourceLabel, guessKind } from "./mediaKind";
 import { parseCreator } from "./creator";
 import { imageFingerprint, isUnsafeItem } from "./fingerprint";
+import type { CatalogItem } from "./types";
 
 const COMMONS_API = "https://commons.wikimedia.org/w/api.php";
 const USER_AGENT =
