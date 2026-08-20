@@ -86483,7 +86483,6353 @@
       "kind": "photo",
       "photographer": "rawpixel",
       "sourceLabel": "Rawpixel",
-      "contentHash": "ffffffe0f0070060060000000000000001fc"
+      "contentHash": "ffffffe0f0070060060000000000000001fc",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "79ce5857-5e18-44a2-9918-40892fb90122",
+      "title": "Henri Matisse's Three Sisters African",
+      "titleEn": "Henri Matisse's Three Sisters African",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/79ce5857-5e18-44a2-9918-40892fb90122.jpg",
+      "thumbUrl": "/stills/79ce5857-5e18-44a2-9918-40892fb90122.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/25232566/image-people-art-vintage",
+      "author": "barnesfoundation",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "green",
+        "orange",
+        "yellow",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#296a34",
+          "rgb": [
+            41,
+            106,
+            52
+          ],
+          "ratio": 0.3567708333333333,
+          "bucket": "green"
+        },
+        {
+          "hex": "#c8b180",
+          "rgb": [
+            200,
+            177,
+            128
+          ],
+          "ratio": 0.20540364583333334,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#cbbeaa",
+          "rgb": [
+            203,
+            190,
+            170
+          ],
+          "ratio": 0.1708984375,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#a98c73",
+          "rgb": [
+            169,
+            140,
+            115
+          ],
+          "ratio": 0.1369357638888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#a7753b",
+          "rgb": [
+            167,
+            117,
+            59
+          ],
+          "ratio": 0.12999131944444445,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-08-20T20:27:39.776Z",
+      "fileKey": "openverse:7c1087af-1744-4bb3-a5d8-012a1553318f",
+      "kind": "photo",
+      "photographer": "Henri Matisse",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "65ffaff9979d08502506e03e03f01e00e00f",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "a853d569-dd2a-45f8-a575-19e92f9ecd1b",
+      "title": "Shishkin, Ivan - Morning Pine",
+      "titleEn": "Shishkin, Ivan - Morning Pine",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/a853d569-dd2a-45f8-a575-19e92f9ecd1b.jpg",
+      "thumbUrl": "/stills/a853d569-dd2a-45f8-a575-19e92f9ecd1b.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/8717925/shishkin-ivan-morning-pine-forest",
+      "author": "rawpixel",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "yellow",
+        "brown",
+        "green"
+      ],
+      "palette": [
+        {
+          "hex": "#8d876b",
+          "rgb": [
+            141,
+            135,
+            107
+          ],
+          "ratio": 0.2604166666666667,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#45442e",
+          "rgb": [
+            69,
+            68,
+            46
+          ],
+          "ratio": 0.24153645833333334,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#676144",
+          "rgb": [
+            103,
+            97,
+            68
+          ],
+          "ratio": 0.2228732638888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#bbb397",
+          "rgb": [
+            187,
+            179,
+            151
+          ],
+          "ratio": 0.13802083333333334,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#20251b",
+          "rgb": [
+            32,
+            37,
+            27
+          ],
+          "ratio": 0.1371527777777778,
+          "bucket": "green"
+        }
+      ],
+      "addedAt": "2026-08-20T20:27:42.601Z",
+      "fileKey": "openverse:bc653c6d-949b-4224-89ec-030655a16a24",
+      "kind": "photo",
+      "photographer": "rawpixel",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "67f6ff0ff2ff63f61f43f41f01b000000000",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "510dd321-06ad-405d-8a7d-f7b36f142db5",
+      "title": "Harlequin by Andre Derain",
+      "titleEn": "Harlequin by Andre Derain",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/510dd321-06ad-405d-8a7d-f7b36f142db5.jpg",
+      "thumbUrl": "/stills/510dd321-06ad-405d-8a7d-f7b36f142db5.jpg",
+      "pageUrl": "https://www.flickr.com/photos/8283439@N04/54189639551",
+      "author": "Amaury Laporte",
+      "license": "BY",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "buckets": [
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#24180e",
+          "rgb": [
+            36,
+            24,
+            14
+          ],
+          "ratio": 0.3729383680555556,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#512c11",
+          "rgb": [
+            81,
+            44,
+            17
+          ],
+          "ratio": 0.3195529513888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#8a481a",
+          "rgb": [
+            138,
+            72,
+            26
+          ],
+          "ratio": 0.1681857638888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#ba7d46",
+          "rgb": [
+            186,
+            125,
+            70
+          ],
+          "ratio": 0.0749782986111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#ddb984",
+          "rgb": [
+            221,
+            185,
+            132
+          ],
+          "ratio": 0.06434461805555555,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-08-20T20:27:45.781Z",
+      "fileKey": "openverse:c0b35340-cfa7-465d-b14b-420c7505271e",
+      "kind": "photo",
+      "photographer": "Amaury Laporte",
+      "sourceLabel": "Flickr",
+      "contentHash": "1e01f00e00e00f81f81fa5b608c0180b8020",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "08d69581-cf47-4c9a-a325-4e7ad6bb0ab8",
+      "title": "A Street Scene in Seville",
+      "titleEn": "A Street Scene in Seville",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/08d69581-cf47-4c9a-a325-4e7ad6bb0ab8.jpg",
+      "thumbUrl": "/stills/08d69581-cf47-4c9a-a325-4e7ad6bb0ab8.jpg",
+      "pageUrl": "https://www.metmuseum.org/art/collection/search/826444",
+      "author": "Thomas Eakins",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#504733",
+          "rgb": [
+            80,
+            71,
+            51
+          ],
+          "ratio": 0.5116102430555556,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#423525",
+          "rgb": [
+            66,
+            53,
+            37
+          ],
+          "ratio": 0.24327256944444445,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#2e241a",
+          "rgb": [
+            46,
+            36,
+            26
+          ],
+          "ratio": 0.1353081597222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#010101",
+          "rgb": [
+            1,
+            1,
+            1
+          ],
+          "ratio": 0.0625,
+          "bucket": "black"
+        },
+        {
+          "hex": "#7c6c4a",
+          "rgb": [
+            124,
+            108,
+            74
+          ],
+          "ratio": 0.047309027777777776,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-08-20T20:27:56.353Z",
+      "fileKey": "openverse:32ebf698-8bed-4bf6-ba92-e779d3c416e4",
+      "kind": "photo",
+      "photographer": "Thomas Eakins",
+      "sourceLabel": "Met Museum",
+      "contentHash": "18613e1fe4fe6fe6f66d67e67c60c000e3fe",
+      "category": "photo",
+      "subjects": [
+        "city"
+      ]
+    },
+    {
+      "id": "62e45860-0247-4cda-81a6-cb4f6ecdcca0",
+      "title": "Edgar Degas (1834–1917), Portrait of a Woman in Gray, c. 1865",
+      "titleEn": "Edgar Degas (1834–1917), Portrait of a Woman in Gray, c. 1865",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/62e45860-0247-4cda-81a6-cb4f6ecdcca0.jpg",
+      "thumbUrl": "/stills/62e45860-0247-4cda-81a6-cb4f6ecdcca0.jpg",
+      "pageUrl": "https://www.flickr.com/photos/36417567@N03/51630771262",
+      "author": "Tulip Hysteria / Go to albums",
+      "license": "PDM",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "buckets": [
+        "orange",
+        "brown",
+        "pink"
+      ],
+      "palette": [
+        {
+          "hex": "#ac7c4e",
+          "rgb": [
+            172,
+            124,
+            78
+          ],
+          "ratio": 0.265625,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#c0a187",
+          "rgb": [
+            192,
+            161,
+            135
+          ],
+          "ratio": 0.2124565972222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#2d1d23",
+          "rgb": [
+            45,
+            29,
+            35
+          ],
+          "ratio": 0.2092013888888889,
+          "bucket": "pink"
+        },
+        {
+          "hex": "#8d6541",
+          "rgb": [
+            141,
+            101,
+            65
+          ],
+          "ratio": 0.18684895833333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#553a31",
+          "rgb": [
+            85,
+            58,
+            49
+          ],
+          "ratio": 0.12586805555555555,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-08-20T20:28:00.765Z",
+      "fileKey": "openverse:d40fa24a-822d-4915-b120-8760050dd98e",
+      "kind": "photo",
+      "photographer": "Edgar Degas",
+      "sourceLabel": "Flickr",
+      "contentHash": "f8ffbffb7fc3fe13c018038033737917f3ff",
+      "category": "painting",
+      "people": "one",
+      "subjects": [
+        "portrait",
+        "people"
+      ]
+    },
+    {
+      "id": "7bb09a7c-c7f7-4725-980a-924a96b21562",
+      "title": "Pygmalion Image - Hand Refrains",
+      "titleEn": "Pygmalion Image - Hand Refrains",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/7bb09a7c-c7f7-4725-980a-924a96b21562.jpg",
+      "thumbUrl": "/stills/7bb09a7c-c7f7-4725-980a-924a96b21562.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/3828341/illustration-image-art-people",
+      "author": "rawpixel",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "red",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#624f4c",
+          "rgb": [
+            98,
+            79,
+            76
+          ],
+          "ratio": 0.3037109375,
+          "bucket": "red"
+        },
+        {
+          "hex": "#8c766b",
+          "rgb": [
+            140,
+            118,
+            107
+          ],
+          "ratio": 0.2635633680555556,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#423333",
+          "rgb": [
+            66,
+            51,
+            51
+          ],
+          "ratio": 0.1923828125,
+          "bucket": "red"
+        },
+        {
+          "hex": "#cebaa5",
+          "rgb": [
+            206,
+            186,
+            165
+          ],
+          "ratio": 0.14518229166666666,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#23181a",
+          "rgb": [
+            35,
+            24,
+            26
+          ],
+          "ratio": 0.09516059027777778,
+          "bucket": "red"
+        }
+      ],
+      "addedAt": "2026-08-20T20:28:04.631Z",
+      "fileKey": "openverse:70bbc784-265a-4e69-b75d-76d2efa09890",
+      "kind": "photo",
+      "photographer": "rawpixel",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "fbe63e43f43f61f60f20520500603601301f",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "dac47af0-3004-4df2-849b-88bf9cf70d55",
+      "title": "Saint Andrew",
+      "titleEn": "Saint Andrew",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/dac47af0-3004-4df2-849b-88bf9cf70d55.jpg",
+      "thumbUrl": "/stills/dac47af0-3004-4df2-849b-88bf9cf70d55.jpg",
+      "pageUrl": "https://www.metmuseum.org/art/collection/search/436577",
+      "author": "El Greco (Domenikos Theotokopoulos)",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "yellow",
+        "black"
+      ],
+      "palette": [
+        {
+          "hex": "#3d402b",
+          "rgb": [
+            61,
+            64,
+            43
+          ],
+          "ratio": 0.3134765625,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#2a2816",
+          "rgb": [
+            42,
+            40,
+            22
+          ],
+          "ratio": 0.2439236111111111,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#615e3c",
+          "rgb": [
+            97,
+            94,
+            60
+          ],
+          "ratio": 0.19466145833333334,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#14160f",
+          "rgb": [
+            20,
+            22,
+            15
+          ],
+          "ratio": 0.17513020833333334,
+          "bucket": "black"
+        },
+        {
+          "hex": "#020101",
+          "rgb": [
+            2,
+            1,
+            1
+          ],
+          "ratio": 0.07280815972222222,
+          "bucket": "black"
+        }
+      ],
+      "addedAt": "2026-08-20T20:28:14.209Z",
+      "fileKey": "openverse:51530496-7225-4cd4-be4c-549b53efe941",
+      "kind": "photo",
+      "photographer": "El Greco",
+      "sourceLabel": "Met Museum",
+      "contentHash": "04e40e40e4ce4ce4ce5de0fe1ae5a81ca588",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "62e1f8be-3ef7-4084-8d3b-0b52a7121334",
+      "title": "Sketch 2 for composition VII",
+      "titleEn": "Sketch 2 for composition VII",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/62e1f8be-3ef7-4084-8d3b-0b52a7121334.jpg",
+      "thumbUrl": "/stills/62e1f8be-3ef7-4084-8d3b-0b52a7121334.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/7666990/sketch-for-composition-vii",
+      "author": "rawpixel",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "orange",
+        "gray",
+        "brown",
+        "blue"
+      ],
+      "palette": [
+        {
+          "hex": "#bc8560",
+          "rgb": [
+            188,
+            133,
+            96
+          ],
+          "ratio": 0.2608506944444444,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#c3b39d",
+          "rgb": [
+            195,
+            179,
+            157
+          ],
+          "ratio": 0.2506510416666667,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#7e8b86",
+          "rgb": [
+            126,
+            139,
+            134
+          ],
+          "ratio": 0.1789279513888889,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#83594e",
+          "rgb": [
+            131,
+            89,
+            78
+          ],
+          "ratio": 0.15516493055555555,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#405867",
+          "rgb": [
+            64,
+            88,
+            103
+          ],
+          "ratio": 0.15440538194444445,
+          "bucket": "blue"
+        }
+      ],
+      "addedAt": "2026-08-20T20:28:29.545Z",
+      "fileKey": "openverse:94a9a97e-21fd-4978-b813-1d697cfdff4c",
+      "kind": "photo",
+      "photographer": "rawpixel",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "237e1b728e300e45cc3389d9b82f27f1e7ff",
+      "category": "photo",
+      "people": "two",
+      "subjects": []
+    },
+    {
+      "id": "e71de976-a94a-41dc-96c3-9dd73712ba9d",
+      "title": "Everyman",
+      "titleEn": "Everyman",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/e71de976-a94a-41dc-96c3-9dd73712ba9d.jpg",
+      "thumbUrl": "/stills/e71de976-a94a-41dc-96c3-9dd73712ba9d.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/8263063/everyman",
+      "author": "themet",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#998a76",
+          "rgb": [
+            153,
+            138,
+            118
+          ],
+          "ratio": 0.2131076388888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#b9a892",
+          "rgb": [
+            185,
+            168,
+            146
+          ],
+          "ratio": 0.208984375,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d7c7b1",
+          "rgb": [
+            215,
+            199,
+            177
+          ],
+          "ratio": 0.2048611111111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#7a6d5d",
+          "rgb": [
+            122,
+            109,
+            93
+          ],
+          "ratio": 0.1999782986111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#5b5145",
+          "rgb": [
+            91,
+            81,
+            69
+          ],
+          "ratio": 0.1730685763888889,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-08-20T20:29:03.222Z",
+      "fileKey": "openverse:3f14d30e-e4ae-4c97-a54e-e838a1491619",
+      "kind": "photo",
+      "photographer": "themet",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "3ff08806006102c04a0c820004227fffffff",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "c844bd6f-e492-4db7-952c-19632c126d94",
+      "title": "Edgar Degas - Café -",
+      "titleEn": "Edgar Degas - Café -",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/c844bd6f-e492-4db7-952c-19632c126d94.jpg",
+      "thumbUrl": "/stills/c844bd6f-e492-4db7-952c-19632c126d94.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/7665204/edgar-degas-cafe-google-art-project",
+      "author": "rawpixel",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "yellow",
+        "red",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#221516",
+          "rgb": [
+            34,
+            21,
+            22
+          ],
+          "ratio": 0.3111979166666667,
+          "bucket": "red"
+        },
+        {
+          "hex": "#928866",
+          "rgb": [
+            146,
+            136,
+            102
+          ],
+          "ratio": 0.23763020833333334,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#3f3227",
+          "rgb": [
+            63,
+            50,
+            39
+          ],
+          "ratio": 0.1824001736111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#b3aa84",
+          "rgb": [
+            179,
+            170,
+            132
+          ],
+          "ratio": 0.1533203125,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#665c44",
+          "rgb": [
+            102,
+            92,
+            68
+          ],
+          "ratio": 0.1154513888888889,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-08-20T20:29:07.207Z",
+      "fileKey": "openverse:6bf77385-24fc-427a-aacc-aadc8e28778b",
+      "kind": "photo",
+      "photographer": "Edgar Degas",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "dc9de00e00700f10efff0fe0c00c007c3fff",
+      "category": "painting",
+      "subjects": []
+    },
+    {
+      "id": "58d15893-8710-404a-8371-f06f84798ef8",
+      "title": "village school Jan Steen",
+      "titleEn": "village school Jan Steen",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/58d15893-8710-404a-8371-f06f84798ef8.jpg",
+      "thumbUrl": "/stills/58d15893-8710-404a-8371-f06f84798ef8.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/8900158/the-village-school",
+      "author": "rawpixel",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "orange",
+        "black",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#301c09",
+          "rgb": [
+            48,
+            28,
+            9
+          ],
+          "ratio": 0.3440755208333333,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#462b0f",
+          "rgb": [
+            70,
+            43,
+            15
+          ],
+          "ratio": 0.23046875,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#1d0f08",
+          "rgb": [
+            29,
+            15,
+            8
+          ],
+          "ratio": 0.2160373263888889,
+          "bucket": "black"
+        },
+        {
+          "hex": "#604326",
+          "rgb": [
+            96,
+            67,
+            38
+          ],
+          "ratio": 0.13639322916666666,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#876b4e",
+          "rgb": [
+            135,
+            107,
+            78
+          ],
+          "ratio": 0.0730251736111111,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-08-20T20:29:39.595Z",
+      "fileKey": "openverse:37e50fbb-f56c-45f2-8835-124fc132828e",
+      "kind": "photo",
+      "photographer": "rawpixel",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "0000108518118f1bf1bf9ef99610011ff098",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "070f355a-afa1-4bf7-a44c-c050e30282b3",
+      "title": "Approaching Reykjavik - aerial",
+      "titleEn": "Approaching Reykjavik - aerial",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/070f355a-afa1-4bf7-a44c-c050e30282b3.jpg",
+      "thumbUrl": "/stills/070f355a-afa1-4bf7-a44c-c050e30282b3.jpg",
+      "pageUrl": "https://www.flickr.com/photos/8749778@N06/51840442301",
+      "author": "Eric Kilby",
+      "license": "BY-SA",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "buckets": [
+        "gray",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#7b7578",
+          "rgb": [
+            123,
+            117,
+            120
+          ],
+          "ratio": 0.3153211805555556,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#625140",
+          "rgb": [
+            98,
+            81,
+            64
+          ],
+          "ratio": 0.2435980902777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#a5a8af",
+          "rgb": [
+            165,
+            168,
+            175
+          ],
+          "ratio": 0.16243489583333334,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#c7c6c7",
+          "rgb": [
+            199,
+            198,
+            199
+          ],
+          "ratio": 0.15462239583333334,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#352d26",
+          "rgb": [
+            53,
+            45,
+            38
+          ],
+          "ratio": 0.1240234375,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-08-20T20:29:42.420Z",
+      "fileKey": "openverse:34e4300e-e039-43ff-80b3-617b772873c1",
+      "kind": "photo",
+      "photographer": "Eric Kilby",
+      "sourceLabel": "Flickr",
+      "contentHash": "fffffffff1ff000fe07f2000000000000000",
+      "category": "photo",
+      "subjects": [
+        "landscape"
+      ]
+    },
+    {
+      "id": "904ab7b0-68b9-48b0-8611-59b531bb5b6c",
+      "title": "Movement, Bermuda by Marsden Hartley",
+      "titleEn": "Movement, Bermuda by Marsden Hartley",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/904ab7b0-68b9-48b0-8611-59b531bb5b6c.jpg",
+      "thumbUrl": "/stills/904ab7b0-68b9-48b0-8611-59b531bb5b6c.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/9265182/movement-bermuda-marsden-hartley",
+      "author": "barnesfoundation",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "orange",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#d5af92",
+          "rgb": [
+            213,
+            175,
+            146
+          ],
+          "ratio": 0.2944878472222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#dfcec3",
+          "rgb": [
+            223,
+            206,
+            195
+          ],
+          "ratio": 0.2781032986111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#3d3c3e",
+          "rgb": [
+            61,
+            60,
+            62
+          ],
+          "ratio": 0.2255859375,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#d8c6b9",
+          "rgb": [
+            216,
+            198,
+            185
+          ],
+          "ratio": 0.16373697916666666,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#9f8979",
+          "rgb": [
+            159,
+            137,
+            121
+          ],
+          "ratio": 0.0380859375,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-08-20T20:29:44.007Z",
+      "fileKey": "openverse:cd07122e-e79d-4a63-b609-ab89966f6f6d",
+      "kind": "photo",
+      "photographer": "barnesfoundation",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "c27d23de3dc39c79c7bc7ffff9ff07e0ffbf",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "d301fba1-b3ef-4efe-a1d8-d1d43f2780a2",
+      "title": "Portrait of a Woman, Probably Susanna Lunden (Susanna Fourment, 1599–1628)",
+      "titleEn": "Portrait of a Woman, Probably Susanna Lunden (Susanna Fourment, 1599–1628)",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/d301fba1-b3ef-4efe-a1d8-d1d43f2780a2.jpg",
+      "thumbUrl": "/stills/d301fba1-b3ef-4efe-a1d8-d1d43f2780a2.jpg",
+      "pageUrl": "https://www.metmuseum.org/art/collection/search/437531",
+      "author": "Peter Paul Rubens",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "black",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#17120f",
+          "rgb": [
+            23,
+            18,
+            15
+          ],
+          "ratio": 0.3893229166666667,
+          "bucket": "black"
+        },
+        {
+          "hex": "#251f18",
+          "rgb": [
+            37,
+            31,
+            24
+          ],
+          "ratio": 0.2680121527777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#403424",
+          "rgb": [
+            64,
+            52,
+            36
+          ],
+          "ratio": 0.21516927083333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#a08265",
+          "rgb": [
+            160,
+            130,
+            101
+          ],
+          "ratio": 0.10308159722222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#020101",
+          "rgb": [
+            2,
+            1,
+            1
+          ],
+          "ratio": 0.0244140625,
+          "bucket": "black"
+        }
+      ],
+      "addedAt": "2026-08-20T20:29:54.629Z",
+      "fileKey": "openverse:d4f935c9-aa9d-4ff8-a797-951989662fa3",
+      "kind": "photo",
+      "photographer": "Peter Paul Rubens",
+      "sourceLabel": "Met Museum",
+      "contentHash": "70e6606606604f03f076060060000403c000",
+      "category": "photo",
+      "people": "one",
+      "subjects": [
+        "portrait",
+        "people"
+      ]
+    },
+    {
+      "id": "4e7b1312-ec41-476c-bda1-fcd0e6d11592",
+      "title": "Grapes Peach Plate (Grappe de",
+      "titleEn": "Grapes Peach Plate (Grappe de",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/4e7b1312-ec41-476c-bda1-fcd0e6d11592.jpg",
+      "thumbUrl": "/stills/4e7b1312-ec41-476c-bda1-fcd0e6d11592.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/9265160/image-plant-art-vintage",
+      "author": "barnesfoundation",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "gray",
+        "brown",
+        "yellow",
+        "black"
+      ],
+      "palette": [
+        {
+          "hex": "#3d3f37",
+          "rgb": [
+            61,
+            63,
+            55
+          ],
+          "ratio": 0.3180338541666667,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#787f74",
+          "rgb": [
+            120,
+            127,
+            116
+          ],
+          "ratio": 0.21690538194444445,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#6c512f",
+          "rgb": [
+            108,
+            81,
+            47
+          ],
+          "ratio": 0.1986762152777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#242618",
+          "rgb": [
+            36,
+            38,
+            24
+          ],
+          "ratio": 0.1418185763888889,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#12130f",
+          "rgb": [
+            18,
+            19,
+            15
+          ],
+          "ratio": 0.12456597222222222,
+          "bucket": "black"
+        }
+      ],
+      "addedAt": "2026-08-20T20:29:58.807Z",
+      "fileKey": "openverse:d987a41a-c25f-4f85-9c48-b565f6d2ff33",
+      "kind": "photo",
+      "photographer": "barnesfoundation",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "01000000c00f00d00c80cf7ffffffcfc0ff4",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "46933b97-79a7-458f-b6c2-85673e141b98",
+      "title": "Tingletangle (1895) Edvard Munch",
+      "titleEn": "Tingletangle (1895) Edvard Munch",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/46933b97-79a7-458f-b6c2-85673e141b98.jpg",
+      "thumbUrl": "/stills/46933b97-79a7-458f-b6c2-85673e141b98.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/2055580/tingletangle-edvard-munch",
+      "author": "artinstitutechicago",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "yellow",
+        "orange",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#c0bba7",
+          "rgb": [
+            192,
+            187,
+            167
+          ],
+          "ratio": 0.3449435763888889,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#e6ded6",
+          "rgb": [
+            230,
+            222,
+            214
+          ],
+          "ratio": 0.2550998263888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#3b403a",
+          "rgb": [
+            59,
+            64,
+            58
+          ],
+          "ratio": 0.1882595486111111,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#8d8972",
+          "rgb": [
+            141,
+            137,
+            114
+          ],
+          "ratio": 0.1652560763888889,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#d64d10",
+          "rgb": [
+            214,
+            77,
+            16
+          ],
+          "ratio": 0.046440972222222224,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-08-20T20:30:00.617Z",
+      "fileKey": "openverse:0d1da3af-60cc-460b-adba-a53440d2417d",
+      "kind": "photo",
+      "photographer": "Tingletangle",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "ffffffffff7ff3f19f1060009399010007d0",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "c2828806-8c44-4dba-b0d6-a7f7f1df1afb",
+      "title": "Two Women Drinking Coffee (ca",
+      "titleEn": "Two Women Drinking Coffee (ca",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/c2828806-8c44-4dba-b0d6-a7f7f1df1afb.jpg",
+      "thumbUrl": "/stills/c2828806-8c44-4dba-b0d6-a7f7f1df1afb.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/8230309/image-art-vintage-public-domain",
+      "author": "nationalgalleryofart",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#6d5533",
+          "rgb": [
+            109,
+            85,
+            51
+          ],
+          "ratio": 0.3084852430555556,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#91714a",
+          "rgb": [
+            145,
+            113,
+            74
+          ],
+          "ratio": 0.1896701388888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#a1825e",
+          "rgb": [
+            161,
+            130,
+            94
+          ],
+          "ratio": 0.1879340277777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#b2a48c",
+          "rgb": [
+            178,
+            164,
+            140
+          ],
+          "ratio": 0.1640625,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#464132",
+          "rgb": [
+            70,
+            65,
+            50
+          ],
+          "ratio": 0.1498480902777778,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-08-20T20:30:02.531Z",
+      "fileKey": "openverse:36bb5864-0f51-4fb3-8363-84e4aa9bc089",
+      "kind": "photo",
+      "photographer": "nationalgalleryofart",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "00f19f78f70f787ff1ff0f80f00f00f80f80",
+      "category": "photo",
+      "people": "two",
+      "subjects": []
+    },
+    {
+      "id": "03e05f74-bc0c-4607-a7ee-0f0564a6ad65",
+      "title": "Bacchante Landscape (1865–1870) Camille Corot",
+      "titleEn": "Bacchante Landscape (1865–1870) Camille Corot",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/03e05f74-bc0c-4607-a7ee-0f0564a6ad65.jpg",
+      "thumbUrl": "/stills/03e05f74-bc0c-4607-a7ee-0f0564a6ad65.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/2515534/free-illustration-image-corot-oil-painting-landscape",
+      "author": "themet",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#48372b",
+          "rgb": [
+            72,
+            55,
+            43
+          ],
+          "ratio": 0.3266059027777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#836f4c",
+          "rgb": [
+            131,
+            111,
+            76
+          ],
+          "ratio": 0.23719618055555555,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#f4e3cb",
+          "rgb": [
+            244,
+            227,
+            203
+          ],
+          "ratio": 0.17588975694444445,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#bb9e76",
+          "rgb": [
+            187,
+            158,
+            118
+          ],
+          "ratio": 0.1340060763888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d9c9b6",
+          "rgb": [
+            217,
+            201,
+            182
+          ],
+          "ratio": 0.12630208333333334,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-08-20T20:30:31.642Z",
+      "fileKey": "openverse:1f3627e2-1599-4ebd-baee-c50aba21116b",
+      "kind": "photo",
+      "photographer": "Bacchante Landscape",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "ffcfc0fc1f8030001cc34ff2fe11c10cf000",
+      "category": "photo",
+      "people": "none",
+      "subjects": [
+        "landscape"
+      ]
+    },
+    {
+      "id": "d122725b-1be0-4415-bd7b-7a521fa27bbe",
+      "title": "Painting; Paintings",
+      "titleEn": "Painting; Paintings",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/d122725b-1be0-4415-bd7b-7a521fa27bbe.jpg",
+      "thumbUrl": "/stills/d122725b-1be0-4415-bd7b-7a521fa27bbe.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/7667115/painting-paintings",
+      "author": "rawpixel",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "yellow",
+        "black"
+      ],
+      "palette": [
+        {
+          "hex": "#241e14",
+          "rgb": [
+            36,
+            30,
+            20
+          ],
+          "ratio": 0.3008897569444444,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#433420",
+          "rgb": [
+            67,
+            52,
+            32
+          ],
+          "ratio": 0.2863498263888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#5a5847",
+          "rgb": [
+            90,
+            88,
+            71
+          ],
+          "ratio": 0.22916666666666666,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#977d53",
+          "rgb": [
+            151,
+            125,
+            83
+          ],
+          "ratio": 0.09678819444444445,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#070906",
+          "rgb": [
+            7,
+            9,
+            6
+          ],
+          "ratio": 0.08680555555555555,
+          "bucket": "black"
+        }
+      ],
+      "addedAt": "2026-08-20T20:30:33.985Z",
+      "fileKey": "openverse:0690fa63-1d5e-40e3-8551-cc57848cfc18",
+      "kind": "photo",
+      "photographer": "rawpixel",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "efeffeefef787186182183123d021000a002",
+      "category": "painting",
+      "subjects": []
+    },
+    {
+      "id": "96d1357e-055c-4ed8-98dc-e364213cf619",
+      "title": "William-Adolphe Bouguereau's Temptation (1880)",
+      "titleEn": "William-Adolphe Bouguereau's Temptation (1880)",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/96d1357e-055c-4ed8-98dc-e364213cf619.jpg",
+      "thumbUrl": "/stills/96d1357e-055c-4ed8-98dc-e364213cf619.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/8627566/image-frame-art-vintage",
+      "author": "rawpixel",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#c9ad7b",
+          "rgb": [
+            201,
+            173,
+            123
+          ],
+          "ratio": 0.2941623263888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#241f0e",
+          "rgb": [
+            36,
+            31,
+            14
+          ],
+          "ratio": 0.22493489583333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#50401a",
+          "rgb": [
+            80,
+            64,
+            26
+          ],
+          "ratio": 0.2175564236111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#e9e7e4",
+          "rgb": [
+            233,
+            231,
+            228
+          ],
+          "ratio": 0.15538194444444445,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#8c7146",
+          "rgb": [
+            140,
+            113,
+            70
+          ],
+          "ratio": 0.10796440972222222,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-08-20T20:30:36.403Z",
+      "fileKey": "openverse:17132e00-abe3-4618-915c-5db3e0dc37e9",
+      "kind": "photo",
+      "photographer": "William-Adolphe Bouguereau's Temptation",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "ffffff00700300300f62f421001001ffffff",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "7d74a7ac-3e7a-440e-af81-bccb11621040",
+      "title": "Woman Basket Eggs (La Femme",
+      "titleEn": "Woman Basket Eggs (La Femme",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/7d74a7ac-3e7a-440e-af81-bccb11621040.jpg",
+      "thumbUrl": "/stills/7d74a7ac-3e7a-440e-af81-bccb11621040.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/9265127/image-face-art-vintage",
+      "author": "barnesfoundation",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "orange",
+        "yellow",
+        "green",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#474b2c",
+          "rgb": [
+            71,
+            75,
+            44
+          ],
+          "ratio": 0.2289496527777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#313627",
+          "rgb": [
+            49,
+            54,
+            39
+          ],
+          "ratio": 0.2251519097222222,
+          "bucket": "green"
+        },
+        {
+          "hex": "#c2af91",
+          "rgb": [
+            194,
+            175,
+            145
+          ],
+          "ratio": 0.2211371527777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#6c6239",
+          "rgb": [
+            108,
+            98,
+            57
+          ],
+          "ratio": 0.1693793402777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#9e865f",
+          "rgb": [
+            158,
+            134,
+            95
+          ],
+          "ratio": 0.15538194444444445,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-08-20T20:30:39.162Z",
+      "fileKey": "openverse:ba69cf3f-9bdc-413a-a17e-d1e5fc833bca",
+      "kind": "photo",
+      "photographer": "barnesfoundation",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "0010010411511511f70631ff3ff31f39f1ff",
+      "category": "photo",
+      "subjects": [
+        "people"
+      ]
+    },
+    {
+      "id": "775f4b44-2be8-43b7-ba20-05b9182f69c7",
+      "title": "Head of Saint John the Evangelist",
+      "titleEn": "Head of Saint John the Evangelist",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/775f4b44-2be8-43b7-ba20-05b9182f69c7.jpg",
+      "thumbUrl": "/stills/775f4b44-2be8-43b7-ba20-05b9182f69c7.jpg",
+      "pageUrl": "https://www.metmuseum.org/art/collection/search/436705",
+      "author": "Jean Auguste Dominique Ingres",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "black",
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#21231f",
+          "rgb": [
+            33,
+            35,
+            31
+          ],
+          "ratio": 0.5780164930555556,
+          "bucket": "black"
+        },
+        {
+          "hex": "#b48c54",
+          "rgb": [
+            180,
+            140,
+            84
+          ],
+          "ratio": 0.13639322916666666,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#7f5028",
+          "rgb": [
+            127,
+            80,
+            40
+          ],
+          "ratio": 0.1318359375,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#493824",
+          "rgb": [
+            73,
+            56,
+            36
+          ],
+          "ratio": 0.13118489583333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#030303",
+          "rgb": [
+            3,
+            3,
+            3
+          ],
+          "ratio": 0.022569444444444444,
+          "bucket": "black"
+        }
+      ],
+      "addedAt": "2026-08-20T20:30:49.523Z",
+      "fileKey": "openverse:4f56f782-0d5b-4721-aa62-e284c2dfd547",
+      "kind": "photo",
+      "photographer": "Jean-Auguste-Dominique Ingres",
+      "sourceLabel": "Met Museum",
+      "contentHash": "0600f01f00f00e80f80f807207640660e61e",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "6183e864-4a8b-444e-bdaf-5795e557ebbc",
+      "title": "Francisco de Goya y Lucientes, The Fight with Cudgels, Duelo a garrotazos, 1820 - 1823",
+      "titleEn": "Francisco de Goya y Lucientes, The Fight with Cudgels, Duelo a garrotazos, 1820 - 1823",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/6183e864-4a8b-444e-bdaf-5795e557ebbc.jpg",
+      "thumbUrl": "/stills/6183e864-4a8b-444e-bdaf-5795e557ebbc.jpg",
+      "pageUrl": "https://www.flickr.com/photos/9453335@N02/53395369510",
+      "author": "Billy Quinn 1954",
+      "license": "PDM",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "buckets": [
+        "brown",
+        "green",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#2f2c19",
+          "rgb": [
+            47,
+            44,
+            25
+          ],
+          "ratio": 0.3063151041666667,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#8d8259",
+          "rgb": [
+            141,
+            130,
+            89
+          ],
+          "ratio": 0.2564019097222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#605731",
+          "rgb": [
+            96,
+            87,
+            49
+          ],
+          "ratio": 0.1867404513888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#658174",
+          "rgb": [
+            101,
+            129,
+            116
+          ],
+          "ratio": 0.1283637152777778,
+          "bucket": "green"
+        },
+        {
+          "hex": "#c2b794",
+          "rgb": [
+            194,
+            183,
+            148
+          ],
+          "ratio": 0.12217881944444445,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-08-20T20:30:53.206Z",
+      "fileKey": "openverse:d3d7b95a-ee60-40b4-af48-6cc8cf74daef",
+      "kind": "photo",
+      "photographer": "Francisco Goya",
+      "sourceLabel": "Flickr",
+      "contentHash": "fffffffff7ffcff47cf78f30000200000000",
+      "category": "painting",
+      "subjects": []
+    },
+    {
+      "id": "d746aa2b-df1e-48da-91a1-cd0d154c7876",
+      "title": "Salisbury Cathedral from the Bishop's Grounds",
+      "titleEn": "Salisbury Cathedral from the Bishop's Grounds",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/d746aa2b-df1e-48da-91a1-cd0d154c7876.jpg",
+      "thumbUrl": "/stills/d746aa2b-df1e-48da-91a1-cd0d154c7876.jpg",
+      "pageUrl": "https://www.metmuseum.org/art/collection/search/435922",
+      "author": "John Constable",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#8d8a82",
+          "rgb": [
+            141,
+            138,
+            130
+          ],
+          "ratio": 0.24305555555555555,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#5c4d32",
+          "rgb": [
+            92,
+            77,
+            50
+          ],
+          "ratio": 0.23036024305555555,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#423926",
+          "rgb": [
+            66,
+            57,
+            38
+          ],
+          "ratio": 0.22786458333333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#726c5a",
+          "rgb": [
+            114,
+            108,
+            90
+          ],
+          "ratio": 0.16883680555555555,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#2c261c",
+          "rgb": [
+            44,
+            38,
+            28
+          ],
+          "ratio": 0.1298828125,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-08-20T20:31:02.519Z",
+      "fileKey": "openverse:429143a0-0cd6-422a-a1c7-251dda3371de",
+      "kind": "photo",
+      "photographer": "John Constable",
+      "sourceLabel": "Met Museum",
+      "contentHash": "01f07b87c07e27e67e27e2fe07e03e000000",
+      "category": "photo",
+      "subjects": [
+        "architecture"
+      ]
+    },
+    {
+      "id": "62b7fa71-2b23-4357-af6c-c41b15bc3ec0",
+      "title": "Bath of Venus",
+      "titleEn": "Bath of Venus",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/62b7fa71-2b23-4357-af6c-c41b15bc3ec0.jpg",
+      "thumbUrl": "/stills/62b7fa71-2b23-4357-af6c-c41b15bc3ec0.jpg",
+      "pageUrl": "https://www.metmuseum.org/art/collection/search/340948",
+      "author": "Sir Edward Burne-Jones",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#7a5d4e",
+          "rgb": [
+            122,
+            93,
+            78
+          ],
+          "ratio": 0.3062065972222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#876854",
+          "rgb": [
+            135,
+            104,
+            84
+          ],
+          "ratio": 0.2951388888888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#6d5348",
+          "rgb": [
+            109,
+            83,
+            72
+          ],
+          "ratio": 0.2502170138888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#97785d",
+          "rgb": [
+            151,
+            120,
+            93
+          ],
+          "ratio": 0.12858072916666666,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#ccbfad",
+          "rgb": [
+            204,
+            191,
+            173
+          ],
+          "ratio": 0.019856770833333332,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-08-20T20:31:11.894Z",
+      "fileKey": "openverse:bb3b8223-caa8-4547-98ae-8e6f3228e626",
+      "kind": "photo",
+      "photographer": "Sir Edward Burne-Jones",
+      "sourceLabel": "Met Museum",
+      "contentHash": "0010059ffc1f87decde6da65065067867861",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "70856b14-0fdd-4135-aa34-413887eab1aa",
+      "title": "Ignacio Garcini y Queralt (1752–1825), Brigadier of Engineers",
+      "titleEn": "Ignacio Garcini y Queralt (1752–1825), Brigadier of Engineers",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/70856b14-0fdd-4135-aa34-413887eab1aa.jpg",
+      "thumbUrl": "/stills/70856b14-0fdd-4135-aa34-413887eab1aa.jpg",
+      "pageUrl": "https://www.metmuseum.org/art/collection/search/436542",
+      "author": "Goya (Francisco de Goya y Lucientes)",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#2d1e12",
+          "rgb": [
+            45,
+            30,
+            18
+          ],
+          "ratio": 0.3491753472222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#634022",
+          "rgb": [
+            99,
+            64,
+            34
+          ],
+          "ratio": 0.2660590277777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#896942",
+          "rgb": [
+            137,
+            105,
+            66
+          ],
+          "ratio": 0.1792534722222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#a99275",
+          "rgb": [
+            169,
+            146,
+            117
+          ],
+          "ratio": 0.1330295138888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d1c8af",
+          "rgb": [
+            209,
+            200,
+            175
+          ],
+          "ratio": 0.0724826388888889,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-08-20T20:31:23.685Z",
+      "fileKey": "openverse:ccc5d71f-9b49-4e52-9862-24937e253dac",
+      "kind": "photo",
+      "photographer": "Francisco Goya",
+      "sourceLabel": "Met Museum",
+      "contentHash": "e00c80c809ff3ff7fffbec20dfffff000000",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "90b247ad-7ea9-4f61-8df4-a1239cd66e44",
+      "title": "General Étienne-Maurice Gérard (1773–1852)",
+      "titleEn": "General Étienne-Maurice Gérard (1773–1852)",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/90b247ad-7ea9-4f61-8df4-a1239cd66e44.jpg",
+      "thumbUrl": "/stills/90b247ad-7ea9-4f61-8df4-a1239cd66e44.jpg",
+      "pageUrl": "https://www.metmuseum.org/art/collection/search/436107",
+      "author": "Jacques Louis David",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#5f3b1a",
+          "rgb": [
+            95,
+            59,
+            26
+          ],
+          "ratio": 0.2770182291666667,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#7a5b33",
+          "rgb": [
+            122,
+            91,
+            51
+          ],
+          "ratio": 0.2556423611111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#927e61",
+          "rgb": [
+            146,
+            126,
+            97
+          ],
+          "ratio": 0.19368489583333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#281c13",
+          "rgb": [
+            40,
+            28,
+            19
+          ],
+          "ratio": 0.16764322916666666,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#afa78e",
+          "rgb": [
+            175,
+            167,
+            142
+          ],
+          "ratio": 0.10601128472222222,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-08-20T20:31:34.020Z",
+      "fileKey": "openverse:beacb56f-beb0-4ce9-8afe-39d8ca46731d",
+      "kind": "photo",
+      "photographer": "General Étienne-Maurice Gérard",
+      "sourceLabel": "Met Museum",
+      "contentHash": "0c00c04c00df0ff1ff1ff7f47fffff000000",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "4f728cb0-aef6-4f2f-a4c0-ab98dcbac991",
+      "title": "Bison in winter (red bison) (1913) painting in high resolution by Franz Marc. Original from the Kunstmuseum Basel Museum. Digitally enhanced by rawpixel.",
+      "titleEn": "Bison in winter (red bison) (1913) painting in high resolution by Franz Marc. Original from the Kunstmuseum Basel Museum. Digitally enhanced by rawpixel.",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/4f728cb0-aef6-4f2f-a4c0-ab98dcbac991.jpg",
+      "thumbUrl": "/stills/4f728cb0-aef6-4f2f-a4c0-ab98dcbac991.jpg",
+      "pageUrl": "https://www.flickr.com/photos/153584064@N07/51927234063",
+      "author": "Free Public Domain Illustrations by rawpixel",
+      "license": "BY",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "buckets": [
+        "blue",
+        "gray",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#1c3442",
+          "rgb": [
+            28,
+            52,
+            66
+          ],
+          "ratio": 0.3576388888888889,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#8a99b2",
+          "rgb": [
+            138,
+            153,
+            178
+          ],
+          "ratio": 0.1791449652777778,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#c0c6cd",
+          "rgb": [
+            192,
+            198,
+            205
+          ],
+          "ratio": 0.1762152777777778,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#646871",
+          "rgb": [
+            100,
+            104,
+            113
+          ],
+          "ratio": 0.17122395833333334,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#943c23",
+          "rgb": [
+            148,
+            60,
+            35
+          ],
+          "ratio": 0.11577690972222222,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-08-20T20:31:37.315Z",
+      "fileKey": "openverse:9d60ac60-e52c-42d5-8874-6d54053880f3",
+      "kind": "photo",
+      "photographer": "Free Public Domain Illustrations by rawpixel",
+      "sourceLabel": "Flickr",
+      "contentHash": "803827827803001803f5bff1f79e1fe1f7fe",
+      "category": "painting",
+      "subjects": []
+    },
+    {
+      "id": "6cfa9eaf-5925-4445-88fe-7144f601e2f4",
+      "title": "Tulip Fields (1890–1922) painting in high resolution by Gerrit Willem Dijsselhof. Original from the Rijksmuseum. Digitally enhanced by rawpixel.",
+      "titleEn": "Tulip Fields (1890–1922) painting in high resolution by Gerrit Willem Dijsselhof. Original from the Rijksmuseum. Digitally enhanced by rawpixel.",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/6cfa9eaf-5925-4445-88fe-7144f601e2f4.jpg",
+      "thumbUrl": "/stills/6cfa9eaf-5925-4445-88fe-7144f601e2f4.jpg",
+      "pageUrl": "https://www.flickr.com/photos/153584064@N07/51915902140",
+      "author": "Free Public Domain Illustrations by rawpixel",
+      "license": "BY",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "buckets": [
+        "yellow",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#f4f4ef",
+          "rgb": [
+            244,
+            244,
+            239
+          ],
+          "ratio": 0.3023003472222222,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#7f6e2f",
+          "rgb": [
+            127,
+            110,
+            47
+          ],
+          "ratio": 0.1890190972222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#d5cdb2",
+          "rgb": [
+            213,
+            205,
+            178
+          ],
+          "ratio": 0.17469618055555555,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#e5e2cf",
+          "rgb": [
+            229,
+            226,
+            207
+          ],
+          "ratio": 0.1681857638888889,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#afac71",
+          "rgb": [
+            175,
+            172,
+            113
+          ],
+          "ratio": 0.1657986111111111,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-08-20T20:31:43.932Z",
+      "fileKey": "openverse:321eded2-4be2-4d39-a050-29297abe15a0",
+      "kind": "photo",
+      "photographer": "Tulip Fields",
+      "sourceLabel": "Flickr",
+      "contentHash": "ffffffffffff000ff8fffff8fbf000000000",
+      "category": "painting",
+      "subjects": []
+    },
+    {
+      "id": "28d64d46-4f03-4926-b3bc-5b7aab4f545e",
+      "title": "Petrus Scriverius (1576–1660)",
+      "titleEn": "Petrus Scriverius (1576–1660)",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/28d64d46-4f03-4926-b3bc-5b7aab4f545e.jpg",
+      "thumbUrl": "/stills/28d64d46-4f03-4926-b3bc-5b7aab4f545e.jpg",
+      "pageUrl": "https://www.metmuseum.org/art/collection/search/436619",
+      "author": "Frans Hals",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#603622",
+          "rgb": [
+            96,
+            54,
+            34
+          ],
+          "ratio": 0.4089626736111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#27201c",
+          "rgb": [
+            39,
+            32,
+            28
+          ],
+          "ratio": 0.2084418402777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#5f4b36",
+          "rgb": [
+            95,
+            75,
+            54
+          ],
+          "ratio": 0.20084635416666666,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#8b6b53",
+          "rgb": [
+            139,
+            107,
+            83
+          ],
+          "ratio": 0.09320746527777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#a38d7b",
+          "rgb": [
+            163,
+            141,
+            123
+          ],
+          "ratio": 0.08854166666666667,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-08-20T20:31:45.458Z",
+      "fileKey": "openverse:15ab1142-c0cc-496e-9aa5-4e8394ae3340",
+      "kind": "photo",
+      "photographer": "Petrus Scriverius",
+      "sourceLabel": "Met Museum",
+      "contentHash": "0000f81fc1fc3fc7f83f80f0000000000070",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "4d65894f-548d-4f49-a347-5fd623af7302",
+      "title": "Adoring Attendant from a Buddhist Shrine",
+      "titleEn": "Adoring Attendant from a Buddhist Shrine",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/4d65894f-548d-4f49-a347-5fd623af7302.jpg",
+      "thumbUrl": "/stills/4d65894f-548d-4f49-a347-5fd623af7302.jpg",
+      "pageUrl": "https://clevelandart.org/art/1943.395",
+      "author": "clevelandmuseum",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "gray",
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#acabaa",
+          "rgb": [
+            172,
+            171,
+            170
+          ],
+          "ratio": 0.3288845486111111,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#9c8a7b",
+          "rgb": [
+            156,
+            138,
+            123
+          ],
+          "ratio": 0.2228732638888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#4c4239",
+          "rgb": [
+            76,
+            66,
+            57
+          ],
+          "ratio": 0.1830512152777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#666666",
+          "rgb": [
+            102,
+            102,
+            102
+          ],
+          "ratio": 0.1650390625,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#826347",
+          "rgb": [
+            130,
+            99,
+            71
+          ],
+          "ratio": 0.10015190972222222,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-08-20T20:31:47.415Z",
+      "fileKey": "openverse:98f6d77a-b361-497a-be99-729dbe5d191f",
+      "kind": "photo",
+      "photographer": "clevelandmuseum",
+      "sourceLabel": "Cleveland Museum",
+      "contentHash": "0200200000d0f67f1fe1ff0ff6ff0ff0ff0f",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "640eca74-35f9-4a07-98ec-7cbbe5c8a00f",
+      "title": "side chair oval ribbon back",
+      "titleEn": "side chair oval ribbon back",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/640eca74-35f9-4a07-98ec-7cbbe5c8a00f.jpg",
+      "thumbUrl": "/stills/640eca74-35f9-4a07-98ec-7cbbe5c8a00f.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/7476026/image-wood-furniture-public-domain",
+      "author": "rawpixel",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "green",
+        "brown",
+        "orange",
+        "red"
+      ],
+      "palette": [
+        {
+          "hex": "#eaf3ee",
+          "rgb": [
+            234,
+            243,
+            238
+          ],
+          "ratio": 0.4624565972222222,
+          "bucket": "green"
+        },
+        {
+          "hex": "#694532",
+          "rgb": [
+            105,
+            69,
+            50
+          ],
+          "ratio": 0.2549913194444444,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#927869",
+          "rgb": [
+            146,
+            120,
+            105
+          ],
+          "ratio": 0.12163628472222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#bfada8",
+          "rgb": [
+            191,
+            173,
+            168
+          ],
+          "ratio": 0.09526909722222222,
+          "bucket": "red"
+        },
+        {
+          "hex": "#e0e8e1",
+          "rgb": [
+            224,
+            232,
+            225
+          ],
+          "ratio": 0.0656467013888889,
+          "bucket": "green"
+        }
+      ],
+      "addedAt": "2026-08-20T20:31:49.509Z",
+      "fileKey": "openverse:6c8bf9fd-b4cc-43cf-9d20-0abb2d20a390",
+      "kind": "photo",
+      "photographer": "rawpixel",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "fd5fa5fadfd9f81fa7c01801803203b8bb89",
+      "category": "photo",
+      "subjects": [
+        "design"
+      ]
+    },
+    {
+      "id": "339ae0b9-4909-4951-ba36-a14036553208",
+      "title": "Cottage Hill Jacob van Ruisdael",
+      "titleEn": "Cottage Hill Jacob van Ruisdael",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/339ae0b9-4909-4951-ba36-a14036553208.jpg",
+      "thumbUrl": "/stills/339ae0b9-4909-4951-ba36-a14036553208.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/10008229/cottage-hill-jacob-van-ruisdael",
+      "author": "rawpixel",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#716559",
+          "rgb": [
+            113,
+            101,
+            89
+          ],
+          "ratio": 0.2889539930555556,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#8a7c6d",
+          "rgb": [
+            138,
+            124,
+            109
+          ],
+          "ratio": 0.21451822916666666,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#594e46",
+          "rgb": [
+            89,
+            78,
+            70
+          ],
+          "ratio": 0.1921657986111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#a89884",
+          "rgb": [
+            168,
+            152,
+            132
+          ],
+          "ratio": 0.17274305555555555,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#c5b49c",
+          "rgb": [
+            197,
+            180,
+            156
+          ],
+          "ratio": 0.1316189236111111,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-08-20T20:31:51.413Z",
+      "fileKey": "openverse:db97ad65-6ad7-49e1-9221-262d832d1f39",
+      "kind": "photo",
+      "photographer": "rawpixel",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "fff80f80700fe0349149c03d42f00f00fffc",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "ec7d4e46-c1ab-4d13-9a31-e427341505bd",
+      "title": "Condesa de Altamira and Her Daughter, María Agustina",
+      "titleEn": "Condesa de Altamira and Her Daughter, María Agustina",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/ec7d4e46-c1ab-4d13-9a31-e427341505bd.jpg",
+      "thumbUrl": "/stills/ec7d4e46-c1ab-4d13-9a31-e427341505bd.jpg",
+      "pageUrl": "https://www.metmuseum.org/art/collection/search/459090",
+      "author": "Goya (Francisco de Goya y Lucientes)",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "yellow",
+        "gray",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#5b5242",
+          "rgb": [
+            91,
+            82,
+            66
+          ],
+          "ratio": 0.2928602430555556,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#2c2b24",
+          "rgb": [
+            44,
+            43,
+            36
+          ],
+          "ratio": 0.22330729166666666,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#8e8278",
+          "rgb": [
+            142,
+            130,
+            120
+          ],
+          "ratio": 0.19401041666666666,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#7c6c61",
+          "rgb": [
+            124,
+            108,
+            97
+          ],
+          "ratio": 0.17805989583333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#ae9a8e",
+          "rgb": [
+            174,
+            154,
+            142
+          ],
+          "ratio": 0.11176215277777778,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-08-20T20:31:55.344Z",
+      "fileKey": "openverse:984e9c15-7ad6-4021-8dcf-7f77bbe36262",
+      "kind": "photo",
+      "photographer": "Francisco Goya",
+      "sourceLabel": "Met Museum",
+      "contentHash": "0004c00800803f03f07f8ff8ff87f8ffcffc",
+      "category": "photo",
+      "subjects": [
+        "ancient"
+      ]
+    },
+    {
+      "id": "55985769-cc85-4b3d-9212-18adb637d99d",
+      "title": "William-Adolphe Bouguereau - Amour L'affut",
+      "titleEn": "William-Adolphe Bouguereau - Amour L'affut",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/55985769-cc85-4b3d-9212-18adb637d99d.jpg",
+      "thumbUrl": "/stills/55985769-cc85-4b3d-9212-18adb637d99d.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/9976375/william-adolphe-bouguereau-amour-laffut",
+      "author": "rawpixel",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "black",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#19110f",
+          "rgb": [
+            25,
+            17,
+            15
+          ],
+          "ratio": 0.2770182291666667,
+          "bucket": "black"
+        },
+        {
+          "hex": "#3d2e23",
+          "rgb": [
+            61,
+            46,
+            35
+          ],
+          "ratio": 0.2709418402777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#654f42",
+          "rgb": [
+            101,
+            79,
+            66
+          ],
+          "ratio": 0.18250868055555555,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#978679",
+          "rgb": [
+            151,
+            134,
+            121
+          ],
+          "ratio": 0.158203125,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#cfc2ac",
+          "rgb": [
+            207,
+            194,
+            172
+          ],
+          "ratio": 0.111328125,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-08-20T20:31:58.238Z",
+      "fileKey": "openverse:b53680cb-f0c2-4647-b7ef-9d4256276527",
+      "kind": "photo",
+      "photographer": "rawpixel",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "20c1381f80f80f01f01f01f83ef0cb003100",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "298777b6-deeb-461c-97be-0b2a04969f97",
+      "title": "Alexandre Cabanel - Portrait of an Arab [Www.Etoile.App]",
+      "titleEn": "Alexandre Cabanel - Portrait of an Arab [Www.Etoile.App]",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/298777b6-deeb-461c-97be-0b2a04969f97.jpg",
+      "thumbUrl": "/stills/298777b6-deeb-461c-97be-0b2a04969f97.jpg",
+      "pageUrl": "https://www.flickr.com/photos/156182786@N06/52539427347",
+      "author": "eXploration Etoile",
+      "license": "PDM",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "buckets": [
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#77664b",
+          "rgb": [
+            119,
+            102,
+            75
+          ],
+          "ratio": 0.4557291666666667,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#c8b497",
+          "rgb": [
+            200,
+            180,
+            151
+          ],
+          "ratio": 0.1996527777777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#592d18",
+          "rgb": [
+            89,
+            45,
+            24
+          ],
+          "ratio": 0.15950520833333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#a98c67",
+          "rgb": [
+            169,
+            140,
+            103
+          ],
+          "ratio": 0.11338975694444445,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#ebdbcb",
+          "rgb": [
+            235,
+            219,
+            203
+          ],
+          "ratio": 0.07172309027777778,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-08-20T20:31:59.708Z",
+      "fileKey": "openverse:5131771c-82ce-440b-9473-0bebeab7ee36",
+      "kind": "photo",
+      "photographer": "eXploration Etoile",
+      "sourceLabel": "Flickr",
+      "contentHash": "0800000003807884d80dc9de3fe3ff1fc47c",
+      "category": "photo",
+      "people": "one",
+      "subjects": [
+        "portrait"
+      ]
+    },
+    {
+      "id": "e5bb828a-0613-4fd1-a757-4967890a0f76",
+      "title": "Mary Cassatt (1844–1926), On a Balcony, c. 1878–1879",
+      "titleEn": "Mary Cassatt (1844–1926), On a Balcony, c. 1878–1879",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/e5bb828a-0613-4fd1-a757-4967890a0f76.jpg",
+      "thumbUrl": "/stills/e5bb828a-0613-4fd1-a757-4967890a0f76.jpg",
+      "pageUrl": "https://www.flickr.com/photos/36417567@N03/51646488967",
+      "author": "Tulip Hysteria / Go to albums",
+      "license": "PDM",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "buckets": [
+        "gray",
+        "green",
+        "cyan"
+      ],
+      "palette": [
+        {
+          "hex": "#a1b1aa",
+          "rgb": [
+            161,
+            177,
+            170
+          ],
+          "ratio": 0.2649739583333333,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#537062",
+          "rgb": [
+            83,
+            112,
+            98
+          ],
+          "ratio": 0.2294921875,
+          "bucket": "green"
+        },
+        {
+          "hex": "#749a96",
+          "rgb": [
+            116,
+            154,
+            150
+          ],
+          "ratio": 0.1872829861111111,
+          "bucket": "cyan"
+        },
+        {
+          "hex": "#8a8772",
+          "rgb": [
+            138,
+            135,
+            114
+          ],
+          "ratio": 0.17350260416666666,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#c4c9b9",
+          "rgb": [
+            196,
+            201,
+            185
+          ],
+          "ratio": 0.1447482638888889,
+          "bucket": "green"
+        }
+      ],
+      "addedAt": "2026-08-20T20:32:01.189Z",
+      "fileKey": "openverse:279ce270-a666-408d-8046-3d6bd4882138",
+      "kind": "photo",
+      "photographer": "Mary Cassatt",
+      "sourceLabel": "Flickr",
+      "contentHash": "0600304947d07e07c0f80bb01f80fe1ff0ff",
+      "category": "painting",
+      "subjects": []
+    },
+    {
+      "id": "c82ace17-3fa9-4940-bb76-cd56b3752cf0",
+      "title": "Sahurs Meadows in Morning Sun",
+      "titleEn": "Sahurs Meadows in Morning Sun",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/c82ace17-3fa9-4940-bb76-cd56b3752cf0.jpg",
+      "thumbUrl": "/stills/c82ace17-3fa9-4940-bb76-cd56b3752cf0.jpg",
+      "pageUrl": "https://www.metmuseum.org/art/collection/search/437683",
+      "author": "Alfred Sisley",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "green",
+        "cyan",
+        "blue",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#8aa3a6",
+          "rgb": [
+            138,
+            163,
+            166
+          ],
+          "ratio": 0.2783203125,
+          "bucket": "cyan"
+        },
+        {
+          "hex": "#455e4b",
+          "rgb": [
+            69,
+            94,
+            75
+          ],
+          "ratio": 0.2414279513888889,
+          "bucket": "green"
+        },
+        {
+          "hex": "#618699",
+          "rgb": [
+            97,
+            134,
+            153
+          ],
+          "ratio": 0.19889322916666666,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#ab986d",
+          "rgb": [
+            171,
+            152,
+            109
+          ],
+          "ratio": 0.1730685763888889,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#15231d",
+          "rgb": [
+            21,
+            35,
+            29
+          ],
+          "ratio": 0.10828993055555555,
+          "bucket": "green"
+        }
+      ],
+      "addedAt": "2026-08-20T20:32:03.568Z",
+      "fileKey": "openverse:81b08c43-eb14-47cb-9efc-abc633d4c6b4",
+      "kind": "photo",
+      "photographer": "Alfred Sisley",
+      "sourceLabel": "Met Museum",
+      "contentHash": "0007ff3ff3ff7ff2ff0fd00007f03f0ff000",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "8bfa804b-56e3-40f4-865f-987b1eac5696",
+      "title": "James Abbott McNeill Whistler (1834–1903), Nocturne in Blue and Silver, c. 1871–1872",
+      "titleEn": "James Abbott McNeill Whistler (1834–1903), Nocturne in Blue and Silver, c. 1871–1872",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/8bfa804b-56e3-40f4-865f-987b1eac5696.jpg",
+      "thumbUrl": "/stills/8bfa804b-56e3-40f4-865f-987b1eac5696.jpg",
+      "pageUrl": "https://www.flickr.com/photos/36417567@N03/51706554867",
+      "author": "Tulip Hysteria / Go to albums",
+      "license": "PDM",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "buckets": [
+        "cyan",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#97b8c0",
+          "rgb": [
+            151,
+            184,
+            192
+          ],
+          "ratio": 0.3442925347222222,
+          "bucket": "cyan"
+        },
+        {
+          "hex": "#7d9ca5",
+          "rgb": [
+            125,
+            156,
+            165
+          ],
+          "ratio": 0.2996961805555556,
+          "bucket": "cyan"
+        },
+        {
+          "hex": "#87aab3",
+          "rgb": [
+            135,
+            170,
+            179
+          ],
+          "ratio": 0.20963541666666666,
+          "bucket": "cyan"
+        },
+        {
+          "hex": "#71868a",
+          "rgb": [
+            113,
+            134,
+            138
+          ],
+          "ratio": 0.1273871527777778,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#4c4e49",
+          "rgb": [
+            76,
+            78,
+            73
+          ],
+          "ratio": 0.018988715277777776,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-08-20T20:32:04.709Z",
+      "fileKey": "openverse:0e4a3ed8-f3fe-4157-9e00-f05d30b720fc",
+      "kind": "photo",
+      "photographer": "James McNeill Whistler",
+      "sourceLabel": "Flickr",
+      "contentHash": "7fcfff03f03f1ff3ff3ff1fe000000000000",
+      "category": "painting",
+      "subjects": [
+        "night"
+      ]
+    },
+    {
+      "id": "a4934fba-0549-4e24-abab-0d0112fd634a",
+      "title": "Feast Peleus painting high resolution",
+      "titleEn": "Feast Peleus painting high resolution",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/a4934fba-0549-4e24-abab-0d0112fd634a.jpg",
+      "thumbUrl": "/stills/a4934fba-0549-4e24-abab-0d0112fd634a.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/3827682/illustration-image-art-wedding",
+      "author": "rawpixel",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "gray",
+        "brown",
+        "orange",
+        "blue"
+      ],
+      "palette": [
+        {
+          "hex": "#3e3938",
+          "rgb": [
+            62,
+            57,
+            56
+          ],
+          "ratio": 0.3203125,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#a4684f",
+          "rgb": [
+            164,
+            104,
+            79
+          ],
+          "ratio": 0.2889539930555556,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#dab295",
+          "rgb": [
+            218,
+            178,
+            149
+          ],
+          "ratio": 0.2300347222222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#368ab1",
+          "rgb": [
+            54,
+            138,
+            177
+          ],
+          "ratio": 0.10145399305555555,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#a9d1de",
+          "rgb": [
+            169,
+            209,
+            222
+          ],
+          "ratio": 0.059244791666666664,
+          "bucket": "cyan"
+        }
+      ],
+      "addedAt": "2026-08-20T20:32:10.345Z",
+      "fileKey": "openverse:b464d6da-a8f0-47b9-99bf-fa35aa83ef1d",
+      "kind": "photo",
+      "photographer": "rawpixel",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "f3ffeefc3e9ecdcfcbff0f99c38c10c00000",
+      "category": "painting",
+      "subjects": []
+    },
+    {
+      "id": "9371c5b9-9ced-4bc4-9581-a558caa8890f",
+      "title": "Alexandre Cabanel - Ruth Glanant [Www.Etoile.App]",
+      "titleEn": "Alexandre Cabanel - Ruth Glanant [Www.Etoile.App]",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/9371c5b9-9ced-4bc4-9581-a558caa8890f.jpg",
+      "thumbUrl": "/stills/9371c5b9-9ced-4bc4-9581-a558caa8890f.jpg",
+      "pageUrl": "https://www.flickr.com/photos/156182786@N06/52540189804",
+      "author": "eXploration Etoile",
+      "license": "PDM",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "buckets": [
+        "brown",
+        "orange",
+        "yellow",
+        "blue"
+      ],
+      "palette": [
+        {
+          "hex": "#baa278",
+          "rgb": [
+            186,
+            162,
+            120
+          ],
+          "ratio": 0.2503255208333333,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#8c7958",
+          "rgb": [
+            140,
+            121,
+            88
+          ],
+          "ratio": 0.20572916666666666,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#e4cc93",
+          "rgb": [
+            228,
+            204,
+            147
+          ],
+          "ratio": 0.19303385416666666,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#1a1927",
+          "rgb": [
+            26,
+            25,
+            39
+          ],
+          "ratio": 0.1919487847222222,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#5b4b3e",
+          "rgb": [
+            91,
+            75,
+            62
+          ],
+          "ratio": 0.1589626736111111,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-08-20T20:32:14.291Z",
+      "fileKey": "openverse:86f2ba66-c278-43a4-ac3d-e8b6e43a17af",
+      "kind": "photo",
+      "photographer": "eXploration Etoile",
+      "sourceLabel": "Flickr",
+      "contentHash": "7ff7fff3ff1ff7ff6fe0fe07420020000000",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "cdee4ce8-7ec8-4fc0-b5f8-c26c404d6625",
+      "title": "Man Bathing (1899) Edvard Munch",
+      "titleEn": "Man Bathing (1899) Edvard Munch",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/cdee4ce8-7ec8-4fc0-b5f8-c26c404d6625.jpg",
+      "thumbUrl": "/stills/cdee4ce8-7ec8-4fc0-b5f8-c26c404d6625.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/2043771/man-bathing-edvard-munch",
+      "author": "artinstitutechicago",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "green",
+        "cyan"
+      ],
+      "palette": [
+        {
+          "hex": "#92b1a7",
+          "rgb": [
+            146,
+            177,
+            167
+          ],
+          "ratio": 0.3332248263888889,
+          "bucket": "green"
+        },
+        {
+          "hex": "#c9ccbd",
+          "rgb": [
+            201,
+            204,
+            189
+          ],
+          "ratio": 0.2173394097222222,
+          "bucket": "green"
+        },
+        {
+          "hex": "#799476",
+          "rgb": [
+            121,
+            148,
+            118
+          ],
+          "ratio": 0.21028645833333334,
+          "bucket": "green"
+        },
+        {
+          "hex": "#2a7f9e",
+          "rgb": [
+            42,
+            127,
+            158
+          ],
+          "ratio": 0.20496961805555555,
+          "bucket": "cyan"
+        },
+        {
+          "hex": "#dea577",
+          "rgb": [
+            222,
+            165,
+            119
+          ],
+          "ratio": 0.0341796875,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-08-20T20:32:19.404Z",
+      "fileKey": "openverse:4d5505a8-43fe-4ff8-9e10-2084f731a010",
+      "kind": "photo",
+      "photographer": "Man Bathing",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "801000000879fffffffffdfd9f99e1801fff",
+      "category": "photo",
+      "subjects": [
+        "people"
+      ]
+    },
+    {
+      "id": "f275f03f-57b3-42ea-8181-eb8200a88450",
+      "title": "Baby (Cradle) (ca. 1917–1918) Gustav",
+      "titleEn": "Baby (Cradle) (ca. 1917–1918) Gustav",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/f275f03f-57b3-42ea-8181-eb8200a88450.jpg",
+      "thumbUrl": "/stills/f275f03f-57b3-42ea-8181-eb8200a88450.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/2045774/baby-cradle-gustav-klimt",
+      "author": "nationalgalleryofart",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "green",
+        "cyan",
+        "yellow",
+        "blue",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#a8b89e",
+          "rgb": [
+            168,
+            184,
+            158
+          ],
+          "ratio": 0.3305121527777778,
+          "bucket": "green"
+        },
+        {
+          "hex": "#628e90",
+          "rgb": [
+            98,
+            142,
+            144
+          ],
+          "ratio": 0.2177734375,
+          "bucket": "cyan"
+        },
+        {
+          "hex": "#dfd9ca",
+          "rgb": [
+            223,
+            217,
+            202
+          ],
+          "ratio": 0.19759114583333334,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#364469",
+          "rgb": [
+            54,
+            68,
+            105
+          ],
+          "ratio": 0.15538194444444445,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#e0a363",
+          "rgb": [
+            224,
+            163,
+            99
+          ],
+          "ratio": 0.09874131944444445,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-08-20T20:32:30.239Z",
+      "fileKey": "openverse:0a151c68-b8ba-41f3-99bd-62321b0604e2",
+      "kind": "photo",
+      "photographer": "nationalgalleryofart",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "fffffff47ce7c839cf3c03e91e01c30c3000",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "5ff445ac-dbed-4bda-991d-0c61166e5a81",
+      "title": "Cover 'Au pied du Sinaï'",
+      "titleEn": "Cover 'Au pied du Sinaï'",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/5ff445ac-dbed-4bda-991d-0c61166e5a81.jpg",
+      "thumbUrl": "/stills/5ff445ac-dbed-4bda-991d-0c61166e5a81.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/10052870/cover-for-au-pied-sinai-1898-henri-toulouse-lautrec",
+      "author": "rawpixel",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#e8c074",
+          "rgb": [
+            232,
+            192,
+            116
+          ],
+          "ratio": 0.3702256944444444,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d2ae72",
+          "rgb": [
+            210,
+            174,
+            114
+          ],
+          "ratio": 0.23426649305555555,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#b29368",
+          "rgb": [
+            178,
+            147,
+            104
+          ],
+          "ratio": 0.1899956597222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#7c674f",
+          "rgb": [
+            124,
+            103,
+            79
+          ],
+          "ratio": 0.1400824652777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#eed19e",
+          "rgb": [
+            238,
+            209,
+            158
+          ],
+          "ratio": 0.0654296875,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-08-20T20:32:31.535Z",
+      "fileKey": "openverse:6e5a607b-0e6c-4130-98a2-87154ffae1ec",
+      "kind": "photo",
+      "photographer": "rawpixel",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "fffffeffcffcfe8ff8ff0fe000000700703f",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "29870568-3f8a-4ab9-9c45-85d1b8a572b9",
+      "title": "THE LOUVRE - The Coronation of Napoleon by Jacques-Louis David",
+      "titleEn": "THE LOUVRE - The Coronation of Napoleon by Jacques-Louis David",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/29870568-3f8a-4ab9-9c45-85d1b8a572b9.jpg",
+      "thumbUrl": "/stills/29870568-3f8a-4ab9-9c45-85d1b8a572b9.jpg",
+      "pageUrl": "https://www.flickr.com/photos/84114447@N04/52455981471",
+      "author": "Canon 1955",
+      "license": "PDM",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "buckets": [
+        "brown",
+        "orange",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#6c543d",
+          "rgb": [
+            108,
+            84,
+            61
+          ],
+          "ratio": 0.2561848958333333,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#837253",
+          "rgb": [
+            131,
+            114,
+            83
+          ],
+          "ratio": 0.24891493055555555,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#ad9367",
+          "rgb": [
+            173,
+            147,
+            103
+          ],
+          "ratio": 0.1931423611111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#493e31",
+          "rgb": [
+            73,
+            62,
+            49
+          ],
+          "ratio": 0.15852864583333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#c0b59a",
+          "rgb": [
+            192,
+            181,
+            154
+          ],
+          "ratio": 0.14322916666666666,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-08-20T20:32:33.355Z",
+      "fileKey": "openverse:4fd89459-4546-4eab-9e83-dfc2ad45f1b2",
+      "kind": "photo",
+      "photographer": "Canon 1955",
+      "sourceLabel": "Flickr",
+      "contentHash": "ffffdfc8f08f0840d81f0000100400fe001f",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "33c2409e-9328-4db1-bbf3-0282b4440f7a",
+      "title": "Frans Francken I (1542–1616)",
+      "titleEn": "Frans Francken I (1542–1616)",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/33c2409e-9328-4db1-bbf3-0282b4440f7a.jpg",
+      "thumbUrl": "/stills/33c2409e-9328-4db1-bbf3-0282b4440f7a.jpg",
+      "pageUrl": "https://www.metmuseum.org/art/collection/search/437540",
+      "author": "Peter Paul Rubens",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#1c1612",
+          "rgb": [
+            28,
+            22,
+            18
+          ],
+          "ratio": 0.4946831597222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#281f17",
+          "rgb": [
+            40,
+            31,
+            23
+          ],
+          "ratio": 0.2719184027777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#c8a470",
+          "rgb": [
+            200,
+            164,
+            112
+          ],
+          "ratio": 0.08648003472222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#4e3621",
+          "rgb": [
+            78,
+            54,
+            33
+          ],
+          "ratio": 0.07530381944444445,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#886239",
+          "rgb": [
+            136,
+            98,
+            57
+          ],
+          "ratio": 0.07161458333333333,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-08-20T20:32:36.418Z",
+      "fileKey": "openverse:accd06ca-fe0c-4026-99e0-e4dfaf51aeb5",
+      "kind": "photo",
+      "photographer": "Peter Paul Rubens",
+      "sourceLabel": "Met Museum",
+      "contentHash": "0600f00f00f00f00e81f81d80000000200f0",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "109094b8-07a9-4c50-8e9b-048da05e18cb",
+      "title": "El Greco (Doménikos Theotokópoulos) (1541–1614), Christ on the Cross, c. 1600–1610",
+      "titleEn": "El Greco (Doménikos Theotokópoulos) (1541–1614), Christ on the Cross, c. 1600–1610",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/109094b8-07a9-4c50-8e9b-048da05e18cb.jpg",
+      "thumbUrl": "/stills/109094b8-07a9-4c50-8e9b-048da05e18cb.jpg",
+      "pageUrl": "https://www.flickr.com/photos/36417567@N03/51724102080",
+      "author": "Tulip Hysteria / Go to albums",
+      "license": "PDM",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "buckets": [
+        "black",
+        "gray",
+        "green"
+      ],
+      "palette": [
+        {
+          "hex": "#2a2b25",
+          "rgb": [
+            42,
+            43,
+            37
+          ],
+          "ratio": 0.3955078125,
+          "bucket": "black"
+        },
+        {
+          "hex": "#20201b",
+          "rgb": [
+            32,
+            32,
+            27
+          ],
+          "ratio": 0.22721354166666666,
+          "bucket": "black"
+        },
+        {
+          "hex": "#3e3f34",
+          "rgb": [
+            62,
+            63,
+            52
+          ],
+          "ratio": 0.18098958333333334,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#616551",
+          "rgb": [
+            97,
+            101,
+            81
+          ],
+          "ratio": 0.13216145833333334,
+          "bucket": "green"
+        },
+        {
+          "hex": "#bda67f",
+          "rgb": [
+            189,
+            166,
+            127
+          ],
+          "ratio": 0.06412760416666667,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-08-20T20:32:37.450Z",
+      "fileKey": "openverse:bf670da6-6824-481a-b289-9d61e1ce1103",
+      "kind": "photo",
+      "photographer": "El Greco",
+      "sourceLabel": "Flickr",
+      "contentHash": "063867ce76e72e3060061c60660228a00c00",
+      "category": "painting",
+      "subjects": []
+    },
+    {
+      "id": "10c9b9c6-f70b-4cbc-a21c-079d1ff9eba6",
+      "title": "Filippo Archinto (born about 1500, died 1558), Archbishop of Milan",
+      "titleEn": "Filippo Archinto (born about 1500, died 1558), Archbishop of Milan",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/10c9b9c6-f70b-4cbc-a21c-079d1ff9eba6.jpg",
+      "thumbUrl": "/stills/10c9b9c6-f70b-4cbc-a21c-079d1ff9eba6.jpg",
+      "pageUrl": "https://www.metmuseum.org/art/collection/search/437823",
+      "author": "Titian (Tiziano Vecellio)",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "gray",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#9a7d4e",
+          "rgb": [
+            154,
+            125,
+            78
+          ],
+          "ratio": 0.3436414930555556,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#795631",
+          "rgb": [
+            121,
+            86,
+            49
+          ],
+          "ratio": 0.2478298611111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#4e4840",
+          "rgb": [
+            78,
+            72,
+            64
+          ],
+          "ratio": 0.1379123263888889,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#b9a67e",
+          "rgb": [
+            185,
+            166,
+            126
+          ],
+          "ratio": 0.13606770833333334,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#221a14",
+          "rgb": [
+            34,
+            26,
+            20
+          ],
+          "ratio": 0.1345486111111111,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-08-20T20:32:43.318Z",
+      "fileKey": "openverse:bf67cb00-5189-4327-bbd5-473b855cb14e",
+      "kind": "photo",
+      "photographer": "Titian",
+      "sourceLabel": "Met Museum",
+      "contentHash": "7b07b07f87bf7bf3bf7bf3bf7fa3e43c0200",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "43d326f1-70a6-4dc7-9fcd-a4a9df6d5f34",
+      "title": "Mary Cassatt Louvre: Paintings Gallery",
+      "titleEn": "Mary Cassatt Louvre: Paintings Gallery",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/43d326f1-70a6-4dc7-9fcd-a4a9df6d5f34.jpg",
+      "thumbUrl": "/stills/43d326f1-70a6-4dc7-9fcd-a4a9df6d5f34.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/7482664/mary-cassatt-the-louvre-the-paintings-gallery",
+      "author": "rawpixel",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "orange",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#ad9e84",
+          "rgb": [
+            173,
+            158,
+            132
+          ],
+          "ratio": 0.24348958333333334,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#8d8569",
+          "rgb": [
+            141,
+            133,
+            105
+          ],
+          "ratio": 0.23133680555555555,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#c8b49e",
+          "rgb": [
+            200,
+            180,
+            158
+          ],
+          "ratio": 0.2035590277777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#676950",
+          "rgb": [
+            103,
+            105,
+            80
+          ],
+          "ratio": 0.17610677083333334,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#efdbca",
+          "rgb": [
+            239,
+            219,
+            202
+          ],
+          "ratio": 0.1455078125,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-08-20T20:32:45.603Z",
+      "fileKey": "openverse:4b6faa03-158f-4244-b86e-1eb7da660e27",
+      "kind": "photo",
+      "photographer": "Mary Cassatt",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "807a0780785785f81f90f81f80da07a07807",
+      "category": "painting",
+      "subjects": [
+        "interior"
+      ]
+    },
+    {
+      "id": "a7b735ca-0a28-4f2a-b5d9-2b8ddf49e993",
+      "title": "Study Nude Man, attributed Gustave",
+      "titleEn": "Study Nude Man, attributed Gustave",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/a7b735ca-0a28-4f2a-b5d9-2b8ddf49e993.jpg",
+      "thumbUrl": "/stills/a7b735ca-0a28-4f2a-b5d9-2b8ddf49e993.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/9186301/image-male-nude-man-gustave-courbet",
+      "author": "themet",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "black"
+      ],
+      "palette": [
+        {
+          "hex": "#422615",
+          "rgb": [
+            66,
+            38,
+            21
+          ],
+          "ratio": 0.4271918402777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#1e100a",
+          "rgb": [
+            30,
+            16,
+            10
+          ],
+          "ratio": 0.2900390625,
+          "bucket": "black"
+        },
+        {
+          "hex": "#5a3c27",
+          "rgb": [
+            90,
+            60,
+            39
+          ],
+          "ratio": 0.14561631944444445,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#805d43",
+          "rgb": [
+            128,
+            93,
+            67
+          ],
+          "ratio": 0.06890190972222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#a78363",
+          "rgb": [
+            167,
+            131,
+            99
+          ],
+          "ratio": 0.06825086805555555,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-08-20T20:32:48.571Z",
+      "fileKey": "openverse:163240d0-5c16-4335-930c-c622e7d67576",
+      "kind": "photo",
+      "photographer": "themet",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "0007807c07e02c03923f749f00f00f0ff01e",
+      "category": "photo",
+      "subjects": [
+        "people"
+      ]
+    },
+    {
+      "id": "140312ea-97ff-405e-8776-8c1df2fa4755",
+      "title": "Northeaster (1895) Winslow Homer",
+      "titleEn": "Northeaster (1895) Winslow Homer",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/140312ea-97ff-405e-8776-8c1df2fa4755.jpg",
+      "thumbUrl": "/stills/140312ea-97ff-405e-8776-8c1df2fa4755.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/3049929/free-illustration-image-art-water-painting",
+      "author": "themet",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "cyan",
+        "blue"
+      ],
+      "palette": [
+        {
+          "hex": "#9bb4bc",
+          "rgb": [
+            155,
+            180,
+            188
+          ],
+          "ratio": 0.3591579861111111,
+          "bucket": "cyan"
+        },
+        {
+          "hex": "#162831",
+          "rgb": [
+            22,
+            40,
+            49
+          ],
+          "ratio": 0.1994357638888889,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#388493",
+          "rgb": [
+            56,
+            132,
+            147
+          ],
+          "ratio": 0.17805989583333334,
+          "bucket": "cyan"
+        },
+        {
+          "hex": "#c0d3d9",
+          "rgb": [
+            192,
+            211,
+            217
+          ],
+          "ratio": 0.1342230902777778,
+          "bucket": "cyan"
+        },
+        {
+          "hex": "#dfe9ec",
+          "rgb": [
+            223,
+            233,
+            236
+          ],
+          "ratio": 0.1291232638888889,
+          "bucket": "cyan"
+        }
+      ],
+      "addedAt": "2026-08-20T20:32:55.725Z",
+      "fileKey": "openverse:9ddcae1a-37f7-4e32-9a3d-d7114fd9a9b3",
+      "kind": "photo",
+      "photographer": "Northeaster",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "fffefffffffff85ffff1f799187007003001",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "007b69be-3e18-4ccc-9a5f-87eb22f7995e",
+      "title": "Farm Near Duivendrecht, The Sea (1905–1914) drawing in high resolution by Piet Mondrian. Original from the Dallas Museum of Art. Digitally enhanced by rawpixel.",
+      "titleEn": "Farm Near Duivendrecht, The Sea (1905–1914) drawing in high resolution by Piet Mondrian. Original from the Dallas Museum of Art. Digitally enhanced by rawpixel.",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/007b69be-3e18-4ccc-9a5f-87eb22f7995e.jpg",
+      "thumbUrl": "/stills/007b69be-3e18-4ccc-9a5f-87eb22f7995e.jpg",
+      "pageUrl": "https://www.flickr.com/photos/153584064@N07/51911810607",
+      "author": "Free Public Domain Illustrations by rawpixel",
+      "license": "BY",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "buckets": [
+        "brown",
+        "orange",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#746852",
+          "rgb": [
+            116,
+            104,
+            82
+          ],
+          "ratio": 0.2790798611111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#8e7f64",
+          "rgb": [
+            142,
+            127,
+            100
+          ],
+          "ratio": 0.2681206597222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#a6967a",
+          "rgb": [
+            166,
+            150,
+            122
+          ],
+          "ratio": 0.20225694444444445,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#554e3f",
+          "rgb": [
+            85,
+            78,
+            63
+          ],
+          "ratio": 0.1404079861111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#bfb193",
+          "rgb": [
+            191,
+            177,
+            147
+          ],
+          "ratio": 0.1101345486111111,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-08-20T20:32:57.327Z",
+      "fileKey": "openverse:090a9959-5b44-4804-9a99-959d9485e3d4",
+      "kind": "photo",
+      "photographer": "Piet Mondrian",
+      "sourceLabel": "Flickr",
+      "contentHash": "eff7fff60f2e02f101100000000387006f8e",
+      "category": "painting",
+      "subjects": []
+    },
+    {
+      "id": "ecf185fc-2188-4e9d-a5a4-409ff10f28ce",
+      "title": "Woman Holding a Balance (ca. 1664) by Johannes Vermeer. Original from the National Gallery of Art. Digitally enhanced by rawpixel.",
+      "titleEn": "Woman Holding a Balance (ca. 1664) by Johannes Vermeer. Original from the National Gallery of Art. Digitally enhanced by rawpixel.",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/ecf185fc-2188-4e9d-a5a4-409ff10f28ce.jpg",
+      "thumbUrl": "/stills/ecf185fc-2188-4e9d-a5a4-409ff10f28ce.jpg",
+      "pageUrl": "https://www.flickr.com/photos/153584064@N07/51913450984",
+      "author": "Free Public Domain Illustrations by rawpixel",
+      "license": "BY",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "buckets": [
+        "brown",
+        "black",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#0a0a0f",
+          "rgb": [
+            10,
+            10,
+            15
+          ],
+          "ratio": 0.4019097222222222,
+          "bucket": "black"
+        },
+        {
+          "hex": "#271f18",
+          "rgb": [
+            39,
+            31,
+            24
+          ],
+          "ratio": 0.2702907986111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#463c30",
+          "rgb": [
+            70,
+            60,
+            48
+          ],
+          "ratio": 0.1404079861111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#6a6053",
+          "rgb": [
+            106,
+            96,
+            83
+          ],
+          "ratio": 0.10481770833333333,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#a2998d",
+          "rgb": [
+            162,
+            153,
+            141
+          ],
+          "ratio": 0.08257378472222222,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-08-20T20:33:06.059Z",
+      "fileKey": "openverse:f558d6c1-d7ca-41b3-bd5a-d7564f2ca110",
+      "kind": "photo",
+      "photographer": "Johannes Vermeer",
+      "sourceLabel": "Flickr",
+      "contentHash": "7cc7cc1cc1de8cc0fc0fd079020005001000",
+      "category": "painting",
+      "subjects": [
+        "interior",
+        "people"
+      ]
+    },
+    {
+      "id": "7a35085c-991c-4361-a987-9e27a01d1fb4",
+      "title": "Bather Three-Quarter View (Baigneuse vue",
+      "titleEn": "Bather Three-Quarter View (Baigneuse vue",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/7a35085c-991c-4361-a987-9e27a01d1fb4.jpg",
+      "thumbUrl": "/stills/7a35085c-991c-4361-a987-9e27a01d1fb4.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/895006/artwork-pierre-auguste-renoir",
+      "author": "barnesfoundation",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#ca9573",
+          "rgb": [
+            202,
+            149,
+            115
+          ],
+          "ratio": 0.2514105902777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#ae7654",
+          "rgb": [
+            174,
+            118,
+            84
+          ],
+          "ratio": 0.23404947916666666,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#83613f",
+          "rgb": [
+            131,
+            97,
+            63
+          ],
+          "ratio": 0.2041015625,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#584027",
+          "rgb": [
+            88,
+            64,
+            39
+          ],
+          "ratio": 0.15592447916666666,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#dbb89d",
+          "rgb": [
+            219,
+            184,
+            157
+          ],
+          "ratio": 0.1545138888888889,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-08-20T20:33:31.318Z",
+      "fileKey": "openverse:0adc5b11-348e-45fa-ae6b-1f03117a27ed",
+      "kind": "photo",
+      "photographer": "barnesfoundation",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "e00c60c7887c07ec7e0de09e07e7feffbf07",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "44dcb8f0-1f69-4d49-8203-81bd29a00c70",
+      "title": "Bibémus Quarry (Carrière de Bibémus)",
+      "titleEn": "Bibémus Quarry (Carrière de Bibémus)",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/44dcb8f0-1f69-4d49-8203-81bd29a00c70.jpg",
+      "thumbUrl": "/stills/44dcb8f0-1f69-4d49-8203-81bd29a00c70.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/2035481/carriere-bibemus-paul-cezanne",
+      "author": "barnesfoundation",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "green",
+        "orange",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#5f6952",
+          "rgb": [
+            95,
+            105,
+            82
+          ],
+          "ratio": 0.3416883680555556,
+          "bucket": "green"
+        },
+        {
+          "hex": "#243d2f",
+          "rgb": [
+            36,
+            61,
+            47
+          ],
+          "ratio": 0.2453342013888889,
+          "bucket": "green"
+        },
+        {
+          "hex": "#a97750",
+          "rgb": [
+            169,
+            119,
+            80
+          ],
+          "ratio": 0.15028211805555555,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#cfc9c2",
+          "rgb": [
+            207,
+            201,
+            194
+          ],
+          "ratio": 0.1474609375,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#99977a",
+          "rgb": [
+            153,
+            151,
+            122
+          ],
+          "ratio": 0.115234375,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-08-20T20:33:34.451Z",
+      "fileKey": "openverse:76512087-cdd4-4f6e-8702-e0a86955d078",
+      "kind": "photo",
+      "photographer": "barnesfoundation",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "fbff9f3feb6881884307281000000401ccf0",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "3516cd90-d953-481b-8866-c846a73a41b2",
+      "title": "James McNeill Whistler - Whistler's Mother",
+      "titleEn": "James McNeill Whistler - Whistler's Mother",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/3516cd90-d953-481b-8866-c846a73a41b2.jpg",
+      "thumbUrl": "/stills/3516cd90-d953-481b-8866-c846a73a41b2.jpg",
+      "pageUrl": "https://www.flickr.com/photos/7138083@N04/54046816016",
+      "author": "xiquinhosilva",
+      "license": "BY",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "buckets": [
+        "gray",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#a9a6a0",
+          "rgb": [
+            169,
+            166,
+            160
+          ],
+          "ratio": 0.27734375,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#4a443f",
+          "rgb": [
+            74,
+            68,
+            63
+          ],
+          "ratio": 0.2594401041666667,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#342f2d",
+          "rgb": [
+            52,
+            47,
+            45
+          ],
+          "ratio": 0.234375,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#68625b",
+          "rgb": [
+            104,
+            98,
+            91
+          ],
+          "ratio": 0.11480034722222222,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#241d19",
+          "rgb": [
+            36,
+            29,
+            25
+          ],
+          "ratio": 0.1140407986111111,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-08-20T20:33:43.230Z",
+      "fileKey": "openverse:13d41556-24a2-4020-b4b7-a806469eecf6",
+      "kind": "photo",
+      "photographer": "James McNeill Whistler",
+      "sourceLabel": "Flickr",
+      "contentHash": "1fe1fe1ff1ff1fc1f0180000000000000004",
+      "category": "painting",
+      "subjects": []
+    },
+    {
+      "id": "411de3c4-0786-45ad-84ba-f87aff55cd26",
+      "title": "'Flower Garden'",
+      "titleEn": "'Flower Garden'",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/411de3c4-0786-45ad-84ba-f87aff55cd26.jpg",
+      "thumbUrl": "/stills/411de3c4-0786-45ad-84ba-f87aff55cd26.jpg",
+      "pageUrl": "https://www.metmuseum.org/art/collection/search/221483",
+      "author": "William Morris",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "green",
+        "yellow",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#3b4e38",
+          "rgb": [
+            59,
+            78,
+            56
+          ],
+          "ratio": 0.2776692708333333,
+          "bucket": "green"
+        },
+        {
+          "hex": "#6d684a",
+          "rgb": [
+            109,
+            104,
+            74
+          ],
+          "ratio": 0.20421006944444445,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#4b573f",
+          "rgb": [
+            75,
+            87,
+            63
+          ],
+          "ratio": 0.17588975694444445,
+          "bucket": "green"
+        },
+        {
+          "hex": "#767552",
+          "rgb": [
+            118,
+            117,
+            82
+          ],
+          "ratio": 0.1755642361111111,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#5d6045",
+          "rgb": [
+            93,
+            96,
+            69
+          ],
+          "ratio": 0.16666666666666666,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-08-20T20:33:55.041Z",
+      "fileKey": "openverse:1a52a917-d3da-4a9e-bdbc-0fd910fa941a",
+      "kind": "photo",
+      "photographer": "William Morris",
+      "sourceLabel": "Met Museum",
+      "contentHash": "ec3bfc3fc17cb6c90ddff0f10208f10901f8",
+      "category": "photo",
+      "people": "none",
+      "subjects": [
+        "still-life",
+        "nature"
+      ]
+    },
+    {
+      "id": "01f6103e-5631-447d-b63a-8bbb33348098",
+      "title": "The bay of naples, 1844",
+      "titleEn": "The bay of naples, 1844",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/01f6103e-5631-447d-b63a-8bbb33348098.jpg",
+      "thumbUrl": "/stills/01f6103e-5631-447d-b63a-8bbb33348098.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/9817764/the-bay-naples-1844",
+      "author": "rawpixel",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#a1743d",
+          "rgb": [
+            161,
+            116,
+            61
+          ],
+          "ratio": 0.2901475694444444,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#b37a35",
+          "rgb": [
+            179,
+            122,
+            53
+          ],
+          "ratio": 0.2637803819444444,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#c47e26",
+          "rgb": [
+            196,
+            126,
+            38
+          ],
+          "ratio": 0.21571180555555555,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#27150e",
+          "rgb": [
+            39,
+            21,
+            14
+          ],
+          "ratio": 0.1394314236111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#7d4d15",
+          "rgb": [
+            125,
+            77,
+            21
+          ],
+          "ratio": 0.09092881944444445,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-08-20T20:33:57.776Z",
+      "fileKey": "openverse:eb412919-5c86-4acd-aabd-9d5d02b775df",
+      "kind": "photo",
+      "photographer": "rawpixel",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "fffffffffffffffffffffff9ff0f80100000",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "ff767313-bd58-4313-a408-edb2c9d3b76a",
+      "title": "Dressing Carnival (1877) Winslow Homer",
+      "titleEn": "Dressing Carnival (1877) Winslow Homer",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/ff767313-bd58-4313-a408-edb2c9d3b76a.jpg",
+      "thumbUrl": "/stills/ff767313-bd58-4313-a408-edb2c9d3b76a.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/3049279/free-illustration-image-african-art-american",
+      "author": "themet",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "yellow",
+        "green",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#474b35",
+          "rgb": [
+            71,
+            75,
+            53
+          ],
+          "ratio": 0.4038628472222222,
+          "bucket": "green"
+        },
+        {
+          "hex": "#747858",
+          "rgb": [
+            116,
+            120,
+            88
+          ],
+          "ratio": 0.2505425347222222,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#d5cdad",
+          "rgb": [
+            213,
+            205,
+            173
+          ],
+          "ratio": 0.16221788194444445,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#b78462",
+          "rgb": [
+            183,
+            132,
+            98
+          ],
+          "ratio": 0.14659288194444445,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d7b026",
+          "rgb": [
+            215,
+            176,
+            38
+          ],
+          "ratio": 0.036783854166666664,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-08-20T20:33:59.175Z",
+      "fileKey": "openverse:65a4b5d5-9dfb-47ba-b0d1-c15c01959a10",
+      "kind": "photo",
+      "photographer": "Dressing Carnival",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "8028000581076ff6f13d23c7302fc2fc1eaf",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "a1310322-9d00-4ab2-b243-c9f341fc6d7d",
+      "title": "Madonna and Child",
+      "titleEn": "Madonna and Child",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/a1310322-9d00-4ab2-b243-c9f341fc6d7d.jpg",
+      "thumbUrl": "/stills/a1310322-9d00-4ab2-b243-c9f341fc6d7d.jpg",
+      "pageUrl": "https://www.metmuseum.org/art/collection/search/437824",
+      "author": "Titian (Tiziano Vecellio)",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "orange",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#3a2b1b",
+          "rgb": [
+            58,
+            43,
+            27
+          ],
+          "ratio": 0.3368055555555556,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#80542b",
+          "rgb": [
+            128,
+            84,
+            43
+          ],
+          "ratio": 0.2387152777777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#a98555",
+          "rgb": [
+            169,
+            133,
+            85
+          ],
+          "ratio": 0.19954427083333334,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d2b98c",
+          "rgb": [
+            210,
+            185,
+            140
+          ],
+          "ratio": 0.1232638888888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#646363",
+          "rgb": [
+            100,
+            99,
+            99
+          ],
+          "ratio": 0.10167100694444445,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-08-20T20:34:05.040Z",
+      "fileKey": "openverse:8bd3ef01-3dab-43f2-8436-6482c072224a",
+      "kind": "photo",
+      "photographer": "Titian",
+      "sourceLabel": "Met Museum",
+      "contentHash": "17217332333317311c11c11f07f87f87e860",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "8f43996d-49f3-49b1-a85f-0305e21615bb",
+      "title": "Natural Bridge, Bermuda | Winslow Homer American, Boston, Massachusetts 1836–1910 Prouts Neck, Maine",
+      "titleEn": "Natural Bridge, Bermuda | Winslow Homer American, Boston, Massachusetts 1836–1910 Prouts Neck, Maine",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/8f43996d-49f3-49b1-a85f-0305e21615bb.jpg",
+      "thumbUrl": "/stills/8f43996d-49f3-49b1-a85f-0305e21615bb.jpg",
+      "pageUrl": "https://www.flickr.com/photos/200781279@N05/53903253076",
+      "author": "museado",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "cyan",
+        "yellow",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#508891",
+          "rgb": [
+            80,
+            136,
+            145
+          ],
+          "ratio": 0.4353298611111111,
+          "bucket": "cyan"
+        },
+        {
+          "hex": "#b0b2a0",
+          "rgb": [
+            176,
+            178,
+            160
+          ],
+          "ratio": 0.17708333333333334,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#858b7f",
+          "rgb": [
+            133,
+            139,
+            127
+          ],
+          "ratio": 0.15928819444444445,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#454342",
+          "rgb": [
+            69,
+            67,
+            66
+          ],
+          "ratio": 0.11827256944444445,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#e5d7bb",
+          "rgb": [
+            229,
+            215,
+            187
+          ],
+          "ratio": 0.11002604166666667,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-08-20T20:34:06.920Z",
+      "fileKey": "openverse:6a36b485-a018-4a7d-b6ba-e03d73b21f9c",
+      "kind": "photo",
+      "photographer": "museado",
+      "sourceLabel": "Flickr",
+      "contentHash": "ffffff000000060004010f80fff5fe080201",
+      "category": "photo",
+      "subjects": [
+        "architecture"
+      ]
+    },
+    {
+      "id": "07d21354-0336-42db-aada-7b10d1083539",
+      "title": "Moret sur Loing. The House of Alfred Sisley",
+      "titleEn": "Moret sur Loing. The House of Alfred Sisley",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/07d21354-0336-42db-aada-7b10d1083539.jpg",
+      "thumbUrl": "/stills/07d21354-0336-42db-aada-7b10d1083539.jpg",
+      "pageUrl": "https://www.flickr.com/photos/15181848@N02/53680541640",
+      "author": "amandabhslater",
+      "license": "BY-SA",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "buckets": [
+        "brown",
+        "gray",
+        "white"
+      ],
+      "palette": [
+        {
+          "hex": "#565141",
+          "rgb": [
+            86,
+            81,
+            65
+          ],
+          "ratio": 0.3297526041666667,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#302d22",
+          "rgb": [
+            48,
+            45,
+            34
+          ],
+          "ratio": 0.2273220486111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#f6f7f5",
+          "rgb": [
+            246,
+            247,
+            245
+          ],
+          "ratio": 0.177734375,
+          "bucket": "white"
+        },
+        {
+          "hex": "#7d7476",
+          "rgb": [
+            125,
+            116,
+            118
+          ],
+          "ratio": 0.17664930555555555,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#b5b0b2",
+          "rgb": [
+            181,
+            176,
+            178
+          ],
+          "ratio": 0.08854166666666667,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-08-20T20:34:08.040Z",
+      "fileKey": "openverse:91e60fff-6586-45cc-9211-59852b1414b5",
+      "kind": "photo",
+      "photographer": "amandabhslater",
+      "sourceLabel": "Flickr",
+      "contentHash": "ff0fe0fd8fe8fc0f80f00c00800000000000",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "84a47b48-f809-402c-b598-cf9c850ff85f",
+      "title": "Painter Front His Painting (Le",
+      "titleEn": "Painter Front His Painting (Le",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/84a47b48-f809-402c-b598-cf9c850ff85f.jpg",
+      "thumbUrl": "/stills/84a47b48-f809-402c-b598-cf9c850ff85f.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/9265508/image-art-vintage-painting",
+      "author": "barnesfoundation",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "black"
+      ],
+      "palette": [
+        {
+          "hex": "#201e1c",
+          "rgb": [
+            32,
+            30,
+            28
+          ],
+          "ratio": 0.3077256944444444,
+          "bucket": "black"
+        },
+        {
+          "hex": "#2c2824",
+          "rgb": [
+            44,
+            40,
+            36
+          ],
+          "ratio": 0.2823350694444444,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#3d352e",
+          "rgb": [
+            61,
+            53,
+            46
+          ],
+          "ratio": 0.17588975694444445,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#151413",
+          "rgb": [
+            21,
+            20,
+            19
+          ],
+          "ratio": 0.15049913194444445,
+          "bucket": "black"
+        },
+        {
+          "hex": "#604e39",
+          "rgb": [
+            96,
+            78,
+            57
+          ],
+          "ratio": 0.08355034722222222,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-08-20T20:34:10.189Z",
+      "fileKey": "openverse:eb011915-8d39-45ec-b95d-b715f4efb89e",
+      "kind": "photo",
+      "photographer": "barnesfoundation",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "1ee0e60fe124084080080480d87fd0fd4efe",
+      "category": "painting",
+      "subjects": []
+    },
+    {
+      "id": "794c2749-a186-4ed2-acb6-af29dc501bba",
+      "title": "Dreamers (ca. 1850-1882) painting high",
+      "titleEn": "Dreamers (ca. 1850-1882) painting high",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/794c2749-a186-4ed2-acb6-af29dc501bba.jpg",
+      "thumbUrl": "/stills/794c2749-a186-4ed2-acb6-af29dc501bba.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/4011050/illustration-image-art-people",
+      "author": "rawpixel",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "yellow",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#c9bb98",
+          "rgb": [
+            201,
+            187,
+            152
+          ],
+          "ratio": 0.2952473958333333,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#b4a075",
+          "rgb": [
+            180,
+            160,
+            117
+          ],
+          "ratio": 0.2531467013888889,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#ded8bd",
+          "rgb": [
+            222,
+            216,
+            189
+          ],
+          "ratio": 0.2449001736111111,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#9c8055",
+          "rgb": [
+            156,
+            128,
+            85
+          ],
+          "ratio": 0.1474609375,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#6e5132",
+          "rgb": [
+            110,
+            81,
+            50
+          ],
+          "ratio": 0.059244791666666664,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-08-20T20:34:11.528Z",
+      "fileKey": "openverse:ee87145b-8c77-4295-a819-916d3b0042d7",
+      "kind": "photo",
+      "photographer": "rawpixel",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "0807d061173f79eff6dffbfc1dc0e0126000",
+      "category": "painting",
+      "subjects": []
+    },
+    {
+      "id": "49d53e59-8348-48e4-9f8a-e3d749c3d315",
+      "title": "Alexandre Cabanel - Herbert James Draper Icarus Nymph Mythology Greek Mythology [Www.Etoile.App]",
+      "titleEn": "Alexandre Cabanel - Herbert James Draper Icarus Nymph Mythology Greek Mythology [Www.Etoile.App]",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/49d53e59-8348-48e4-9f8a-e3d749c3d315.jpg",
+      "thumbUrl": "/stills/49d53e59-8348-48e4-9f8a-e3d749c3d315.jpg",
+      "pageUrl": "https://www.flickr.com/photos/156182786@N06/52539888891",
+      "author": "eXploration Etoile",
+      "license": "PDM",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "buckets": [
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#815939",
+          "rgb": [
+            129,
+            89,
+            57
+          ],
+          "ratio": 0.2948133680555556,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#62402f",
+          "rgb": [
+            98,
+            64,
+            47
+          ],
+          "ratio": 0.236328125,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#9c764e",
+          "rgb": [
+            156,
+            118,
+            78
+          ],
+          "ratio": 0.20789930555555555,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#3e2a23",
+          "rgb": [
+            62,
+            42,
+            35
+          ],
+          "ratio": 0.1440972222222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#ba9c78",
+          "rgb": [
+            186,
+            156,
+            120
+          ],
+          "ratio": 0.11686197916666667,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-08-20T20:34:14.271Z",
+      "fileKey": "openverse:56654106-73cc-4359-9823-a322d8c14e97",
+      "kind": "photo",
+      "photographer": "eXploration Etoile",
+      "sourceLabel": "Flickr",
+      "contentHash": "33077ce70e700bcc3ce7a1e63ee07607003c",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "95bb76ea-4e0c-4db6-afc0-e6e9c21b5441",
+      "title": "Hoofd van Giuliano dei Medici, Jacopo Tintoretto, 1528 - 1594",
+      "titleEn": "Hoofd van Giuliano dei Medici, Jacopo Tintoretto, 1528 - 1594",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/95bb76ea-4e0c-4db6-afc0-e6e9c21b5441.jpg",
+      "thumbUrl": "/stills/95bb76ea-4e0c-4db6-afc0-e6e9c21b5441.jpg",
+      "pageUrl": "https://www.rijksmuseum.nl/en/collection/RP-T-1953-444(R)",
+      "author": "Jacopo Tintoretto",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#967b5e",
+          "rgb": [
+            150,
+            123,
+            94
+          ],
+          "ratio": 0.2723524305555556,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#a18667",
+          "rgb": [
+            161,
+            134,
+            103
+          ],
+          "ratio": 0.2513020833333333,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#876f55",
+          "rgb": [
+            135,
+            111,
+            85
+          ],
+          "ratio": 0.2509765625,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#77644d",
+          "rgb": [
+            119,
+            100,
+            77
+          ],
+          "ratio": 0.14735243055555555,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#f2e6d0",
+          "rgb": [
+            242,
+            230,
+            208
+          ],
+          "ratio": 0.07801649305555555,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-08-20T20:34:17.195Z",
+      "fileKey": "openverse:bae18e64-55c0-4d53-8aff-8d4709fc8168",
+      "kind": "photo",
+      "photographer": "Jacopo Tintoretto",
+      "sourceLabel": "Rijksmuseum",
+      "contentHash": "f07e018198c1b81b998418018018018f59fd",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "7ce66321-d606-44a9-9d06-d715d7b2db35",
+      "title": "Cliff Dwellers (1913) painting high",
+      "titleEn": "Cliff Dwellers (1913) painting high",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/7ce66321-d606-44a9-9d06-d715d7b2db35.jpg",
+      "thumbUrl": "/stills/7ce66321-d606-44a9-9d06-d715d7b2db35.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/3571167/illustration-image-art-people",
+      "author": "lacma",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "gray",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#2f2f33",
+          "rgb": [
+            47,
+            47,
+            51
+          ],
+          "ratio": 0.224609375,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#444040",
+          "rgb": [
+            68,
+            64,
+            64
+          ],
+          "ratio": 0.21875,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#988c7a",
+          "rgb": [
+            152,
+            140,
+            122
+          ],
+          "ratio": 0.21571180555555555,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#c1b7a5",
+          "rgb": [
+            193,
+            183,
+            165
+          ],
+          "ratio": 0.1743706597222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#68635c",
+          "rgb": [
+            104,
+            99,
+            92
+          ],
+          "ratio": 0.1665581597222222,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-08-20T20:34:19.692Z",
+      "fileKey": "openverse:c6789bca-931a-4e3b-b77a-5050ce7985e4",
+      "kind": "photo",
+      "photographer": "Cliff Dwellers",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "03f03f09f01f00f00f003d033ff5ff1f827f",
+      "category": "painting",
+      "subjects": []
+    },
+    {
+      "id": "ddfaa5f7-3d11-4aeb-aa3e-d46d666e178f",
+      "title": "Two cats, blue yellow (1912)",
+      "titleEn": "Two cats, blue yellow (1912)",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/ddfaa5f7-3d11-4aeb-aa3e-d46d666e178f.jpg",
+      "thumbUrl": "/stills/ddfaa5f7-3d11-4aeb-aa3e-d46d666e178f.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/3570933/illustration-image-watercolor-abstract-art",
+      "author": "rawpixel",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "blue",
+        "gray",
+        "yellow",
+        "red"
+      ],
+      "palette": [
+        {
+          "hex": "#263c46",
+          "rgb": [
+            38,
+            60,
+            70
+          ],
+          "ratio": 0.3893229166666667,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#65756c",
+          "rgb": [
+            101,
+            117,
+            108
+          ],
+          "ratio": 0.2924262152777778,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#c7a249",
+          "rgb": [
+            199,
+            162,
+            73
+          ],
+          "ratio": 0.12337239583333333,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#983a22",
+          "rgb": [
+            152,
+            58,
+            34
+          ],
+          "ratio": 0.1193576388888889,
+          "bucket": "red"
+        },
+        {
+          "hex": "#cfd4ca",
+          "rgb": [
+            207,
+            212,
+            202
+          ],
+          "ratio": 0.07552083333333333,
+          "bucket": "green"
+        }
+      ],
+      "addedAt": "2026-08-20T20:34:20.886Z",
+      "fileKey": "openverse:dbfa4a87-761d-4b4c-81a1-6522ad9a4cf2",
+      "kind": "photo",
+      "photographer": "rawpixel",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "7fc77f20f0871030173103123c13e3000078",
+      "category": "photo",
+      "people": "two",
+      "subjects": []
+    },
+    {
+      "id": "db69eaaf-56db-4a0f-b968-9ef0372c35dd",
+      "title": "Frontal nude (1905) painting high",
+      "titleEn": "Frontal nude (1905) painting high",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/db69eaaf-56db-4a0f-b968-9ef0372c35dd.jpg",
+      "thumbUrl": "/stills/db69eaaf-56db-4a0f-b968-9ef0372c35dd.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/3194792/free-illustration-image-antique-art-artwork",
+      "author": "rawpixel",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#d8bd97",
+          "rgb": [
+            216,
+            189,
+            151
+          ],
+          "ratio": 0.3460286458333333,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#dbc9b4",
+          "rgb": [
+            219,
+            201,
+            180
+          ],
+          "ratio": 0.3435329861111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d3ae83",
+          "rgb": [
+            211,
+            174,
+            131
+          ],
+          "ratio": 0.1513671875,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#cc9067",
+          "rgb": [
+            204,
+            144,
+            103
+          ],
+          "ratio": 0.10698784722222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#b26544",
+          "rgb": [
+            178,
+            101,
+            68
+          ],
+          "ratio": 0.052083333333333336,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-08-20T20:34:22.248Z",
+      "fileKey": "openverse:0d271530-bb58-47a7-888c-b1e846e6a9db",
+      "kind": "photo",
+      "photographer": "Frontal nude",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "e0fe0fe0fe0fe0fe0fe0ff0ff0ff0fe1ff1f",
+      "category": "painting",
+      "subjects": []
+    },
+    {
+      "id": "c454ce7d-6956-4db1-bbc6-7ce0f86c8bd1",
+      "title": "Heilige Catharina in discussie met de schriftgeleerden, Domenico Tintoretto, 1570 - 1635",
+      "titleEn": "Heilige Catharina in discussie met de schriftgeleerden, Domenico Tintoretto, 1570 - 1635",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/c454ce7d-6956-4db1-bbc6-7ce0f86c8bd1.jpg",
+      "thumbUrl": "/stills/c454ce7d-6956-4db1-bbc6-7ce0f86c8bd1.jpg",
+      "pageUrl": "https://www.rijksmuseum.nl/en/collection/RP-T-1985-115",
+      "author": "Domenico Tintoretto",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#716452",
+          "rgb": [
+            113,
+            100,
+            82
+          ],
+          "ratio": 0.3044704861111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#60574a",
+          "rgb": [
+            96,
+            87,
+            74
+          ],
+          "ratio": 0.2898220486111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#504940",
+          "rgb": [
+            80,
+            73,
+            64
+          ],
+          "ratio": 0.2116970486111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#817662",
+          "rgb": [
+            129,
+            118,
+            98
+          ],
+          "ratio": 0.1675347222222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#b2a791",
+          "rgb": [
+            178,
+            167,
+            145
+          ],
+          "ratio": 0.026475694444444444,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-08-20T20:34:25.053Z",
+      "fileKey": "openverse:c4f9f47d-0b48-4d13-87db-23d9e1d4b4ac",
+      "kind": "photo",
+      "photographer": "Domenico Tintoretto",
+      "sourceLabel": "Rijksmuseum",
+      "contentHash": "fff5de7ffe3c23c72362f82f032001000003",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "5302ba47-f8f2-4f92-af8b-3fe8013c8443",
+      "title": "Francois Boucher's The Fountain of Love (1748) famous painting. Original from The Getty. Digitally enhanced by rawpixel.",
+      "titleEn": "Francois Boucher's The Fountain of Love (1748) famous painting. Original from The Getty. Digitally enhanced by rawpixel.",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/5302ba47-f8f2-4f92-af8b-3fe8013c8443.jpg",
+      "thumbUrl": "/stills/5302ba47-f8f2-4f92-af8b-3fe8013c8443.jpg",
+      "pageUrl": "https://www.flickr.com/photos/153584064@N07/51927544001",
+      "author": "Free Public Domain Illustrations by rawpixel",
+      "license": "BY",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "buckets": [
+        "gray",
+        "blue",
+        "yellow",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#477b9b",
+          "rgb": [
+            71,
+            123,
+            155
+          ],
+          "ratio": 0.21006944444444445,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#928b77",
+          "rgb": [
+            146,
+            139,
+            119
+          ],
+          "ratio": 0.20789930555555555,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#655745",
+          "rgb": [
+            101,
+            87,
+            69
+          ],
+          "ratio": 0.20496961805555555,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#2f322a",
+          "rgb": [
+            47,
+            50,
+            42
+          ],
+          "ratio": 0.1987847222222222,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#adb7b3",
+          "rgb": [
+            173,
+            183,
+            179
+          ],
+          "ratio": 0.1782769097222222,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-08-20T20:34:32.176Z",
+      "fileKey": "openverse:633e53eb-adb3-4069-bfff-00764ff5c26d",
+      "kind": "photo",
+      "photographer": "Francois Boucher's The Fountain of Love",
+      "sourceLabel": "Flickr",
+      "contentHash": "00039f0ff0ff3ff3f6f30c0848f806e1ce0c",
+      "category": "painting",
+      "subjects": []
+    },
+    {
+      "id": "bc3e6ee4-c8c5-450a-8099-85308844d24c",
+      "title": "Bathing Woman (1828-1867) Jean Auguste",
+      "titleEn": "Bathing Woman (1828-1867) Jean Auguste",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/bc3e6ee4-c8c5-450a-8099-85308844d24c.jpg",
+      "thumbUrl": "/stills/bc3e6ee4-c8c5-450a-8099-85308844d24c.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/9786774/bathing-woman-1828-1867-jean-auguste-dominique-ingres",
+      "author": "rawpixel",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#c6ab88",
+          "rgb": [
+            198,
+            171,
+            136
+          ],
+          "ratio": 0.5199652777777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#c4a884",
+          "rgb": [
+            196,
+            168,
+            132
+          ],
+          "ratio": 0.3296440972222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#c0a481",
+          "rgb": [
+            192,
+            164,
+            129
+          ],
+          "ratio": 0.0984157986111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#e7e1d5",
+          "rgb": [
+            231,
+            225,
+            213
+          ],
+          "ratio": 0.041666666666666664,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d0bda3",
+          "rgb": [
+            208,
+            189,
+            163
+          ],
+          "ratio": 0.010308159722222222,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-08-20T20:34:34.647Z",
+      "fileKey": "openverse:54b11130-4d60-4b95-9734-c901770ee85f",
+      "kind": "photo",
+      "photographer": "Bathing Woman",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "801801801801801829801861801801801801",
+      "category": "photo",
+      "subjects": [
+        "people"
+      ]
+    },
+    {
+      "id": "bb66d461-59e9-4a29-af1e-ef895ff1ff93",
+      "title": "Antoine Laurent Lavoisier (1743–1794) and Marie Anne Lavoisier (Marie Anne Pierrette Paulze, 1758–1836)",
+      "titleEn": "Antoine Laurent Lavoisier (1743–1794) and Marie Anne Lavoisier (Marie Anne Pierrette Paulze, 1758–1836)",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/bb66d461-59e9-4a29-af1e-ef895ff1ff93.jpg",
+      "thumbUrl": "/stills/bb66d461-59e9-4a29-af1e-ef895ff1ff93.jpg",
+      "pageUrl": "https://www.metmuseum.org/art/collection/search/436106",
+      "author": "Jacques Louis David",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "red"
+      ],
+      "palette": [
+        {
+          "hex": "#461f15",
+          "rgb": [
+            70,
+            31,
+            21
+          ],
+          "ratio": 0.4430338541666667,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#561e1a",
+          "rgb": [
+            86,
+            30,
+            26
+          ],
+          "ratio": 0.2620442708333333,
+          "bucket": "red"
+        },
+        {
+          "hex": "#301e16",
+          "rgb": [
+            48,
+            30,
+            22
+          ],
+          "ratio": 0.19401041666666666,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#613d2d",
+          "rgb": [
+            97,
+            61,
+            45
+          ],
+          "ratio": 0.06412760416666667,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#80574d",
+          "rgb": [
+            128,
+            87,
+            77
+          ],
+          "ratio": 0.036783854166666664,
+          "bucket": "red"
+        }
+      ],
+      "addedAt": "2026-08-20T20:34:44.066Z",
+      "fileKey": "openverse:a460e0f3-a9dc-42b7-8768-195c129af21d",
+      "kind": "photo",
+      "photographer": "Antoine Laurent Lavoisier",
+      "sourceLabel": "Met Museum",
+      "contentHash": "fbc7fc77c3801801c40f801c07a1c80c00d0",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "4dd669b7-3ccb-484c-8cd7-6ec02c087760",
+      "title": "Boy with a Lute",
+      "titleEn": "Boy with a Lute",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/4dd669b7-3ccb-484c-8cd7-6ec02c087760.jpg",
+      "thumbUrl": "/stills/4dd669b7-3ccb-484c-8cd7-6ec02c087760.jpg",
+      "pageUrl": "https://www.metmuseum.org/art/collection/search/436626",
+      "author": "Frans Hals",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#1b1815",
+          "rgb": [
+            27,
+            24,
+            21
+          ],
+          "ratio": 0.5621744791666666,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#32271c",
+          "rgb": [
+            50,
+            39,
+            28
+          ],
+          "ratio": 0.2598741319444444,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#523b24",
+          "rgb": [
+            82,
+            59,
+            36
+          ],
+          "ratio": 0.0881076388888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#7e6142",
+          "rgb": [
+            126,
+            97,
+            66
+          ],
+          "ratio": 0.050455729166666664,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#9b8161",
+          "rgb": [
+            155,
+            129,
+            97
+          ],
+          "ratio": 0.039388020833333336,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-08-20T20:34:45.495Z",
+      "fileKey": "openverse:12f5a5dc-9698-4cef-a4d2-d736fdea2617",
+      "kind": "photo",
+      "photographer": "Frans Hals",
+      "sourceLabel": "Met Museum",
+      "contentHash": "0010050650f50e10e10f11d92e7067065221",
+      "category": "photo",
+      "subjects": [
+        "people"
+      ]
+    },
+    {
+      "id": "bc338adb-0922-45b7-acae-fb316b0a55a6",
+      "title": "Franz Marc's Nude Cat (1910)",
+      "titleEn": "Franz Marc's Nude Cat (1910)",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/bc338adb-0922-45b7-acae-fb316b0a55a6.jpg",
+      "thumbUrl": "/stills/bc338adb-0922-45b7-acae-fb316b0a55a6.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/8627684/image-watercolor-art-vintage",
+      "author": "rawpixel",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "white",
+        "gray",
+        "yellow",
+        "red",
+        "cyan"
+      ],
+      "palette": [
+        {
+          "hex": "#d7d6cf",
+          "rgb": [
+            215,
+            214,
+            207
+          ],
+          "ratio": 0.294921875,
+          "bucket": "white"
+        },
+        {
+          "hex": "#b0afb2",
+          "rgb": [
+            176,
+            175,
+            178
+          ],
+          "ratio": 0.2280815972222222,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#c3a96c",
+          "rgb": [
+            195,
+            169,
+            108
+          ],
+          "ratio": 0.1928168402777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#ab6a5b",
+          "rgb": [
+            171,
+            106,
+            91
+          ],
+          "ratio": 0.1564670138888889,
+          "bucket": "red"
+        },
+        {
+          "hex": "#429eb1",
+          "rgb": [
+            66,
+            158,
+            177
+          ],
+          "ratio": 0.1277126736111111,
+          "bucket": "cyan"
+        }
+      ],
+      "addedAt": "2026-08-20T20:34:47.667Z",
+      "fileKey": "openverse:ade7e484-6498-4440-9ba6-37b603a60bdf",
+      "kind": "photo",
+      "photographer": "Franz Marc's Nude Cat",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "1e09f07f87ff7fe3dc1fc0b7f96c909c0380",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "36e8bc01-758e-46cf-bf25-ee6d706541c7",
+      "title": "Henri de Toulouse-Lautrec (1864–1901), Au lit: Le baiser, 1892",
+      "titleEn": "Henri de Toulouse-Lautrec (1864–1901), Au lit: Le baiser, 1892",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/36e8bc01-758e-46cf-bf25-ee6d706541c7.jpg",
+      "thumbUrl": "/stills/36e8bc01-758e-46cf-bf25-ee6d706541c7.jpg",
+      "pageUrl": "https://www.flickr.com/photos/36417567@N03/51709736060",
+      "author": "Tulip Hysteria / Go to albums",
+      "license": "PDM",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "buckets": [
+        "orange",
+        "red",
+        "brown",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#a8846a",
+          "rgb": [
+            168,
+            132,
+            106
+          ],
+          "ratio": 0.2593315972222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#a74543",
+          "rgb": [
+            167,
+            69,
+            67
+          ],
+          "ratio": 0.2516276041666667,
+          "bucket": "red"
+        },
+        {
+          "hex": "#735f54",
+          "rgb": [
+            115,
+            95,
+            84
+          ],
+          "ratio": 0.1867404513888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#c7c5b8",
+          "rgb": [
+            199,
+            197,
+            184
+          ],
+          "ratio": 0.17957899305555555,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#c4ab8d",
+          "rgb": [
+            196,
+            171,
+            141
+          ],
+          "ratio": 0.12272135416666667,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-08-20T20:34:49.370Z",
+      "fileKey": "openverse:3c427dde-ee0c-43db-89dd-ddee6c756d6b",
+      "kind": "photo",
+      "photographer": "Henri de Toulouse-Lautrec",
+      "sourceLabel": "Flickr",
+      "contentHash": "fd1fbfaccc80fc0ffcffcff07e0380000000",
+      "category": "painting",
+      "subjects": []
+    },
+    {
+      "id": "0a77f450-1de8-400f-9bae-566951ea7774",
+      "title": "Piet Mondrian's Avond (Evening): The Red Tree (1910) famous painting.",
+      "titleEn": "Piet Mondrian's Avond (Evening): The Red Tree (1910) famous painting.",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/0a77f450-1de8-400f-9bae-566951ea7774.jpg",
+      "thumbUrl": "/stills/0a77f450-1de8-400f-9bae-566951ea7774.jpg",
+      "pageUrl": "https://www.flickr.com/photos/153584064@N07/51913390730",
+      "author": "Free Public Domain Illustrations by rawpixel",
+      "license": "BY",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "buckets": [
+        "blue",
+        "pink",
+        "red"
+      ],
+      "palette": [
+        {
+          "hex": "#385da3",
+          "rgb": [
+            56,
+            93,
+            163
+          ],
+          "ratio": 0.2570529513888889,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#6781bb",
+          "rgb": [
+            103,
+            129,
+            187
+          ],
+          "ratio": 0.2472873263888889,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#193067",
+          "rgb": [
+            25,
+            48,
+            103
+          ],
+          "ratio": 0.2267795138888889,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#492640",
+          "rgb": [
+            73,
+            38,
+            64
+          ],
+          "ratio": 0.18446180555555555,
+          "bucket": "pink"
+        },
+        {
+          "hex": "#ad7d83",
+          "rgb": [
+            173,
+            125,
+            131
+          ],
+          "ratio": 0.08441840277777778,
+          "bucket": "red"
+        }
+      ],
+      "addedAt": "2026-08-20T20:34:50.545Z",
+      "fileKey": "openverse:bf855053-6885-48ad-aff9-da1726d90dd6",
+      "kind": "photo",
+      "photographer": "Piet Mondrian",
+      "sourceLabel": "Flickr",
+      "contentHash": "f07f03e00c01000000000e00f7efffffffff",
+      "category": "painting",
+      "subjects": [
+        "nature"
+      ]
+    },
+    {
+      "id": "d392ebaa-d961-47bd-aae5-08dd14081850",
+      "title": "U.S. Capitol paintings. Vulcan fresco in U.S. Capitol III",
+      "titleEn": "U.S. Capitol paintings. Vulcan fresco in U.S. Capitol III",
+      "titleZh": "",
+      "director": "",
+      "source": "loc",
+      "imageUrl": "/stills/d392ebaa-d961-47bd-aae5-08dd14081850.jpg",
+      "thumbUrl": "/stills/d392ebaa-d961-47bd-aae5-08dd14081850.jpg",
+      "pageUrl": "https://www.loc.gov/item/2019684795/",
+      "author": "Library of Congress",
+      "license": "No known restrictions / public domain",
+      "licenseUrl": "https://www.loc.gov/item/2019684795/",
+      "buckets": [
+        "gray",
+        "blue",
+        "green"
+      ],
+      "palette": [
+        {
+          "hex": "#5b5851",
+          "rgb": [
+            91,
+            88,
+            81
+          ],
+          "ratio": 0.2957899305555556,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#403b3a",
+          "rgb": [
+            64,
+            59,
+            58
+          ],
+          "ratio": 0.21473524305555555,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#7e7e70",
+          "rgb": [
+            126,
+            126,
+            112
+          ],
+          "ratio": 0.2021484375,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#1e1e25",
+          "rgb": [
+            30,
+            30,
+            37
+          ],
+          "ratio": 0.1736111111111111,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#adb19c",
+          "rgb": [
+            173,
+            177,
+            156
+          ],
+          "ratio": 0.11371527777777778,
+          "bucket": "green"
+        }
+      ],
+      "addedAt": "2026-08-20T20:34:52.063Z",
+      "fileKey": "loc:http://www.loc.gov/item/2019684795/",
+      "kind": "photo",
+      "photographer": "Library of Congress",
+      "sourceLabel": "美国国会图书馆",
+      "contentHash": "0000c01f81f87fc7fe3fc3fc0f00f01fe0fc",
+      "category": "painting",
+      "subjects": [
+        "ancient"
+      ]
+    },
+    {
+      "id": "1dd5941b-b9bb-48e6-97fd-903456e4b72b",
+      "title": "The Smoker by Frans Hals",
+      "titleEn": "The Smoker by Frans Hals",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/1dd5941b-b9bb-48e6-97fd-903456e4b72b.jpg",
+      "thumbUrl": "/stills/1dd5941b-b9bb-48e6-97fd-903456e4b72b.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/9184831/the-smoker-frans-hals",
+      "author": "themet",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "black",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#302416",
+          "rgb": [
+            48,
+            36,
+            22
+          ],
+          "ratio": 0.4103732638888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#514227",
+          "rgb": [
+            81,
+            66,
+            39
+          ],
+          "ratio": 0.2373046875,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#010101",
+          "rgb": [
+            1,
+            1,
+            1
+          ],
+          "ratio": 0.1558159722222222,
+          "bucket": "black"
+        },
+        {
+          "hex": "#796346",
+          "rgb": [
+            121,
+            99,
+            70
+          ],
+          "ratio": 0.1134982638888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#99886e",
+          "rgb": [
+            153,
+            136,
+            110
+          ],
+          "ratio": 0.0830078125,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-08-20T20:34:54.390Z",
+      "fileKey": "openverse:ae246441-7eea-491f-8865-f8270a632666",
+      "kind": "photo",
+      "photographer": "themet",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "1c03c060ce800e0dc0df0ff8ff8fe07e03e0",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "25cbfd3d-c37b-4a0b-bf76-d9269dfb4316",
+      "title": "Mary Cassatt at the Louvre: The Paintings Gallery",
+      "titleEn": "Mary Cassatt at the Louvre: The Paintings Gallery",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/25cbfd3d-c37b-4a0b-bf76-d9269dfb4316.jpg",
+      "thumbUrl": "/stills/25cbfd3d-c37b-4a0b-bf76-d9269dfb4316.jpg",
+      "pageUrl": "https://www.metmuseum.org/art/collection/search/927294",
+      "author": "Edgar Degas",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "yellow",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#4d4539",
+          "rgb": [
+            77,
+            69,
+            57
+          ],
+          "ratio": 0.2696397569444444,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#c4b696",
+          "rgb": [
+            196,
+            182,
+            150
+          ],
+          "ratio": 0.23763020833333334,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#746955",
+          "rgb": [
+            116,
+            105,
+            85
+          ],
+          "ratio": 0.19921875,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#a09277",
+          "rgb": [
+            160,
+            146,
+            119
+          ],
+          "ratio": 0.1742621527777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#e9daba",
+          "rgb": [
+            233,
+            218,
+            186
+          ],
+          "ratio": 0.11924913194444445,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-08-20T20:34:56.648Z",
+      "fileKey": "openverse:3d276469-5745-42a7-86de-86b86648036c",
+      "kind": "photo",
+      "photographer": "Edgar Degas",
+      "sourceLabel": "Met Museum",
+      "contentHash": "b0fa0781785785f80fa0fa1fa0fe07e07e07"
     }
   ],
   "lastIngestDate": "2026-08-20",
@@ -87838,7 +94184,112 @@
     "openverse:4d1df5b3-a562-4a8a-8cb4-002fc3d3c80f",
     "openverse:0f293e1e-f843-49ef-9d0a-61f91ccd8dbe",
     "openverse:1e413a6a-2eb1-48a6-bba3-c6e87871d123",
-    "openverse:841ab7e2-be1c-4cdc-9373-ad361eee11b8"
+    "openverse:841ab7e2-be1c-4cdc-9373-ad361eee11b8",
+    "openverse:7c1087af-1744-4bb3-a5d8-012a1553318f",
+    "openverse:bc653c6d-949b-4224-89ec-030655a16a24",
+    "openverse:c0b35340-cfa7-465d-b14b-420c7505271e",
+    "openverse:32ebf698-8bed-4bf6-ba92-e779d3c416e4",
+    "openverse:d40fa24a-822d-4915-b120-8760050dd98e",
+    "openverse:70bbc784-265a-4e69-b75d-76d2efa09890",
+    "openverse:51530496-7225-4cd4-be4c-549b53efe941",
+    "openverse:4f1f633e-fcf5-4273-bde1-ed5732a71868",
+    "openverse:83ec25e0-84d4-4ab3-ae79-d3b33a0070b8",
+    "openverse:6025fbb8-cf5a-4a43-94b4-fb3360c620a5",
+    "openverse:94a9a97e-21fd-4978-b813-1d697cfdff4c",
+    "loc:http://www.loc.gov/item/2006676299/",
+    "openverse:3f14d30e-e4ae-4c97-a54e-e838a1491619",
+    "openverse:6bf77385-24fc-427a-aacc-aadc8e28778b",
+    "openverse:37e50fbb-f56c-45f2-8835-124fc132828e",
+    "openverse:34e4300e-e039-43ff-80b3-617b772873c1",
+    "openverse:cd07122e-e79d-4a63-b609-ab89966f6f6d",
+    "openverse:3be66ee1-f846-4aae-a312-398ddc45db4c",
+    "openverse:d4f935c9-aa9d-4ff8-a797-951989662fa3",
+    "openverse:d987a41a-c25f-4f85-9c48-b565f6d2ff33",
+    "openverse:0d1da3af-60cc-460b-adba-a53440d2417d",
+    "openverse:36bb5864-0f51-4fb3-8363-84e4aa9bc089",
+    "loc:http://www.loc.gov/item/99400762/",
+    "openverse:e216a26b-95d0-48cc-840f-ae48588ae382",
+    "openverse:1f3627e2-1599-4ebd-baee-c50aba21116b",
+    "openverse:0690fa63-1d5e-40e3-8551-cc57848cfc18",
+    "openverse:17132e00-abe3-4618-915c-5db3e0dc37e9",
+    "openverse:ba69cf3f-9bdc-413a-a17e-d1e5fc833bca",
+    "openverse:4f56f782-0d5b-4721-aa62-e284c2dfd547",
+    "openverse:d3d7b95a-ee60-40b4-af48-6cc8cf74daef",
+    "openverse:429143a0-0cd6-422a-a1c7-251dda3371de",
+    "openverse:bb3b8223-caa8-4547-98ae-8e6f3228e626",
+    "openverse:ccc5d71f-9b49-4e52-9862-24937e253dac",
+    "openverse:beacb56f-beb0-4ce9-8afe-39d8ca46731d",
+    "openverse:9d60ac60-e52c-42d5-8874-6d54053880f3",
+    "openverse:b60aced5-ace4-458d-9f73-c824bd9c82f4",
+    "openverse:7eb297a8-02d3-4a6e-825e-af31e4edd045",
+    "openverse:321eded2-4be2-4d39-a050-29297abe15a0",
+    "openverse:15ab1142-c0cc-496e-9aa5-4e8394ae3340",
+    "openverse:98f6d77a-b361-497a-be99-729dbe5d191f",
+    "openverse:6c8bf9fd-b4cc-43cf-9d20-0abb2d20a390",
+    "openverse:db97ad65-6ad7-49e1-9221-262d832d1f39",
+    "openverse:984e9c15-7ad6-4021-8dcf-7f77bbe36262",
+    "openverse:b53680cb-f0c2-4647-b7ef-9d4256276527",
+    "openverse:5131771c-82ce-440b-9473-0bebeab7ee36",
+    "openverse:279ce270-a666-408d-8046-3d6bd4882138",
+    "openverse:81b08c43-eb14-47cb-9efc-abc633d4c6b4",
+    "openverse:0e4a3ed8-f3fe-4157-9e00-f05d30b720fc",
+    "openverse:ff50d62d-46ac-496e-8d7d-74777eb98689",
+    "openverse:b464d6da-a8f0-47b9-99bf-fa35aa83ef1d",
+    "openverse:86f2ba66-c278-43a4-ac3d-e8b6e43a17af",
+    "openverse:4d5505a8-43fe-4ff8-9e10-2084f731a010",
+    "openverse:2f7359d6-9d3e-4da7-aeca-9d8f543da1c4",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1928-05-25",
+    "openverse:0a151c68-b8ba-41f3-99bd-62321b0604e2",
+    "openverse:6e5a607b-0e6c-4130-98a2-87154ffae1ec",
+    "openverse:4fd89459-4546-4eab-9e83-dfc2ad45f1b2",
+    "openverse:accd06ca-fe0c-4026-99e0-e4dfaf51aeb5",
+    "openverse:bf670da6-6824-481a-b289-9d61e1ce1103",
+    "openverse:bf67cb00-5189-4327-bbd5-473b855cb14e",
+    "openverse:4b6faa03-158f-4244-b86e-1eb7da660e27",
+    "openverse:f9f4f74e-c370-40b3-9d75-6b8bc3e206ce",
+    "openverse:163240d0-5c16-4335-930c-c622e7d67576",
+    "openverse:57d7031f-ba71-442e-ba95-baffe63656fd",
+    "openverse:ddaa1e19-7c7d-4f72-9840-e690a63a39cb",
+    "openverse:9ddcae1a-37f7-4e32-9a3d-d7114fd9a9b3",
+    "openverse:090a9959-5b44-4804-9a99-959d9485e3d4",
+    "openverse:4825c4ea-9994-424e-afc3-18c71ed1ec35",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1939-10-11",
+    "openverse:f558d6c1-d7ca-41b3-bd5a-d7564f2ca110",
+    "openverse:37faf755-4423-4186-be87-8f285dbbeffe",
+    "loc:http://www.loc.gov/item/97518873/",
+    "openverse:0adc5b11-348e-45fa-ae6b-1f03117a27ed",
+    "openverse:76512087-cdd4-4f6e-8702-e0a86955d078",
+    "openverse:cf8e5675-da45-42f3-b862-807c0078c057",
+    "openverse:b38d009f-0675-4170-9469-8fab2afa8b8c",
+    "openverse:13d41556-24a2-4020-b4b7-a806469eecf6",
+    "openverse:1a52a917-d3da-4a9e-bdbc-0fd910fa941a",
+    "openverse:eb412919-5c86-4acd-aabd-9d5d02b775df",
+    "openverse:65a4b5d5-9dfb-47ba-b0d1-c15c01959a10",
+    "openverse:8bd3ef01-3dab-43f2-8436-6482c072224a",
+    "openverse:6a36b485-a018-4a7d-b6ba-e03d73b21f9c",
+    "openverse:91e60fff-6586-45cc-9211-59852b1414b5",
+    "openverse:eb011915-8d39-45ec-b95d-b715f4efb89e",
+    "openverse:ee87145b-8c77-4295-a819-916d3b0042d7",
+    "openverse:d068b4da-d7bd-45bb-8106-da66b3fe8d47",
+    "openverse:56654106-73cc-4359-9823-a322d8c14e97",
+    "openverse:bae18e64-55c0-4d53-8aff-8d4709fc8168",
+    "openverse:c6789bca-931a-4e3b-b77a-5050ce7985e4",
+    "openverse:dbfa4a87-761d-4b4c-81a1-6522ad9a4cf2",
+    "openverse:0d271530-bb58-47a7-888c-b1e846e6a9db",
+    "openverse:c4f9f47d-0b48-4d13-87db-23d9e1d4b4ac",
+    "loc:http://www.loc.gov/item/2025710676/",
+    "openverse:fc2b5222-74c7-4583-9b90-ce599a04343f",
+    "openverse:71bc3d1f-2c1b-4675-b962-c382a266ebce",
+    "openverse:633e53eb-adb3-4069-bfff-00764ff5c26d",
+    "openverse:54b11130-4d60-4b95-9734-c901770ee85f",
+    "openverse:a460e0f3-a9dc-42b7-8768-195c129af21d",
+    "openverse:12f5a5dc-9698-4cef-a4d2-d736fdea2617",
+    "openverse:ade7e484-6498-4440-9ba6-37b603a60bdf",
+    "openverse:3c427dde-ee0c-43db-89dd-ddee6c756d6b",
+    "openverse:bf855053-6885-48ad-aff9-da1726d90dd6",
+    "loc:http://www.loc.gov/item/2019684795/",
+    "openverse:ae246441-7eea-491f-8865-f8270a632666",
+    "openverse:3d276469-5745-42a7-86de-86b86648036c"
   ],
   "seenContentHashes": [
     "ff8f20c0481cf3cffcf7ce58ffcffcffcd7e",
@@ -88570,6 +95021,86 @@
     "7f47f47e67f74ff4ff4ff0f7047407407c07",
     "e07c03c91901a452b10e1a65be5bf9cf3c03",
     "3fffffeff0c81085bc1010008231a1000fff",
-    "ffffffe0f0070060060000000000000001fc"
+    "ffffffe0f0070060060000000000000001fc",
+    "65ffaff9979d08502506e03e03f01e00e00f",
+    "67f6ff0ff2ff63f61f43f41f01b000000000",
+    "1e01f00e00e00f81f81fa5b608c0180b8020",
+    "18613e1fe4fe6fe6f66d67e67c60c000e3fe",
+    "f8ffbffb7fc3fe13c018038033737917f3ff",
+    "fbe63e43f43f61f60f20520500603601301f",
+    "04e40e40e4ce4ce4ce5de0fe1ae5a81ca588",
+    "237e1b728e300e45cc3389d9b82f27f1e7ff",
+    "3ff08806006102c04a0c820004227fffffff",
+    "dc9de00e00700f10efff0fe0c00c007c3fff",
+    "0000108518118f1bf1bf9ef99610011ff098",
+    "fffffffff1ff000fe07f2000000000000000",
+    "c27d23de3dc39c79c7bc7ffff9ff07e0ffbf",
+    "70e6606606604f03f076060060000403c000",
+    "01000000c00f00d00c80cf7ffffffcfc0ff4",
+    "ffffffffff7ff3f19f1060009399010007d0",
+    "00f19f78f70f787ff1ff0f80f00f00f80f80",
+    "ffcfc0fc1f8030001cc34ff2fe11c10cf000",
+    "efeffeefef787186182183123d021000a002",
+    "ffffff00700300300f62f421001001ffffff",
+    "0010010411511511f70631ff3ff31f39f1ff",
+    "0600f01f00f00e80f80f807207640660e61e",
+    "fffffffff7ffcff47cf78f30000200000000",
+    "01f07b87c07e27e67e27e2fe07e03e000000",
+    "0010059ffc1f87decde6da65065067867861",
+    "e00c80c809ff3ff7fffbec20dfffff000000",
+    "0c00c04c00df0ff1ff1ff7f47fffff000000",
+    "803827827803001803f5bff1f79e1fe1f7fe",
+    "ffffffffffff000ff8fffff8fbf000000000",
+    "0000f81fc1fc3fc7f83f80f0000000000070",
+    "0200200000d0f67f1fe1ff0ff6ff0ff0ff0f",
+    "fd5fa5fadfd9f81fa7c01801803203b8bb89",
+    "fff80f80700fe0349149c03d42f00f00fffc",
+    "0004c00800803f03f07f8ff8ff87f8ffcffc",
+    "20c1381f80f80f01f01f01f83ef0cb003100",
+    "0800000003807884d80dc9de3fe3ff1fc47c",
+    "0600304947d07e07c0f80bb01f80fe1ff0ff",
+    "0007ff3ff3ff7ff2ff0fd00007f03f0ff000",
+    "7fcfff03f03f1ff3ff3ff1fe000000000000",
+    "f3ffeefc3e9ecdcfcbff0f99c38c10c00000",
+    "7ff7fff3ff1ff7ff6fe0fe07420020000000",
+    "801000000879fffffffffdfd9f99e1801fff",
+    "fffffff47ce7c839cf3c03e91e01c30c3000",
+    "fffffeffcffcfe8ff8ff0fe000000700703f",
+    "ffffdfc8f08f0840d81f0000100400fe001f",
+    "0600f00f00f00f00e81f81d80000000200f0",
+    "063867ce76e72e3060061c60660228a00c00",
+    "7b07b07f87bf7bf3bf7bf3bf7fa3e43c0200",
+    "807a0780785785f81f90f81f80da07a07807",
+    "0007807c07e02c03923f749f00f00f0ff01e",
+    "fffefffffffff85ffff1f799187007003001",
+    "eff7fff60f2e02f101100000000387006f8e",
+    "7cc7cc1cc1de8cc0fc0fd079020005001000",
+    "e00c60c7887c07ec7e0de09e07e7feffbf07",
+    "fbff9f3feb6881884307281000000401ccf0",
+    "1fe1fe1ff1ff1fc1f0180000000000000004",
+    "ec3bfc3fc17cb6c90ddff0f10208f10901f8",
+    "fffffffffffffffffffffff9ff0f80100000",
+    "8028000581076ff6f13d23c7302fc2fc1eaf",
+    "17217332333317311c11c11f07f87f87e860",
+    "ffffff000000060004010f80fff5fe080201",
+    "ff0fe0fd8fe8fc0f80f00c00800000000000",
+    "1ee0e60fe124084080080480d87fd0fd4efe",
+    "0807d061173f79eff6dffbfc1dc0e0126000",
+    "33077ce70e700bcc3ce7a1e63ee07607003c",
+    "f07e018198c1b81b998418018018018f59fd",
+    "03f03f09f01f00f00f003d033ff5ff1f827f",
+    "7fc77f20f0871030173103123c13e3000078",
+    "e0fe0fe0fe0fe0fe0fe0ff0ff0ff0fe1ff1f",
+    "fff5de7ffe3c23c72362f82f032001000003",
+    "00039f0ff0ff3ff3f6f30c0848f806e1ce0c",
+    "801801801801801829801861801801801801",
+    "fbc7fc77c3801801c40f801c07a1c80c00d0",
+    "0010050650f50e10e10f11d92e7067065221",
+    "1e09f07f87ff7fe3dc1fc0b7f96c909c0380",
+    "fd1fbfaccc80fc0ffcffcff07e0380000000",
+    "f07f03e00c01000000000e00f7efffffffff",
+    "0000c01f81f87fc7fe3fc3fc0f00f01fe0fc",
+    "1c03c060ce800e0dc0df0ff8ff8fe07e03e0",
+    "b0fa0781785785f80fa0fa1fa0fe07e07e07"
   ]
 }
