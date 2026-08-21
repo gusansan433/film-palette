@@ -14,9 +14,40 @@ const BLOCKED_HOST = /wikimedia|upload\.wikimedia/i;
 const ALLOWED_LICENSE = /cc0|pdm|pd-|public domain|no known restrictions|cc-by|by-sa|by$/i;
 const BLOCKED_LICENSE = /fair use|all rights reserved|non-?commercial|nc-|nd-/i;
 const BLOCKED_TITLE =
-  /pinocchio|disney|wizard of oz|gone with the wind|casablanca|star wars|broadway rhythm|snow white|bambi|fantasia|mickey mouse|marvel|pokemon|pikachu|nintendo|spongebob|minions|harry potter|banksy|basquiat|keith haring|alexander mcqueen|mcqueen runway|vogue magazine|vintage vogue|balenciaga runway|balenciaga campaign|chanel runway|dior runway|dior campaign|lookbook|pinterest|instagram|naruto|cyberpunk|lannister|game of thrones|euphoria|fallout|caesar'?s legion|spider-?man|batman|fortnite|genshin|anime meme|meme edit/i;
+  /pinocchio|disney|wizard of oz|black narcissus|gone with the wind|casablanca|star wars|broadway rhythm|snow white|bambi|fantasia|mickey mouse|marvel|pokemon|pikachu|nintendo|spongebob|minions|harry potter|banksy|basquiat|keith haring|alexander mcqueen|mcqueen runway|vogue magazine|vintage vogue|balenciaga runway|balenciaga campaign|chanel runway|dior runway|dior campaign|lookbook|pinterest|instagram|naruto|cyberpunk|lannister|game of thrones|euphoria|fallout|caesar'?s legion|spider-?man|batman|fortnite|genshin|anime meme|meme edit/i;
+
+/** Curated PD / safer film-still targets. Skip copyrighted titles (Black Narcissus / Oz). */
+const FILM_STILL_QUERIES = [
+  "nosferatu 1922 film still public domain",
+  "nosferatu murnau movie still",
+  "nosferatu lobby card",
+  "metropolis 1927 film still public domain",
+  "metropolis lang movie still",
+  "metropolis 1927 frame",
+  "the circus chaplin 1928 film still",
+  "chaplin circus movie still public domain",
+  "toll of the sea 1922 technicolor still",
+  "toll of the sea film still public domain",
+  "becky sharp 1935 technicolor still",
+  "becky sharp film still public domain",
+  "gulf between 1917 film still",
+  "thief of bagdad public domain film still",
+  "thief of bagdad commons still",
+  "memphis belle 1944 film still",
+  "memphis belle documentary still public domain",
+  "technicolor public domain film still",
+  "library of congress film still",
+  "library of congress movie still",
+  "nasa color film photograph",
+  "wwii documentary film still public domain",
+  "world war ii propaganda film still",
+  "aviation documentary film still public domain",
+  "movie still lobby card public domain",
+  "silent film still public domain",
+];
 
 const QUERIES = [
+  ...FILM_STILL_QUERIES,
   "charade 1963 color still",
   "king of jazz 1930 technicolor still",
   "sintel blender screenshot",
@@ -79,7 +110,7 @@ function licenseOk(license: string) {
 }
 
 function looksLikeFilm(text: string) {
-  return /\b(film|movie|cinema|trailer|screenshot|motion picture|silent film|nosferatu|metropolis|chaplin|keaton|murnau|melies|caligari|pickford|fairbanks|charade|sintel|blender)\b/i.test(
+  return /\b(film|movie|cinema|trailer|screenshot|motion picture|silent film|lobby card|frame|nosferatu|metropolis|chaplin|keaton|murnau|melies|caligari|pickford|fairbanks|charade|sintel|blender|toll of the sea|becky sharp|gulf between|thief of bagdad|memphis belle|technicolor)\b/i.test(
     text,
   );
 }
@@ -291,6 +322,7 @@ async function collectOpenverse(seen: Set<string>) {
             license: license.toUpperCase(),
             licenseUrl: row.license_url,
             source: "openverse",
+            kind: "film",
           });
         }
       } catch (error) {
@@ -448,6 +480,13 @@ async function collectLoc(seen: Set<string>) {
     { q: "motion picture stills", sp: 41 },
     { q: "motion picture stills", sp: 81 },
     { q: "chaplin film still", sp: 1 },
+    { q: "the circus chaplin still", sp: 1 },
+    { q: "nosferatu film still", sp: 1 },
+    { q: "metropolis 1927 still", sp: 1 },
+    { q: "toll of the sea still", sp: 1 },
+    { q: "becky sharp still", sp: 1 },
+    { q: "memphis belle film still", sp: 1 },
+    { q: "world war ii film still", sp: 1 },
     { q: "buster keaton still", sp: 1 },
     { q: "mary pickford still", sp: 1 },
     { q: "douglas fairbanks still", sp: 1 },
@@ -501,6 +540,7 @@ async function collectLoc(seen: Set<string>) {
           author: "Library of Congress",
           license: rights || "No known restrictions / public domain",
           source: "loc",
+          kind: "film",
         });
       }
     } catch (error) {
@@ -545,6 +585,7 @@ async function collectArchive(seen: Set<string>) {
           license: row.licenseurl || "Public domain",
           licenseUrl: row.licenseurl,
           source: "archive",
+          kind: "film",
         });
       }
     } catch (error) {

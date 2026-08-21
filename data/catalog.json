@@ -145208,7 +145208,1482 @@
       "kind": "film",
       "photographer": "God Dress You",
       "sourceLabel": "维基共享资源",
-      "contentHash": "000338f8cfccfe8f88f00ee0df09f01f09e0"
+      "contentHash": "000338f8cfccfe8f88f00ee0df09f01f09e0",
+      "category": "film",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "04c9b5e3-b638-4844-809d-d06de098e614",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/04c9b5e3-b638-4844-809d-d06de098e614.jpg",
+      "thumbUrl": "/stills/04c9b5e3-b638-4844-809d-d06de098e614.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_104761",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_104761",
+      "buckets": [
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#ae8b58",
+          "rgb": [
+            174,
+            139,
+            88
+          ],
+          "ratio": 0.2488064236111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#654827",
+          "rgb": [
+            101,
+            72,
+            39
+          ],
+          "ratio": 0.2165798611111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#8c673b",
+          "rgb": [
+            140,
+            103,
+            59
+          ],
+          "ratio": 0.20203993055555555,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#422e1a",
+          "rgb": [
+            66,
+            46,
+            26
+          ],
+          "ratio": 0.1689453125,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#d2b580",
+          "rgb": [
+            210,
+            181,
+            128
+          ],
+          "ratio": 0.1636284722222222,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-08-21T12:47:46.633Z",
+      "fileKey": "archive:mma_dress_104761",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "1fc7f8c0281707f807c02f5277b27d07e4f0",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "58b80571-0dc6-4c67-aacc-5e55db0d801d",
+      "title": "Les Robes de Paul Poiret Racontée par Paul Iribe (The Gowns of Paul Poiret by Paul Iribe), anonymous, 1908",
+      "titleEn": "Les Robes de Paul Poiret Racontée par Paul Iribe (The Gowns of Paul Poiret by Paul Iribe), anonymous, 1908",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/58b80571-0dc6-4c67-aacc-5e55db0d801d.jpg",
+      "thumbUrl": "/stills/58b80571-0dc6-4c67-aacc-5e55db0d801d.jpg",
+      "pageUrl": "https://www.rijksmuseum.nl/en/collection/RP-P-2009-3856",
+      "author": "anonymous",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "orange",
+        "brown",
+        "blue"
+      ],
+      "palette": [
+        {
+          "hex": "#ecd7bc",
+          "rgb": [
+            236,
+            215,
+            188
+          ],
+          "ratio": 0.5581597222222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#99675a",
+          "rgb": [
+            153,
+            103,
+            90
+          ],
+          "ratio": 0.2482638888888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#224166",
+          "rgb": [
+            34,
+            65,
+            102
+          ],
+          "ratio": 0.08702256944444445,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#c1ac95",
+          "rgb": [
+            193,
+            172,
+            149
+          ],
+          "ratio": 0.08452690972222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#fcf1e8",
+          "rgb": [
+            252,
+            241,
+            232
+          ],
+          "ratio": 0.022026909722222224,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-08-21T12:47:49.270Z",
+      "fileKey": "openverse:32dda86e-6157-4219-b016-64e60f3ba286",
+      "kind": "photo",
+      "photographer": "anonymous",
+      "sourceLabel": "Rijksmuseum",
+      "contentHash": "f8bfa3f03f03f03f01d01f83f83c03f91fff",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "596a934c-7b47-4833-9d26-be9d7384d1ab",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/596a934c-7b47-4833-9d26-be9d7384d1ab.jpg",
+      "thumbUrl": "/stills/596a934c-7b47-4833-9d26-be9d7384d1ab.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_90510",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_90510",
+      "buckets": [
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#d5ba92",
+          "rgb": [
+            213,
+            186,
+            146
+          ],
+          "ratio": 0.3511284722222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#caab7f",
+          "rgb": [
+            202,
+            171,
+            127
+          ],
+          "ratio": 0.2544487847222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#b39465",
+          "rgb": [
+            179,
+            148,
+            101
+          ],
+          "ratio": 0.2162543402777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#957345",
+          "rgb": [
+            149,
+            115,
+            69
+          ],
+          "ratio": 0.1519097222222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#ddceaf",
+          "rgb": [
+            221,
+            206,
+            175
+          ],
+          "ratio": 0.026258680555555556,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-08-21T12:48:00.366Z",
+      "fileKey": "archive:mma_dress_90510",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "fe4fc774760b08e00c604447ccfcc93b9ff0",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "eb9c657d-6daa-4fac-89bc-a57deb2ed0c5",
+      "title": "Design costume Boschnymph (1910) painting",
+      "titleEn": "Design costume Boschnymph (1910) painting",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/eb9c657d-6daa-4fac-89bc-a57deb2ed0c5.jpg",
+      "thumbUrl": "/stills/eb9c657d-6daa-4fac-89bc-a57deb2ed0c5.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/3125546/illustration-image-art-people",
+      "author": "rijksmuseum",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "black",
+        "yellow",
+        "orange",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#77755c",
+          "rgb": [
+            119,
+            117,
+            92
+          ],
+          "ratio": 0.2976345486111111,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#1b1c20",
+          "rgb": [
+            27,
+            28,
+            32
+          ],
+          "ratio": 0.2720269097222222,
+          "bucket": "black"
+        },
+        {
+          "hex": "#101014",
+          "rgb": [
+            16,
+            16,
+            20
+          ],
+          "ratio": 0.2153862847222222,
+          "bucket": "black"
+        },
+        {
+          "hex": "#ceb393",
+          "rgb": [
+            206,
+            179,
+            147
+          ],
+          "ratio": 0.1130642361111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#2e2e2f",
+          "rgb": [
+            46,
+            46,
+            47
+          ],
+          "ratio": 0.10188802083333333,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-08-21T12:48:07.329Z",
+      "fileKey": "openverse:8e39bf5e-5387-4f17-bb8f-8e884dac1e8b",
+      "kind": "photo",
+      "photographer": "Design costume Boschnymph",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "0e21fe1fc1fc1fc1fc1f80f00f00f00d004b",
+      "category": "painting",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "f02ec3c5-5bc2-4a80-9342-bf0cbeceda7a",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/f02ec3c5-5bc2-4a80-9342-bf0cbeceda7a.jpg",
+      "thumbUrl": "/stills/f02ec3c5-5bc2-4a80-9342-bf0cbeceda7a.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_82317",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_82317",
+      "buckets": [
+        "green",
+        "orange",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#d1cabe",
+          "rgb": [
+            209,
+            202,
+            190
+          ],
+          "ratio": 0.3607855902777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#4c5633",
+          "rgb": [
+            76,
+            86,
+            51
+          ],
+          "ratio": 0.1830512152777778,
+          "bucket": "green"
+        },
+        {
+          "hex": "#768155",
+          "rgb": [
+            118,
+            129,
+            85
+          ],
+          "ratio": 0.1808810763888889,
+          "bucket": "green"
+        },
+        {
+          "hex": "#b1ac9a",
+          "rgb": [
+            177,
+            172,
+            154
+          ],
+          "ratio": 0.1603732638888889,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#1c2011",
+          "rgb": [
+            28,
+            32,
+            17
+          ],
+          "ratio": 0.11490885416666667,
+          "bucket": "green"
+        }
+      ],
+      "addedAt": "2026-08-21T12:48:15.065Z",
+      "fileKey": "archive:mma_dress_82317",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "f9ff9ff1ff0fe07f07e03e03e01e01c01c00",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "3039c4c0-31e1-4b0e-bc05-f5dc555b7db0",
+      "title": "Evening ensemble | Jean-Philippe Worth|Charles Frederick Worth|House of Worth French, 1856–1926|French (born England), Bourne 1825–1895 Paris|French, 1858–1956",
+      "titleEn": "Evening ensemble | Jean-Philippe Worth|Charles Frederick Worth|House of Worth French, 1856–1926|French (born England), Bourne 1825–1895 Paris|French, 1858–1956",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/3039c4c0-31e1-4b0e-bc05-f5dc555b7db0.jpg",
+      "thumbUrl": "/stills/3039c4c0-31e1-4b0e-bc05-f5dc555b7db0.jpg",
+      "pageUrl": "https://www.flickr.com/photos/200781279@N05/53909281720",
+      "author": "museado",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "red",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#512e25",
+          "rgb": [
+            81,
+            46,
+            37
+          ],
+          "ratio": 0.37890625,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#2f181b",
+          "rgb": [
+            47,
+            24,
+            27
+          ],
+          "ratio": 0.24251302083333334,
+          "bucket": "red"
+        },
+        {
+          "hex": "#725342",
+          "rgb": [
+            114,
+            83,
+            66
+          ],
+          "ratio": 0.1662326388888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#99826b",
+          "rgb": [
+            153,
+            130,
+            107
+          ],
+          "ratio": 0.1579861111111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d6c8b3",
+          "rgb": [
+            214,
+            200,
+            179
+          ],
+          "ratio": 0.054361979166666664,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-08-21T12:48:46.020Z",
+      "fileKey": "openverse:aa5e617d-230d-42b4-b10a-e00f515ba27c",
+      "kind": "photo",
+      "photographer": "museado",
+      "sourceLabel": "Flickr",
+      "contentHash": "0c01e03f03701f01e01e01e01f01f017037c",
+      "category": "photo",
+      "subjects": [
+        "city",
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "f3fb278f-7d86-4625-a382-a6b2c09a565c",
+      "title": "Dressing gown",
+      "titleEn": "Dressing gown",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/f3fb278f-7d86-4625-a382-a6b2c09a565c.jpg",
+      "thumbUrl": "/stills/f3fb278f-7d86-4625-a382-a6b2c09a565c.jpg",
+      "pageUrl": "https://archive.org/details/mma_dressing_gown_108980",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dressing_gown_108980",
+      "buckets": [
+        "yellow",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#ede6c0",
+          "rgb": [
+            237,
+            230,
+            192
+          ],
+          "ratio": 0.3419053819444444,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#dace9a",
+          "rgb": [
+            218,
+            206,
+            154
+          ],
+          "ratio": 0.3139105902777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#2b201b",
+          "rgb": [
+            43,
+            32,
+            27
+          ],
+          "ratio": 0.1159939236111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#a59767",
+          "rgb": [
+            165,
+            151,
+            103
+          ],
+          "ratio": 0.11414930555555555,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#695a3b",
+          "rgb": [
+            105,
+            90,
+            59
+          ],
+          "ratio": 0.1140407986111111,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-08-21T12:49:01.799Z",
+      "fileKey": "archive:mma_dressing_gown_108980",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "1fffff064464fffffe0000007fceccffe000",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "aebdac4c-6de6-47e9-a534-c6b6e817520c",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/aebdac4c-6de6-47e9-a534-c6b6e817520c.jpg",
+      "thumbUrl": "/stills/aebdac4c-6de6-47e9-a534-c6b6e817520c.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_103068",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_103068",
+      "buckets": [
+        "red",
+        "yellow",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#a44631",
+          "rgb": [
+            164,
+            70,
+            49
+          ],
+          "ratio": 0.283203125,
+          "bucket": "red"
+        },
+        {
+          "hex": "#f0f0ea",
+          "rgb": [
+            240,
+            240,
+            234
+          ],
+          "ratio": 0.2737630208333333,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#9b1b13",
+          "rgb": [
+            155,
+            27,
+            19
+          ],
+          "ratio": 0.1978081597222222,
+          "bucket": "red"
+        },
+        {
+          "hex": "#ad8861",
+          "rgb": [
+            173,
+            136,
+            97
+          ],
+          "ratio": 0.1586371527777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#22110d",
+          "rgb": [
+            34,
+            17,
+            13
+          ],
+          "ratio": 0.08658854166666667,
+          "bucket": "red"
+        }
+      ],
+      "addedAt": "2026-08-21T12:49:16.494Z",
+      "fileKey": "archive:mma_dress_103068",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "fff8f1801c03c07803001000000000801fff",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "b5091346-55e9-4b05-bc2d-8c67c26de624",
+      "title": "Ball gown",
+      "titleEn": "Ball gown",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/b5091346-55e9-4b05-bc2d-8c67c26de624.jpg",
+      "thumbUrl": "/stills/b5091346-55e9-4b05-bc2d-8c67c26de624.jpg",
+      "pageUrl": "https://archive.org/details/mma_ball_gown_107998",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_ball_gown_107998",
+      "buckets": [
+        "yellow",
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#b59d6c",
+          "rgb": [
+            181,
+            157,
+            108
+          ],
+          "ratio": 0.2978515625,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#a78745",
+          "rgb": [
+            167,
+            135,
+            69
+          ],
+          "ratio": 0.24446614583333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#c7b283",
+          "rgb": [
+            199,
+            178,
+            131
+          ],
+          "ratio": 0.24229600694444445,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#c1b6a1",
+          "rgb": [
+            193,
+            182,
+            161
+          ],
+          "ratio": 0.11881510416666667,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#836023",
+          "rgb": [
+            131,
+            96,
+            35
+          ],
+          "ratio": 0.09657118055555555,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-08-21T12:49:27.507Z",
+      "fileKey": "archive:mma_ball_gown_107998",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "e7ce40ffeffffffd00100000fc0fe0fe0ff0",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "2867617c-69e3-467b-9c5c-9bb811b8156f",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/2867617c-69e3-467b-9c5c-9bb811b8156f.jpg",
+      "thumbUrl": "/stills/2867617c-69e3-467b-9c5c-9bb811b8156f.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_107008",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_107008",
+      "buckets": [
+        "white",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#72664b",
+          "rgb": [
+            114,
+            102,
+            75
+          ],
+          "ratio": 0.3177083333333333,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#f8f8f6",
+          "rgb": [
+            248,
+            248,
+            246
+          ],
+          "ratio": 0.2776692708333333,
+          "bucket": "white"
+        },
+        {
+          "hex": "#eae9e6",
+          "rgb": [
+            234,
+            233,
+            230
+          ],
+          "ratio": 0.22233072916666666,
+          "bucket": "white"
+        },
+        {
+          "hex": "#2d261b",
+          "rgb": [
+            45,
+            38,
+            27
+          ],
+          "ratio": 0.16688368055555555,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#bbb6ab",
+          "rgb": [
+            187,
+            182,
+            171
+          ],
+          "ratio": 0.015407986111111112,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-08-21T12:49:31.636Z",
+      "fileKey": "archive:mma_dress_107008",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "f3ff1ff07e07e03e03e03e03e03e03e03e03",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "03aba0c0-83d3-48f8-9eef-8095505b24e9",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/03aba0c0-83d3-48f8-9eef-8095505b24e9.jpg",
+      "thumbUrl": "/stills/03aba0c0-83d3-48f8-9eef-8095505b24e9.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_103522",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_103522",
+      "buckets": [
+        "brown",
+        "orange",
+        "red"
+      ],
+      "palette": [
+        {
+          "hex": "#f4f0ee",
+          "rgb": [
+            244,
+            240,
+            238
+          ],
+          "ratio": 0.2559678819444444,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#582b1f",
+          "rgb": [
+            88,
+            43,
+            31
+          ],
+          "ratio": 0.23914930555555555,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#9a2821",
+          "rgb": [
+            154,
+            40,
+            33
+          ],
+          "ratio": 0.23133680555555555,
+          "bucket": "red"
+        },
+        {
+          "hex": "#714935",
+          "rgb": [
+            113,
+            73,
+            53
+          ],
+          "ratio": 0.15831163194444445,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#2d1a11",
+          "rgb": [
+            45,
+            26,
+            17
+          ],
+          "ratio": 0.115234375,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-08-21T12:49:34.412Z",
+      "fileKey": "archive:mma_dress_103522",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "fffeefc07801001000000000000000801f8f",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "189aae5f-8b66-4386-b922-cb7abc5dca86",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/189aae5f-8b66-4386-b922-cb7abc5dca86.jpg",
+      "thumbUrl": "/stills/189aae5f-8b66-4386-b922-cb7abc5dca86.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_100020",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_100020",
+      "buckets": [
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#927140",
+          "rgb": [
+            146,
+            113,
+            64
+          ],
+          "ratio": 0.4241536458333333,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#9f8154",
+          "rgb": [
+            159,
+            129,
+            84
+          ],
+          "ratio": 0.2322048611111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#7c5f2e",
+          "rgb": [
+            124,
+            95,
+            46
+          ],
+          "ratio": 0.1745876736111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#4a3915",
+          "rgb": [
+            74,
+            57,
+            21
+          ],
+          "ratio": 0.10514322916666667,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#bda276",
+          "rgb": [
+            189,
+            162,
+            118
+          ],
+          "ratio": 0.06391059027777778,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-08-21T12:49:36.891Z",
+      "fileKey": "archive:mma_dress_100020",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "ffff1efdcfffe7f77c714fffb04100000109",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "89ef3575-aa8a-4280-a371-217a54879e24",
+      "title": "Afternoon jacket | Jean-Philippe Worth|Charles Frederick Worth|House of Worth French, 1856–1926|French (born England), Bourne 1825–1895 Paris|French, 1858–1956",
+      "titleEn": "Afternoon jacket | Jean-Philippe Worth|Charles Frederick Worth|House of Worth French, 1856–1926|French (born England), Bourne 1825–1895 Paris|French, 1858–1956",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/89ef3575-aa8a-4280-a371-217a54879e24.jpg",
+      "thumbUrl": "/stills/89ef3575-aa8a-4280-a371-217a54879e24.jpg",
+      "pageUrl": "https://www.flickr.com/photos/200781279@N05/53907951937",
+      "author": "museado",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "gray",
+        "black",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#888676",
+          "rgb": [
+            136,
+            134,
+            118
+          ],
+          "ratio": 0.2932942708333333,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#6d695b",
+          "rgb": [
+            109,
+            105,
+            91
+          ],
+          "ratio": 0.2439236111111111,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#141014",
+          "rgb": [
+            20,
+            16,
+            20
+          ],
+          "ratio": 0.22645399305555555,
+          "bucket": "black"
+        },
+        {
+          "hex": "#524a41",
+          "rgb": [
+            82,
+            74,
+            65
+          ],
+          "ratio": 0.15885416666666666,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#bdbcaa",
+          "rgb": [
+            189,
+            188,
+            170
+          ],
+          "ratio": 0.07747395833333333,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-08-21T12:49:38.485Z",
+      "fileKey": "openverse:79ecbbf7-4462-4a2a-9654-6706de60f059",
+      "kind": "photo",
+      "photographer": "museado",
+      "sourceLabel": "Flickr",
+      "contentHash": "3ff38f38f3e73cf18f107707f07f07e07c07",
+      "category": "photo",
+      "subjects": [
+        "city",
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "e09af01b-a327-431b-8614-df8ffba11ee3",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/e09af01b-a327-431b-8614-df8ffba11ee3.jpg",
+      "thumbUrl": "/stills/e09af01b-a327-431b-8614-df8ffba11ee3.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_108005",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_108005",
+      "buckets": [
+        "white",
+        "orange",
+        "gray",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#dedede",
+          "rgb": [
+            222,
+            222,
+            222
+          ],
+          "ratio": 0.3372395833333333,
+          "bucket": "white"
+        },
+        {
+          "hex": "#cccac8",
+          "rgb": [
+            204,
+            202,
+            200
+          ],
+          "ratio": 0.23079427083333334,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#9a7e61",
+          "rgb": [
+            154,
+            126,
+            97
+          ],
+          "ratio": 0.20930989583333334,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#674f38",
+          "rgb": [
+            103,
+            79,
+            56
+          ],
+          "ratio": 0.12261284722222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#baa794",
+          "rgb": [
+            186,
+            167,
+            148
+          ],
+          "ratio": 0.10004340277777778,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-08-21T12:50:10.187Z",
+      "fileKey": "archive:mma_dress_108005",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "e6fe6fe67c67c27e07e07803801c01e01fff",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "ab040fce-aa60-4fa8-a49b-ed94220feb21",
+      "title": "Evening dress",
+      "titleEn": "Evening dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/ab040fce-aa60-4fa8-a49b-ed94220feb21.jpg",
+      "thumbUrl": "/stills/ab040fce-aa60-4fa8-a49b-ed94220feb21.jpg",
+      "pageUrl": "https://archive.org/details/mma_evening_dress_90846",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_evening_dress_90846",
+      "buckets": [
+        "blue",
+        "orange",
+        "black"
+      ],
+      "palette": [
+        {
+          "hex": "#efe9e0",
+          "rgb": [
+            239,
+            233,
+            224
+          ],
+          "ratio": 0.3738064236111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#20212a",
+          "rgb": [
+            32,
+            33,
+            42
+          ],
+          "ratio": 0.3050130208333333,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#101011",
+          "rgb": [
+            16,
+            16,
+            17
+          ],
+          "ratio": 0.21158854166666666,
+          "bucket": "black"
+        },
+        {
+          "hex": "#32354f",
+          "rgb": [
+            50,
+            53,
+            79
+          ],
+          "ratio": 0.09266493055555555,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#959291",
+          "rgb": [
+            149,
+            146,
+            145
+          ],
+          "ratio": 0.016927083333333332,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-08-21T12:50:13.997Z",
+      "fileKey": "archive:mma_evening_dress_90846",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "f0fe0fe07e07e07e07c03c03803801801801",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "2dea4319-802c-4de4-a9cb-7cc9cede1a65",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/2dea4319-802c-4de4-a9cb-7cc9cede1a65.jpg",
+      "thumbUrl": "/stills/2dea4319-802c-4de4-a9cb-7cc9cede1a65.jpg",
+      "pageUrl": "https://www.metmuseum.org/art/collection/search/175014",
+      "author": "met",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "gray",
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#a59e99",
+          "rgb": [
+            165,
+            158,
+            153
+          ],
+          "ratio": 0.4339192708333333,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#92837b",
+          "rgb": [
+            146,
+            131,
+            123
+          ],
+          "ratio": 0.2390407986111111,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#c8baac",
+          "rgb": [
+            200,
+            186,
+            172
+          ],
+          "ratio": 0.146484375,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#7a6256",
+          "rgb": [
+            122,
+            98,
+            86
+          ],
+          "ratio": 0.12456597222222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#483327",
+          "rgb": [
+            72,
+            51,
+            39
+          ],
+          "ratio": 0.055989583333333336,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-08-21T12:50:26.163Z",
+      "fileKey": "openverse:0386f367-b136-4ee1-a711-67f97cb51d25",
+      "kind": "photo",
+      "photographer": "met",
+      "sourceLabel": "Met Museum",
+      "contentHash": "fff6f779f70760f603603623627623282000",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "319ee97d-2fd5-49d5-9ff5-f97ebe23926b",
+      "title": "Evening dress | Charles Frederick Worth|House of Worth French (born England), Bourne 1825–1895 Paris|French, 1858–1956",
+      "titleEn": "Evening dress | Charles Frederick Worth|House of Worth French (born England), Bourne 1825–1895 Paris|French, 1858–1956",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/319ee97d-2fd5-49d5-9ff5-f97ebe23926b.jpg",
+      "thumbUrl": "/stills/319ee97d-2fd5-49d5-9ff5-f97ebe23926b.jpg",
+      "pageUrl": "https://www.flickr.com/photos/200781279@N05/53908840916",
+      "author": "museado",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "black",
+        "red",
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#190b14",
+          "rgb": [
+            25,
+            11,
+            20
+          ],
+          "ratio": 0.3772786458333333,
+          "bucket": "black"
+        },
+        {
+          "hex": "#33171d",
+          "rgb": [
+            51,
+            23,
+            29
+          ],
+          "ratio": 0.2807074652777778,
+          "bucket": "red"
+        },
+        {
+          "hex": "#927a61",
+          "rgb": [
+            146,
+            122,
+            97
+          ],
+          "ratio": 0.1435546875,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#5b4335",
+          "rgb": [
+            91,
+            67,
+            53
+          ],
+          "ratio": 0.11143663194444445,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#cab79b",
+          "rgb": [
+            202,
+            183,
+            155
+          ],
+          "ratio": 0.08702256944444445,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-08-21T12:50:28.247Z",
+      "fileKey": "openverse:06312795-7e9e-41c0-85d1-cc247306dd29",
+      "kind": "photo",
+      "photographer": "museado",
+      "sourceLabel": "Flickr",
+      "contentHash": "0600740fe0fc0f80f80f80f80f80f81683f8",
+      "category": "photo",
+      "subjects": [
+        "city",
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "8b08c0f0-1564-485b-b0bc-27b328458943",
+      "title": "Walking suit | House of Worth|Charles Frederick Worth French, 1858–1956|French (born England), Bourne 1825–1895 Paris",
+      "titleEn": "Walking suit | House of Worth|Charles Frederick Worth French, 1858–1956|French (born England), Bourne 1825–1895 Paris",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/8b08c0f0-1564-485b-b0bc-27b328458943.jpg",
+      "thumbUrl": "/stills/8b08c0f0-1564-485b-b0bc-27b328458943.jpg",
+      "pageUrl": "https://www.flickr.com/photos/200781279@N05/53909281380",
+      "author": "museado",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#523322",
+          "rgb": [
+            82,
+            51,
+            34
+          ],
+          "ratio": 0.3504774305555556,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#6e492f",
+          "rgb": [
+            110,
+            73,
+            47
+          ],
+          "ratio": 0.23372395833333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#946944",
+          "rgb": [
+            148,
+            105,
+            68
+          ],
+          "ratio": 0.1609157986111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#c59563",
+          "rgb": [
+            197,
+            149,
+            99
+          ],
+          "ratio": 0.1394314236111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#39211a",
+          "rgb": [
+            57,
+            33,
+            26
+          ],
+          "ratio": 0.1154513888888889,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-08-21T12:50:29.421Z",
+      "fileKey": "openverse:f9bb6199-36ec-4fba-b81c-7b012c8752b8",
+      "kind": "photo",
+      "photographer": "museado",
+      "sourceLabel": "Flickr",
+      "contentHash": "0200f81bc1fe1dc1fc1f01e01e01e01f03e0"
     }
   ],
   "lastIngestDate": "2026-08-21",
@@ -147902,7 +149377,39 @@
     "File:The Successor (2015 documentary film) - film still 04.jpg",
     "File:Doug. Fairbanks (\"Thief of Bagdad\") LCCN2014716275.jpg",
     "File:Caminandes, Gran Dillama - Blender Foundation.webm",
-    "File:God Dress You (2021 short film) - film still 01.jpg"
+    "File:God Dress You (2021 short film) - film still 01.jpg",
+    "archive:clevelandart-1931.445.f-woman-s-costume-meta",
+    "archive:mma_dress_103531",
+    "archive:mma_dress_104761",
+    "openverse:32dda86e-6157-4219-b016-64e60f3ba286",
+    "archive:mma_dress_107019",
+    "archive:mma_dress_90510",
+    "openverse:8e39bf5e-5387-4f17-bb8f-8e884dac1e8b",
+    "archive:mma_dress_82317",
+    "loc:http://www.loc.gov/item/91796699/",
+    "openverse:aa5e617d-230d-42b4-b10a-e00f515ba27c",
+    "loc:http://www.loc.gov/item/2013646808/",
+    "archive:mma_dressing_gown_108980",
+    "loc:http://www.loc.gov/item/2016883436/",
+    "archive:mma_dress_103068",
+    "openverse:e29a6b9f-a9a1-4dd9-b971-cd78edadde4d",
+    "archive:mma_ball_gown_107998",
+    "archive:mma_dress_82336",
+    "archive:mma_dress_107008",
+    "archive:mma_dress_103522",
+    "archive:mma_dress_100020",
+    "openverse:79ecbbf7-4462-4a2a-9654-6706de60f059",
+    "archive:clevelandart-1924.149-woman-s-dress-one-pa",
+    "archive:clevelandart-1931.445.g-woman-s-costume-meta",
+    "archive:mma_dress_108005",
+    "archive:mma_bridesmaid_dress_174716",
+    "archive:mma_evening_dress_90846",
+    "archive:clevelandart-1931.445.n-woman-s-costume-earr",
+    "archive:mma_ball_gown_82148",
+    "openverse:3c7277d4-2cd4-4f8e-8734-b13aee1b994f",
+    "openverse:0386f367-b136-4ee1-a711-67f97cb51d25",
+    "openverse:06312795-7e9e-41c0-85d1-cc247306dd29",
+    "openverse:f9bb6199-36ec-4fba-b81c-7b012c8752b8"
   ],
   "seenContentHashes": [
     "ff8f20c0481cf3cffcf7ce58ffcffcffcd7e",
@@ -149481,6 +150988,24 @@
     "fffffff87c018008000c00e08c48c12c7fff",
     "7fcffcffebe07e0ffffff000000000000000",
     "bbffffffeffef86f86f0040000059eee0000",
-    "000338f8cfccfe8f88f00ee0df09f01f09e0"
+    "000338f8cfccfe8f88f00ee0df09f01f09e0",
+    "1fc7f8c0281707f807c02f5277b27d07e4f0",
+    "f8bfa3f03f03f03f01d01f83f83c03f91fff",
+    "fe4fc774760b08e00c604447ccfcc93b9ff0",
+    "0e21fe1fc1fc1fc1fc1f80f00f00f00d004b",
+    "f9ff9ff1ff0fe07f07e03e03e01e01c01c00",
+    "0c01e03f03701f01e01e01e01f01f017037c",
+    "1fffff064464fffffe0000007fceccffe000",
+    "fff8f1801c03c07803001000000000801fff",
+    "e7ce40ffeffffffd00100000fc0fe0fe0ff0",
+    "f3ff1ff07e07e03e03e03e03e03e03e03e03",
+    "fffeefc07801001000000000000000801f8f",
+    "ffff1efdcfffe7f77c714fffb04100000109",
+    "3ff38f38f3e73cf18f107707f07f07e07c07",
+    "e6fe6fe67c67c27e07e07803801c01e01fff",
+    "f0fe0fe07e07e07e07c03c03803801801801",
+    "fff6f779f70760f603603623627623282000",
+    "0600740fe0fc0f80f80f80f80f80f81683f8",
+    "0200f81bc1fe1dc1fc1f01e01e01e01f03e0"
   ]
 }

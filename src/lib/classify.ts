@@ -80,8 +80,18 @@ export function classifyCategory(item: Pick<CatalogItem, "title" | "kind" | "fil
     return "film";
   }
   if (
-    /\b(film|movie|cinema|screenshot|chaplin|keaton|nosferatu|metropolis|sintel)\b/i.test(text) &&
+    /\b(film|movie|cinema|screenshot|lobby card|chaplin|keaton|nosferatu|metropolis|sintel|toll of the sea|becky sharp|memphis belle|thief of bagdad|technicolor)\b/i.test(
+      text,
+    ) &&
     item.source !== "openverse"
+  ) {
+    return "film";
+  }
+  if (
+    /\b(nosferatu|metropolis|toll of the sea|becky sharp|gulf between|memphis belle|thief of bagdad|the circus)\b/i.test(
+      text,
+    ) &&
+    /\b(still|frame|lobby|screenshot|film|movie)\b/i.test(text)
   ) {
     return "film";
   }
