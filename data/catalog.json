@@ -146683,7 +146683,5850 @@
       "kind": "photo",
       "photographer": "museado",
       "sourceLabel": "Flickr",
-      "contentHash": "0200f81bc1fe1dc1fc1f01e01e01e01f03e0"
+      "contentHash": "0200f81bc1fe1dc1fc1f01e01e01e01f03e0",
+      "category": "photo",
+      "subjects": [
+        "city",
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "e2a7d4e8-f48b-48b4-be19-a1f5a3787827",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/e2a7d4e8-f48b-48b4-be19-a1f5a3787827.jpg",
+      "thumbUrl": "/stills/e2a7d4e8-f48b-48b4-be19-a1f5a3787827.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_103006",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_103006",
+      "buckets": [
+        "yellow",
+        "black"
+      ],
+      "palette": [
+        {
+          "hex": "#1d1e22",
+          "rgb": [
+            29,
+            30,
+            34
+          ],
+          "ratio": 0.3778211805555556,
+          "bucket": "black"
+        },
+        {
+          "hex": "#e3dbbd",
+          "rgb": [
+            227,
+            219,
+            189
+          ],
+          "ratio": 0.2637803819444444,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#d3caa9",
+          "rgb": [
+            211,
+            202,
+            169
+          ],
+          "ratio": 0.2099609375,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#f0ebcf",
+          "rgb": [
+            240,
+            235,
+            207
+          ],
+          "ratio": 0.125,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#928370",
+          "rgb": [
+            146,
+            131,
+            112
+          ],
+          "ratio": 0.0234375,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-08-21T12:50:40.412Z",
+      "fileKey": "archive:mma_dress_103006",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "0007bc7f41f03f03f87fc7fcffeffeffe1f0",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "60ceae21-503b-4752-95d6-0488e3256f1d",
+      "title": "[Geraldine Farrar, dressed in costume as Joan of Arc, holding a flag]",
+      "titleEn": "[Geraldine Farrar, dressed in costume as Joan of Arc, holding a flag]",
+      "titleZh": "",
+      "director": "",
+      "source": "loc",
+      "imageUrl": "/stills/60ceae21-503b-4752-95d6-0488e3256f1d.jpg",
+      "thumbUrl": "/stills/60ceae21-503b-4752-95d6-0488e3256f1d.jpg",
+      "pageUrl": "https://www.loc.gov/item/2006685388/",
+      "author": "Library of Congress",
+      "license": "No known restrictions / public domain",
+      "licenseUrl": "https://www.loc.gov/item/2006685388/",
+      "buckets": [
+        "gray",
+        "brown",
+        "black"
+      ],
+      "palette": [
+        {
+          "hex": "#a9a69b",
+          "rgb": [
+            169,
+            166,
+            155
+          ],
+          "ratio": 0.3629557291666667,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#221e1b",
+          "rgb": [
+            34,
+            30,
+            27
+          ],
+          "ratio": 0.22276475694444445,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#413c36",
+          "rgb": [
+            65,
+            60,
+            54
+          ],
+          "ratio": 0.1625434027777778,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#2d2a26",
+          "rgb": [
+            45,
+            42,
+            38
+          ],
+          "ratio": 0.1433376736111111,
+          "bucket": "black"
+        },
+        {
+          "hex": "#746f67",
+          "rgb": [
+            116,
+            111,
+            103
+          ],
+          "ratio": 0.1083984375,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-08-21T12:51:17.550Z",
+      "fileKey": "loc:http://www.loc.gov/item/2006685388/",
+      "kind": "photo",
+      "photographer": "Library of Congress",
+      "sourceLabel": "美国国会图书馆",
+      "contentHash": "d079039239b39b3933973963873863803f03",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "97f1d03c-5f19-493b-8704-3b9722afe271",
+      "title": "Evening dress",
+      "titleEn": "Evening dress",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/97f1d03c-5f19-493b-8704-3b9722afe271.jpg",
+      "thumbUrl": "/stills/97f1d03c-5f19-493b-8704-3b9722afe271.jpg",
+      "pageUrl": "https://www.metmuseum.org/art/collection/search/175366",
+      "author": "House of Worth",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "gray",
+        "yellow",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#656156",
+          "rgb": [
+            101,
+            97,
+            86
+          ],
+          "ratio": 0.2562934027777778,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#e7c069",
+          "rgb": [
+            231,
+            192,
+            105
+          ],
+          "ratio": 0.2463107638888889,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#575143",
+          "rgb": [
+            87,
+            81,
+            67
+          ],
+          "ratio": 0.17740885416666666,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#757065",
+          "rgb": [
+            117,
+            112,
+            101
+          ],
+          "ratio": 0.16048177083333334,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#c29537",
+          "rgb": [
+            194,
+            149,
+            55
+          ],
+          "ratio": 0.15950520833333334,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-08-21T12:51:23.747Z",
+      "fileKey": "openverse:a5639ee8-fca9-4de4-bf06-6e62fbd1c20f",
+      "kind": "photo",
+      "photographer": "House of Worth",
+      "sourceLabel": "Met Museum",
+      "contentHash": "0f00f00f00f00f00f01f01f81f83f83f83fc",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "dc74078e-8361-414c-b306-d3646549ede5",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/dc74078e-8361-414c-b306-d3646549ede5.jpg",
+      "thumbUrl": "/stills/dc74078e-8361-414c-b306-d3646549ede5.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_102957",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_102957",
+      "buckets": [
+        "orange",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#c29568",
+          "rgb": [
+            194,
+            149,
+            104
+          ],
+          "ratio": 0.23838975694444445,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d0b47d",
+          "rgb": [
+            208,
+            180,
+            125
+          ],
+          "ratio": 0.2294921875,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#e5e5d3",
+          "rgb": [
+            229,
+            229,
+            211
+          ],
+          "ratio": 0.21571180555555555,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#af7855",
+          "rgb": [
+            175,
+            120,
+            85
+          ],
+          "ratio": 0.2023654513888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#f5f1e2",
+          "rgb": [
+            245,
+            241,
+            226
+          ],
+          "ratio": 0.1140407986111111,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-08-21T12:52:05.563Z",
+      "fileKey": "archive:mma_dress_102957",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "f07f07f07e03e03e03c03c03c01801801800",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "92e0abe0-65ef-4852-ad89-484752f8b60b",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/92e0abe0-65ef-4852-ad89-484752f8b60b.jpg",
+      "thumbUrl": "/stills/92e0abe0-65ef-4852-ad89-484752f8b60b.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_98065",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_98065",
+      "buckets": [
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#cca28b",
+          "rgb": [
+            204,
+            162,
+            139
+          ],
+          "ratio": 0.2802734375,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#ddb8a2",
+          "rgb": [
+            221,
+            184,
+            162
+          ],
+          "ratio": 0.23893229166666666,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#332a21",
+          "rgb": [
+            51,
+            42,
+            33
+          ],
+          "ratio": 0.22884114583333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#694f41",
+          "rgb": [
+            105,
+            79,
+            65
+          ],
+          "ratio": 0.14583333333333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#a17862",
+          "rgb": [
+            161,
+            120,
+            98
+          ],
+          "ratio": 0.10611979166666667,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-08-21T12:52:07.020Z",
+      "fileKey": "archive:mma_dress_98065",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "f8ef8cf80f80e0380f00f18f38ff27f07f8f",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "1f493708-0ab6-47d7-868d-0891ab65c15e",
+      "title": "[Francis Frith in Turkish summer costume]",
+      "titleEn": "[Francis Frith in Turkish summer costume]",
+      "titleZh": "",
+      "director": "",
+      "source": "loc",
+      "imageUrl": "/stills/1f493708-0ab6-47d7-868d-0891ab65c15e.jpg",
+      "thumbUrl": "/stills/1f493708-0ab6-47d7-868d-0891ab65c15e.jpg",
+      "pageUrl": "https://www.loc.gov/item/2018646031/",
+      "author": "Library of Congress",
+      "license": "No known restrictions / public domain",
+      "licenseUrl": "https://www.loc.gov/item/2018646031/",
+      "buckets": [
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#e9ded6",
+          "rgb": [
+            233,
+            222,
+            214
+          ],
+          "ratio": 0.4104817708333333,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#e6d9ce",
+          "rgb": [
+            230,
+            217,
+            206
+          ],
+          "ratio": 0.3060980902777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d9c3ad",
+          "rgb": [
+            217,
+            195,
+            173
+          ],
+          "ratio": 0.11360677083333333,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#937f6d",
+          "rgb": [
+            147,
+            127,
+            109
+          ],
+          "ratio": 0.09266493055555555,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#bca792",
+          "rgb": [
+            188,
+            167,
+            146
+          ],
+          "ratio": 0.0771484375,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-08-21T12:52:09.668Z",
+      "fileKey": "loc:http://www.loc.gov/item/2018646031/",
+      "kind": "photo",
+      "photographer": "Library of Congress",
+      "sourceLabel": "美国国会图书馆",
+      "contentHash": "7fe7fe7fe7fe7fe7fe7066066066066067fe",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "61556343-bcb5-4247-9418-96496cc87f70",
+      "title": "Afternoon dress | Charles Frederick Worth|House of Worth French (born England), Bourne 1825–1895 Paris|French, 1858–1956",
+      "titleEn": "Afternoon dress | Charles Frederick Worth|House of Worth French (born England), Bourne 1825–1895 Paris|French, 1858–1956",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/61556343-bcb5-4247-9418-96496cc87f70.jpg",
+      "thumbUrl": "/stills/61556343-bcb5-4247-9418-96496cc87f70.jpg",
+      "pageUrl": "https://www.flickr.com/photos/200781279@N05/53909269875",
+      "author": "museado",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "purple",
+        "blue",
+        "green",
+        "cyan"
+      ],
+      "palette": [
+        {
+          "hex": "#161027",
+          "rgb": [
+            22,
+            16,
+            39
+          ],
+          "ratio": 0.2628038194444444,
+          "bucket": "purple"
+        },
+        {
+          "hex": "#5d7485",
+          "rgb": [
+            93,
+            116,
+            133
+          ],
+          "ratio": 0.2580295138888889,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#b6c8c2",
+          "rgb": [
+            182,
+            200,
+            194
+          ],
+          "ratio": 0.1925998263888889,
+          "bucket": "green"
+        },
+        {
+          "hex": "#382242",
+          "rgb": [
+            56,
+            34,
+            66
+          ],
+          "ratio": 0.15299479166666666,
+          "bucket": "purple"
+        },
+        {
+          "hex": "#89a2a8",
+          "rgb": [
+            137,
+            162,
+            168
+          ],
+          "ratio": 0.1335720486111111,
+          "bucket": "cyan"
+        }
+      ],
+      "addedAt": "2026-08-21T12:52:11.396Z",
+      "fileKey": "openverse:1b402d23-aeab-41a2-b4ae-5a41a02a9e3a",
+      "kind": "photo",
+      "photographer": "museado",
+      "sourceLabel": "Flickr",
+      "contentHash": "fecfecfe0fe2fcbfc1f81f01f01e00800001",
+      "category": "photo",
+      "subjects": [
+        "city",
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "65be44fc-3ef7-4d2d-8d8c-33cd480ea8ff",
+      "title": "Fashion plate 1910, reproduced 1913",
+      "titleEn": "Fashion plate 1910, reproduced 1913",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/65be44fc-3ef7-4d2d-8d8c-33cd480ea8ff.jpg",
+      "thumbUrl": "/stills/65be44fc-3ef7-4d2d-8d8c-33cd480ea8ff.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/10008609/image-face-person-pattern",
+      "author": "rawpixel",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "gray",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#5e6261",
+          "rgb": [
+            94,
+            98,
+            97
+          ],
+          "ratio": 0.2623697916666667,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#b5bcbc",
+          "rgb": [
+            181,
+            188,
+            188
+          ],
+          "ratio": 0.2606336805555556,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#85908d",
+          "rgb": [
+            133,
+            144,
+            141
+          ],
+          "ratio": 0.2368706597222222,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#f5f6f0",
+          "rgb": [
+            245,
+            246,
+            240
+          ],
+          "ratio": 0.14127604166666666,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#363633",
+          "rgb": [
+            54,
+            54,
+            51
+          ],
+          "ratio": 0.0988498263888889,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-08-21T12:52:13.711Z",
+      "fileKey": "openverse:4c2adfe0-1838-4152-a497-ef85efe6f629",
+      "kind": "photo",
+      "photographer": "rawpixel",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "993837807827e07927f81f01f81d03c03f03",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "d4b829a8-b361-4623-88a9-d51169c2eb43",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/d4b829a8-b361-4623-88a9-d51169c2eb43.jpg",
+      "thumbUrl": "/stills/d4b829a8-b361-4623-88a9-d51169c2eb43.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_159585",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_159585",
+      "buckets": [
+        "blue",
+        "white"
+      ],
+      "palette": [
+        {
+          "hex": "#dddddd",
+          "rgb": [
+            221,
+            221,
+            221
+          ],
+          "ratio": 0.4727647569444444,
+          "bucket": "white"
+        },
+        {
+          "hex": "#0e3964",
+          "rgb": [
+            14,
+            57,
+            100
+          ],
+          "ratio": 0.21809895833333334,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#195a92",
+          "rgb": [
+            25,
+            90,
+            146
+          ],
+          "ratio": 0.1720920138888889,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#0b1d34",
+          "rgb": [
+            11,
+            29,
+            52
+          ],
+          "ratio": 0.1115451388888889,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#8696a2",
+          "rgb": [
+            134,
+            150,
+            162
+          ],
+          "ratio": 0.025499131944444444,
+          "bucket": "blue"
+        }
+      ],
+      "addedAt": "2026-08-21T12:52:30.749Z",
+      "fileKey": "archive:mma_dress_159585",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "e0fc07c07c07d07c03c03e07e07e07e07e07",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "47a131f6-e045-4e67-b4d7-0428358a8984",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/47a131f6-e045-4e67-b4d7-0428358a8984.jpg",
+      "thumbUrl": "/stills/47a131f6-e045-4e67-b4d7-0428358a8984.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_103001",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_103001",
+      "buckets": [
+        "yellow",
+        "black"
+      ],
+      "palette": [
+        {
+          "hex": "#181a1a",
+          "rgb": [
+            24,
+            26,
+            26
+          ],
+          "ratio": 0.3973524305555556,
+          "bucket": "black"
+        },
+        {
+          "hex": "#e7e2cf",
+          "rgb": [
+            231,
+            226,
+            207
+          ],
+          "ratio": 0.3269314236111111,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#d6cfb5",
+          "rgb": [
+            214,
+            207,
+            181
+          ],
+          "ratio": 0.197265625,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#39352e",
+          "rgb": [
+            57,
+            53,
+            46
+          ],
+          "ratio": 0.039388020833333336,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#a0977c",
+          "rgb": [
+            160,
+            151,
+            124
+          ],
+          "ratio": 0.0390625,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-08-21T12:52:44.615Z",
+      "fileKey": "archive:mma_dress_103001",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "0001083b81f81f81f83f87fc7feffeffe3fc",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "10d92f0c-334c-4fa9-b883-e78a3c22dae3",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/10d92f0c-334c-4fa9-b883-e78a3c22dae3.jpg",
+      "thumbUrl": "/stills/10d92f0c-334c-4fa9-b883-e78a3c22dae3.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_105367",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_105367",
+      "buckets": [
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#edebe6",
+          "rgb": [
+            237,
+            235,
+            230
+          ],
+          "ratio": 0.3020833333333333,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#e7d9b8",
+          "rgb": [
+            231,
+            217,
+            184
+          ],
+          "ratio": 0.2591145833333333,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#e0d0ac",
+          "rgb": [
+            224,
+            208,
+            172
+          ],
+          "ratio": 0.1870659722222222,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#ede1c4",
+          "rgb": [
+            237,
+            225,
+            196
+          ],
+          "ratio": 0.16395399305555555,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#d6c49b",
+          "rgb": [
+            214,
+            196,
+            155
+          ],
+          "ratio": 0.08778211805555555,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-08-21T12:52:48.127Z",
+      "fileKey": "archive:mma_dress_105367",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "e0fe07c07c07c23df38f18b1800800800fff",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "c6aa902d-0d91-45ea-aae6-10b194173ed3",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/c6aa902d-0d91-45ea-aae6-10b194173ed3.jpg",
+      "thumbUrl": "/stills/c6aa902d-0d91-45ea-aae6-10b194173ed3.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_86573",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_86573",
+      "buckets": [
+        "red"
+      ],
+      "palette": [
+        {
+          "hex": "#9f343d",
+          "rgb": [
+            159,
+            52,
+            61
+          ],
+          "ratio": 0.3402777777777778,
+          "bucket": "red"
+        },
+        {
+          "hex": "#822932",
+          "rgb": [
+            130,
+            41,
+            50
+          ],
+          "ratio": 0.3051215277777778,
+          "bucket": "red"
+        },
+        {
+          "hex": "#b4434c",
+          "rgb": [
+            180,
+            67,
+            76
+          ],
+          "ratio": 0.20638020833333334,
+          "bucket": "red"
+        },
+        {
+          "hex": "#3d2228",
+          "rgb": [
+            61,
+            34,
+            40
+          ],
+          "ratio": 0.09016927083333333,
+          "bucket": "red"
+        },
+        {
+          "hex": "#f4f1ed",
+          "rgb": [
+            244,
+            241,
+            237
+          ],
+          "ratio": 0.058051215277777776,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-08-21T12:52:51.054Z",
+      "fileKey": "archive:mma_dress_86573",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "fff6607c0440020000ff0880000200000000",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "6e3782a9-180c-4972-aced-cb90f804fb34",
+      "title": "Self-Portrait 1802",
+      "titleEn": "Self-Portrait 1802",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/6e3782a9-180c-4972-aced-cb90f804fb34.jpg",
+      "thumbUrl": "/stills/6e3782a9-180c-4972-aced-cb90f804fb34.jpg",
+      "pageUrl": "https://www.flickr.com/photos/200781279@N05/53867014132",
+      "author": "museado",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "gray",
+        "blue",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#655c53",
+          "rgb": [
+            101,
+            92,
+            83
+          ],
+          "ratio": 0.3781467013888889,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#c5bfc1",
+          "rgb": [
+            197,
+            191,
+            193
+          ],
+          "ratio": 0.2541232638888889,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#242632",
+          "rgb": [
+            36,
+            38,
+            50
+          ],
+          "ratio": 0.21885850694444445,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#af948a",
+          "rgb": [
+            175,
+            148,
+            138
+          ],
+          "ratio": 0.0993923611111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#3e3a3a",
+          "rgb": [
+            62,
+            58,
+            58
+          ],
+          "ratio": 0.049479166666666664,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-08-21T12:52:55.959Z",
+      "fileKey": "openverse:a05acaf7-5330-4ec3-8fd9-3b8ed2fab73d",
+      "kind": "photo",
+      "photographer": "museado",
+      "sourceLabel": "Flickr",
+      "contentHash": "e6fcf7cf38f98f18e18e48c0880c00c01e01",
+      "category": "painting",
+      "people": "one",
+      "subjects": [
+        "portrait"
+      ]
+    },
+    {
+      "id": "5937b4f5-5319-490b-83d9-75785809a0e4",
+      "title": "Engraving: its origin, processes, and history.",
+      "titleEn": "Engraving: its origin, processes, and history.",
+      "titleZh": "",
+      "director": "",
+      "source": "loc",
+      "imageUrl": "/stills/5937b4f5-5319-490b-83d9-75785809a0e4.jpg",
+      "thumbUrl": "/stills/5937b4f5-5319-490b-83d9-75785809a0e4.jpg",
+      "pageUrl": "https://www.loc.gov/item/01003163/",
+      "author": "Library of Congress",
+      "license": "No known restrictions / public domain",
+      "licenseUrl": "https://www.loc.gov/item/01003163/",
+      "buckets": [
+        "gray",
+        "brown",
+        "yellow",
+        "black"
+      ],
+      "palette": [
+        {
+          "hex": "#373b31",
+          "rgb": [
+            55,
+            59,
+            49
+          ],
+          "ratio": 0.2615017361111111,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#45483d",
+          "rgb": [
+            69,
+            72,
+            61
+          ],
+          "ratio": 0.23231336805555555,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#25221e",
+          "rgb": [
+            37,
+            34,
+            30
+          ],
+          "ratio": 0.19249131944444445,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#313027",
+          "rgb": [
+            49,
+            48,
+            39
+          ],
+          "ratio": 0.17078993055555555,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#111312",
+          "rgb": [
+            17,
+            19,
+            18
+          ],
+          "ratio": 0.14290364583333334,
+          "bucket": "black"
+        }
+      ],
+      "addedAt": "2026-08-21T12:52:58.777Z",
+      "fileKey": "loc:http://www.loc.gov/item/01003163/",
+      "kind": "photo",
+      "photographer": "Library of Congress",
+      "sourceLabel": "美国国会图书馆",
+      "contentHash": "3f83f03f03f03f03f83f83f83f83f03f83f0",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "e3edde89-67bd-4259-b7ac-d74b5446e394",
+      "title": "Whistler's art dicta and other essays",
+      "titleEn": "Whistler's art dicta and other essays",
+      "titleZh": "",
+      "director": "",
+      "source": "loc",
+      "imageUrl": "/stills/e3edde89-67bd-4259-b7ac-d74b5446e394.jpg",
+      "thumbUrl": "/stills/e3edde89-67bd-4259-b7ac-d74b5446e394.jpg",
+      "pageUrl": "https://www.loc.gov/item/05003735/",
+      "author": "Library of Congress",
+      "license": "No known restrictions / public domain",
+      "licenseUrl": "https://www.loc.gov/item/05003735/",
+      "buckets": [
+        "blue",
+        "black"
+      ],
+      "palette": [
+        {
+          "hex": "#384148",
+          "rgb": [
+            56,
+            65,
+            72
+          ],
+          "ratio": 0.2322048611111111,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#1b1b1a",
+          "rgb": [
+            27,
+            27,
+            26
+          ],
+          "ratio": 0.2224392361111111,
+          "bucket": "black"
+        },
+        {
+          "hex": "#444d54",
+          "rgb": [
+            68,
+            77,
+            84
+          ],
+          "ratio": 0.20182291666666666,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#0d0d0c",
+          "rgb": [
+            13,
+            13,
+            12
+          ],
+          "ratio": 0.18294270833333334,
+          "bucket": "black"
+        },
+        {
+          "hex": "#2a3135",
+          "rgb": [
+            42,
+            49,
+            53
+          ],
+          "ratio": 0.1605902777777778,
+          "bucket": "blue"
+        }
+      ],
+      "addedAt": "2026-08-21T12:53:01.463Z",
+      "fileKey": "loc:http://www.loc.gov/item/05003735/",
+      "kind": "photo",
+      "photographer": "James McNeill Whistler",
+      "sourceLabel": "美国国会图书馆",
+      "contentHash": "3f83f83f83f81f81f83f81f81f81f81f81f8",
+      "category": "painting",
+      "subjects": []
+    },
+    {
+      "id": "2b62f7ac-00ae-4288-9d79-c6628945e824",
+      "title": "Sapphires, 1877 (1914) painting in high resolution by Albert Joseph Moore. Original from Birmingham Museum and Art Gallery. Digitally enhanced by rawpixel.",
+      "titleEn": "Sapphires, 1877 (1914) painting in high resolution by Albert Joseph Moore. Original from Birmingham Museum and Art Gallery. Digitally enhanced by rawpixel.",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/2b62f7ac-00ae-4288-9d79-c6628945e824.jpg",
+      "thumbUrl": "/stills/2b62f7ac-00ae-4288-9d79-c6628945e824.jpg",
+      "pageUrl": "https://www.flickr.com/photos/153584064@N07/51927725333",
+      "author": "Free Public Domain Illustrations by rawpixel",
+      "license": "BY",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "buckets": [
+        "orange",
+        "blue",
+        "cyan"
+      ],
+      "palette": [
+        {
+          "hex": "#c3bbb4",
+          "rgb": [
+            195,
+            187,
+            180
+          ],
+          "ratio": 0.2398003472222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#94a2a9",
+          "rgb": [
+            148,
+            162,
+            169
+          ],
+          "ratio": 0.22743055555555555,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#b09077",
+          "rgb": [
+            176,
+            144,
+            119
+          ],
+          "ratio": 0.22623697916666666,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#73868f",
+          "rgb": [
+            115,
+            134,
+            143
+          ],
+          "ratio": 0.2052951388888889,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#59676d",
+          "rgb": [
+            89,
+            103,
+            109
+          ],
+          "ratio": 0.10123697916666667,
+          "bucket": "cyan"
+        }
+      ],
+      "addedAt": "2026-08-21T12:53:03.753Z",
+      "fileKey": "openverse:ee0c72e0-753e-438e-bdf6-0a27b6baccf0",
+      "kind": "photo",
+      "photographer": "Free Public Domain Illustrations by rawpixel",
+      "sourceLabel": "Flickr",
+      "contentHash": "6e3e117b973f13e09e41f43f067867866804",
+      "category": "painting",
+      "subjects": [
+        "interior"
+      ]
+    },
+    {
+      "id": "79bde01f-218e-4d19-bf9d-8cec7d0284e9",
+      "title": "'Choix d'un kimono' de U. Kunisada (Musée du quai Branly, Paris)",
+      "titleEn": "'Choix d'un kimono' de U. Kunisada (Musée du quai Branly, Paris)",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/79bde01f-218e-4d19-bf9d-8cec7d0284e9.jpg",
+      "thumbUrl": "/stills/79bde01f-218e-4d19-bf9d-8cec7d0284e9.jpg",
+      "pageUrl": "https://www.flickr.com/photos/72746018@N00/52528359558",
+      "author": "dalbera",
+      "license": "BY",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "buckets": [
+        "gray",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#d5cdc5",
+          "rgb": [
+            213,
+            205,
+            197
+          ],
+          "ratio": 0.3377821180555556,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#737984",
+          "rgb": [
+            115,
+            121,
+            132
+          ],
+          "ratio": 0.22786458333333334,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#4c474b",
+          "rgb": [
+            76,
+            71,
+            75
+          ],
+          "ratio": 0.1824001736111111,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#a5a6a9",
+          "rgb": [
+            165,
+            166,
+            169
+          ],
+          "ratio": 0.13639322916666666,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#d78a6e",
+          "rgb": [
+            215,
+            138,
+            110
+          ],
+          "ratio": 0.11555989583333333,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-08-21T12:53:13.347Z",
+      "fileKey": "openverse:95d25c41-8582-41ac-94b3-d826c089b155",
+      "kind": "photo",
+      "photographer": "dalbera",
+      "sourceLabel": "Flickr",
+      "contentHash": "400cf3ffefbff0ffa679e4bf00f020008490",
+      "category": "photo",
+      "subjects": [
+        "city",
+        "pattern"
+      ]
+    },
+    {
+      "id": "55d9cd09-716b-4377-b7a2-607d6df02225",
+      "title": "Guide to the study of James Abbott McNeill Whistler,",
+      "titleEn": "Guide to the study of James Abbott McNeill Whistler,",
+      "titleZh": "",
+      "director": "",
+      "source": "loc",
+      "imageUrl": "/stills/55d9cd09-716b-4377-b7a2-607d6df02225.jpg",
+      "thumbUrl": "/stills/55d9cd09-716b-4377-b7a2-607d6df02225.jpg",
+      "pageUrl": "https://www.loc.gov/item/03019997/",
+      "author": "Library of Congress",
+      "license": "No known restrictions / public domain",
+      "licenseUrl": "https://www.loc.gov/item/03019997/",
+      "buckets": [
+        "brown",
+        "black",
+        "red"
+      ],
+      "palette": [
+        {
+          "hex": "#100f0e",
+          "rgb": [
+            16,
+            15,
+            14
+          ],
+          "ratio": 0.3129340277777778,
+          "bucket": "black"
+        },
+        {
+          "hex": "#582f28",
+          "rgb": [
+            88,
+            47,
+            40
+          ],
+          "ratio": 0.2938368055555556,
+          "bucket": "red"
+        },
+        {
+          "hex": "#6d4c38",
+          "rgb": [
+            109,
+            76,
+            56
+          ],
+          "ratio": 0.2475043402777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#8b6a4a",
+          "rgb": [
+            139,
+            106,
+            74
+          ],
+          "ratio": 0.09418402777777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#af9673",
+          "rgb": [
+            175,
+            150,
+            115
+          ],
+          "ratio": 0.05154079861111111,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-08-21T12:53:15.787Z",
+      "fileKey": "loc:http://www.loc.gov/item/03019997/",
+      "kind": "photo",
+      "photographer": "James McNeill Whistler",
+      "sourceLabel": "美国国会图书馆",
+      "contentHash": "3f43f43e43f43f03f03f03f43f43f43f43f4",
+      "category": "painting",
+      "subjects": []
+    },
+    {
+      "id": "e43c83fc-1725-4aae-941c-94275c19cb93",
+      "title": "A Parisienne on a Crowded Street (1844–1907) painting in high resolution by Henry Somm. Original from The MET Museum. Digitally enhanced by rawpixel.",
+      "titleEn": "A Parisienne on a Crowded Street (1844–1907) painting in high resolution by Henry Somm. Original from The MET Museum. Digitally enhanced by rawpixel.",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/e43c83fc-1725-4aae-941c-94275c19cb93.jpg",
+      "thumbUrl": "/stills/e43c83fc-1725-4aae-941c-94275c19cb93.jpg",
+      "pageUrl": "https://www.flickr.com/photos/153584064@N07/51916841838",
+      "author": "Free Public Domain Illustrations by rawpixel",
+      "license": "BY",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "buckets": [
+        "gray",
+        "white",
+        "blue"
+      ],
+      "palette": [
+        {
+          "hex": "#cbcec9",
+          "rgb": [
+            203,
+            206,
+            201
+          ],
+          "ratio": 0.3020833333333333,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#e3e4e0",
+          "rgb": [
+            227,
+            228,
+            224
+          ],
+          "ratio": 0.2375217013888889,
+          "bucket": "white"
+        },
+        {
+          "hex": "#a9b3b2",
+          "rgb": [
+            169,
+            179,
+            178
+          ],
+          "ratio": 0.23524305555555555,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#13192a",
+          "rgb": [
+            19,
+            25,
+            42
+          ],
+          "ratio": 0.16341145833333334,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#6b8696",
+          "rgb": [
+            107,
+            134,
+            150
+          ],
+          "ratio": 0.06174045138888889,
+          "bucket": "blue"
+        }
+      ],
+      "addedAt": "2026-08-21T12:53:16.580Z",
+      "fileKey": "openverse:e4812eab-508c-4320-9b59-0ec20b63653d",
+      "kind": "photo",
+      "photographer": "A Parisienne on a Crowded Street",
+      "sourceLabel": "Flickr",
+      "contentHash": "c1fd7fffffff7ff71770ff0ff07f07f07f8f",
+      "category": "painting",
+      "subjects": [
+        "city"
+      ]
+    },
+    {
+      "id": "4322e001-9fe4-4da5-b63e-a15551bcd833",
+      "title": "Full-length portrait of Annabell Ralphs",
+      "titleEn": "Full-length portrait of Annabell Ralphs",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/4322e001-9fe4-4da5-b63e-a15551bcd833.jpg",
+      "thumbUrl": "/stills/4322e001-9fe4-4da5-b63e-a15551bcd833.jpg",
+      "pageUrl": "https://archive.org/details/calcflh_000603",
+      "author": "Witzel Photo",
+      "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "licenseUrl": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "buckets": [
+        "gray",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#393733",
+          "rgb": [
+            57,
+            55,
+            51
+          ],
+          "ratio": 0.3517795138888889,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#4c4841",
+          "rgb": [
+            76,
+            72,
+            65
+          ],
+          "ratio": 0.2216796875,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#625c51",
+          "rgb": [
+            98,
+            92,
+            81
+          ],
+          "ratio": 0.19227430555555555,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#aba08b",
+          "rgb": [
+            171,
+            160,
+            139
+          ],
+          "ratio": 0.12586805555555555,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#81796b",
+          "rgb": [
+            129,
+            121,
+            107
+          ],
+          "ratio": 0.1083984375,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-08-21T12:53:19.676Z",
+      "fileKey": "archive:calcflh_000603",
+      "kind": "photo",
+      "photographer": "Witzel Photo",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "0241e47fd7f03f40f00f00f00f00f00f0060",
+      "category": "photo",
+      "people": "one",
+      "subjects": [
+        "portrait"
+      ]
+    },
+    {
+      "id": "3bb32632-0d3b-476b-87d6-7b63e60988db",
+      "title": "William Blake : a critical essay",
+      "titleEn": "William Blake : a critical essay",
+      "titleZh": "",
+      "director": "",
+      "source": "loc",
+      "imageUrl": "/stills/3bb32632-0d3b-476b-87d6-7b63e60988db.jpg",
+      "thumbUrl": "/stills/3bb32632-0d3b-476b-87d6-7b63e60988db.jpg",
+      "pageUrl": "https://www.loc.gov/item/07010029/",
+      "author": "Library of Congress",
+      "license": "No known restrictions / public domain",
+      "licenseUrl": "https://www.loc.gov/item/07010029/",
+      "buckets": [
+        "blue",
+        "black",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#20242d",
+          "rgb": [
+            32,
+            36,
+            45
+          ],
+          "ratio": 0.3049045138888889,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#292d36",
+          "rgb": [
+            41,
+            45,
+            54
+          ],
+          "ratio": 0.2955729166666667,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#111212",
+          "rgb": [
+            17,
+            18,
+            18
+          ],
+          "ratio": 0.1506076388888889,
+          "bucket": "black"
+        },
+        {
+          "hex": "#1c1e22",
+          "rgb": [
+            28,
+            30,
+            34
+          ],
+          "ratio": 0.12467447916666667,
+          "bucket": "black"
+        },
+        {
+          "hex": "#373b41",
+          "rgb": [
+            55,
+            59,
+            65
+          ],
+          "ratio": 0.1242404513888889,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-08-21T12:53:23.596Z",
+      "fileKey": "loc:http://www.loc.gov/item/07010029/",
+      "kind": "photo",
+      "photographer": "Library of Congress",
+      "sourceLabel": "美国国会图书馆",
+      "contentHash": "3f03f03f03f83f03f03f03f03f03f03f03f0",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "9f24fa28-62fe-497f-a718-4eff98a0f210",
+      "title": "The story of American painting : the evolution of painting in America from colonial times to the present",
+      "titleEn": "The story of American painting : the evolution of painting in America from colonial times to the present",
+      "titleZh": "",
+      "director": "",
+      "source": "loc",
+      "imageUrl": "/stills/9f24fa28-62fe-497f-a718-4eff98a0f210.jpg",
+      "thumbUrl": "/stills/9f24fa28-62fe-497f-a718-4eff98a0f210.jpg",
+      "pageUrl": "https://www.loc.gov/item/19008367/",
+      "author": "Library of Congress",
+      "license": "No known restrictions / public domain",
+      "licenseUrl": "https://www.loc.gov/item/19008367/",
+      "buckets": [
+        "brown",
+        "black"
+      ],
+      "palette": [
+        {
+          "hex": "#5e4835",
+          "rgb": [
+            94,
+            72,
+            53
+          ],
+          "ratio": 0.3552517361111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#523b27",
+          "rgb": [
+            82,
+            59,
+            39
+          ],
+          "ratio": 0.3032769097222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#181817",
+          "rgb": [
+            24,
+            24,
+            23
+          ],
+          "ratio": 0.1664496527777778,
+          "bucket": "black"
+        },
+        {
+          "hex": "#402e1f",
+          "rgb": [
+            64,
+            46,
+            31
+          ],
+          "ratio": 0.15364583333333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#687955",
+          "rgb": [
+            104,
+            121,
+            85
+          ],
+          "ratio": 0.021375868055555556,
+          "bucket": "green"
+        }
+      ],
+      "addedAt": "2026-08-21T12:53:51.313Z",
+      "fileKey": "loc:http://www.loc.gov/item/19008367/",
+      "kind": "photo",
+      "photographer": "Library of Congress",
+      "sourceLabel": "美国国会图书馆",
+      "contentHash": "3f87f87f83f83f83f83f83f83f83f83f83f8",
+      "category": "painting",
+      "subjects": []
+    },
+    {
+      "id": "4130f650-49ee-45c8-92a1-826cf8acaae2",
+      "title": "Pen drawing and pen draughtsmen : their work and their methods : a study of the art to-day with technical suggestions /",
+      "titleEn": "Pen drawing and pen draughtsmen : their work and their methods : a study of the art to-day with technical suggestions /",
+      "titleZh": "",
+      "director": "",
+      "source": "loc",
+      "imageUrl": "/stills/4130f650-49ee-45c8-92a1-826cf8acaae2.jpg",
+      "thumbUrl": "/stills/4130f650-49ee-45c8-92a1-826cf8acaae2.jpg",
+      "pageUrl": "https://www.loc.gov/item/81186564/",
+      "author": "Library of Congress",
+      "license": "No known restrictions / public domain",
+      "licenseUrl": "https://www.loc.gov/item/81186564/",
+      "buckets": [
+        "brown",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#4b3b2c",
+          "rgb": [
+            75,
+            59,
+            44
+          ],
+          "ratio": 0.4100477430555556,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#483728",
+          "rgb": [
+            72,
+            55,
+            40
+          ],
+          "ratio": 0.2849392361111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#343432",
+          "rgb": [
+            52,
+            52,
+            50
+          ],
+          "ratio": 0.1603732638888889,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#534536",
+          "rgb": [
+            83,
+            69,
+            54
+          ],
+          "ratio": 0.11187065972222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#695c4e",
+          "rgb": [
+            105,
+            92,
+            78
+          ],
+          "ratio": 0.032769097222222224,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-08-21T12:53:54.670Z",
+      "fileKey": "loc:http://www.loc.gov/item/81186564/",
+      "kind": "photo",
+      "photographer": "Library of Congress",
+      "sourceLabel": "美国国会图书馆",
+      "contentHash": "7fe5c24f24e64e649e406646446406406406",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "e7d9a339-0c6b-4890-a1f7-fbddc19a40da",
+      "title": "Woman holding a plate (1890-1900) painting in high resolution by Henry Somm. Original from The Public Institution Paris Musées. Digitally enhanced by rawpixel.",
+      "titleEn": "Woman holding a plate (1890-1900) painting in high resolution by Henry Somm. Original from The Public Institution Paris Musées. Digitally enhanced by rawpixel.",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/e7d9a339-0c6b-4890-a1f7-fbddc19a40da.jpg",
+      "thumbUrl": "/stills/e7d9a339-0c6b-4890-a1f7-fbddc19a40da.jpg",
+      "pageUrl": "https://www.flickr.com/photos/153584064@N07/51917365720",
+      "author": "Free Public Domain Illustrations by rawpixel",
+      "license": "BY",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "buckets": [
+        "red",
+        "gray",
+        "orange",
+        "blue"
+      ],
+      "palette": [
+        {
+          "hex": "#d48e77",
+          "rgb": [
+            212,
+            142,
+            119
+          ],
+          "ratio": 0.2583550347222222,
+          "bucket": "red"
+        },
+        {
+          "hex": "#6a6162",
+          "rgb": [
+            106,
+            97,
+            98
+          ],
+          "ratio": 0.2365451388888889,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#312726",
+          "rgb": [
+            49,
+            39,
+            38
+          ],
+          "ratio": 0.2023654513888889,
+          "bucket": "red"
+        },
+        {
+          "hex": "#e4d5ca",
+          "rgb": [
+            228,
+            213,
+            202
+          ],
+          "ratio": 0.1638454861111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#8f9ca7",
+          "rgb": [
+            143,
+            156,
+            167
+          ],
+          "ratio": 0.1388888888888889,
+          "bucket": "blue"
+        }
+      ],
+      "addedAt": "2026-08-21T12:53:56.291Z",
+      "fileKey": "openverse:62974c99-d969-42d3-9b70-127242268c62",
+      "kind": "photo",
+      "photographer": "Woman holding a plate",
+      "sourceLabel": "Flickr",
+      "contentHash": "fe0bf2b7eb7fb7e1fe1fe1b003003807c03f",
+      "category": "painting",
+      "subjects": [
+        "city",
+        "people"
+      ]
+    },
+    {
+      "id": "a0a9b020-ed1b-460a-a7e1-4b4ea5e44a1a",
+      "title": "Projet de robe, février: la",
+      "titleEn": "Projet de robe, février: la",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/a0a9b020-ed1b-460a-a7e1-4b4ea5e44a1a.jpg",
+      "thumbUrl": "/stills/a0a9b020-ed1b-460a-a7e1-4b4ea5e44a1a.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/8314364/image-art-vintage-public-domain",
+      "author": "rawpixel",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "yellow",
+        "orange",
+        "red"
+      ],
+      "palette": [
+        {
+          "hex": "#c0b9ab",
+          "rgb": [
+            192,
+            185,
+            171
+          ],
+          "ratio": 0.6723090277777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#eeded9",
+          "rgb": [
+            238,
+            222,
+            217
+          ],
+          "ratio": 0.11631944444444445,
+          "bucket": "red"
+        },
+        {
+          "hex": "#ddc8c1",
+          "rgb": [
+            221,
+            200,
+            193
+          ],
+          "ratio": 0.1062282986111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d7b1a2",
+          "rgb": [
+            215,
+            177,
+            162
+          ],
+          "ratio": 0.0703125,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#9a8373",
+          "rgb": [
+            154,
+            131,
+            115
+          ],
+          "ratio": 0.034830729166666664,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-08-21T12:54:00.147Z",
+      "fileKey": "openverse:e92dcddc-3a43-49eb-bf25-977e9ec3b6ca",
+      "kind": "photo",
+      "photographer": "rawpixel",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "1ee3e03f00f80f00f00b00b00b00b0090090",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "7a434bce-3540-42a0-8d79-9e6e38eccb0b",
+      "title": "Ball gown",
+      "titleEn": "Ball gown MET 49.3.26b d2",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/7a434bce-3540-42a0-8d79-9e6e38eccb0b.jpg",
+      "thumbUrl": "/stills/7a434bce-3540-42a0-8d79-9e6e38eccb0b.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Ball_gown_MET_49.3.26b_d2.jpeg",
+      "author": "Jacques Doucet",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "buckets": [
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#cd9579",
+          "rgb": [
+            205,
+            149,
+            121
+          ],
+          "ratio": 0.2973090277777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#c18769",
+          "rgb": [
+            193,
+            135,
+            105
+          ],
+          "ratio": 0.2775607638888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d7a488",
+          "rgb": [
+            215,
+            164,
+            136
+          ],
+          "ratio": 0.20084635416666666,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#b07253",
+          "rgb": [
+            176,
+            114,
+            83
+          ],
+          "ratio": 0.14485677083333334,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#e6ba9c",
+          "rgb": [
+            230,
+            186,
+            156
+          ],
+          "ratio": 0.07942708333333333,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-08-21T12:55:11.290Z",
+      "fileKey": "File:Ball gown MET 49.3.26b d2.jpeg",
+      "kind": "film",
+      "photographer": "Jacques Doucet",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "c7ca3e93e03f03f03f03b03903d03d2fc1e4",
+      "category": "film",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "e28f1525-4a05-479f-8c92-a9c928d3fa16",
+      "title": "Theatrical costume",
+      "titleEn": "Theatrical costume MET CI46.9.73d",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/e28f1525-4a05-479f-8c92-a9c928d3fa16.jpg",
+      "thumbUrl": "/stills/e28f1525-4a05-479f-8c92-a9c928d3fa16.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Theatrical_costume_MET_CI46.9.73d.jpg",
+      "author": "Wikimedia Commons",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "buckets": [
+        "gray",
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#c3c5ca",
+          "rgb": [
+            195,
+            197,
+            202
+          ],
+          "ratio": 0.3337673611111111,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#b2aca8",
+          "rgb": [
+            178,
+            172,
+            168
+          ],
+          "ratio": 0.2907986111111111,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#9f907f",
+          "rgb": [
+            159,
+            144,
+            127
+          ],
+          "ratio": 0.18717447916666666,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#82705c",
+          "rgb": [
+            130,
+            112,
+            92
+          ],
+          "ratio": 0.1416015625,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#473b30",
+          "rgb": [
+            71,
+            59,
+            48
+          ],
+          "ratio": 0.04665798611111111,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-08-21T12:55:15.492Z",
+      "fileKey": "File:Theatrical costume MET CI46.9.73d.jpg",
+      "kind": "film",
+      "photographer": "Wikimedia Commons",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "e07ef3dfbcf3c53ddbd8bc0bc03c03e27207",
+      "category": "film",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "efce0167-5528-4501-936f-8e816e9184a5",
+      "title": "Evening gowns in the Philadelphia Museum of Art",
+      "titleEn": "the Philadelphia Museum of Art",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/efce0167-5528-4501-936f-8e816e9184a5.jpg",
+      "thumbUrl": "/stills/efce0167-5528-4501-936f-8e816e9184a5.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Evening_gowns_in_the_Philadelphia_Museum_of_Art.jpg",
+      "author": "Laura Blanchard",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "buckets": [
+        "orange",
+        "black",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#d9b372",
+          "rgb": [
+            217,
+            179,
+            114
+          ],
+          "ratio": 0.4498697916666667,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#b6935a",
+          "rgb": [
+            182,
+            147,
+            90
+          ],
+          "ratio": 0.23036024305555555,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#1a120e",
+          "rgb": [
+            26,
+            18,
+            14
+          ],
+          "ratio": 0.16829427083333334,
+          "bucket": "black"
+        },
+        {
+          "hex": "#5a4127",
+          "rgb": [
+            90,
+            65,
+            39
+          ],
+          "ratio": 0.0945095486111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#a51421",
+          "rgb": [
+            165,
+            20,
+            33
+          ],
+          "ratio": 0.056966145833333336,
+          "bucket": "red"
+        }
+      ],
+      "addedAt": "2026-08-21T12:55:24.189Z",
+      "fileKey": "File:Evening gowns in the Philadelphia Museum of Art.jpg",
+      "kind": "film",
+      "photographer": "Laura Blanchard",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "ffffffde54c540101901c678670678ff8fff",
+      "category": "film",
+      "subjects": [
+        "people"
+      ]
+    },
+    {
+      "id": "939928cb-572f-4021-94eb-a288ad7bfca5",
+      "title": "McQueen Met Costume Art 4",
+      "titleEn": "McQueen Met Costume Art 4",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/939928cb-572f-4021-94eb-a288ad7bfca5.jpg",
+      "thumbUrl": "/stills/939928cb-572f-4021-94eb-a288ad7bfca5.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:McQueen_Met_Costume_Art_4.jpg",
+      "author": "Rhododendrites",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "buckets": [
+        "orange",
+        "red",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#988679",
+          "rgb": [
+            152,
+            134,
+            121
+          ],
+          "ratio": 0.3451605902777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#af9b8a",
+          "rgb": [
+            175,
+            155,
+            138
+          ],
+          "ratio": 0.2503255208333333,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#241b1c",
+          "rgb": [
+            36,
+            27,
+            28
+          ],
+          "ratio": 0.22200520833333334,
+          "bucket": "red"
+        },
+        {
+          "hex": "#5b4c44",
+          "rgb": [
+            91,
+            76,
+            68
+          ],
+          "ratio": 0.1238064236111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#e9d8bc",
+          "rgb": [
+            233,
+            216,
+            188
+          ],
+          "ratio": 0.05870225694444445,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-08-21T12:55:32.391Z",
+      "fileKey": "File:McQueen Met Costume Art 4.jpg",
+      "kind": "film",
+      "photographer": "Rhododendrites",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "f0ff0ff09e01e03e07f07f0ff0ff0ff0ff9f",
+      "category": "film",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "f6119b8b-0c45-4192-ab3a-538ea805c190",
+      "title": "Ball gown",
+      "titleEn": "Ball gown MET C.I.68.53.11ab F",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/f6119b8b-0c45-4192-ab3a-538ea805c190.jpg",
+      "thumbUrl": "/stills/f6119b8b-0c45-4192-ab3a-538ea805c190.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Ball_gown_MET_C.I.68.53.11ab_F.jpg",
+      "author": "Wikimedia Commons",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "buckets": [
+        "orange",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#ccc1ae",
+          "rgb": [
+            204,
+            193,
+            174
+          ],
+          "ratio": 0.3538411458333333,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#bdae94",
+          "rgb": [
+            189,
+            174,
+            148
+          ],
+          "ratio": 0.2930772569444444,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#a79673",
+          "rgb": [
+            167,
+            150,
+            115
+          ],
+          "ratio": 0.22265625,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#706340",
+          "rgb": [
+            112,
+            99,
+            64
+          ],
+          "ratio": 0.0734592013888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#e3d8c1",
+          "rgb": [
+            227,
+            216,
+            193
+          ],
+          "ratio": 0.056966145833333336,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-08-21T12:55:35.215Z",
+      "fileKey": "File:Ball gown MET C.I.68.53.11ab F.jpg",
+      "kind": "film",
+      "photographer": "Wikimedia Commons",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "70fc03c27f7ff3ffffe67eb76d3043000000",
+      "category": "film",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "1c9d1e12-2296-45b7-b618-ccb1d99844c3",
+      "title": "Fashion Plate (Promenade Dress)",
+      "titleEn": "Fashion Plate (Promenade Dress) LACMA M.83.161.262",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/1c9d1e12-2296-45b7-b618-ccb1d99844c3.jpg",
+      "thumbUrl": "/stills/1c9d1e12-2296-45b7-b618-ccb1d99844c3.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Fashion_Plate_(Promenade_Dress)_LACMA_M.83.161.262.jpg",
+      "author": "Rudolph Ackermann (England, London, 1764-1834)",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Fashion_Plate_(Promenade_Dress)_LACMA_M.83.161.262.jpg",
+      "buckets": [
+        "yellow",
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#f0e8d6",
+          "rgb": [
+            240,
+            232,
+            214
+          ],
+          "ratio": 0.5520833333333334,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#aca172",
+          "rgb": [
+            172,
+            161,
+            114
+          ],
+          "ratio": 0.14735243055555555,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#846f53",
+          "rgb": [
+            132,
+            111,
+            83
+          ],
+          "ratio": 0.10970052083333333,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#cab497",
+          "rgb": [
+            202,
+            180,
+            151
+          ],
+          "ratio": 0.10308159722222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#50442f",
+          "rgb": [
+            80,
+            68,
+            47
+          ],
+          "ratio": 0.08778211805555555,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-08-21T12:56:03.291Z",
+      "fileKey": "File:Fashion Plate (Promenade Dress) LACMA M.83.161.262.jpg",
+      "kind": "photo",
+      "photographer": "Rudolph Ackermann (England, London, 1764-1834)",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "f1ff0fe0fc0fc0fe0fe0fe07e07e07e07c07",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "e5f33510-4196-4a28-8012-7fe62350303c",
+      "title": "Fashion Plate (English Morning Dress)",
+      "titleEn": "Fashion Plate (English Morning Dress) LACMA M.83.161.255",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/e5f33510-4196-4a28-8012-7fe62350303c.jpg",
+      "thumbUrl": "/stills/e5f33510-4196-4a28-8012-7fe62350303c.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Fashion_Plate_(English_Morning_Dress)_LACMA_M.83.161.255.jpg",
+      "author": "Rudolph Ackermann (England, London, 1764-1834)",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Fashion_Plate_(English_Morning_Dress)_LACMA_M.83.161.255.jpg",
+      "buckets": [
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#f2f1e6",
+          "rgb": [
+            242,
+            241,
+            230
+          ],
+          "ratio": 0.4541015625,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#ead7a2",
+          "rgb": [
+            234,
+            215,
+            162
+          ],
+          "ratio": 0.24479166666666666,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#c5b38d",
+          "rgb": [
+            197,
+            179,
+            141
+          ],
+          "ratio": 0.1859809027777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#897d69",
+          "rgb": [
+            137,
+            125,
+            105
+          ],
+          "ratio": 0.0636935763888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#d6cbb2",
+          "rgb": [
+            214,
+            203,
+            178
+          ],
+          "ratio": 0.051432291666666664,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-08-21T12:56:06.167Z",
+      "fileKey": "File:Fashion Plate (English Morning Dress) LACMA M.83.161.255.jpg",
+      "kind": "photo",
+      "photographer": "Rudolph Ackermann (England, London, 1764-1834)",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "f8ff0fe07c03c0bf03fc3ec3ec1ec3e03e03",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "73600aeb-a898-43dd-94b1-89542fd02a7b",
+      "title": "Fashion Plate (Walking Dress)",
+      "titleEn": "Fashion Plate (Walking Dress) LACMA M.83.161.39",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/73600aeb-a898-43dd-94b1-89542fd02a7b.jpg",
+      "thumbUrl": "/stills/73600aeb-a898-43dd-94b1-89542fd02a7b.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Fashion_Plate_(Walking_Dress)_LACMA_M.83.161.39.jpg",
+      "author": "Wikimedia Commons",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Fashion_Plate_(Walking_Dress)_LACMA_M.83.161.39.jpg",
+      "buckets": [
+        "yellow",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#f0e5cd",
+          "rgb": [
+            240,
+            229,
+            205
+          ],
+          "ratio": 0.4070095486111111,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#cfc3a4",
+          "rgb": [
+            207,
+            195,
+            164
+          ],
+          "ratio": 0.18467881944444445,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#aea484",
+          "rgb": [
+            174,
+            164,
+            132
+          ],
+          "ratio": 0.1615668402777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#e8dbbf",
+          "rgb": [
+            232,
+            219,
+            191
+          ],
+          "ratio": 0.15245225694444445,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#786f58",
+          "rgb": [
+            120,
+            111,
+            88
+          ],
+          "ratio": 0.09429253472222222,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-08-21T12:56:37.823Z",
+      "fileKey": "File:Fashion Plate (Walking Dress) LACMA M.83.161.39.jpg",
+      "kind": "photo",
+      "photographer": "Wikimedia Commons",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "f8ff8ff87f87f47f07e07e03c03c01c01c01",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "49ee792c-d87f-45f5-b77b-6e533a85239a",
+      "title": "Woman's Green Wool Dress by Andre Courreges",
+      "titleEn": "Woman's Green Wool Dress by Andre Courreges DPLA 24a0d070b2de123e2c8a795037695910 (page 1)",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/49ee792c-d87f-45f5-b77b-6e533a85239a.jpg",
+      "thumbUrl": "/stills/49ee792c-d87f-45f5-b77b-6e533a85239a.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Woman%27s_Green_Wool_Dress_by_Andre_Courreges_-_DPLA_-_24a0d070b2de123e2c8a795037695910_(page_1).jpg",
+      "author": "Courreges, Andre, 1923-2016",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Woman%27s_Green_Wool_Dress_by_Andre_Courreges_-_DPLA_-_24a0d070b2de123e2c8a795037695910_(page_1).jpg",
+      "buckets": [
+        "blue",
+        "white",
+        "green"
+      ],
+      "palette": [
+        {
+          "hex": "#e9edf0",
+          "rgb": [
+            233,
+            237,
+            240
+          ],
+          "ratio": 0.4295789930555556,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#d5d9dc",
+          "rgb": [
+            213,
+            217,
+            220
+          ],
+          "ratio": 0.3145616319444444,
+          "bucket": "white"
+        },
+        {
+          "hex": "#0f3125",
+          "rgb": [
+            15,
+            49,
+            37
+          ],
+          "ratio": 0.14659288194444445,
+          "bucket": "green"
+        },
+        {
+          "hex": "#205043",
+          "rgb": [
+            32,
+            80,
+            67
+          ],
+          "ratio": 0.06998697916666667,
+          "bucket": "green"
+        },
+        {
+          "hex": "#b0b9b7",
+          "rgb": [
+            176,
+            185,
+            183
+          ],
+          "ratio": 0.03927951388888889,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-08-21T12:57:09.413Z",
+      "fileKey": "File:Woman's Green Wool Dress by Andre Courreges - DPLA - 24a0d070b2de123e2c8a795037695910 (page 1).jpg",
+      "kind": "film",
+      "photographer": "Woman",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "ffff4ff0ff0ff1ff1ff0ff0ff0fe0ff0ffff",
+      "category": "film",
+      "subjects": [
+        "people",
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "c95fbefc-9650-4ff1-92dd-5f8711466557",
+      "title": "Mary Quant at the Victoria and Albert Museum 03",
+      "titleEn": "Mary Quant at the Victoria and Albert Museum 03",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/c95fbefc-9650-4ff1-92dd-5f8711466557.jpg",
+      "thumbUrl": "/stills/c95fbefc-9650-4ff1-92dd-5f8711466557.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Mary_Quant_at_the_Victoria_and_Albert_Museum_03.jpg",
+      "author": "livvya",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "buckets": [
+        "brown",
+        "orange",
+        "red"
+      ],
+      "palette": [
+        {
+          "hex": "#7f4b2f",
+          "rgb": [
+            127,
+            75,
+            47
+          ],
+          "ratio": 0.40625,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#de351a",
+          "rgb": [
+            222,
+            53,
+            26
+          ],
+          "ratio": 0.17024739583333334,
+          "bucket": "red"
+        },
+        {
+          "hex": "#d1936c",
+          "rgb": [
+            209,
+            147,
+            108
+          ],
+          "ratio": 0.16124131944444445,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#f4e2ca",
+          "rgb": [
+            244,
+            226,
+            202
+          ],
+          "ratio": 0.1323784722222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#4b2417",
+          "rgb": [
+            75,
+            36,
+            23
+          ],
+          "ratio": 0.1298828125,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-08-21T12:58:06.221Z",
+      "fileKey": "File:Mary Quant at the Victoria and Albert Museum 03.jpg",
+      "kind": "film",
+      "photographer": "livvya",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "ff8ffcf48f00f00f48e00e00e00c00c00c08",
+      "category": "film",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "2cb31b5b-d4ed-40be-a91a-2b04b845d17f",
+      "title": "Le Moniteur de la Mode 1890, nr. 2636c, No. 32 Toilette de Mad.e Duboys., RP-P-2009-3742",
+      "titleEn": "Le Moniteur de la Mode 1890, nr. 2636c, No. 32 Toilette de Mad.e Duboys., RP P 2009 3742",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/2cb31b5b-d4ed-40be-a91a-2b04b845d17f.jpg",
+      "thumbUrl": "/stills/2cb31b5b-d4ed-40be-a91a-2b04b845d17f.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Le_Moniteur_de_la_Mode_1890,_nr._2636c,_No._32_Toilette_de_Mad.e_Duboys.,_RP-P-2009-3742.jpg",
+      "author": "Rijksmuseum",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "buckets": [
+        "yellow",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#dad2bc",
+          "rgb": [
+            218,
+            210,
+            188
+          ],
+          "ratio": 0.6064453125,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#bbb4a1",
+          "rgb": [
+            187,
+            180,
+            161
+          ],
+          "ratio": 0.14778645833333334,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#958f7f",
+          "rgb": [
+            149,
+            143,
+            127
+          ],
+          "ratio": 0.12662760416666666,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#635f53",
+          "rgb": [
+            99,
+            95,
+            83
+          ],
+          "ratio": 0.06510416666666667,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#eceae8",
+          "rgb": [
+            236,
+            234,
+            232
+          ],
+          "ratio": 0.054036458333333336,
+          "bucket": "white"
+        }
+      ],
+      "addedAt": "2026-08-21T12:58:36.616Z",
+      "fileKey": "File:Le Moniteur de la Mode 1890, nr. 2636c, No. 32 Toilette de Mad.e Duboys., RP-P-2009-3742.jpg",
+      "kind": "film",
+      "photographer": "Rijksmuseum",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "e7fe7fe6fe6fc0fc03c03c23c03c03f0ffff",
+      "category": "film",
+      "subjects": [
+        "people"
+      ]
+    },
+    {
+      "id": "67430fc9-22da-4566-bbc9-41c145984382",
+      "title": "Le couturier Paul Poiret en manteau à doublure d'ocelot tenant un journal album souvenir du voyage de Paul Poiret à Co, 1987.1.447",
+      "titleEn": "Le couturier Paul Poiret en manteau à doublure d'ocelot tenant un journal album souvenir du voyage de Paul Poiret à Co, 1987.1.447",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/67430fc9-22da-4566-bbc9-41c145984382.jpg",
+      "thumbUrl": "/stills/67430fc9-22da-4566-bbc9-41c145984382.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Le_couturier_Paul_Poiret_en_manteau_%C3%A0_doublure_d%27ocelot_tenant_un_journal_album_souvenir_du_voyage_de_Paul_Poiret_%C3%A0_Co,_1987.1.447.jpg",
+      "author": "Anonyme, photographe",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "buckets": [
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#d2c3b7",
+          "rgb": [
+            210,
+            195,
+            183
+          ],
+          "ratio": 0.3728298611111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#665242",
+          "rgb": [
+            102,
+            82,
+            66
+          ],
+          "ratio": 0.16981336805555555,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#856d58",
+          "rgb": [
+            133,
+            109,
+            88
+          ],
+          "ratio": 0.1674262152777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#b19980",
+          "rgb": [
+            177,
+            153,
+            128
+          ],
+          "ratio": 0.16438802083333334,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#42332a",
+          "rgb": [
+            66,
+            51,
+            42
+          ],
+          "ratio": 0.1255425347222222,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-08-21T12:59:35.888Z",
+      "fileKey": "File:Le couturier Paul Poiret en manteau à doublure d'ocelot tenant un journal album souvenir du voyage de Paul Poiret à Co, 1987.1.447.jpg",
+      "kind": "film",
+      "photographer": "Anonyme, photographe",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "c1bf0fe3bef3ff3c1bc0bc0bc0bc0bc0bc0b",
+      "category": "film",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "48e6b90e-9707-42d2-b2cb-d90e8d9afa75",
+      "title": "Ball gown",
+      "titleEn": "Ball gown MET 49.3.26ab B",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/48e6b90e-9707-42d2-b2cb-d90e8d9afa75.jpg",
+      "thumbUrl": "/stills/48e6b90e-9707-42d2-b2cb-d90e8d9afa75.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Ball_gown_MET_49.3.26ab_B.jpeg",
+      "author": "Jacques Doucet",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "buckets": [
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#a69685",
+          "rgb": [
+            166,
+            150,
+            133
+          ],
+          "ratio": 0.2842881944444444,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#e2ad8a",
+          "rgb": [
+            226,
+            173,
+            138
+          ],
+          "ratio": 0.2316623263888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#c6b8a8",
+          "rgb": [
+            198,
+            184,
+            168
+          ],
+          "ratio": 0.20084635416666666,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#f1ccad",
+          "rgb": [
+            241,
+            204,
+            173
+          ],
+          "ratio": 0.1470269097222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#ca8a5c",
+          "rgb": [
+            202,
+            138,
+            92
+          ],
+          "ratio": 0.1361762152777778,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-08-21T13:00:08.956Z",
+      "fileKey": "File:Ball gown MET 49.3.26ab B.jpeg",
+      "kind": "film",
+      "photographer": "Jacques Doucet",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "00717f1ff1ff0ff0ff0fb0fb1f817817c014",
+      "category": "film",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "73b4bc74-8b15-4c5f-a640-d538a2100c60",
+      "title": "Mary Quant Dress - Goodwood Revival 2019 - The Fashion (2019-09-13 10.26.35 by David Merrett - 48749713632)",
+      "titleEn": "Mary Quant Dress Goodwood Revival 2019 The Fashion (2019 09 13 10.26.35 by David Merrett 48749713632)",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/73b4bc74-8b15-4c5f-a640-d538a2100c60.jpg",
+      "thumbUrl": "/stills/73b4bc74-8b15-4c5f-a640-d538a2100c60.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Mary_Quant_Dress_-_Goodwood_Revival_2019_-_The_Fashion_(2019-09-13_10.26.35_by_David_Merrett_-_48749713632).jpg",
+      "author": "David Merrett from Daventry, England",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "buckets": [
+        "orange",
+        "red",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#746253",
+          "rgb": [
+            116,
+            98,
+            83
+          ],
+          "ratio": 0.2684461805555556,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#ad9179",
+          "rgb": [
+            173,
+            145,
+            121
+          ],
+          "ratio": 0.2468532986111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#352a28",
+          "rgb": [
+            53,
+            42,
+            40
+          ],
+          "ratio": 0.23643663194444445,
+          "bucket": "red"
+        },
+        {
+          "hex": "#d8cac3",
+          "rgb": [
+            216,
+            202,
+            195
+          ],
+          "ratio": 0.20909288194444445,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#b50f20",
+          "rgb": [
+            181,
+            15,
+            32
+          ],
+          "ratio": 0.03917100694444445,
+          "bucket": "red"
+        }
+      ],
+      "addedAt": "2026-08-21T13:01:36.315Z",
+      "fileKey": "File:Mary Quant Dress - Goodwood Revival 2019 - The Fashion (2019-09-13 10.26.35 by David Merrett - 48749713632).jpg",
+      "kind": "photo",
+      "photographer": "David Merrett from Daventry, England",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "011211087f7fe6e8408c4cc6ffffff07bc30",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "8a8daf40-ddb7-4a5b-96ba-192455bad0b9",
+      "title": "Mary quant dress victoria albert museum",
+      "titleEn": "Mary quant dress victoria albert museum",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/8a8daf40-ddb7-4a5b-96ba-192455bad0b9.jpg",
+      "thumbUrl": "/stills/8a8daf40-ddb7-4a5b-96ba-192455bad0b9.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Mary_quant_dress_victoria_albert_museum.jpg",
+      "author": "nyaa_birdies_perch",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "buckets": [
+        "red"
+      ],
+      "palette": [
+        {
+          "hex": "#a01923",
+          "rgb": [
+            160,
+            25,
+            35
+          ],
+          "ratio": 0.3422309027777778,
+          "bucket": "red"
+        },
+        {
+          "hex": "#5e121b",
+          "rgb": [
+            94,
+            18,
+            27
+          ],
+          "ratio": 0.3285590277777778,
+          "bucket": "red"
+        },
+        {
+          "hex": "#271916",
+          "rgb": [
+            39,
+            25,
+            22
+          ],
+          "ratio": 0.1296657986111111,
+          "bucket": "red"
+        },
+        {
+          "hex": "#723331",
+          "rgb": [
+            114,
+            51,
+            49
+          ],
+          "ratio": 0.12445746527777778,
+          "bucket": "red"
+        },
+        {
+          "hex": "#cf655b",
+          "rgb": [
+            207,
+            101,
+            91
+          ],
+          "ratio": 0.07508680555555555,
+          "bucket": "red"
+        }
+      ],
+      "addedAt": "2026-08-21T13:02:08.359Z",
+      "fileKey": "File:Mary quant dress victoria albert museum.jpg",
+      "kind": "film",
+      "photographer": "nyaa_birdies_perch",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "87c07e03c03c07d07d070a60ee0dc11c3fdf",
+      "category": "film",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "f1221a85-8f85-47fc-948b-3d0b1f2ddec6",
+      "title": "Mary Quant at the Victoria and Albert Museum 25",
+      "titleEn": "Mary Quant at the Victoria and Albert Museum 25",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/f1221a85-8f85-47fc-948b-3d0b1f2ddec6.jpg",
+      "thumbUrl": "/stills/f1221a85-8f85-47fc-948b-3d0b1f2ddec6.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Mary_Quant_at_the_Victoria_and_Albert_Museum_25.jpg",
+      "author": "livvya",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "buckets": [
+        "orange",
+        "brown",
+        "green",
+        "blue"
+      ],
+      "palette": [
+        {
+          "hex": "#bc7c5c",
+          "rgb": [
+            188,
+            124,
+            92
+          ],
+          "ratio": 0.2697482638888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#cfbca0",
+          "rgb": [
+            207,
+            188,
+            160
+          ],
+          "ratio": 0.2516276041666667,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#5c5541",
+          "rgb": [
+            92,
+            85,
+            65
+          ],
+          "ratio": 0.20399305555555555,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#1c5740",
+          "rgb": [
+            28,
+            87,
+            64
+          ],
+          "ratio": 0.1557074652777778,
+          "bucket": "green"
+        },
+        {
+          "hex": "#252c31",
+          "rgb": [
+            37,
+            44,
+            49
+          ],
+          "ratio": 0.1189236111111111,
+          "bucket": "blue"
+        }
+      ],
+      "addedAt": "2026-08-21T13:02:11.008Z",
+      "fileKey": "File:Mary Quant at the Victoria and Albert Museum 25.jpg",
+      "kind": "film",
+      "photographer": "livvya",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "fe0c60cff79f10f00f00e00c31c30ee0fe7f",
+      "category": "film",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "857f3834-db49-4f1a-a993-3386a3d0b766",
+      "title": "Iribe Les Robes de Paul Poiret p.29",
+      "titleEn": "Iribe Les Robes de Paul Poiret p.29",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/857f3834-db49-4f1a-a993-3386a3d0b766.jpg",
+      "thumbUrl": "/stills/857f3834-db49-4f1a-a993-3386a3d0b766.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Iribe_Les_Robes_de_Paul_Poiret_p.29.jpg",
+      "author": "Paul Iribe",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Iribe_Les_Robes_de_Paul_Poiret_p.29.jpg",
+      "buckets": [
+        "orange",
+        "yellow",
+        "green",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#eacbac",
+          "rgb": [
+            234,
+            203,
+            172
+          ],
+          "ratio": 0.3818359375,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#e8ae37",
+          "rgb": [
+            232,
+            174,
+            55
+          ],
+          "ratio": 0.19618055555555555,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#dbb384",
+          "rgb": [
+            219,
+            179,
+            132
+          ],
+          "ratio": 0.1672092013888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#3f6554",
+          "rgb": [
+            63,
+            101,
+            84
+          ],
+          "ratio": 0.14290364583333334,
+          "bucket": "green"
+        },
+        {
+          "hex": "#7e6f59",
+          "rgb": [
+            126,
+            111,
+            89
+          ],
+          "ratio": 0.11187065972222222,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-08-21T13:02:35.807Z",
+      "fileKey": "File:Iribe Les Robes de Paul Poiret p.29.jpg",
+      "kind": "film",
+      "photographer": "Paul Iribe",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "e47e83d87f01f89f09f0ff0ff0ff8fbfffff",
+      "category": "film",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "05132d6c-8899-400c-8782-2d8bc9f5c245",
+      "title": "Ball gown",
+      "titleEn": "Ball gown MET 49.3.27ab B",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/05132d6c-8899-400c-8782-2d8bc9f5c245.jpg",
+      "thumbUrl": "/stills/05132d6c-8899-400c-8782-2d8bc9f5c245.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Ball_gown_MET_49.3.27ab_B.jpg",
+      "author": "Jacques Doucet",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "buckets": [
+        "orange",
+        "yellow",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#c7c0b0",
+          "rgb": [
+            199,
+            192,
+            176
+          ],
+          "ratio": 0.3253038194444444,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#d09866",
+          "rgb": [
+            208,
+            152,
+            102
+          ],
+          "ratio": 0.2713758680555556,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#c3814d",
+          "rgb": [
+            195,
+            129,
+            77
+          ],
+          "ratio": 0.2328559027777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#a26235",
+          "rgb": [
+            162,
+            98,
+            53
+          ],
+          "ratio": 0.0939670138888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#c3ab8e",
+          "rgb": [
+            195,
+            171,
+            142
+          ],
+          "ratio": 0.07649739583333333,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-08-21T13:04:53.181Z",
+      "fileKey": "File:Ball gown MET 49.3.27ab B.jpg",
+      "kind": "film",
+      "photographer": "Jacques Doucet",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "f0ff0fe07e07f03e03e03c01801801801c03",
+      "category": "film",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "49bb0b71-b577-4511-b340-f96d7da70387",
+      "title": "Mary Quant at the Victoria and Albert Museum 04",
+      "titleEn": "Mary Quant at the Victoria and Albert Museum 04",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/49bb0b71-b577-4511-b340-f96d7da70387.jpg",
+      "thumbUrl": "/stills/49bb0b71-b577-4511-b340-f96d7da70387.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Mary_Quant_at_the_Victoria_and_Albert_Museum_04.jpg",
+      "author": "livvya",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "buckets": [
+        "yellow",
+        "red",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#c3bba9",
+          "rgb": [
+            195,
+            187,
+            169
+          ],
+          "ratio": 0.2790798611111111,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#999180",
+          "rgb": [
+            153,
+            145,
+            128
+          ],
+          "ratio": 0.224609375,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#502521",
+          "rgb": [
+            80,
+            37,
+            33
+          ],
+          "ratio": 0.17903645833333334,
+          "bucket": "red"
+        },
+        {
+          "hex": "#9d2920",
+          "rgb": [
+            157,
+            41,
+            32
+          ],
+          "ratio": 0.1784939236111111,
+          "bucket": "red"
+        },
+        {
+          "hex": "#5f6157",
+          "rgb": [
+            95,
+            97,
+            87
+          ],
+          "ratio": 0.13878038194444445,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-08-21T13:07:13.084Z",
+      "fileKey": "File:Mary Quant at the Victoria and Albert Museum 04.jpg",
+      "kind": "film",
+      "photographer": "livvya",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "fe7e22e38e3cf3c71fe16e06e004e00079c7",
+      "category": "film",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "4bb3f4b5-1e9f-4ca5-9d2f-fb3f9a7c78c6",
+      "title": "Mary Quant at the Victoria and Albert Museum 09",
+      "titleEn": "Mary Quant at the Victoria and Albert Museum 09",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/4bb3f4b5-1e9f-4ca5-9d2f-fb3f9a7c78c6.jpg",
+      "thumbUrl": "/stills/4bb3f4b5-1e9f-4ca5-9d2f-fb3f9a7c78c6.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Mary_Quant_at_the_Victoria_and_Albert_Museum_09.jpg",
+      "author": "livvya",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "buckets": [
+        "red",
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#400809",
+          "rgb": [
+            64,
+            8,
+            9
+          ],
+          "ratio": 0.4452039930555556,
+          "bucket": "red"
+        },
+        {
+          "hex": "#570e09",
+          "rgb": [
+            87,
+            14,
+            9
+          ],
+          "ratio": 0.1781684027777778,
+          "bucket": "red"
+        },
+        {
+          "hex": "#4d291e",
+          "rgb": [
+            77,
+            41,
+            30
+          ],
+          "ratio": 0.16981336805555555,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#bb9b78",
+          "rgb": [
+            187,
+            155,
+            120
+          ],
+          "ratio": 0.10503472222222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#775a41",
+          "rgb": [
+            119,
+            90,
+            65
+          ],
+          "ratio": 0.1017795138888889,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-08-21T13:09:02.005Z",
+      "fileKey": "File:Mary Quant at the Victoria and Albert Museum 09.jpg",
+      "kind": "film",
+      "photographer": "livvya",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "c000600010f08f00f00f01f01f01f00e0000",
+      "category": "film",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "29eacc2c-2239-4ec2-9a6c-c66c1017a338",
+      "title": "Ball gown",
+      "titleEn": "Ball gown MET 1976.134.14a, b",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/29eacc2c-2239-4ec2-9a6c-c66c1017a338.jpg",
+      "thumbUrl": "/stills/29eacc2c-2239-4ec2-9a6c-c66c1017a338.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Ball_gown_-_MET_1976.134.14a,_b.jpg",
+      "author": "Creator:Driscoll",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "buckets": [
+        "orange",
+        "yellow",
+        "gray",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#d6d1cb",
+          "rgb": [
+            214,
+            209,
+            203
+          ],
+          "ratio": 0.2794053819444444,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#c2b9ac",
+          "rgb": [
+            194,
+            185,
+            172
+          ],
+          "ratio": 0.2355685763888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#ae9666",
+          "rgb": [
+            174,
+            150,
+            102
+          ],
+          "ratio": 0.2292751736111111,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#a8a098",
+          "rgb": [
+            168,
+            160,
+            152
+          ],
+          "ratio": 0.1457248263888889,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#80673d",
+          "rgb": [
+            128,
+            103,
+            61
+          ],
+          "ratio": 0.11002604166666667,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-08-21T13:09:05.644Z",
+      "fileKey": "File:Ball gown - MET 1976.134.14a, b.jpg",
+      "kind": "film",
+      "photographer": "Creator:Driscoll",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "16f3cf39f79f78f70f71f60f70f007001000",
+      "category": "film",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "0ec75b47-ce91-4849-8d1a-cf3489d2d456",
+      "title": "Pierre Cardin at the Brooklyn Museum, 2019 13",
+      "titleEn": "Pierre Cardin at the Brooklyn Museum, 2019 13",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/0ec75b47-ce91-4849-8d1a-cf3489d2d456.jpg",
+      "thumbUrl": "/stills/0ec75b47-ce91-4849-8d1a-cf3489d2d456.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Pierre_Cardin_at_the_Brooklyn_Museum,_2019_13.jpg",
+      "author": "amerune",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "buckets": [
+        "orange",
+        "brown",
+        "black"
+      ],
+      "palette": [
+        {
+          "hex": "#b59f89",
+          "rgb": [
+            181,
+            159,
+            137
+          ],
+          "ratio": 0.3097873263888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#100b0a",
+          "rgb": [
+            16,
+            11,
+            10
+          ],
+          "ratio": 0.2111545138888889,
+          "bucket": "black"
+        },
+        {
+          "hex": "#856951",
+          "rgb": [
+            133,
+            105,
+            81
+          ],
+          "ratio": 0.1818576388888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#482d20",
+          "rgb": [
+            72,
+            45,
+            32
+          ],
+          "ratio": 0.15169270833333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#e4d2ba",
+          "rgb": [
+            228,
+            210,
+            186
+          ],
+          "ratio": 0.1455078125,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-08-21T13:09:16.649Z",
+      "fileKey": "File:Pierre Cardin at the Brooklyn Museum, 2019 13.jpg",
+      "kind": "film",
+      "photographer": "amerune",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "f43e23e43e4bc59c1bc1fcbec78c58d7cf3c",
+      "category": "film",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "9fb4b672-3597-4a41-be49-872b75d8219d",
+      "title": "Untitled Fashion Plate",
+      "titleEn": "Untitled Fashion Plate LACMA M.86.266.379",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/9fb4b672-3597-4a41-be49-872b75d8219d.jpg",
+      "thumbUrl": "/stills/9fb4b672-3597-4a41-be49-872b75d8219d.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Untitled_Fashion_Plate_LACMA_M.86.266.379.jpg",
+      "author": "Rudolph Ackermann (England, London, 1764-1834)",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Untitled_Fashion_Plate_LACMA_M.86.266.379.jpg",
+      "buckets": [
+        "yellow",
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#f2e5c8",
+          "rgb": [
+            242,
+            229,
+            200
+          ],
+          "ratio": 0.5835503472222222,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#b29e79",
+          "rgb": [
+            178,
+            158,
+            121
+          ],
+          "ratio": 0.1427951388888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d1bea0",
+          "rgb": [
+            209,
+            190,
+            160
+          ],
+          "ratio": 0.11187065972222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#836f53",
+          "rgb": [
+            131,
+            111,
+            83
+          ],
+          "ratio": 0.09505208333333333,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#e7d6b8",
+          "rgb": [
+            231,
+            214,
+            184
+          ],
+          "ratio": 0.06673177083333333,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-08-21T13:09:30.861Z",
+      "fileKey": "File:Untitled Fashion Plate LACMA M.86.266.379.jpg",
+      "kind": "photo",
+      "photographer": "Rudolph Ackermann (England, London, 1764-1834)",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "f03fa7fffe71831831c79ffbf0bf0bf03f07",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "e5e924ef-77fc-47e2-b2f5-eb604c2c9c16",
+      "title": "Ball gown",
+      "titleEn": "Ball gown MET DT7578",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/e5e924ef-77fc-47e2-b2f5-eb604c2c9c16.jpg",
+      "thumbUrl": "/stills/e5e924ef-77fc-47e2-b2f5-eb604c2c9c16.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Ball_gown_MET_DT7578.jpg",
+      "author": "Wikimedia Commons",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "buckets": [
+        "blue"
+      ],
+      "palette": [
+        {
+          "hex": "#d1d7e2",
+          "rgb": [
+            209,
+            215,
+            226
+          ],
+          "ratio": 0.3968098958333333,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#b2bcc9",
+          "rgb": [
+            178,
+            188,
+            201
+          ],
+          "ratio": 0.2424045138888889,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#8a99aa",
+          "rgb": [
+            138,
+            153,
+            170
+          ],
+          "ratio": 0.15223524305555555,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#677582",
+          "rgb": [
+            103,
+            117,
+            130
+          ],
+          "ratio": 0.13802083333333334,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#3d4750",
+          "rgb": [
+            61,
+            71,
+            80
+          ],
+          "ratio": 0.0705295138888889,
+          "bucket": "blue"
+        }
+      ],
+      "addedAt": "2026-08-21T13:09:39.856Z",
+      "fileKey": "File:Ball gown MET DT7578.jpg",
+      "kind": "film",
+      "photographer": "Wikimedia Commons",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "ffff9ff9ff8ff0ff0fe07c07403c03c03f03",
+      "category": "film",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "ee5c99ae-f2a9-4cf5-b042-8b0aa111bb7c",
+      "title": "Fashion Plate (Opera Dress)",
+      "titleEn": "Fashion Plate (Opera Dress) LACMA M.83.161.167",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/ee5c99ae-f2a9-4cf5-b042-8b0aa111bb7c.jpg",
+      "thumbUrl": "/stills/ee5c99ae-f2a9-4cf5-b042-8b0aa111bb7c.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Fashion_Plate_(Opera_Dress)_LACMA_M.83.161.167.jpg",
+      "author": "Jerome Ackerman (United States, Michigan, Detroit, born 1920), Rudolph Ackermann (England, London, 1764-1834)",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Fashion_Plate_(Opera_Dress)_LACMA_M.83.161.167.jpg",
+      "buckets": [
+        "orange",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#f6edda",
+          "rgb": [
+            246,
+            237,
+            218
+          ],
+          "ratio": 0.3857421875,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#ece0cb",
+          "rgb": [
+            236,
+            224,
+            203
+          ],
+          "ratio": 0.173828125,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#decbb1",
+          "rgb": [
+            222,
+            203,
+            177
+          ],
+          "ratio": 0.17317708333333334,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#c7b195",
+          "rgb": [
+            199,
+            177,
+            149
+          ],
+          "ratio": 0.1518012152777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#a08a6f",
+          "rgb": [
+            160,
+            138,
+            111
+          ],
+          "ratio": 0.1154513888888889,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-08-21T13:10:18.010Z",
+      "fileKey": "File:Fashion Plate (Opera Dress) LACMA M.83.161.167.jpg",
+      "kind": "photo",
+      "photographer": "Jerome Ackerman (United States, Michigan, Detroit, born 1920), Rudolph Ackermann (England, London, 1764-1834)",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "f0ff0ff0fc07c0ff0ff0fc0fd87d0b809f8f",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "30c21b2d-0661-465c-a578-eafba140a92c",
+      "title": "Fashion Plate (Public Promenade Dress)",
+      "titleEn": "Fashion Plate (Public Promenade Dress) LACMA M.83.161.40",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/30c21b2d-0661-465c-a578-eafba140a92c.jpg",
+      "thumbUrl": "/stills/30c21b2d-0661-465c-a578-eafba140a92c.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Fashion_Plate_(Public_Promenade_Dress)_LACMA_M.83.161.40.jpg",
+      "author": "Wikimedia Commons",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Fashion_Plate_(Public_Promenade_Dress)_LACMA_M.83.161.40.jpg",
+      "buckets": [
+        "orange",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#efe3cb",
+          "rgb": [
+            239,
+            227,
+            203
+          ],
+          "ratio": 0.2724609375,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d0c1ab",
+          "rgb": [
+            208,
+            193,
+            171
+          ],
+          "ratio": 0.2564019097222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#b5a793",
+          "rgb": [
+            181,
+            167,
+            147
+          ],
+          "ratio": 0.19173177083333334,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#e3d3ba",
+          "rgb": [
+            227,
+            211,
+            186
+          ],
+          "ratio": 0.16861979166666666,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#857d6d",
+          "rgb": [
+            133,
+            125,
+            109
+          ],
+          "ratio": 0.11078559027777778,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-08-21T13:10:49.291Z",
+      "fileKey": "File:Fashion Plate (Public Promenade Dress) LACMA M.83.161.40.jpg",
+      "kind": "photo",
+      "photographer": "Wikimedia Commons",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "c5fd2ff2fe49ec9c0fc0dc01c0680e804841",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "1d0a76e6-a03d-4b7f-be99-39fe1b16daff",
+      "title": "Fancy dress costume",
+      "titleEn": "Fancy dress costume MET DT3775",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/1d0a76e6-a03d-4b7f-be99-39fe1b16daff.jpg",
+      "thumbUrl": "/stills/1d0a76e6-a03d-4b7f-be99-39fe1b16daff.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Fancy_dress_costume_-_MET_DT3775.jpg",
+      "author": "House of Worth",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "buckets": [
+        "gray",
+        "pink",
+        "red"
+      ],
+      "palette": [
+        {
+          "hex": "#4d4d4d",
+          "rgb": [
+            77,
+            77,
+            77
+          ],
+          "ratio": 0.3181423611111111,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#6e6d6d",
+          "rgb": [
+            110,
+            109,
+            109
+          ],
+          "ratio": 0.2819010416666667,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#6c1528",
+          "rgb": [
+            108,
+            21,
+            40
+          ],
+          "ratio": 0.1759982638888889,
+          "bucket": "red"
+        },
+        {
+          "hex": "#8e405c",
+          "rgb": [
+            142,
+            64,
+            92
+          ],
+          "ratio": 0.1413845486111111,
+          "bucket": "pink"
+        },
+        {
+          "hex": "#b58a9d",
+          "rgb": [
+            181,
+            138,
+            157
+          ],
+          "ratio": 0.08257378472222222,
+          "bucket": "pink"
+        }
+      ],
+      "addedAt": "2026-08-21T13:10:51.329Z",
+      "fileKey": "File:Fancy dress costume - MET DT3775.jpg",
+      "kind": "film",
+      "photographer": "House of Worth",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "0381f43ee3bf39f11f00f00f003023803f07",
+      "category": "film",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "e775ac61-5042-451a-998f-2465541ed8ae",
+      "title": "Ball gown",
+      "titleEn": "Ball gown MET 1979.347.4 F2",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/e775ac61-5042-451a-998f-2465541ed8ae.jpg",
+      "thumbUrl": "/stills/e775ac61-5042-451a-998f-2465541ed8ae.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Ball_gown_MET_1979.347.4_F2.jpeg",
+      "author": "Wikimedia Commons",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "buckets": [
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#dbd2c0",
+          "rgb": [
+            219,
+            210,
+            192
+          ],
+          "ratio": 0.3351779513888889,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#d1c4aa",
+          "rgb": [
+            209,
+            196,
+            170
+          ],
+          "ratio": 0.2623697916666667,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#c4b492",
+          "rgb": [
+            196,
+            180,
+            146
+          ],
+          "ratio": 0.24012586805555555,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#b5a178",
+          "rgb": [
+            181,
+            161,
+            120
+          ],
+          "ratio": 0.1264105902777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#988157",
+          "rgb": [
+            152,
+            129,
+            87
+          ],
+          "ratio": 0.03591579861111111,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-08-21T13:14:12.282Z",
+      "fileKey": "File:Ball gown MET 1979.347.4 F2.jpeg",
+      "kind": "film",
+      "photographer": "Wikimedia Commons",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "f0ff0ffbff2ff7ff27d03b81bc0380780000",
+      "category": "film",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "06a3895b-39bb-4751-a582-0f5131eb48fc",
+      "title": "Kendall Jenner Met Gala (cropped)",
+      "titleEn": "Kendall Jenner Met Gala (cropped)",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/06a3895b-39bb-4751-a582-0f5131eb48fc.jpg",
+      "thumbUrl": "/stills/06a3895b-39bb-4751-a582-0f5131eb48fc.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Kendall_Jenner_Met_Gala_(cropped).jpg",
+      "author": "Danilo",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "buckets": [
+        "brown",
+        "orange",
+        "black"
+      ],
+      "palette": [
+        {
+          "hex": "#8b6349",
+          "rgb": [
+            139,
+            99,
+            73
+          ],
+          "ratio": 0.4220920138888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#c28b66",
+          "rgb": [
+            194,
+            139,
+            102
+          ],
+          "ratio": 0.2136501736111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#63361d",
+          "rgb": [
+            99,
+            54,
+            29
+          ],
+          "ratio": 0.15266927083333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#b26d44",
+          "rgb": [
+            178,
+            109,
+            68
+          ],
+          "ratio": 0.10774739583333333,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#140b05",
+          "rgb": [
+            20,
+            11,
+            5
+          ],
+          "ratio": 0.10384114583333333,
+          "bucket": "black"
+        }
+      ],
+      "addedAt": "2026-08-21T13:15:16.384Z",
+      "fileKey": "File:Kendall Jenner Met Gala (cropped).jpg",
+      "kind": "film",
+      "photographer": "Danilo",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "c23c73cfbc23cffcffe7ce38e10e34c678cf",
+      "category": "film",
+      "subjects": [
+        "people"
+      ]
+    },
+    {
+      "id": "f5de972a-91cc-4452-bddb-e77e4b4bd492",
+      "title": "McQueen Met Costume Art 1",
+      "titleEn": "McQueen Met Costume Art 1",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/f5de972a-91cc-4452-bddb-e77e4b4bd492.jpg",
+      "thumbUrl": "/stills/f5de972a-91cc-4452-bddb-e77e4b4bd492.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:McQueen_Met_Costume_Art_1.jpg",
+      "author": "Rhododendrites",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "buckets": [
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#e2ded8",
+          "rgb": [
+            226,
+            222,
+            216
+          ],
+          "ratio": 0.3148871527777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d5d0c9",
+          "rgb": [
+            213,
+            208,
+            201
+          ],
+          "ratio": 0.2846137152777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#c3b5a6",
+          "rgb": [
+            195,
+            181,
+            166
+          ],
+          "ratio": 0.1767578125,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#ad9682",
+          "rgb": [
+            173,
+            150,
+            130
+          ],
+          "ratio": 0.17664930555555555,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#6e4027",
+          "rgb": [
+            110,
+            64,
+            39
+          ],
+          "ratio": 0.04709201388888889,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-08-21T13:15:20.306Z",
+      "fileKey": "File:McQueen Met Costume Art 1.jpg",
+      "kind": "film",
+      "photographer": "Rhododendrites",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "10fd0fd0f10fd1f11fd1fd0f10f10f10f10f",
+      "category": "film",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "9581a148-1268-4485-869c-09e27909f6c6",
+      "title": "FITMuseumBlackSatinGownAndLightPinkSilkCrepeDress",
+      "titleEn": "FITMuseumBlackSatinGownAndLightPinkSilkCrepeDress",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/9581a148-1268-4485-869c-09e27909f6c6.jpg",
+      "thumbUrl": "/stills/9581a148-1268-4485-869c-09e27909f6c6.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:FITMuseumBlackSatinGownAndLightPinkSilkCrepeDress.jpg",
+      "author": "DanielPenfield",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "buckets": [
+        "gray",
+        "red",
+        "black"
+      ],
+      "palette": [
+        {
+          "hex": "#424546",
+          "rgb": [
+            66,
+            69,
+            70
+          ],
+          "ratio": 0.3363715277777778,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#362c2a",
+          "rgb": [
+            54,
+            44,
+            42
+          ],
+          "ratio": 0.267578125,
+          "bucket": "red"
+        },
+        {
+          "hex": "#0b0606",
+          "rgb": [
+            11,
+            6,
+            6
+          ],
+          "ratio": 0.1820746527777778,
+          "bucket": "black"
+        },
+        {
+          "hex": "#e49882",
+          "rgb": [
+            228,
+            152,
+            130
+          ],
+          "ratio": 0.14127604166666666,
+          "bucket": "red"
+        },
+        {
+          "hex": "#746967",
+          "rgb": [
+            116,
+            105,
+            103
+          ],
+          "ratio": 0.07269965277777778,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-08-21T13:15:24.735Z",
+      "fileKey": "File:FITMuseumBlackSatinGownAndLightPinkSilkCrepeDress.jpg",
+      "kind": "film",
+      "photographer": "DanielPenfield",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "21003003303303f03d43c43d43d43c03c03c",
+      "category": "film",
+      "subjects": [
+        "people"
+      ]
+    },
+    {
+      "id": "15f29ba1-588f-4fb9-a3e1-042dea669162",
+      "title": "Met gala 2015",
+      "titleEn": "Met gala 2015",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/15f29ba1-588f-4fb9-a3e1-042dea669162.jpg",
+      "thumbUrl": "/stills/15f29ba1-588f-4fb9-a3e1-042dea669162.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Met_gala_2015.jpg",
+      "author": "NoondayNews",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "buckets": [
+        "black",
+        "gray",
+        "yellow",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#16110e",
+          "rgb": [
+            22,
+            17,
+            14
+          ],
+          "ratio": 0.3924696180555556,
+          "bucket": "black"
+        },
+        {
+          "hex": "#52585b",
+          "rgb": [
+            82,
+            88,
+            91
+          ],
+          "ratio": 0.1821831597222222,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#d2c3a3",
+          "rgb": [
+            210,
+            195,
+            163
+          ],
+          "ratio": 0.17567274305555555,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#928b7d",
+          "rgb": [
+            146,
+            139,
+            125
+          ],
+          "ratio": 0.14095052083333334,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#533525",
+          "rgb": [
+            83,
+            53,
+            37
+          ],
+          "ratio": 0.10872395833333333,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-08-21T13:17:10.709Z",
+      "fileKey": "File:Met gala 2015.jpg",
+      "kind": "film",
+      "photographer": "NoondayNews",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "bff9ff1ffcff01f000024025000300383006",
+      "category": "film",
+      "subjects": [
+        "people"
+      ]
+    },
+    {
+      "id": "7543962b-e64a-46a6-a7c9-a531bf6e1646",
+      "title": "Ball gown",
+      "titleEn": "Ball gown MET 49.3.26ab TQL",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/7543962b-e64a-46a6-a7c9-a531bf6e1646.jpg",
+      "thumbUrl": "/stills/7543962b-e64a-46a6-a7c9-a531bf6e1646.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Ball_gown_MET_49.3.26ab_TQL.jpeg",
+      "author": "Jacques Doucet",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "buckets": [
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#d0c3b3",
+          "rgb": [
+            208,
+            195,
+            179
+          ],
+          "ratio": 0.2987196180555556,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#b5a594",
+          "rgb": [
+            181,
+            165,
+            148
+          ],
+          "ratio": 0.24620225694444445,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d89e74",
+          "rgb": [
+            216,
+            158,
+            116
+          ],
+          "ratio": 0.19129774305555555,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#f1c9a9",
+          "rgb": [
+            241,
+            201,
+            169
+          ],
+          "ratio": 0.18196614583333334,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#a75933",
+          "rgb": [
+            167,
+            89,
+            51
+          ],
+          "ratio": 0.0818142361111111,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-08-21T13:17:12.974Z",
+      "fileKey": "File:Ball gown MET 49.3.26ab TQL.jpeg",
+      "kind": "film",
+      "photographer": "Jacques Doucet",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "21f01f35f3ff3ff7cf1cf1ef0e7046040050",
+      "category": "film",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "c5272522-eef4-4ef5-8750-e277dc596ce6",
+      "title": "Pierre Cardin at the Brooklyn Museum, 2019 18",
+      "titleEn": "Pierre Cardin at the Brooklyn Museum, 2019 18",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/c5272522-eef4-4ef5-8750-e277dc596ce6.jpg",
+      "thumbUrl": "/stills/c5272522-eef4-4ef5-8750-e277dc596ce6.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Pierre_Cardin_at_the_Brooklyn_Museum,_2019_18.jpg",
+      "author": "amerune",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "buckets": [
+        "brown",
+        "blue",
+        "red"
+      ],
+      "palette": [
+        {
+          "hex": "#64492e",
+          "rgb": [
+            100,
+            73,
+            46
+          ],
+          "ratio": 0.396484375,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#320e06",
+          "rgb": [
+            50,
+            14,
+            6
+          ],
+          "ratio": 0.1801215277777778,
+          "bucket": "red"
+        },
+        {
+          "hex": "#836f60",
+          "rgb": [
+            131,
+            111,
+            96
+          ],
+          "ratio": 0.17664930555555555,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#86b0ef",
+          "rgb": [
+            134,
+            176,
+            239
+          ],
+          "ratio": 0.15125868055555555,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#748ccb",
+          "rgb": [
+            116,
+            140,
+            203
+          ],
+          "ratio": 0.0954861111111111,
+          "bucket": "blue"
+        }
+      ],
+      "addedAt": "2026-08-21T13:17:43.482Z",
+      "fileKey": "File:Pierre Cardin at the Brooklyn Museum, 2019 18.jpg",
+      "kind": "film",
+      "photographer": "amerune",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "ff8ff8ff8bf8bf8e000000000000f21f21f8",
+      "category": "film",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "f47247e8-c8eb-4a41-bc93-e565cd9181bc",
+      "title": "Ball gown",
+      "titleEn": "Ball gown MET DP348337",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/f47247e8-c8eb-4a41-bc93-e565cd9181bc.jpg",
+      "thumbUrl": "/stills/f47247e8-c8eb-4a41-bc93-e565cd9181bc.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Ball_gown_MET_DP348337.jpg",
+      "author": "Émile Pingat",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "buckets": [
+        "gray",
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#403f3d",
+          "rgb": [
+            64,
+            63,
+            61
+          ],
+          "ratio": 0.5088975694444444,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#dcc9ad",
+          "rgb": [
+            220,
+            201,
+            173
+          ],
+          "ratio": 0.17762586805555555,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#b4a38d",
+          "rgb": [
+            180,
+            163,
+            141
+          ],
+          "ratio": 0.16243489583333334,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#847561",
+          "rgb": [
+            132,
+            117,
+            97
+          ],
+          "ratio": 0.0935329861111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#2c2722",
+          "rgb": [
+            44,
+            39,
+            34
+          ],
+          "ratio": 0.05750868055555555,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-08-21T13:18:12.665Z",
+      "fileKey": "File:Ball gown MET DP348337.jpg",
+      "kind": "film",
+      "photographer": "Émile Pingat",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "0000600700700700f81f83fc7f8f7cfc1f9f",
+      "category": "film",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "7d3a34f3-8367-4aa3-a487-09331b4b49b1",
+      "title": "Ball gown",
+      "titleEn": "Ball gown MET 49.3.30ab F",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/7d3a34f3-8367-4aa3-a487-09331b4b49b1.jpg",
+      "thumbUrl": "/stills/7d3a34f3-8367-4aa3-a487-09331b4b49b1.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Ball_gown_MET_49.3.30ab_F.jpg",
+      "author": "Jacques Doucet",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "buckets": [
+        "orange",
+        "yellow",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#ae875f",
+          "rgb": [
+            174,
+            135,
+            95
+          ],
+          "ratio": 0.2918836805555556,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#aba28f",
+          "rgb": [
+            171,
+            162,
+            143
+          ],
+          "ratio": 0.22102864583333334,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#bdaf9c",
+          "rgb": [
+            189,
+            175,
+            156
+          ],
+          "ratio": 0.21006944444444445,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#9a6e47",
+          "rgb": [
+            154,
+            110,
+            71
+          ],
+          "ratio": 0.15147569444444445,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#c49a79",
+          "rgb": [
+            196,
+            154,
+            121
+          ],
+          "ratio": 0.1255425347222222,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-08-21T13:18:15.547Z",
+      "fileKey": "File:Ball gown MET 49.3.30ab F.jpg",
+      "kind": "film",
+      "photographer": "Jacques Doucet",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "fffffffefe6fe07f03c018010000000009f8",
+      "category": "film",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "aae04d56-8db4-4ea2-bb43-e8f2e232429f",
+      "title": "Ball gown",
+      "titleEn": "Ball gown MET 49.3.26ab F",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/aae04d56-8db4-4ea2-bb43-e8f2e232429f.jpg",
+      "thumbUrl": "/stills/aae04d56-8db4-4ea2-bb43-e8f2e232429f.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Ball_gown_MET_49.3.26ab_F.jpeg",
+      "author": "Jacques Doucet",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "buckets": [
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#c18a63",
+          "rgb": [
+            193,
+            138,
+            99
+          ],
+          "ratio": 0.2973090277777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#e7b999",
+          "rgb": [
+            231,
+            185,
+            153
+          ],
+          "ratio": 0.2700737847222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#c1b4a5",
+          "rgb": [
+            193,
+            180,
+            165
+          ],
+          "ratio": 0.1945529513888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#a99b8b",
+          "rgb": [
+            169,
+            155,
+            139
+          ],
+          "ratio": 0.193359375,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#311f14",
+          "rgb": [
+            49,
+            31,
+            20
+          ],
+          "ratio": 0.04470486111111111,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-08-21T13:19:29.562Z",
+      "fileKey": "File:Ball gown MET 49.3.26ab F.jpeg",
+      "kind": "film",
+      "photographer": "Jacques Doucet",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "20769739f39f36f3673ff1ff1e30e30f3030",
+      "category": "film",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "e449cea2-a009-4485-ad88-223b8a0307db",
+      "title": "McQueen Met Costume Art 3",
+      "titleEn": "McQueen Met Costume Art 3",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/e449cea2-a009-4485-ad88-223b8a0307db.jpg",
+      "thumbUrl": "/stills/e449cea2-a009-4485-ad88-223b8a0307db.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:McQueen_Met_Costume_Art_3.jpg",
+      "author": "Rhododendrites",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "buckets": [
+        "gray",
+        "orange",
+        "red",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#bbb7ac",
+          "rgb": [
+            187,
+            183,
+            172
+          ],
+          "ratio": 0.3687065972222222,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#a69a8f",
+          "rgb": [
+            166,
+            154,
+            143
+          ],
+          "ratio": 0.2545572916666667,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#dbdbd1",
+          "rgb": [
+            219,
+            219,
+            209
+          ],
+          "ratio": 0.18370225694444445,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#ac6660",
+          "rgb": [
+            172,
+            102,
+            96
+          ],
+          "ratio": 0.10167100694444445,
+          "bucket": "red"
+        },
+        {
+          "hex": "#7e1f25",
+          "rgb": [
+            126,
+            31,
+            37
+          ],
+          "ratio": 0.09136284722222222,
+          "bucket": "red"
+        }
+      ],
+      "addedAt": "2026-08-21T13:19:50.637Z",
+      "fileKey": "File:McQueen Met Costume Art 3.jpg",
+      "kind": "film",
+      "photographer": "Rhododendrites",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "f9af08f08f88f88f08f0af0bf0bf0ff0f70c",
+      "category": "film",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "b5fe1748-d571-4e8c-8281-820262ed243e",
+      "title": "Dancer in a Mary Quant Dress - Goodwood Revival 2019 - The Fashion (2019-09-13 10.27.23 by David Merrett - 48749527961)",
+      "titleEn": "a Mary Quant Dress Goodwood Revival 2019 The Fashion (2019 09 13 10.27.23 by David Merrett 48749527961)",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/b5fe1748-d571-4e8c-8281-820262ed243e.jpg",
+      "thumbUrl": "/stills/b5fe1748-d571-4e8c-8281-820262ed243e.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Dancer_in_a_Mary_Quant_Dress_-_Goodwood_Revival_2019_-_The_Fashion_(2019-09-13_10.27.23_by_David_Merrett_-_48749527961).jpg",
+      "author": "David Merrett from Daventry, England",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "buckets": [
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#876645",
+          "rgb": [
+            135,
+            102,
+            69
+          ],
+          "ratio": 0.3575303819444444,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#362310",
+          "rgb": [
+            54,
+            35,
+            16
+          ],
+          "ratio": 0.2768012152777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#c6b29d",
+          "rgb": [
+            198,
+            178,
+            157
+          ],
+          "ratio": 0.2679036458333333,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#a80104",
+          "rgb": [
+            168,
+            1,
+            4
+          ],
+          "ratio": 0.0751953125,
+          "bucket": "red"
+        },
+        {
+          "hex": "#304e80",
+          "rgb": [
+            48,
+            78,
+            128
+          ],
+          "ratio": 0.022569444444444444,
+          "bucket": "blue"
+        }
+      ],
+      "addedAt": "2026-08-21T13:21:30.155Z",
+      "fileKey": "File:Dancer in a Mary Quant Dress - Goodwood Revival 2019 - The Fashion (2019-09-13 10.27.23 by David Merrett - 48749527961).jpg",
+      "kind": "photo",
+      "photographer": "David Merrett from Daventry, England",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "fff33f032e1be03207477cc6c0d10d08f00e",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "c86b603f-0d17-4bb5-859e-b06e26a639ba",
+      "title": "Ball gown",
+      "titleEn": "Ball gown MET DT7576",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/c86b603f-0d17-4bb5-859e-b06e26a639ba.jpg",
+      "thumbUrl": "/stills/c86b603f-0d17-4bb5-859e-b06e26a639ba.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Ball_gown_MET_DT7576.jpg",
+      "author": "Wikimedia Commons",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "buckets": [
+        "gray",
+        "blue",
+        "cyan"
+      ],
+      "palette": [
+        {
+          "hex": "#414a4d",
+          "rgb": [
+            65,
+            74,
+            77
+          ],
+          "ratio": 0.2619357638888889,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#5a666d",
+          "rgb": [
+            90,
+            102,
+            109
+          ],
+          "ratio": 0.24837239583333334,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#262d30",
+          "rgb": [
+            38,
+            45,
+            48
+          ],
+          "ratio": 0.2060546875,
+          "bucket": "cyan"
+        },
+        {
+          "hex": "#708593",
+          "rgb": [
+            112,
+            133,
+            147
+          ],
+          "ratio": 0.1697048611111111,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#90a7b7",
+          "rgb": [
+            144,
+            167,
+            183
+          ],
+          "ratio": 0.11393229166666667,
+          "bucket": "blue"
+        }
+      ],
+      "addedAt": "2026-08-21T13:22:21.082Z",
+      "fileKey": "File:Ball gown MET DT7576.jpg",
+      "kind": "film",
+      "photographer": "Wikimedia Commons",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "0000000003207f07f87fc3fc3fc7e0fe1fff",
+      "category": "film",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "5e428988-6dd6-4db4-9815-a1e2b17c1bc2",
+      "title": "Le couturier Paul Poiret posant devant les canons du château de Fredriksbord album souvenir du voyage de Paul Poiret à, 1987.1.447",
+      "titleEn": "Le couturier Paul Poiret posant devant les canons du château de Fredriksbord album souvenir du voyage de Paul Poiret à, 1987.1.447",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/5e428988-6dd6-4db4-9815-a1e2b17c1bc2.jpg",
+      "thumbUrl": "/stills/5e428988-6dd6-4db4-9815-a1e2b17c1bc2.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Le_couturier_Paul_Poiret_posant_devant_les_canons_du_ch%C3%A2teau_de_Fredriksbord_album_souvenir_du_voyage_de_Paul_Poiret_%C3%A0,_1987.1.447.jpg",
+      "author": "Anonyme, photographe",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "buckets": [
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#dcd3cc",
+          "rgb": [
+            220,
+            211,
+            204
+          ],
+          "ratio": 0.24869791666666666,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#5a4b3e",
+          "rgb": [
+            90,
+            75,
+            62
+          ],
+          "ratio": 0.23231336805555555,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#7f6b58",
+          "rgb": [
+            127,
+            107,
+            88
+          ],
+          "ratio": 0.1847873263888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#3d3229",
+          "rgb": [
+            61,
+            50,
+            41
+          ],
+          "ratio": 0.1789279513888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#b19c86",
+          "rgb": [
+            177,
+            156,
+            134
+          ],
+          "ratio": 0.1552734375,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-08-21T13:22:59.223Z",
+      "fileKey": "File:Le couturier Paul Poiret posant devant les canons du château de Fredriksbord album souvenir du voyage de Paul Poiret à, 1987.1.447.jpg",
+      "kind": "film",
+      "photographer": "Anonyme, photographe",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "fdffcff8f10f00000100100f80780124f0ff",
+      "category": "film",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "9249d352-8762-4dc5-98c9-ba8546f32df8",
+      "title": "Mary Quant at the Victoria and Albert Museum 26",
+      "titleEn": "Mary Quant at the Victoria and Albert Museum 26",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/9249d352-8762-4dc5-98c9-ba8546f32df8.jpg",
+      "thumbUrl": "/stills/9249d352-8762-4dc5-98c9-ba8546f32df8.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Mary_Quant_at_the_Victoria_and_Albert_Museum_26.jpg",
+      "author": "livvya",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "buckets": [
+        "orange",
+        "green",
+        "red"
+      ],
+      "palette": [
+        {
+          "hex": "#ae967c",
+          "rgb": [
+            174,
+            150,
+            124
+          ],
+          "ratio": 0.3311631944444444,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#242b23",
+          "rgb": [
+            36,
+            43,
+            35
+          ],
+          "ratio": 0.22233072916666666,
+          "bucket": "green"
+        },
+        {
+          "hex": "#d3c3ae",
+          "rgb": [
+            211,
+            195,
+            174
+          ],
+          "ratio": 0.19618055555555555,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#4c6a4a",
+          "rgb": [
+            76,
+            106,
+            74
+          ],
+          "ratio": 0.15755208333333334,
+          "bucket": "green"
+        },
+        {
+          "hex": "#9c3d30",
+          "rgb": [
+            156,
+            61,
+            48
+          ],
+          "ratio": 0.0927734375,
+          "bucket": "red"
+        }
+      ],
+      "addedAt": "2026-08-21T13:23:29.313Z",
+      "fileKey": "File:Mary Quant at the Victoria and Albert Museum 26.jpg",
+      "kind": "film",
+      "photographer": "livvya",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "fffff43d03e3fe36432030830430430877df",
+      "category": "film",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "1f82e2fe-494e-44c2-9b1f-88e80219e8e0",
+      "title": "Mary Quant at the Victoria and Albert Museum 01",
+      "titleEn": "Mary Quant at the Victoria and Albert Museum 01",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/1f82e2fe-494e-44c2-9b1f-88e80219e8e0.jpg",
+      "thumbUrl": "/stills/1f82e2fe-494e-44c2-9b1f-88e80219e8e0.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Mary_Quant_at_the_Victoria_and_Albert_Museum_01.jpg",
+      "author": "livvya",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "buckets": [
+        "red",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#a31e07",
+          "rgb": [
+            163,
+            30,
+            7
+          ],
+          "ratio": 0.3317057291666667,
+          "bucket": "red"
+        },
+        {
+          "hex": "#db360b",
+          "rgb": [
+            219,
+            54,
+            11
+          ],
+          "ratio": 0.24446614583333334,
+          "bucket": "red"
+        },
+        {
+          "hex": "#4a251d",
+          "rgb": [
+            74,
+            37,
+            29
+          ],
+          "ratio": 0.19422743055555555,
+          "bucket": "red"
+        },
+        {
+          "hex": "#83523d",
+          "rgb": [
+            131,
+            82,
+            61
+          ],
+          "ratio": 0.18467881944444445,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#ecc79e",
+          "rgb": [
+            236,
+            199,
+            158
+          ],
+          "ratio": 0.044921875,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-08-21T13:24:29.528Z",
+      "fileKey": "File:Mary Quant at the Victoria and Albert Museum 01.jpg",
+      "kind": "film",
+      "photographer": "livvya",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "00400c0fc36730620e60e40e70e60ee0ee0e",
+      "category": "film",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "67527d08-ed66-4c62-bff9-f6c90838f435",
+      "title": "Fashion Plate (Cottage Dress)",
+      "titleEn": "Fashion Plate (Cottage Dress) LACMA M.86.266.298",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/67527d08-ed66-4c62-bff9-f6c90838f435.jpg",
+      "thumbUrl": "/stills/67527d08-ed66-4c62-bff9-f6c90838f435.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Fashion_Plate_(Cottage_Dress)_LACMA_M.86.266.298.jpg",
+      "author": "Rudolph Ackermann (England, London, 1764-1834)",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Fashion_Plate_(Cottage_Dress)_LACMA_M.86.266.298.jpg",
+      "buckets": [
+        "orange",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#f0e8d5",
+          "rgb": [
+            240,
+            232,
+            213
+          ],
+          "ratio": 0.4354383680555556,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#d1c1ac",
+          "rgb": [
+            209,
+            193,
+            172
+          ],
+          "ratio": 0.24088541666666666,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#b3a490",
+          "rgb": [
+            179,
+            164,
+            144
+          ],
+          "ratio": 0.12532552083333334,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#e6dac3",
+          "rgb": [
+            230,
+            218,
+            195
+          ],
+          "ratio": 0.12109375,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#908172",
+          "rgb": [
+            144,
+            129,
+            114
+          ],
+          "ratio": 0.07725694444444445,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-08-21T13:27:33.148Z",
+      "fileKey": "File:Fashion Plate (Cottage Dress) LACMA M.86.266.298.jpg",
+      "kind": "photo",
+      "photographer": "Rudolph Ackermann (England, London, 1764-1834)",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "fbff1ff03e11e01e01e03e0fe0fe07c03e03",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "d5e4f0b1-569c-437d-8d68-f5a6c5696815",
+      "title": "Pierre Cardin at the Brooklyn Museum, 2019 17",
+      "titleEn": "Pierre Cardin at the Brooklyn Museum, 2019 17",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/d5e4f0b1-569c-437d-8d68-f5a6c5696815.jpg",
+      "thumbUrl": "/stills/d5e4f0b1-569c-437d-8d68-f5a6c5696815.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Pierre_Cardin_at_the_Brooklyn_Museum,_2019_17.jpg",
+      "author": "amerune",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "buckets": [
+        "gray",
+        "brown",
+        "black",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#7c7269",
+          "rgb": [
+            124,
+            114,
+            105
+          ],
+          "ratio": 0.3433159722222222,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#534f49",
+          "rgb": [
+            83,
+            79,
+            73
+          ],
+          "ratio": 0.2355685763888889,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#2e241b",
+          "rgb": [
+            46,
+            36,
+            27
+          ],
+          "ratio": 0.1976996527777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#0b0806",
+          "rgb": [
+            11,
+            8,
+            6
+          ],
+          "ratio": 0.1362847222222222,
+          "bucket": "black"
+        },
+        {
+          "hex": "#e5cba9",
+          "rgb": [
+            229,
+            203,
+            169
+          ],
+          "ratio": 0.0871310763888889,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-08-21T13:27:37.295Z",
+      "fileKey": "File:Pierre Cardin at the Brooklyn Museum, 2019 17.jpg",
+      "kind": "film",
+      "photographer": "amerune",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "cf187d86e300700700300f60fe7ee7ee3ef3",
+      "category": "film",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "96541d16-b017-4aa4-b8cf-ce084e5d8411",
+      "title": "Ball gown",
+      "titleEn": "Ball gown MET DT7579",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/96541d16-b017-4aa4-b8cf-ce084e5d8411.jpg",
+      "thumbUrl": "/stills/96541d16-b017-4aa4-b8cf-ce084e5d8411.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Ball_gown_MET_DT7579.jpg",
+      "author": "Wikimedia Commons",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "buckets": [
+        "gray",
+        "blue"
+      ],
+      "palette": [
+        {
+          "hex": "#6e7481",
+          "rgb": [
+            110,
+            116,
+            129
+          ],
+          "ratio": 0.4435763888888889,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#5f656f",
+          "rgb": [
+            95,
+            101,
+            111
+          ],
+          "ratio": 0.3679470486111111,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#455056",
+          "rgb": [
+            69,
+            80,
+            86
+          ],
+          "ratio": 0.109375,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#9ea5b2",
+          "rgb": [
+            158,
+            165,
+            178
+          ],
+          "ratio": 0.0595703125,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#232b2d",
+          "rgb": [
+            35,
+            43,
+            45
+          ],
+          "ratio": 0.01953125,
+          "bucket": "cyan"
+        }
+      ],
+      "addedAt": "2026-08-21T13:28:19.532Z",
+      "fileKey": "File:Ball gown MET DT7579.jpg",
+      "kind": "film",
+      "photographer": "Wikimedia Commons",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "07c0ff1df3ff3ff3fe7f85d0180000001c03",
+      "category": "film",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "05f6ad96-90b5-4d33-81fa-77f7b229c356",
+      "title": "Classic Mary Quant Dress - Goodwood Revival 2019 - The Fashion (2019-09-13 10.26.31 by David Merrett - 48749714022)",
+      "titleEn": "Classic Mary Quant Dress Goodwood Revival 2019 The Fashion (2019 09 13 10.26.31 by David Merrett 48749714022)",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/05f6ad96-90b5-4d33-81fa-77f7b229c356.jpg",
+      "thumbUrl": "/stills/05f6ad96-90b5-4d33-81fa-77f7b229c356.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Classic_Mary_Quant_Dress_-_Goodwood_Revival_2019_-_The_Fashion_(2019-09-13_10.26.31_by_David_Merrett_-_48749714022).jpg",
+      "author": "David Merrett from Daventry, England",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "buckets": [
+        "brown",
+        "black",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#826b50",
+          "rgb": [
+            130,
+            107,
+            80
+          ],
+          "ratio": 0.3052300347222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#4c422d",
+          "rgb": [
+            76,
+            66,
+            45
+          ],
+          "ratio": 0.2506510416666667,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#161609",
+          "rgb": [
+            22,
+            22,
+            9
+          ],
+          "ratio": 0.19856770833333334,
+          "bucket": "black"
+        },
+        {
+          "hex": "#bdad9e",
+          "rgb": [
+            189,
+            173,
+            158
+          ],
+          "ratio": 0.18250868055555555,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#9b0405",
+          "rgb": [
+            155,
+            4,
+            5
+          ],
+          "ratio": 0.06304253472222222,
+          "bucket": "red"
+        }
+      ],
+      "addedAt": "2026-08-21T13:28:49.300Z",
+      "fileKey": "File:Classic Mary Quant Dress - Goodwood Revival 2019 - The Fashion (2019-09-13 10.26.31 by David Merrett - 48749714022).jpg",
+      "kind": "photo",
+      "photographer": "David Merrett from Daventry, England",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "ff8fe4f843c01c17f9f7b03001c00d00d005"
     }
   ],
   "lastIngestDate": "2026-08-21",
@@ -149409,7 +155252,166 @@
     "openverse:3c7277d4-2cd4-4f8e-8734-b13aee1b994f",
     "openverse:0386f367-b136-4ee1-a711-67f97cb51d25",
     "openverse:06312795-7e9e-41c0-85d1-cc247306dd29",
-    "openverse:f9bb6199-36ec-4fba-b81c-7b012c8752b8"
+    "openverse:f9bb6199-36ec-4fba-b81c-7b012c8752b8",
+    "archive:mma_dress_103006",
+    "openverse:bab02028-b167-4cfa-b985-e31d2be3493c",
+    "loc:http://www.loc.gov/item/2006685388/",
+    "archive:mma_dress_107991",
+    "openverse:a5639ee8-fca9-4de4-bf06-6e62fbd1c20f",
+    "openverse:ca420bdb-06ba-4089-b6f7-4e8ffba9b45b",
+    "archive:mma_dress_157137",
+    "openverse:b3757eec-6b45-4813-beee-fad771105eda",
+    "archive:mma_dress_102957",
+    "archive:mma_dress_98065",
+    "loc:http://www.loc.gov/item/2018646031/",
+    "openverse:1b402d23-aeab-41a2-b4ae-5a41a02a9e3a",
+    "openverse:4c2adfe0-1838-4152-a497-ef85efe6f629",
+    "archive:mma_dress_159585",
+    "archive:calavc_004244",
+    "archive:brooklynmuseum-o58402-woman-in-evening-gown",
+    "archive:mma_dress_103001",
+    "loc:http://www.loc.gov/item/93508694/",
+    "archive:mma_dress_105367",
+    "loc:http://www.loc.gov/item/96514246/",
+    "archive:mma_dress_86573",
+    "openverse:c1b313aa-4650-4cfc-aad5-832d9364cd33",
+    "loc:http://www.loc.gov/item/18023399/",
+    "openverse:a05acaf7-5330-4ec3-8fd9-3b8ed2fab73d",
+    "openverse:e116ff4d-d50e-4cf8-8c00-9cae96cd96e8",
+    "loc:http://www.loc.gov/item/01003163/",
+    "openverse:982136b7-2bf3-4c1b-bbc8-cffd6c092970",
+    "loc:http://www.loc.gov/item/05003735/",
+    "openverse:f2cff1e9-5942-424e-b9de-13a8ef8aa8c1",
+    "openverse:ee0c72e0-753e-438e-bdf6-0a27b6baccf0",
+    "loc:http://www.loc.gov/item/07003697/",
+    "loc:http://www.loc.gov/item/06046323/",
+    "loc:http://www.loc.gov/item/2006681036/",
+    "openverse:4f462979-253a-446b-ad1d-030589d5b802",
+    "openverse:a80e6cc8-05a6-476f-8c1f-020a59da03e8",
+    "openverse:1d263156-dc60-40ad-b15c-981041550581",
+    "openverse:95d25c41-8582-41ac-94b3-d826c089b155",
+    "openverse:1acdffa9-dc30-4d06-a00e-c471722e08c6",
+    "loc:http://www.loc.gov/item/03019997/",
+    "openverse:e4812eab-508c-4320-9b59-0ec20b63653d",
+    "loc:http://www.loc.gov/item/34024524/",
+    "archive:calcflh_000603",
+    "openverse:2bdbce6a-551f-4a75-bca2-a6daa035329b",
+    "loc:http://www.loc.gov/item/07010029/",
+    "loc:http://www.loc.gov/item/19008367/",
+    "loc:http://www.loc.gov/item/81186564/",
+    "openverse:62974c99-d969-42d3-9b70-127242268c62",
+    "openverse:465a6870-7815-4124-9783-e5fac84d910d",
+    "openverse:e92dcddc-3a43-49eb-bf25-977e9ec3b6ca",
+    "File:Ball gown MET 49.3.26b d2.jpeg",
+    "File:Fall and Winter, 1890-91 Fashion Catalogue - H. O'Neill and Co. (1890) (14598413507).jpg",
+    "File:Fall and Winter, 1890-91 Fashion Catalogue - H. O'Neill and Co. (1890) (14598645177).jpg",
+    "File:Theatrical costume MET CI46.9.73d.jpg",
+    "File:Robe, 2021.14.1(5).jpg",
+    "File:Evening gowns in the Philadelphia Museum of Art.jpg",
+    "File:McQueen Met Costume Art 4.jpg",
+    "File:Ball gown MET C.I.68.53.11ab F.jpg",
+    "File:Живописное обозрение 1890, № 01-26 (1 янв. - 24 июня); № 27-52 (1 июля - 23 дек.) Page 1235.jpg",
+    "File:Huntington Beach News - 1918-03-29 (IA castaoca 000348).pdf",
+    "File:Fashion Plate (Promenade Dress) LACMA M.83.161.262.jpg",
+    "File:Fashion Plate (English Morning Dress) LACMA M.83.161.255.jpg",
+    "File:Victoria Daily Times (1925-04-02) (IA victoriadailytimes19250402).pdf",
+    "File:Fashion Plate (Walking Dress) LACMA M.83.161.39.jpg",
+    "File:Fall and Winter, 1890-91 Fashion Catalogue - H. O'Neill and Co. (1890) (14781784971).jpg",
+    "File:Huntington Beach News - 1918-06-14 (IA castaoca 000359).pdf",
+    "File:Woman's Green Wool Dress by Andre Courreges - DPLA - 24a0d070b2de123e2c8a795037695910 (page 1).jpg",
+    "File:Mary Quant at the Victoria and Albert Museum 03.jpg",
+    "File:Richelieu - The Conspiracy a Play in Five Acts (IA dli.granth.37472).pdf",
+    "File:Le Moniteur de la Mode 1890, nr. 2636c, No. 32 Toilette de Mad.e Duboys., RP-P-2009-3742.jpg",
+    "File:Ball gown MET DT4315.jpg",
+    "File:Le couturier Paul Poiret en manteau à doublure d'ocelot tenant un journal album souvenir du voyage de Paul Poiret à Co, 1987.1.447.jpg",
+    "File:1991 Pierre Cardin \"Parabolic\" evening dress and hat 01.jpg",
+    "File:Ball gown MET 49.3.26ab B.jpeg",
+    "File:Huispyjama met wijde broek Huispyjama, BK-1986-59.jpg",
+    "File:Mary Quant Dress - Goodwood Revival 2019 - The Fashion (2019-09-13 10.26.35 by David Merrett - 48749713632).jpg",
+    "File:Живописное обозрение 1890, № 01-26 (1 янв. - 24 июня); № 27-52 (1 июля - 23 дек.) Page 1292.jpg",
+    "File:Mary quant dress victoria albert museum.jpg",
+    "File:Mary Quant at the Victoria and Albert Museum 25.jpg",
+    "File:Iribe Les Robes de Paul Poiret p.29.jpg",
+    "File:Huntington Beach News - 1918-07-05 (IA castaoca 000362).pdf",
+    "File:Mary Quant toont haar zomerlaarzen op schoenenbeurs te Utrecht de show, Bestanddeelnr 922-2259.jpg",
+    "File:Ball gown MET 49.3.27ab B.jpg",
+    "File:Живописное обозрение 1890, № 01-26 (1 янв. - 24 июня); № 27-52 (1 июля - 23 дек.) Page 1234.jpg",
+    "File:Woman's Green Wool Dress by Andre Courreges - DPLA - 24a0d070b2de123e2c8a795037695910 (page 2).jpg",
+    "File:The American directory & who's who in Europe (IA americandirector00brew).pdf",
+    "File:Theatrical costume MET CI46.9.73a B.jpg",
+    "File:Huntington Beach News - 1918-07-19 (IA castaoca 000364).pdf",
+    "File:McQueen Met Costume Art 2.jpg",
+    "File:Huntington Beach News - 1917-11-02 (IA castaoca 000327).pdf",
+    "File:Mary Quant at the Victoria and Albert Museum 04.jpg",
+    "File:Ball+gown+MET+DT426.jpg",
+    "File:Robe, 2021.14.1(4).jpg",
+    "File:Encyclopédie des gens du monde, T01, 221-330, ADM-AIN.djvu",
+    "File:Живописное обозрение 1890, № 01-26 (1 янв. - 24 июня); № 27-52 (1 июля - 23 дек.) Page 0258.jpg",
+    "File:Живописное обозрение 1890, № 01-26 (1 янв. - 24 июня); № 27-52 (1 июля - 23 дек.) Page 0418.jpg",
+    "File:Fall and Winter, 1890-91 Fashion Catalogue - H. O'Neill and Co. (1890) (14784925025).jpg",
+    "File:Mary Quant at the Victoria and Albert Museum 09.jpg",
+    "File:Ball gown - MET 1976.134.14a, b.jpg",
+    "File:Pine plantations on the sand-wastes of France (IA cu31924003104290).pdf",
+    "File:Huntington Beach News - 1917-10-05 (IA castaoca 000323).pdf",
+    "File:Robe, 2021.14.1(3).jpg",
+    "File:Pierre Cardin at the Brooklyn Museum, 2019 13.jpg",
+    "File:Mary Quant toont haar zomerlaarzen op schoenenbeurs te Utrecht model Gladiator, Bestanddeelnr 922-2257.jpg",
+    "File:Untitled Fashion Plate LACMA M.86.266.379.jpg",
+    "File:Ball gown MET DT7578.jpg",
+    "File:Huntington Beach News - 1918-05-31 (IA castaoca 000357).pdf",
+    "File:Живописное обозрение 1890, № 01-26 (1 янв. - 24 июня); № 27-52 (1 июля - 23 дек.) Page 1044.jpg",
+    "File:Fashion Plate (Opera Dress) LACMA M.83.161.167.jpg",
+    "File:Fashion Plate (Public Promenade Dress) LACMA M.83.161.40.jpg",
+    "File:Fancy dress costume - MET DT3775.jpg",
+    "File:Mini-jurk van witte wol, gevoerd, objectnr 69165.JPG",
+    "File:Theatrical costume MET CI46.9.73c.jpg",
+    "File:Huispyjama met wijde broek Broek van huispyjama, van taupe- en zalmkleurige mousseline met zwart satijnen tailleband, BK-1986-59-B (cropped).jpg",
+    "File:Живописное обозрение 1890, № 01-26 (1 янв. - 24 июня); № 27-52 (1 июля - 23 дек.) Page 0642.jpg",
+    "File:Ball gown MET 1979.347.4 F2.jpeg",
+    "File:Kendall Jenner Met Gala (cropped).jpg",
+    "File:McQueen Met Costume Art 1.jpg",
+    "File:FITMuseumBlackSatinGownAndLightPinkSilkCrepeDress.jpg",
+    "File:Mary Quant in a minidress (1966).jpg",
+    "File:Ball gown MET 49.3.30ab.jpg",
+    "File:Mary Quant at the Victoria and Albert Museum 13.jpg",
+    "File:Живописное обозрение 1890, № 01-26 (1 янв. - 24 июня); № 27-52 (1 июля - 23 дек.) Page 0257.jpg",
+    "File:Met gala 2015.jpg",
+    "File:Ball gown MET 49.3.26ab TQL.jpeg",
+    "File:Huntington Beach News - 1918-01-25 (IA castaoca 000339).pdf",
+    "File:Pierre Cardin at the Brooklyn Museum, 2019 18.jpg",
+    "File:Ball gown MET DP348337.jpg",
+    "File:Ball gown MET 49.3.30ab F.jpg",
+    "File:Illustrated fashion catalogue - summer, 1890 (1890) (14780902901).jpg",
+    "File:Untitled Fashion Plate LACMA 54.89.154a-b (2 of 2).jpg",
+    "File:Ceremonial de l'election des papes - dressé par le commandement du Pape Gregoire XV, traduit en françois. Et le Traité de l'election des papes (IA ceremonialdelele00cath).pdf",
+    "File:Живописное обозрение 1890, № 01-26 (1 янв. - 24 июня); № 27-52 (1 июля - 23 дек.) Page 0143.jpg",
+    "File:Живописное обозрение 1890, № 01-26 (1 янв. - 24 июня); № 27-52 (1 июля - 23 дек.) Page 0750.jpg",
+    "File:Ball gown MET 49.3.26ab F.jpeg",
+    "File:McQueen Met Costume Art 3.jpg",
+    "File:Живописное обозрение 1890, № 01-26 (1 янв. - 24 июня); № 27-52 (1 июля - 23 дек.) Page 0551.jpg",
+    "File:Huntington Beach News - 1918-08-02 (IA castaoca 000366).pdf",
+    "File:National Anti-Slavery Standard (IA a6324784-800b-4a5a-9543-674598c79c65).pdf",
+    "File:Dancer in a Mary Quant Dress - Goodwood Revival 2019 - The Fashion (2019-09-13 10.27.23 by David Merrett - 48749527961).jpg",
+    "File:Живописное обозрение 1890, № 01-26 (1 янв. - 24 июня); № 27-52 (1 июля - 23 дек.) Page 0706.jpg",
+    "File:Huispyjama met wijde broek Lijf van huispyjama, bovendeel van zwart satijn en maagband van taupe- en zalmkleurige mousseline, BK-1986-59-A.jpg",
+    "File:Fashion Plate from 1910.png",
+    "File:Ball gown MET DT7576.jpg",
+    "File:Живописное обозрение 1890, № 01-26 (1 янв. - 24 июня); № 27-52 (1 июля - 23 дек.) Page 0503.jpg",
+    "File:Ball gown MET DP352771.jpg",
+    "File:Le couturier Paul Poiret posant devant les canons du château de Fredriksbord album souvenir du voyage de Paul Poiret à, 1987.1.447.jpg",
+    "File:Mary Quant at the Victoria and Albert Museum 26.jpg",
+    "File:Robe, 2021.14.1(2).jpg",
+    "File:Memoirs of the Baron de Rimini (Griscelli de Vezzani), secret agent of Napoleon III (1850-58), Cavour (1859-1861), Antonelli (1861-62), Francis II (1862-1864), the Emperor of Austria (1864-1867) (IA cu31924027898349).pdf",
+    "File:Mary Quant at the Victoria and Albert Museum 01.jpg",
+    "File:Met Gala 360 - 2017.webm",
+    "File:Fashion Plate (Promenade Dress) LACMA M.83.161.252.jpg",
+    "File:Iribe Les Robes de Paul Poiret p.15.jpg",
+    "File:Живописное обозрение 1890, № 01-26 (1 янв. - 24 июня); № 27-52 (1 июля - 23 дек.) Page 1045.jpg",
+    "File:Fashion Plate (Cottage Dress) LACMA M.86.266.298.jpg",
+    "File:Pierre Cardin at the Brooklyn Museum, 2019 17.jpg",
+    "File:Robe, 2021.14.1(6).jpg",
+    "File:Ball gown MET DT7579.jpg",
+    "File:Classic Mary Quant Dress - Goodwood Revival 2019 - The Fashion (2019-09-13 10.26.31 by David Merrett - 48749714022).jpg"
   ],
   "seenContentHashes": [
     "ff8f20c0481cf3cffcf7ce58ffcffcffcd7e",
@@ -151006,6 +157008,78 @@
     "f0fe0fe07e07e07e07c03c03803801801801",
     "fff6f779f70760f603603623627623282000",
     "0600740fe0fc0f80f80f80f80f80f81683f8",
-    "0200f81bc1fe1dc1fc1f01e01e01e01f03e0"
+    "0200f81bc1fe1dc1fc1f01e01e01e01f03e0",
+    "0007bc7f41f03f03f87fc7fcffeffeffe1f0",
+    "d079039239b39b3933973963873863803f03",
+    "0f00f00f00f00f00f01f01f81f83f83f83fc",
+    "f07f07f07e03e03e03c03c03c01801801800",
+    "f8ef8cf80f80e0380f00f18f38ff27f07f8f",
+    "7fe7fe7fe7fe7fe7fe7066066066066067fe",
+    "fecfecfe0fe2fcbfc1f81f01f01e00800001",
+    "993837807827e07927f81f01f81d03c03f03",
+    "e0fc07c07c07d07c03c03e07e07e07e07e07",
+    "0001083b81f81f81f83f87fc7feffeffe3fc",
+    "e0fe07c07c07c23df38f18b1800800800fff",
+    "fff6607c0440020000ff0880000200000000",
+    "e6fcf7cf38f98f18e18e48c0880c00c01e01",
+    "3f83f03f03f03f03f83f83f83f83f03f83f0",
+    "3f83f83f83f81f81f83f81f81f81f81f81f8",
+    "6e3e117b973f13e09e41f43f067867866804",
+    "400cf3ffefbff0ffa679e4bf00f020008490",
+    "3f43f43e43f43f03f03f03f43f43f43f43f4",
+    "c1fd7fffffff7ff71770ff0ff07f07f07f8f",
+    "0241e47fd7f03f40f00f00f00f00f00f0060",
+    "3f03f03f03f83f03f03f03f03f03f03f03f0",
+    "3f87f87f83f83f83f83f83f83f83f83f83f8",
+    "7fe5c24f24e64e649e406646446406406406",
+    "fe0bf2b7eb7fb7e1fe1fe1b003003807c03f",
+    "1ee3e03f00f80f00f00b00b00b00b0090090",
+    "c7ca3e93e03f03f03f03b03903d03d2fc1e4",
+    "e07ef3dfbcf3c53ddbd8bc0bc03c03e27207",
+    "ffffffde54c540101901c678670678ff8fff",
+    "f0ff0ff09e01e03e07f07f0ff0ff0ff0ff9f",
+    "70fc03c27f7ff3ffffe67eb76d3043000000",
+    "f1ff0fe0fc0fc0fe0fe0fe07e07e07e07c07",
+    "f8ff0fe07c03c0bf03fc3ec3ec1ec3e03e03",
+    "f8ff8ff87f87f47f07e07e03c03c01c01c01",
+    "ffff4ff0ff0ff1ff1ff0ff0ff0fe0ff0ffff",
+    "ff8ffcf48f00f00f48e00e00e00c00c00c08",
+    "e7fe7fe6fe6fc0fc03c03c23c03c03f0ffff",
+    "c1bf0fe3bef3ff3c1bc0bc0bc0bc0bc0bc0b",
+    "00717f1ff1ff0ff0ff0fb0fb1f817817c014",
+    "011211087f7fe6e8408c4cc6ffffff07bc30",
+    "87c07e03c03c07d07d070a60ee0dc11c3fdf",
+    "fe0c60cff79f10f00f00e00c31c30ee0fe7f",
+    "e47e83d87f01f89f09f0ff0ff0ff8fbfffff",
+    "f0ff0fe07e07f03e03e03c01801801801c03",
+    "fe7e22e38e3cf3c71fe16e06e004e00079c7",
+    "c000600010f08f00f00f01f01f01f00e0000",
+    "16f3cf39f79f78f70f71f60f70f007001000",
+    "f43e23e43e4bc59c1bc1fcbec78c58d7cf3c",
+    "f03fa7fffe71831831c79ffbf0bf0bf03f07",
+    "ffff9ff9ff8ff0ff0fe07c07403c03c03f03",
+    "f0ff0ff0fc07c0ff0ff0fc0fd87d0b809f8f",
+    "c5fd2ff2fe49ec9c0fc0dc01c0680e804841",
+    "0381f43ee3bf39f11f00f00f003023803f07",
+    "f0ff0ffbff2ff7ff27d03b81bc0380780000",
+    "c23c73cfbc23cffcffe7ce38e10e34c678cf",
+    "10fd0fd0f10fd1f11fd1fd0f10f10f10f10f",
+    "21003003303303f03d43c43d43d43c03c03c",
+    "bff9ff1ffcff01f000024025000300383006",
+    "21f01f35f3ff3ff7cf1cf1ef0e7046040050",
+    "ff8ff8ff8bf8bf8e000000000000f21f21f8",
+    "0000600700700700f81f83fc7f8f7cfc1f9f",
+    "fffffffefe6fe07f03c018010000000009f8",
+    "20769739f39f36f3673ff1ff1e30e30f3030",
+    "f9af08f08f88f88f08f0af0bf0bf0ff0f70c",
+    "fff33f032e1be03207477cc6c0d10d08f00e",
+    "0000000003207f07f87fc3fc3fc7e0fe1fff",
+    "fdffcff8f10f00000100100f80780124f0ff",
+    "fffff43d03e3fe36432030830430430877df",
+    "00400c0fc36730620e60e40e70e60ee0ee0e",
+    "fbff1ff03e11e01e01e03e0fe0fe07c03e03",
+    "cf187d86e300700700300f60fe7ee7ee3ef3",
+    "07c0ff1df3ff3ff3fe7f85d0180000001c03",
+    "ff8fe4f843c01c17f9f7b03001c00d00d005"
   ]
 }
