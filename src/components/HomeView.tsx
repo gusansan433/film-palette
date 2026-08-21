@@ -79,7 +79,7 @@ export function HomeView({ initialItems }: HomeViewProps) {
     return similarByColorRanked(items, [picked.r, picked.g, picked.b]);
   }, [items, picked, matched]);
 
-  const ranked = useMemo(() => {
+  const ranked = useMemo((): Array<CatalogItem & { matchScore?: number }> => {
     if (matched) return matched;
     if (colorRank) return colorRank.items;
     return items;
