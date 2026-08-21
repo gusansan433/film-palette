@@ -9,11 +9,6 @@ export const MEDIA_CATEGORIES: { id: MediaCategory; label: string }[] = [
   { id: "meme", label: "梗图" },
 ];
 
-/** User-facing type chips — only categories that classify reliably enough to filter on. */
-export const FILTER_CATEGORIES = MEDIA_CATEGORIES.filter(
-  (row) => row.id === "film" || row.id === "meme",
-);
-
 /** Prefer wordless reaction / animal / classic meme phrasing over captioned macros. */
 const MEME_HIT =
   /\b(meme|trollface|troll meme|rage comic|image macro|wojak|advice animal|rage face|reaction image|reaction meme|facepalm|funny animal|confused animal|surprised face|vintage funny|public domain meme)\b/i;

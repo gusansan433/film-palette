@@ -8,14 +8,13 @@ import { IntroGate } from "@/components/IntroGate";
 import { similarByColor } from "@/lib/similar";
 import { creatorLabel } from "@/lib/creator";
 import {
-  FILTER_CATEGORIES,
   PEOPLE_COUNTS,
   SUBJECTS,
   displayCategoryLabel,
   peopleLabel,
   withSearchTags,
 } from "@/lib/classify";
-import type { CatalogItem, MediaCategory, PaletteColor, PeopleCount, SubjectTag } from "@/lib/types";
+import type { CatalogItem, PaletteColor, PeopleCount, SubjectTag } from "@/lib/types";
 import { summarizeUsageRights } from "@/lib/usageRights";
 
 type SimilarItem = CatalogItem & { matchScore?: number };
@@ -49,7 +48,6 @@ export function HomeView({ initialItems }: HomeViewProps) {
   const [previewUrl, setPreviewUrl] = useState("");
   const [matched, setMatched] = useState<SimilarItem[] | null>(null);
   const [matchPreview, setMatchPreview] = useState("");
-  const [category, setCategory] = useState<MediaCategory | "">("");
   const [people, setPeople] = useState<PeopleCount | "">("");
   const [subject, setSubject] = useState<SubjectTag | "">("");
   const [query, setQuery] = useState("");
@@ -84,7 +82,6 @@ export function HomeView({ initialItems }: HomeViewProps) {
     const needle = query.trim().toLowerCase();
     return ranked.filter((item) => {
       const row = withSearchTags(item);
-      if (category && row.category !== category) return false;
       if (people && row.people !== people) return false;
       if (subject && !(row.subjects ?? []).includes(subject)) return false;
       if (needle) {
@@ -93,7 +90,7 @@ export function HomeView({ initialItems }: HomeViewProps) {
       }
       return true;
     });
-  }, [ranked, category, people, subject, query]);
+  }, [ranked, people, subject, query]);
 
   const subjectOptions = useMemo(() => {
     const used = new Set(items.flatMap((item) => withSearchTags(item).subjects ?? []));
@@ -198,12 +195,10 @@ export function HomeView({ initialItems }: HomeViewProps) {
             }}
           />
           <FilterPanel
-            category={category}
             people={people}
             subject={subject}
             query={query}
             subjects={subjectOptions}
-            onCategory={setCategory}
             onPeople={setPeople}
             onSubject={setSubject}
             onQuery={setQuery}
@@ -233,7 +228,7 @@ export function HomeView({ initialItems }: HomeViewProps) {
           {busy && <p className="mb-4 text-sm text-[var(--muted)]">{busy}</p>}
           {notice && <p className="mb-4 text-sm text-[var(--acid)]">{notice}</p>}
           {visible.length === 0 && (
-            <p className="text-sm text-[var(--muted)]">没有符合筛选的画面，换一个类型或人数试试。</p>
+            <p className="text-sm text-[var(--muted)]">没有符合筛选的画面，换一个人或内容试试。</p>
           )}
           <div className="grid grid-cols-1 gap-3 sm:grid-cols-2 xl:grid-cols-3">
             {visible.map((item) => (
@@ -382,22 +377,18 @@ function Chip({
 }
 
 function FilterPanel({
-  category,
   people,
   subject,
   query,
   subjects,
-  onCategory,
   onPeople,
   onSubject,
   onQuery,
 }: {
-  category: MediaCategory | "";
   people: PeopleCount | "";
   subject: SubjectTag | "";
   query: string;
   subjects: { id: SubjectTag; label: string }[];
-  onCategory: (value: MediaCategory | "") => void;
   onPeople: (value: PeopleCount | "") => void;
   onSubject: (value: SubjectTag | "") => void;
   onQuery: (value: string) => void;
@@ -411,25 +402,6 @@ function FilterPanel({
         placeholder="关键词：莫奈、夜景、剧照…"
         className="w-full border border-[var(--line)] bg-transparent px-2 py-2 text-sm text-[var(--paper)] outline-none"
       />
-      {FILTER_CATEGORIES.length > 0 && (
-        <div>
-          <p className="mb-2 text-[11px] text-[var(--muted)]">类型</p>
-          <div className="flex flex-wrap gap-1.5">
-            <Chip active={!category} onClick={() => onCategory("")}>
-              全部
-            </Chip>
-            {FILTER_CATEGORIES.map((row) => (
-              <Chip
-                key={row.id}
-                active={category === row.id}
-                onClick={() => onCategory(category === row.id ? "" : row.id)}
-              >
-                {row.label}
-              </Chip>
-            ))}
-          </div>
-        </div>
-      )}
       <div>
         <p className="mb-2 text-[11px] text-[var(--muted)]">人数</p>
         <div className="flex flex-wrap gap-1.5">

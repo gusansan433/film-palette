@@ -8,7 +8,7 @@ export function TitleField({ count }: { count: number }) {
         Open Palette
       </h1>
       <p className="mt-3 max-w-xl text-sm leading-6 text-[var(--muted)]">
-        点选颜色，找到近似颜色的照片；也可以按类型查找。
+        点选颜色，找到近似颜色的照片；也可以按人数等内容筛选。
       </p>
       <p className="mt-2 text-sm text-[var(--muted)]">
         目前图库 {count} 张 · 每天北京时间 8:00 更新约 100 张
