@@ -18,14 +18,14 @@ export type UsageRightsSummary = {
 
 const PD = {
   kind: "public-domain" as const,
-  short: "可商用、可二创、可进游戏",
+  short: "可商用、可二创",
   detail: "公有领域 / CC0 / PDM：署名非必须，建议注明来源",
 };
 
 const BY = {
   kind: "cc-by" as const,
-  short: "署名后可商用/二创/进游戏",
-  detail: "CC BY：署名后可商用、二创与进游戏",
+  short: "署名后可商用/二创",
+  detail: "CC BY：署名后可商用与二创",
 };
 
 const BY_SA = {
