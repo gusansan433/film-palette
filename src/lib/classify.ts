@@ -14,8 +14,9 @@ export const FILTER_CATEGORIES = MEDIA_CATEGORIES.filter(
   (row) => row.id === "film" || row.id === "meme",
 );
 
+/** Prefer wordless reaction / animal / classic meme phrasing over captioned macros. */
 const MEME_HIT =
-  /\b(meme|trollface|troll meme|rage comic|image macro|wojak)\b/i;
+  /\b(meme|trollface|troll meme|rage comic|image macro|wojak|advice animal|rage face|reaction image|reaction meme|facepalm|funny animal|confused animal|surprised face|vintage funny|public domain meme)\b/i;
 const MEME_NOISE =
   /zombomeme|buzzfeed|meme ranch|laser engraving|street art|misinformation|styled after|how many|cosplay|exhibition|museum|wall of|when internet memes attack|meme performance|hiding place|hyperinflation|controlnet|bolivar|fuduji|pixelfreunde|xvala|6-7 meme|67 meme/i;
 const MEME_BLOCKED_IP =

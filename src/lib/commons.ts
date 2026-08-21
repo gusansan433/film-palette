@@ -272,6 +272,10 @@ const MEME_SEARCH_QUERIES = [
   "trollface clipart",
   "meme sticker",
   "meme illustration",
+  "reaction meme",
+  "wojak",
+  "blank meme template",
+  "facepalm meme",
 ];
 
 export async function collectCommonsMemeCandidates(seen: Set<string>) {
