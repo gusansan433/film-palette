@@ -5,7 +5,7 @@ import { ColorWheel } from "@/components/ColorWheel";
 import { KandinskyField } from "@/components/KandinskyField";
 import { TitleField } from "@/components/TitleField";
 import { IntroGate } from "@/components/IntroGate";
-import { similarByColor } from "@/lib/similar";
+import { similarByColorRanked, type SimilarItem } from "@/lib/similar";
 import { creatorLabel } from "@/lib/creator";
 import {
   PEOPLE_COUNTS,
@@ -17,7 +17,7 @@ import {
 import type { CatalogItem, PaletteColor, PeopleCount, SubjectTag } from "@/lib/types";
 import { summarizeUsageRights } from "@/lib/usageRights";
 
-type SimilarItem = CatalogItem & { matchScore?: number };
+const PAGE_SIZE = 200;
 
 type UploadResult = {
   item: CatalogItem;
@@ -47,10 +47,12 @@ export function HomeView({ initialItems }: HomeViewProps) {
   const [similar, setSimilar] = useState<SimilarItem[]>([]);
   const [previewUrl, setPreviewUrl] = useState("");
   const [matched, setMatched] = useState<SimilarItem[] | null>(null);
+  const [matchFallback, setMatchFallback] = useState(false);
   const [matchPreview, setMatchPreview] = useState("");
   const [people, setPeople] = useState<PeopleCount | "">("");
   const [subject, setSubject] = useState<SubjectTag | "">("");
   const [query, setQuery] = useState("");
+  const [visibleCount, setVisibleCount] = useState(PAGE_SIZE);
   const matchRef = useRef<HTMLInputElement>(null);
   const fileRef = useRef<HTMLInputElement>(null);
 
@@ -72,13 +74,21 @@ export function HomeView({ initialItems }: HomeViewProps) {
     return () => window.clearInterval(timer);
   }, []);
 
-  const ranked = useMemo(() => {
-    if (matched) return matched;
-    if (!picked) return items;
-    return similarByColor(items, [picked.r, picked.g, picked.b]);
+  const colorRank = useMemo(() => {
+    if (matched || !picked) return null;
+    return similarByColorRanked(items, [picked.r, picked.g, picked.b]);
   }, [items, picked, matched]);
 
-  const visible = useMemo(() => {
+  const ranked = useMemo(() => {
+    if (matched) return matched;
+    if (colorRank) return colorRank.items;
+    return items;
+  }, [items, matched, colorRank]);
+
+  const colorActive = Boolean(matched || picked);
+  const usedFallback = matched ? matchFallback : Boolean(colorRank?.usedFallback);
+
+  const filtered = useMemo(() => {
     const needle = query.trim().toLowerCase();
     return ranked.filter((item) => {
       const row = withSearchTags(item);
@@ -92,6 +102,17 @@ export function HomeView({ initialItems }: HomeViewProps) {
     });
   }, [ranked, people, subject, query]);
 
+  useEffect(() => {
+    setVisibleCount(PAGE_SIZE);
+  }, [picked, matched, people, subject, query]);
+
+  const visible = useMemo(
+    () => filtered.slice(0, visibleCount),
+    [filtered, visibleCount],
+  );
+  const remaining = filtered.length - visible.length;
+  const expandStep = Math.min(PAGE_SIZE, remaining);
+
   const subjectOptions = useMemo(() => {
     const used = new Set(items.flatMap((item) => withSearchTags(item).subjects ?? []));
     return SUBJECTS.filter((row) => used.has(row.id));
@@ -101,6 +122,7 @@ export function HomeView({ initialItems }: HomeViewProps) {
     setBusy("正在识别配色…");
     setNotice("");
     setPicked(null);
+    setMatchFallback(false);
     const localUrl = URL.createObjectURL(file);
     setMatchPreview(localUrl);
     const form = new FormData();
@@ -109,6 +131,7 @@ export function HomeView({ initialItems }: HomeViewProps) {
       const response = await fetch("/api/match", { method: "POST", body: form });
       const data = (await response.json()) as {
         similar?: SimilarItem[];
+        usedFallback?: boolean;
         error?: string;
       };
       if (!response.ok) {
@@ -116,7 +139,12 @@ export function HomeView({ initialItems }: HomeViewProps) {
         return;
       }
       setMatched(data.similar ?? []);
-      setNotice("已按这张图的配色排列画面。图片不会加入图库。");
+      setMatchFallback(Boolean(data.usedFallback));
+      setNotice(
+        data.usedFallback
+          ? "未找到足够接近的配色，已按相关度显示最接近的画面。图片不会加入图库。"
+          : "已按颜色相关度排序画面。图片不会加入图库。",
+      );
     } catch {
       setNotice("识别失败，请换一张图试试。");
     } finally {
@@ -153,6 +181,7 @@ export function HomeView({ initialItems }: HomeViewProps) {
         return [item, ...current];
       });
       setMatched(null);
+      setMatchFallback(false);
       setSelected(item);
       setSimilar(data.similar ?? []);
       setNotice(data.persisted ? "已加入图库。" : "已收到，但当前环境无法长期保存。");
@@ -190,6 +219,7 @@ export function HomeView({ initialItems }: HomeViewProps) {
           <ColorWheel
             onPick={(color) => {
               setMatched(null);
+              setMatchFallback(false);
               setMatchPreview("");
               setPicked(color);
             }}
@@ -219,15 +249,30 @@ export function HomeView({ initialItems }: HomeViewProps) {
         </aside>
 
         <section>
-          <div className="mb-4 flex items-end justify-between">
-            <h2 className="text-xs tracking-[0.24em] text-[var(--muted)]">
-              {matched ? "按图片配色" : picked ? "相近配色" : "画面"}
-            </h2>
-            <span className="text-[11px] text-[var(--muted)]">{visible.length} 张</span>
+          <div className="mb-4 flex items-end justify-between gap-4">
+            <div>
+              <h2 className="text-xs tracking-[0.24em] text-[var(--muted)]">
+                {colorActive
+                  ? matched
+                    ? "按图片配色 · 相关度排序"
+                    : "按相关度排序"
+                  : "画面"}
+              </h2>
+              {colorActive && (
+                <p className="mt-1 text-[11px] text-[var(--muted)]">
+                  {usedFallback
+                    ? "未找到足够接近的配色，已显示最接近的结果（相关度由高到低）"
+                    : "仅显示颜色接近的画面，相关度由高到低"}
+                </p>
+              )}
+            </div>
+            <span className="shrink-0 text-[11px] text-[var(--muted)]">
+              {colorActive ? `颜色相关 · ${filtered.length} 张` : `${filtered.length} 张`}
+            </span>
           </div>
           {busy && <p className="mb-4 text-sm text-[var(--muted)]">{busy}</p>}
           {notice && <p className="mb-4 text-sm text-[var(--acid)]">{notice}</p>}
-          {visible.length === 0 && (
+          {filtered.length === 0 && (
             <p className="text-sm text-[var(--muted)]">没有符合筛选的画面，换一个人或内容试试。</p>
           )}
           <div className="grid grid-cols-1 gap-3 sm:grid-cols-2 xl:grid-cols-3">
@@ -244,7 +289,14 @@ export function HomeView({ initialItems }: HomeViewProps) {
                   alt={item.title}
                   className="aspect-[16/9] w-full object-cover transition duration-500 group-hover:opacity-80"
                 />
-                <PaletteRow palette={item.palette} />
+                <div className="flex items-center justify-between gap-2">
+                  <PaletteRow palette={item.palette} />
+                  {colorActive && typeof item.matchScore === "number" && (
+                    <span className="pr-2 text-[10px] tabular-nums text-[var(--muted)]">
+                      {item.matchScore}%
+                    </span>
+                  )}
+                </div>
                 <div className="px-2 py-2 sm:hidden">
                   <FilmCredits item={item} />
                 </div>
@@ -254,6 +306,17 @@ export function HomeView({ initialItems }: HomeViewProps) {
               </button>
             ))}
           </div>
+          {remaining > 0 && (
+            <div className="mt-6 flex justify-center">
+              <button
+                type="button"
+                onClick={() => setVisibleCount((count) => count + expandStep)}
+                className="border border-[var(--line)] px-5 py-2 text-xs tracking-[0.18em] text-[var(--muted)] transition hover:border-[var(--fg)] hover:text-[var(--fg)]"
+              >
+                {remaining > PAGE_SIZE ? "再显示 200 张" : `显示剩余 ${remaining} 张`}
+              </button>
+            </div>
+          )}
         </section>
       </main>
 
@@ -498,7 +561,7 @@ function MatchBox({
         />
       </label>
       <p className="mt-3 text-sm leading-6 text-[var(--paper)]">
-        您的照片只会被用来提取颜色，以搜寻站内颜色相近的图片，不会被放进图库。
+        您的照片只会被用来提取颜色，按相关度搜寻站内配色接近的图片，不会被放进图库。
       </p>
     </div>
   );
@@ -680,7 +743,7 @@ function Lightbox({
         )}
         {similar.length > 0 && (
           <div className="mt-6">
-            <h4 className="text-xs tracking-[0.24em] text-[var(--muted)]">相近配色</h4>
+            <h4 className="text-xs tracking-[0.24em] text-[var(--muted)]">相关配色</h4>
             <div className="mt-3 grid grid-cols-2 gap-3 sm:grid-cols-4">
               {similar.map((entry) => (
                 <button
@@ -697,7 +760,7 @@ function Lightbox({
                   />
                   <FilmCredits item={entry} />
                   {typeof entry.matchScore === "number" && (
-                    <p className="text-[10px] text-[var(--muted)]">相近 {entry.matchScore}%</p>
+                    <p className="text-[10px] text-[var(--muted)]">相关 {entry.matchScore}%</p>
                   )}
                 </button>
               ))}

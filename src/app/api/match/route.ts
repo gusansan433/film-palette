@@ -1,7 +1,7 @@
 import { NextResponse } from "next/server";
 import { analyzeImageBuffer } from "@/lib/analyze";
 import { loadCatalog } from "@/lib/catalog";
-import { similarByPalette } from "@/lib/similar";
+import { similarByPaletteRanked } from "@/lib/similar";
 
 export const runtime = "nodejs";
 export const maxDuration = 30;
@@ -24,11 +24,12 @@ export async function POST(request: Request) {
   const buffer = Buffer.from(await file.arrayBuffer());
   const analysis = await analyzeImageBuffer(buffer);
   const catalog = await loadCatalog();
-  const similar = similarByPalette(catalog.items, analysis.palette, { limit: catalog.items.length });
+  const ranked = similarByPaletteRanked(catalog.items, analysis.palette);
 
   return NextResponse.json({
     palette: analysis.palette,
-    similar,
+    similar: ranked.items,
+    usedFallback: ranked.usedFallback,
     persisted: false,
   });
 }
