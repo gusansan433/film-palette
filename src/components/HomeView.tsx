@@ -8,10 +8,10 @@ import { IntroGate } from "@/components/IntroGate";
 import { similarByColor } from "@/lib/similar";
 import { creatorLabel } from "@/lib/creator";
 import {
-  MEDIA_CATEGORIES,
+  FILTER_CATEGORIES,
   PEOPLE_COUNTS,
   SUBJECTS,
-  categoryLabel,
+  displayCategoryLabel,
   peopleLabel,
   withSearchTags,
 } from "@/lib/classify";
@@ -300,7 +300,7 @@ function UsageRightsLine({ item }: { item: CatalogItem }) {
 
 function FilmCredits({ item }: { item: CatalogItem }) {
   const tagged = withSearchTags(item);
-  const tags = [categoryLabel(tagged.category), peopleLabel(tagged.people)].filter(Boolean).join(" · ");
+  const tags = [displayCategoryLabel(tagged.category), peopleLabel(tagged.people)].filter(Boolean).join(" · ");
   if (item.kind === "photo") {
     return (
       <dl className="mt-2 space-y-1 text-[11px] leading-5 text-[var(--muted)]">
@@ -398,26 +398,28 @@ function FilterPanel({
       <input
         value={query}
         onChange={(event) => onQuery(event.target.value)}
-        placeholder="关键词：莫奈、夜景、海报…"
+        placeholder="关键词：莫奈、夜景、剧照…"
         className="w-full border border-[var(--line)] bg-transparent px-2 py-2 text-sm text-[var(--paper)] outline-none"
       />
-      <div>
-        <p className="mb-2 text-[11px] text-[var(--muted)]">类型</p>
-        <div className="flex flex-wrap gap-1.5">
-          <Chip active={!category} onClick={() => onCategory("")}>
-            全部
-          </Chip>
-          {MEDIA_CATEGORIES.map((row) => (
-            <Chip
-              key={row.id}
-              active={category === row.id}
-              onClick={() => onCategory(category === row.id ? "" : row.id)}
-            >
-              {row.label}
+      {FILTER_CATEGORIES.length > 0 && (
+        <div>
+          <p className="mb-2 text-[11px] text-[var(--muted)]">类型</p>
+          <div className="flex flex-wrap gap-1.5">
+            <Chip active={!category} onClick={() => onCategory("")}>
+              全部
             </Chip>
-          ))}
+            {FILTER_CATEGORIES.map((row) => (
+              <Chip
+                key={row.id}
+                active={category === row.id}
+                onClick={() => onCategory(category === row.id ? "" : row.id)}
+              >
+                {row.label}
+              </Chip>
+            ))}
+          </div>
         </div>
-      </div>
+      )}
       <div>
         <p className="mb-2 text-[11px] text-[var(--muted)]">人数</p>
         <div className="flex flex-wrap gap-1.5">

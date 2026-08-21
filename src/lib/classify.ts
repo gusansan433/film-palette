@@ -9,6 +9,11 @@ export const MEDIA_CATEGORIES: { id: MediaCategory; label: string }[] = [
   { id: "meme", label: "梗图" },
 ];
 
+/** User-facing type chips — only categories that classify reliably enough to filter on. */
+export const FILTER_CATEGORIES = MEDIA_CATEGORIES.filter(
+  (row) => row.id === "film" || row.id === "meme",
+);
+
 const MEME_HIT =
   /\b(meme|trollface|troll meme|rage comic|image macro|wojak)\b/i;
 const MEME_NOISE =
@@ -139,6 +144,12 @@ export function withSearchTags(item: CatalogItem): CatalogItem {
 
 export function categoryLabel(id?: MediaCategory) {
   return MEDIA_CATEGORIES.find((row) => row.id === id)?.label ?? "画面";
+}
+
+/** Card/chip label safe to show — omit ambiguous painting / photo / poster. */
+export function displayCategoryLabel(id?: MediaCategory) {
+  if (id === "film" || id === "meme") return categoryLabel(id);
+  return "";
 }
 
 export function peopleLabel(id?: PeopleCount) {
