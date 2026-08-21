@@ -201,6 +201,7 @@ export async function ingestPhotos(options?: {
   prefer?: RegExp;
   memes?: boolean;
   art?: boolean;
+  cats?: boolean;
 }) {
   const count = options?.count ?? 30;
   const catalog = await loadCatalog();
@@ -221,11 +222,12 @@ export async function ingestPhotos(options?: {
     const persisted = options?.persist !== false;
     const memesOnly = options?.memes === true;
     const artOnly = options?.art === true;
+    const catsOnly = options?.cats === true;
     const raw = memesOnly
       ? await collectMemeCandidates(seen)
       : artOnly
         ? await collectArtCandidates(seen)
-        : await collectPhotoCandidates(seen);
+        : await collectPhotoCandidates(seen, catsOnly ? { cats: true } : undefined);
     const graphic = options?.prefer
       ?? /poster|runway|fashion|wpa|couture|art deco|theatrical|painting|meme|van gogh|monet|vermeer|hokusai|klimt|ukiyo|rembrandt|botticelli|fresco|pompeii|lascaux|furniture|morris|thonet|chippendale/i;
     const painterBias =

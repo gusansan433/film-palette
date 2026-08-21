@@ -3,7 +3,8 @@ import { ingestDaily, ingestPhotos } from "../src/lib/ingest";
 async function main() {
   const memes = process.argv.includes("--memes");
   const art = process.argv.includes("--art");
-  const photos = process.argv.includes("--photos") || memes || art;
+  const cats = process.argv.includes("--cats");
+  const photos = process.argv.includes("--photos") || memes || art || cats;
   const force = process.argv.includes("--force") || process.argv.includes("--seed");
   const countArg = process.argv.find((arg) => arg.startsWith("--count="));
   const count = countArg
@@ -17,11 +18,14 @@ async function main() {
         persist: true,
         memes,
         art,
+        cats,
         prefer: memes
           ? /meme/i
           : art
             ? /painting|botticelli|caravaggio|vermeer|rembrandt|monet|van gogh|klimt|matisse|sargent|leyendecker|beardsley|fresco|mural|nianhua|embroidery|textile|porcelain/i
-            : undefined,
+            : cats
+              ? /cat|kitten|tabby|feline|kitty/i
+              : undefined,
       })
     : await ingestDaily({
         count: Number.isFinite(count) ? Math.min(Math.max(count, 1), 120) : 10,

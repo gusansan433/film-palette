@@ -82,7 +82,46 @@ function looksLikeFilm(text: string) {
   );
 }
 
+const CAT_QUERIES = [
+  "cute kitten",
+  "fluffy cat photograph",
+  "orange tabby cat",
+  "sleeping kitten",
+  "kitten portrait",
+  "cat close up photograph",
+  "cute cat photograph",
+  "ginger kitten",
+  "white kitten photograph",
+  "tabby kitten portrait",
+];
+
+/** Tattoo reference: prefer flash / designs / engravings / museum patterns over body photos. */
+const TATTOO_QUERIES = [
+  "tattoo flash sheet",
+  "american traditional tattoo flash",
+  "japanese irezumi print",
+  "sailor jerry style tattoo",
+  "blackwork tattoo photograph",
+  "tattoo design drawing public domain",
+  "tribal tattoo pattern museum",
+  "engraving tattoo reference",
+  "henna design pattern",
+  "illustration tattoo flash cc0",
+  "tattoo flash illustration",
+  "vintage tattoo flash sheet",
+  "japanese woodblock tattoo motif",
+  "maori tattoo pattern museum",
+  "polynesian tattoo pattern drawing",
+  "celtic knot tattoo design",
+  "rose tattoo flash drawing",
+  "anchor tattoo flash illustration",
+  "skull tattoo flash illustration",
+  "serpent tattoo engraving",
+];
+
 const PHOTO_QUERIES = [
+  ...CAT_QUERIES,
+  ...TATTOO_QUERIES,
   "cinematic photography",
   "golden hour portrait",
   "neon night street",
@@ -219,10 +258,12 @@ async function collectOpenverse(seen: Set<string>) {
   return found;
 }
 
-async function collectOpenversePhotos(seen: Set<string>) {
+async function collectOpenversePhotos(seen: Set<string>, options?: { cats?: boolean }) {
   const found: OpenCandidate[] = [];
-  for (const query of PHOTO_QUERIES) {
-    for (const page of [1, 2]) {
+  const queries = options?.cats ? CAT_QUERIES : PHOTO_QUERIES;
+  const pages = options?.cats ? [1, 2, 3] : [1, 2];
+  for (const query of queries) {
+    for (const page of pages) {
       try {
         const url = new URL(OPENVERSE);
         url.searchParams.set("q", query);
@@ -261,6 +302,7 @@ async function collectOpenversePhotos(seen: Set<string>) {
           if (!licenseOk(license)) continue;
           const title = row.title || query;
           if (BLOCKED_TITLE.test(title) || isFilmFrame(title)) continue;
+          if (isUnsafeItem({ title, author: row.creator ?? "", pageUrl: row.foreign_landing_url })) continue;
           const key = `openverse:${row.id}`;
           if (seen.has(key)) continue;
           found.push({
@@ -479,12 +521,14 @@ export async function collectOpenCandidates(seen: Set<string>) {
   return [...unique.values()];
 }
 
-export async function collectPhotoCandidates(seen: Set<string>) {
-  const batches = await Promise.all([
-    collectOpenversePhotos(seen),
-    collectLocPhotos(seen),
-    collectArchive(seen),
-  ]);
+export async function collectPhotoCandidates(seen: Set<string>, options?: { cats?: boolean }) {
+  const batches = options?.cats
+    ? await Promise.all([collectOpenversePhotos(seen, { cats: true })])
+    : await Promise.all([
+        collectOpenversePhotos(seen),
+        collectLocPhotos(seen),
+        collectArchive(seen),
+      ]);
   const unique = new Map<string, OpenCandidate>();
   for (const item of batches.flat()) {
     unique.set(item.key, {
@@ -973,6 +1017,13 @@ const MEME_QUERIES = [
   "rage comic",
   "image macro",
   "funny meme illustration",
+  // Prefer reaction / blank-template phrasing; Openverse titles must still lookLikeMeme.
+  "reaction meme",
+  "reaction image meme",
+  "wojak",
+  "blank meme template",
+  "facepalm meme",
+  "surprised cat meme",
 ];
 
 async function collectOpenverseMemes(seen: Set<string>) {
@@ -988,7 +1039,7 @@ async function collectOpenverseMemes(seen: Set<string>) {
           url.searchParams.set("excluded_source", "wikimedia");
           url.searchParams.set("page_size", "20");
           url.searchParams.set("page", String(page));
-        url.searchParams.set("mature", "false");
+          url.searchParams.set("mature", "false");
           const data = (await (await fetchOk(url)).json()) as {
             results?: {
               id: string;
