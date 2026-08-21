@@ -315,6 +315,14 @@ export async function collectCommonsMemeCandidates(seen: Set<string>) {
 }
 
 const ART_SEARCH_QUERIES = [
+  "tattoo flash sheet",
+  "american traditional tattoo flash",
+  "japanese irezumi",
+  "Sailor Jerry tattoo",
+  "tattoo design drawing",
+  "henna design pattern",
+  "tribal tattoo pattern",
+  "engraving tattoo",
   "Charles Frederick Worth gown",
   "Paul Poiret fashion",
   "Madeleine Vionnet dress",
