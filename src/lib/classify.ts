@@ -11,16 +11,29 @@ export const MEDIA_CATEGORIES: { id: MediaCategory; label: string }[] = [
 
 /** Prefer wordless reaction / animal / classic meme phrasing over captioned macros. */
 const MEME_HIT =
-  /\b(meme|trollface|troll meme|rage comic|image macro|wojak|advice animal|rage face|reaction image|reaction meme|facepalm|funny animal|confused animal|surprised face|vintage funny|public domain meme)\b/i;
+  /\b(meme|trollface|troll meme|rage comic|image macro|wojak meme|advice animal|rage face|reaction image|reaction meme|facepalm|funny animal|confused animal|surprised face|vintage funny|public domain meme)\b/i;
+/** Keep signal: reaction / animal / classic templates — bare “X [Meme]” macros fail this. */
+const MEME_KEEP =
+  /\b(trollface|troll meme|rage comic|rage face|wojak meme|\bwojak\b|advice animal|image macro|reaction (image|meme|photo)|facepalm|funny animal|confused animal|surprised (cat|dog|face)|blank meme template|vintage funny|public domain meme|cats?|kittens?|dogs?|puppies?|animals?|animal face)\b/i;
+/** Polish “wojak” (soldier) / surnames must not count as the internet Wojak meme. */
+const MEME_WOJAK_NAME_NOISE =
+  /\b(dobry wojak|weso[łl]y wojak|szwejk|olaf wojak|irmtrud wojak|wojak nr\b|dr\.?\s+\w+\s+wojak)\b/i;
 const MEME_NOISE =
-  /zombomeme|buzzfeed|meme ranch|laser engraving|street art|misinformation|styled after|how many|cosplay|exhibition|museum|wall of|when internet memes attack|meme performance|hiding place|hyperinflation|controlnet|bolivar|fuduji|pixelfreunde|xvala|6-7 meme|67 meme/i;
+  /zombomeme|buzzfeed|meme ranch|laser engraving|street art|misinformation|styled after|how many|cosplay|exhibition|museum|wall of|when internet memes attack|meme performance|hiding place|hyperinflation|controlnet|bolivar|fuduji|pixelfreunde|xvala|6-7 meme|67 meme|distrito rap|rap pol[ií]tico|pasaporte covid|suicid|meme edit|chipotle/i;
 const MEME_BLOCKED_IP =
-  /\b(pepe the frog|doge\b|kabosu|distracted boyfriend|drake hotline|woman yelling at a cat|this is fine|hide the pain|success kid|overly attached|ancient aliens|surprised pikachu|spongebob|minions|gru'?s plan|arthur'?s fist)\b/i;
+  /\b(pepe the frog|doge\b|kabosu|distracted boyfriend|drake hotline|woman yelling at a cat|this is fine|hide the pain|success kid|overly attached|ancient aliens|surprised pikachu|spongebob|minions|gru'?s plan|arthur'?s fist|naruto|sasuke|one piece|dragon ball|cyberpunk\s*2077|\bcyberpunk\b|lannister|game of thrones|\bgot\b|jon snow|marvel|avengers|spider-?man|batman|superman|disney|pixar|harry potter|pokemon|pokémon|nintendo|zelda|mario\b|sonic the|fallout|caesar'?s legion|the institute|euphoria|star wars|star trek|lord of the rings|hobbit|witcher|fortnite|minecraft|genshin|anime)\b/i;
 
 export function looksLikeMeme(text: string) {
-  if (!MEME_HIT.test(text) || MEME_NOISE.test(text) || MEME_BLOCKED_IP.test(text)) {
+  if (MEME_WOJAK_NAME_NOISE.test(text)) return false;
+  // Internet Wojak character: allow bare “wojak” only when not a Polish name/statue hit above.
+  const hit =
+    MEME_HIT.test(text) ||
+    (/\bwojak\b/i.test(text) && !/\b(szwejk|przemysl|warszawa|protest|nr\s*\d)\b/i.test(text));
+  if (!hit || MEME_NOISE.test(text) || MEME_BLOCKED_IP.test(text)) {
     return false;
   }
+  // Drop captioned franchise / personality macros that only match on the word “meme”.
+  if (!MEME_KEEP.test(text) && !/\bwojak\b/i.test(text)) return false;
   return true;
 }
 
@@ -42,6 +55,7 @@ export const SUBJECTS: { id: SubjectTag; label: string }[] = [
   { id: "interior", label: "室内" },
   { id: "nature", label: "自然" },
   { id: "design", label: "设计" },
+  { id: "costume", label: "服饰" },
   { id: "ancient", label: "古代" },
   { id: "sculpture", label: "雕塑" },
   { id: "pattern", label: "纹样" },
@@ -105,6 +119,14 @@ export function classifySubjects(title: string, category: MediaCategory): Subjec
     found.add("design");
   }
   if (
+    /\b(costume|fashion plate|gown|ball gown|haute couture|dress|charles frederick worth|paul poiret|madeleine vionnet|pierre cardin|courr[eè]ges|mary quant|mod fashion|space age fashion|edwardian gown|regency dress|empire waist|met costume)\b/i.test(
+      title,
+    )
+  ) {
+    found.add("costume");
+    found.add("design");
+  }
+  if (
     /\b(pompeii|herculaneum|lascaux|altamira|chauvet|cave painting|prehistoric|egyptian tomb|fayum|knossos|minoan|fresco|roman mosaic|assyrian|sumerian|dunhuang|mogao|kizil|qizil|yulin|yungang|longmen|maijishan|ajanta|sigiriya|grotto|bonampak|teotihuacan|byzantine|coptic|bagan)\b/i.test(
       title,
     )
@@ -119,7 +141,7 @@ export function classifySubjects(title: string, category: MediaCategory): Subjec
     found.add("sculpture");
   }
   if (
-    /\b(pattern|textile|embroidery|batik|kilim|zellige|ikat|kente|iznik|kimono|navajo rug|palampore|geometric tile|ornament|thangka|lubok|nianhua|bojagi|bingata|talavera|otomi|suzani|folk print|folk art|quilt|yangliuqing|taohuawu|jianzhi|paper cut|cloisonne|cloisonné|yunjin|brocade|calico|porcelain|famille rose|menshen|door god)\b/i.test(
+    /\b(pattern|textile|embroidery|batik|kilim|zellige|ikat|kente|iznik|kimono|navajo rug|palampore|geometric tile|ornament|thangka|lubok|nianhua|bojagi|bingata|talavera|otomi|suzani|folk print|folk art|quilt|yangliuqing|taohuawu|jianzhi|paper cut|cloisonne|cloisonné|yunjin|brocade|calico|porcelain|famille rose|menshen|door god|tattoo|flash sheet|irezumi|henna|sailor jerry|blackwork)\b/i.test(
       title,
     )
   ) {

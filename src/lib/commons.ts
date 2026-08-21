@@ -40,6 +40,13 @@ const CATEGORIES = [
   "Category:The_Little_Shop_of_Horrors",
   "Category:Plan_9_from_Outer_Space",
   "Category:King_of_Jazz",
+  "Category:The_Circus_(1928_film)",
+  "Category:The_Toll_of_the_Sea",
+  "Category:Becky_Sharp_(film)",
+  "Category:The_Memphis_Belle:_A_Story_of_a_Flying_Fortress",
+  "Category:The_Thief_of_Bagdad_(1940_film)",
+  "Category:Film_stills",
+  "Category:Technicolor_films",
   "Category:Charade_(1963_film)",
   "Category:Screenshots_of_Big_Buck_Bunny",
   "Category:Screenshots_of_Sintel",
@@ -74,6 +81,14 @@ const CATEGORIES = [
 ];
 
 const SEARCH_QUERIES = [
+  "Nosferatu 1922 film still",
+  "Metropolis 1927 film still",
+  "The Circus Chaplin 1928 still",
+  "Toll of the Sea 1922 technicolor still",
+  "Becky Sharp 1935 technicolor still",
+  "Memphis Belle 1944 film still",
+  "Thief of Bagdad public domain still",
+  "Technicolor public domain film still",
   "King of Jazz 1930 still",
   "Charade Hepburn 1963 color still",
   "Tears of Steel screenshot",
@@ -266,16 +281,20 @@ export async function collectCommonsCandidates(seen: Set<string>) {
 }
 
 const MEME_SEARCH_QUERIES = [
-  'meme incategory:"CC-Zero"',
-  'meme incategory:"CC-BY-SA-4.0"',
-  'meme incategory:"CC-BY-4.0"',
+  'reaction meme incategory:"CC-Zero"',
+  'funny animal meme incategory:"CC-Zero"',
+  'trollface clipart incategory:"CC-Zero"',
   "trollface clipart",
-  "meme sticker",
-  "meme illustration",
   "reaction meme",
-  "wojak",
+  "reaction image",
+  "funny animal meme",
+  "confused animal",
+  "surprised cat meme",
+  "wojak meme",
   "blank meme template",
   "facepalm meme",
+  "public domain meme",
+  "vintage funny advertisement",
 ];
 
 export async function collectCommonsMemeCandidates(seen: Set<string>) {
@@ -296,6 +315,13 @@ export async function collectCommonsMemeCandidates(seen: Set<string>) {
 }
 
 const ART_SEARCH_QUERIES = [
+  "Charles Frederick Worth gown",
+  "Paul Poiret fashion",
+  "Madeleine Vionnet dress",
+  "fashion plate 1890",
+  "Met Costume Institute",
+  "ball gown museum",
+  "Mary Quant dress",
   "Pompeii fresco",
   "Herculaneum fresco",
   "Lascaux cave painting",
@@ -330,9 +356,25 @@ const ART_SEARCH_QUERIES = [
   "Yunjin brocade",
 ];
 
-export async function collectCommonsArtCandidates(seen: Set<string>) {
+const FASHION_SEARCH_QUERIES = [
+  "Charles Frederick Worth gown",
+  "Paul Poiret fashion",
+  "Madeleine Vionnet dress",
+  "fashion plate 1890",
+  "fashion plate 1910",
+  "Met Costume Institute",
+  "ball gown museum",
+  "Mary Quant dress",
+  "Courreges dress",
+  "Pierre Cardin dress",
+  "Victoria and Albert Museum dress",
+  "Rijksmuseum costume",
+];
+
+export async function collectCommonsArtCandidates(seen: Set<string>, options?: { fashionOnly?: boolean }) {
   const titles = new Set<string>();
-  for (const query of ART_SEARCH_QUERIES) {
+  const queries = options?.fashionOnly ? FASHION_SEARCH_QUERIES : ART_SEARCH_QUERIES;
+  for (const query of queries) {
     try {
       const files = await searchCommonsFiles(query);
       for (const title of files) {

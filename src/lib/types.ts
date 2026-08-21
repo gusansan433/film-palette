@@ -35,6 +35,7 @@ export type SubjectTag =
   | "interior"
   | "nature"
   | "design"
+  | "costume"
   | "ancient"
   | "sculpture"
   | "pattern"

@@ -14,7 +14,7 @@ const BLOCKED_HOST = /wikimedia|upload\.wikimedia/i;
 const ALLOWED_LICENSE = /cc0|pdm|pd-|public domain|no known restrictions|cc-by|by-sa|by$/i;
 const BLOCKED_LICENSE = /fair use|all rights reserved|non-?commercial|nc-|nd-/i;
 const BLOCKED_TITLE =
-  /pinocchio|disney|wizard of oz|gone with the wind|casablanca|star wars|broadway rhythm|snow white|bambi|fantasia|mickey mouse|marvel|pokemon|pikachu|nintendo|spongebob|minions|harry potter|banksy|basquiat|keith haring/i;
+  /pinocchio|disney|wizard of oz|gone with the wind|casablanca|star wars|broadway rhythm|snow white|bambi|fantasia|mickey mouse|marvel|pokemon|pikachu|nintendo|spongebob|minions|harry potter|banksy|basquiat|keith haring|alexander mcqueen|mcqueen runway|vogue magazine|vintage vogue|balenciaga runway|balenciaga campaign|chanel runway|dior runway|dior campaign|lookbook|pinterest|instagram|naruto|cyberpunk|lannister|game of thrones|euphoria|fallout|caesar'?s legion|spider-?man|batman|fortnite|genshin|anime meme|meme edit/i;
 
 const QUERIES = [
   "charade 1963 color still",
@@ -47,6 +47,8 @@ export type OpenCandidate = {
   source: Exclude<CatalogItem["source"], "user">;
   kind?: CatalogItem["kind"];
   sourceLabel?: string;
+  /** Extra text for ingest prefer ranking (e.g. tattoo query hits whose titles omit the word). */
+  preferText?: string;
 };
 
 function sleep(ms: number) {
@@ -87,12 +89,20 @@ const CAT_QUERIES = [
   "fluffy cat photograph",
   "orange tabby cat",
   "sleeping kitten",
+  "sleeping cat photograph",
   "kitten portrait",
+  "cat portrait photograph",
   "cat close up photograph",
   "cute cat photograph",
   "ginger kitten",
   "white kitten photograph",
   "tabby kitten portrait",
+  "cat looking at camera",
+  "cat in box photograph",
+  "cat behind window",
+  "cat hiding photograph",
+  "cat staring photograph",
+  "funny cat photograph",
 ];
 
 /** Tattoo reference: prefer flash / designs / engravings / museum patterns over body photos. */
@@ -119,9 +129,47 @@ const TATTOO_QUERIES = [
   "serpent tattoo engraving",
 ];
 
+/**
+ * Costume / fashion refs for indie game art.
+ * Prefer museum object photos + PD fashion plates; skip commercial runway / Vogue / brand ads.
+ */
+const FASHION_QUERIES = [
+  "charles frederick worth gown museum",
+  "charles frederick worth fashion illustration",
+  "worth paris gown met",
+  "paul poiret gown museum",
+  "paul poiret fashion illustration",
+  "madeleine vionnet dress museum",
+  "vionnet bias cut dress museum",
+  "early 20th century haute couture museum",
+  "1950s paris haute couture photograph commons",
+  "1960s space age fashion museum",
+  "pierre cardin dress museum",
+  "courreges dress museum",
+  "mary quant dress museum",
+  "1960s mod fashion museum",
+  "met costume institute dress",
+  "met museum costume gown",
+  "victoria and albert museum dress",
+  "victoria and albert museum fashion",
+  "rijksmuseum costume dress",
+  "rijksmuseum costume painting",
+  "art nouveau fashion illustration",
+  "19th century ball gown museum",
+  "fashion plate 1890",
+  "fashion plate 1900",
+  "fashion plate 1910",
+  "historical dress pattern plate",
+  "costume design museum dress",
+  "empire waist gown museum",
+  "edwardian gown museum",
+  "regency dress museum",
+];
+
 const PHOTO_QUERIES = [
   ...CAT_QUERIES,
   ...TATTOO_QUERIES,
+  ...FASHION_QUERIES,
   "cinematic photography",
   "golden hour portrait",
   "neon night street",
@@ -145,9 +193,6 @@ const PHOTO_QUERIES = [
   "travel poster vintage",
   "circus poster",
   "soviet film poster",
-  "fashion runway photograph",
-  "haute couture photograph",
-  "fashion show photograph",
   "poster design vintage",
   "van gogh starry night",
   "vermeer girl with a pearl earring",
@@ -686,6 +731,8 @@ const WESTERN_PAINTER_QUERIES = [
 ];
 
 const ART_QUERIES = [
+  ...FASHION_QUERIES,
+  ...TATTOO_QUERIES,
   "pompeii fresco",
   "herculaneum fresco",
   "villa of the mysteries pompeii",
@@ -805,11 +852,15 @@ const ART_QUERIES = [
 ];
 
 const ART_TITLE =
-  /\b(fresco|mural|cave painting|painting|oil on canvas|watercolor|watercolour|etching|engraving|drawing|sketch|portrait|landscape|still life|altarpiece|triptych|diptych|illustration|pompeii|herculaneum|lascaux|altamira|chauvet|tomb painting|fayum|knossos|minoan|mosaic|furniture|chippendale|thonet|morris|bauhaus|art nouveau|shaker|armchair|sideboard|vase painting|giotto|bosch|botticelli|leonardo|durer|dürer|michelangelo|raphael|titian|bruegel|tintoretto|veronese|greco|caravaggio|rubens|hals|gentileschi|velazquez|velázquez|rembrandt|steen|vermeer|ruysdael|watteau|boucher|fragonard|reynolds|gainsborough|david|goya|blake|friedrich|turner|constable|ingres|delacroix|gericault|corot|millet|courbet|daumier|menzel|bouguereau|cabanel|alma-tadema|gerome|gérôme|repin|aivazovsky|shishkin|surikov|kuindzhi|rossetti|millais|burne-jones|waterhouse|leighton|solomon|de morgan|collier|crane|beardsley|manet|monet|renoir|degas|pissarro|sisley|morisot|cassatt|caillebotte|bazille|van gogh|gogh|cezanne|cézanne|gauguin|seurat|signac|lautrec|rousseau|redon|bonnard|vuillard|moreau|bocklin|böcklin|khnopff|toorop|klimt|schiele|mucha|schwabe|stuck|zichy|matisse|derain|kahlo|kandinsky|klee|mondrian|malevich|modigliani|munch|ensor|picabia|dufy|delaunay|marc|macke|kirchner|jawlensky|kollwitz|whistler|homer|eakins|sargent|remington|bellows|hartley|demuth|dove|grant wood|wyeth|sloan|dore|doré|rackham|dulac|pyle|bilibin|clarke|kley|scrovegni|odalisque|egyptian|dunhuang|mogao|kizil|qizil|yulin|yungang|longmen|maijishan|ajanta|sigiriya|grotto|sculpture|statue|terracotta|venus de milo|samothrace|buddhist|bonampak|teotihuacan|byzantine|coptic|ethiopian|bagan|iznik|zellige|batik|kente|kilim|ikat|embroidery|textile|kimono|navajo|palampore|andean|geometric tile|aerial|satellite|nasa|glacier|volcano|thangka|lubok|nianhua|bojagi|bingata|talavera|otomi|wycinanki|rosemaling|quilt|suzani|graffiti|street art|folk print|folk art|yangliuqing|taohuawu|mianzhu|yangjiabu|zhuxian|jianzhi|paper cut|cloisonne|cloisonné|yunjin|brocade|calico|porcelain|famille rose|lacquer|menshen|door god|caisson)\b/i;
+  /\b(fresco|mural|cave painting|painting|oil on canvas|watercolor|watercolour|etching|engraving|drawing|sketch|portrait|landscape|still life|altarpiece|triptych|diptych|illustration|pompeii|herculaneum|lascaux|altamira|chauvet|tomb painting|fayum|knossos|minoan|mosaic|furniture|chippendale|thonet|morris|bauhaus|art nouveau|shaker|armchair|sideboard|vase painting|giotto|bosch|botticelli|leonardo|durer|dürer|michelangelo|raphael|titian|bruegel|tintoretto|veronese|greco|caravaggio|rubens|hals|gentileschi|velazquez|velázquez|rembrandt|steen|vermeer|ruysdael|watteau|boucher|fragonard|reynolds|gainsborough|david|goya|blake|friedrich|turner|constable|ingres|delacroix|gericault|corot|millet|courbet|daumier|menzel|bouguereau|cabanel|alma-tadema|gerome|gérôme|repin|aivazovsky|shishkin|surikov|kuindzhi|rossetti|millais|burne-jones|waterhouse|leighton|solomon|de morgan|collier|crane|beardsley|manet|monet|renoir|degas|pissarro|sisley|morisot|cassatt|caillebotte|bazille|van gogh|gogh|cezanne|cézanne|gauguin|seurat|signac|lautrec|rousseau|redon|bonnard|vuillard|moreau|bocklin|böcklin|khnopff|toorop|klimt|schiele|mucha|schwabe|stuck|zichy|matisse|derain|kahlo|kandinsky|klee|mondrian|malevich|modigliani|munch|ensor|picabia|dufy|delaunay|marc|macke|kirchner|jawlensky|kollwitz|whistler|homer|eakins|sargent|remington|bellows|hartley|demuth|dove|grant wood|wyeth|sloan|dore|doré|rackham|dulac|pyle|bilibin|clarke|kley|scrovegni|odalisque|egyptian|dunhuang|mogao|kizil|qizil|yulin|yungang|longmen|maijishan|ajanta|sigiriya|grotto|sculpture|statue|terracotta|venus de milo|samothrace|buddhist|bonampak|teotihuacan|byzantine|coptic|ethiopian|bagan|iznik|zellige|batik|kente|kilim|ikat|embroidery|textile|kimono|navajo|palampore|andean|geometric tile|aerial|satellite|nasa|glacier|volcano|thangka|lubok|nianhua|bojagi|bingata|talavera|otomi|wycinanki|rosemaling|quilt|suzani|graffiti|street art|folk print|folk art|yangliuqing|taohuawu|mianzhu|yangjiabu|zhuxian|jianzhi|paper cut|cloisonne|cloisonné|yunjin|brocade|calico|porcelain|famille rose|lacquer|menshen|door god|caisson|tattoo|flash sheet|irezumi|henna|sailor jerry|blackwork|tribal tattoo|maori tattoo|polynesian tattoo|costume|fashion plate|gown|dress|ball gown|haute couture|worth|poiret|vionnet|cardin|courr[eè]ges|mary quant|mod fashion|space age fashion|edwardian|regency dress|empire waist)\b/i;
 
-async function collectOpenverseArt(seen: Set<string>) {
+async function collectOpenverseArt(seen: Set<string>, options?: { fashionOnly?: boolean }) {
   const found: OpenCandidate[] = [];
-  for (const query of ART_QUERIES) {
+  const queries = options?.fashionOnly ? FASHION_QUERIES : ART_QUERIES;
+  const fashionMiss: string[] = [];
+  let fashionHits = 0;
+  for (const query of queries) {
+    let queryHits = 0;
     for (const category of ["digitized_artwork", "photograph"]) {
       try {
         const url = new URL(OPENVERSE);
@@ -849,9 +900,13 @@ async function collectOpenverseArt(seen: Set<string>) {
           );
           if (BLOCKED_TITLE.test(title) || isFilmFrame(title)) continue;
           if (isUnsafeItem({ title, author: row.creator ?? "", pageUrl: row.foreign_landing_url })) continue;
-          if (!ART_TITLE.test(title) && !museum) continue;
+          const tattooQuery = /tattoo|irezumi|henna|flash sheet|sailor jerry|blackwork|tribal tattoo|maori tattoo|polynesian tattoo/i.test(
+            query,
+          );
+          if (!ART_TITLE.test(title) && !museum && !tattooQuery) continue;
           const key = `openverse:${row.id}`;
           if (seen.has(key)) continue;
+          queryHits += 1;
           found.push({
             key,
             title,
@@ -863,6 +918,7 @@ async function collectOpenverseArt(seen: Set<string>) {
             source: "openverse",
             kind: "photo",
             sourceLabel: providerLabel(row.provider),
+            preferText: tattooQuery ? `tattoo flash ${query}` : undefined,
           });
         }
       } catch (error) {
@@ -870,13 +926,40 @@ async function collectOpenverseArt(seen: Set<string>) {
       }
       await sleep(250);
     }
+    if (FASHION_QUERIES.includes(query)) {
+      if (queryHits > 0) fashionHits += 1;
+      else fashionMiss.push(query);
+    }
+  }
+  if (fashionMiss.length) {
+    console.log(`fashion zero-hit queries (${fashionMiss.length}): ${fashionMiss.join(" | ")}`);
+  }
+  if (fashionHits) {
+    console.log(`fashion queries with hits: ${fashionHits}`);
   }
   return found;
 }
 
-async function collectLocArt(seen: Set<string>) {
+async function collectLocArt(seen: Set<string>, options?: { fashionOnly?: boolean }) {
   const found: OpenCandidate[] = [];
-  const searches = [
+  const fashionSearches = [
+    "charles frederick worth",
+    "paul poiret",
+    "madeleine vionnet",
+    "fashion plate",
+    "ball gown",
+    "costume dress museum",
+    "edwardian gown",
+    "mary quant",
+  ];
+  const defaultSearches = [
+    ...fashionSearches,
+    "tattoo flash",
+    "tattoo design",
+    "irezumi",
+    "henna design",
+    "engraving tattoo",
+    "tribal tattoo pattern",
     "pompeii fresco",
     "pompeii mural",
     "cave painting",
@@ -894,7 +977,8 @@ async function collectLocArt(seen: Set<string>) {
     "islamic tile",
     "folk textile",
     "graffiti mural",
-  ].map((q) => ({ q, sp: 1 }));
+  ];
+  const searches = (options?.fashionOnly ? fashionSearches : defaultSearches).map((q) => ({ q, sp: 1 }));
   for (const search of searches) {
     try {
       const url = new URL(LOC_SEARCH);
@@ -926,7 +1010,8 @@ async function collectLocArt(seen: Set<string>) {
         const title = Array.isArray(rawTitle) ? String(rawTitle[0] ?? "") : String(rawTitle ?? "");
         const key = `loc:${row.id || imageUrl}`;
         if (!title || seen.has(key) || BLOCKED_TITLE.test(title) || isFilmFrame(title)) continue;
-        if (!ART_TITLE.test(title)) continue;
+        const tattooSearch = /tattoo|irezumi|henna|engraving tattoo|tribal tattoo/i.test(search.q);
+        if (!ART_TITLE.test(title) && !tattooSearch) continue;
         found.push({
           key,
           title,
@@ -937,6 +1022,7 @@ async function collectLocArt(seen: Set<string>) {
           source: "loc",
           kind: "photo",
           sourceLabel: "美国国会图书馆",
+          preferText: tattooSearch ? `tattoo flash ${search.q}` : undefined,
         });
       }
     } catch (error) {
@@ -947,15 +1033,23 @@ async function collectLocArt(seen: Set<string>) {
   return found;
 }
 
-async function collectArchiveArt(seen: Set<string>) {
+async function collectArchiveArt(seen: Set<string>, options?: { fashionOnly?: boolean }) {
   const found: OpenCandidate[] = [];
-  const queries = [
-    'mediatype:image AND (pompeii OR lascaux OR fresco OR "cave painting") AND year:[1 TO 1925]',
-    'mediatype:image AND (dunhuang OR mogao OR kizil OR ajanta OR sculpture OR statue) AND year:[1 TO 1925]',
-    'mediatype:image AND (textile OR embroidery OR iznik OR batik) AND year:[1600 TO 1925]',
-    'mediatype:image AND (aerial OR nasa) AND mediatype:image',
-    'mediatype:image AND (furniture OR chippendale OR thonet OR morris) AND year:[1700 TO 1920]',
+  const fashionQueries = [
+    'mediatype:image AND ("fashion plate" OR "ball gown" OR costume OR "charles frederick worth" OR poiret OR vionnet) AND year:[1800 TO 1930]',
+    'mediatype:image AND (gown OR dress) AND (museum OR costume) AND year:[1800 TO 1925]',
   ];
+  const queries = options?.fashionOnly
+    ? fashionQueries
+    : [
+        ...fashionQueries,
+        'mediatype:image AND (tattoo OR "tattoo flash" OR irezumi OR henna OR "flash sheet") AND year:[1800 TO 1950]',
+        'mediatype:image AND (pompeii OR lascaux OR fresco OR "cave painting") AND year:[1 TO 1925]',
+        'mediatype:image AND (dunhuang OR mogao OR kizil OR ajanta OR sculpture OR statue) AND year:[1 TO 1925]',
+        'mediatype:image AND (textile OR embroidery OR iznik OR batik) AND year:[1600 TO 1925]',
+        'mediatype:image AND (aerial OR nasa) AND mediatype:image',
+        'mediatype:image AND (furniture OR chippendale OR thonet OR morris) AND year:[1700 TO 1920]',
+      ];
   for (const query of queries) {
     try {
       const url = new URL(ARCHIVE_SEARCH);
@@ -973,7 +1067,8 @@ async function collectArchiveArt(seen: Set<string>) {
       };
       for (const row of data.response?.docs ?? []) {
         const title = row.title || row.identifier;
-        if (!ART_TITLE.test(title) || BLOCKED_TITLE.test(title)) continue;
+        const tattooArchive = /tattoo|irezumi|henna|flash sheet/i.test(query);
+        if ((!ART_TITLE.test(title) && !tattooArchive) || BLOCKED_TITLE.test(title)) continue;
         const key = `archive:${row.identifier}`;
         if (seen.has(key)) continue;
         found.push({
@@ -987,6 +1082,7 @@ async function collectArchiveArt(seen: Set<string>) {
           source: "archive",
           kind: "photo",
           sourceLabel: "互联网档案馆",
+          preferText: tattooArchive ? "tattoo flash archive" : undefined,
         });
       }
     } catch (error) {
@@ -997,11 +1093,11 @@ async function collectArchiveArt(seen: Set<string>) {
   return found;
 }
 
-export async function collectArtCandidates(seen: Set<string>) {
+export async function collectArtCandidates(seen: Set<string>, options?: { fashionOnly?: boolean }) {
   const batches = await Promise.all([
-    collectOpenverseArt(seen),
-    collectLocArt(seen),
-    collectArchiveArt(seen),
+    collectOpenverseArt(seen, options),
+    collectLocArt(seen, options),
+    collectArchiveArt(seen, options),
   ]);
   const unique = new Map<string, OpenCandidate>();
   for (const item of batches.flat()) unique.set(item.key, item);
@@ -1009,21 +1105,29 @@ export async function collectArtCandidates(seen: Set<string>) {
 }
 
 const MEME_QUERIES = [
-  "meme clipart",
-  "meme sticker",
-  "troll meme",
-  "trollface",
-  "internet meme",
-  "rage comic",
-  "image macro",
-  "funny meme illustration",
-  // Prefer reaction / blank-template phrasing; Openverse titles must still lookLikeMeme.
+  // Prefer wordless reaction / animal / historical funny (titles must still lookLikeMeme).
   "reaction meme",
+  "reaction image",
   "reaction image meme",
-  "wojak",
-  "blank meme template",
-  "facepalm meme",
+  "internet meme cc0",
+  "funny animal meme",
+  "confused animal meme",
   "surprised cat meme",
+  "confused dog meme",
+  "surprised face illustration public domain",
+  "facepalm meme",
+  "trollface",
+  "troll meme",
+  "rage comic",
+  "wojak meme",
+  "blank meme template",
+  "vintage funny advertisement",
+  "old comic funny public domain",
+  "public domain meme",
+  "public domain funny animal",
+  "library of congress funny animals",
+  "meme sticker animal",
+  "meme clipart animal",
 ];
 
 async function collectOpenverseMemes(seen: Set<string>) {

@@ -114,7 +114,8 @@ async function runIngest(
   }
 
   const openRaw = await collectOpenCandidates(seen);
-  const preferred = /sintel|blender|bunny|tears of steel|elephants dream|caminandes|charade|living dead|chaplin|keaton|pickford|神女|马路|小城|king of jazz|caligari|nosferatu|metropolis/i;
+  const preferred =
+    /sintel|blender|bunny|tears of steel|elephants dream|caminandes|charade|living dead|charlie chaplin|the circus|keaton|pickford|神女|马路|小城|king of jazz|caligari|nosferatu|metropolis|toll of the sea|becky sharp|gulf between|thief of bagdad|memphis belle|technicolor|lobby card|film still|movie still|screenshot/i;
   const openCandidates = [
     ...shuffle(openRaw.filter((item) => preferred.test(item.title))),
     ...shuffle(openRaw.filter((item) => !preferred.test(item.title))),
@@ -147,8 +148,14 @@ async function runIngest(
   }
 
   if (added.length < count) {
-    const commons = shuffle(await collectCommonsCandidates(seen));
-    console.log(`commons candidates: ${commons.length}`);
+    const commonsRaw = await collectCommonsCandidates(seen);
+    const filmish =
+      /nosferatu|metropolis|caligari|circus|chaplin|toll of the sea|becky sharp|memphis belle|thief of bagdad|technicolor|film still|movie still|screenshot|sintel|blender|bunny|tears of steel|elephants dream|caminandes|charade|living dead|神女|马路|小城|kurosawa|rashomon/i;
+    const commons = [
+      ...shuffle(commonsRaw.filter((title) => filmish.test(title))),
+      ...shuffle(commonsRaw.filter((title) => !filmish.test(title))),
+    ];
+    console.log(`commons candidates: ${commons.length} (film-preferred ${commonsRaw.filter((t) => filmish.test(t)).length})`);
     for (const title of commons) {
       if (added.length >= count) break;
       if (isTitleCard(title)) {
@@ -201,6 +208,7 @@ export async function ingestPhotos(options?: {
   prefer?: RegExp;
   memes?: boolean;
   art?: boolean;
+  fashion?: boolean;
   cats?: boolean;
 }) {
   const count = options?.count ?? 30;
@@ -221,25 +229,28 @@ export async function ingestPhotos(options?: {
     let skipped = 0;
     const persisted = options?.persist !== false;
     const memesOnly = options?.memes === true;
-    const artOnly = options?.art === true;
+    const fashionOnly = options?.fashion === true;
+    const artOnly = options?.art === true || fashionOnly;
     const catsOnly = options?.cats === true;
     const raw = memesOnly
       ? await collectMemeCandidates(seen)
       : artOnly
-        ? await collectArtCandidates(seen)
+        ? await collectArtCandidates(seen, fashionOnly ? { fashionOnly: true } : undefined)
         : await collectPhotoCandidates(seen, catsOnly ? { cats: true } : undefined);
-    const graphic = options?.prefer
-      ?? /poster|runway|fashion|wpa|couture|art deco|theatrical|painting|meme|van gogh|monet|vermeer|hokusai|klimt|ukiyo|rembrandt|botticelli|fresco|pompeii|lascaux|furniture|morris|thonet|chippendale/i;
+    const graphic =
+      /poster|costume|fashion|gown|dress|worth|poiret|vionnet|wpa|couture|art deco|theatrical|painting|meme|van gogh|monet|vermeer|hokusai|klimt|ukiyo|rembrandt|botticelli|fresco|pompeii|lascaux|furniture|morris|thonet|chippendale/i;
+    const fashionBias =
+      /costume|fashion|gown|dress|worth|poiret|vionnet|cardin|courreges|quant|ball gown|haute couture|edwardian|regency|empire waist|met costume|rijksmuseum|victoria and albert/i;
     const painterBias =
-      /painting|botticelli|leonardo|durer|michelangelo|raphael|titian|bruegel|tintoretto|veronese|greco|caravaggio|rubens|hals|gentileschi|velazquez|rembrandt|steen|vermeer|ruisdael|watteau|boucher|fragonard|reynolds|gainsborough|david|goya|blake|friedrich|turner|constable|ingres|delacroix|gericault|corot|millet|courbet|daumier|menzel|bouguereau|cabanel|alma-tadema|gerome|repin|aivazovsky|shishkin|surikov|kuindzhi|rossetti|millais|burne-jones|waterhouse|leighton|beardsley|manet|monet|renoir|degas|pissarro|sisley|morisot|cassatt|van gogh|cezanne|gauguin|seurat|signac|lautrec|rousseau|redon|bonnard|klimt|schiele|mucha|matisse|kandinsky|klee|mondrian|malevich|modigliani|munch|whistler|homer|sargent|leyendecker|rackham|dore|bilibin|illustration|fresco|mural/i;
-    const bias = artOnly ? painterBias : graphic;
+      /costume|fashion|gown|dress|worth|poiret|vionnet|cardin|courreges|quant|painting|botticelli|leonardo|durer|michelangelo|raphael|titian|bruegel|tintoretto|veronese|greco|caravaggio|rubens|hals|gentileschi|velazquez|rembrandt|steen|vermeer|ruisdael|watteau|boucher|fragonard|reynolds|gainsborough|david|goya|blake|friedrich|turner|constable|ingres|delacroix|gericault|corot|millet|courbet|daumier|menzel|bouguereau|cabanel|alma-tadema|gerome|repin|aivazovsky|shishkin|surikov|kuindzhi|rossetti|millais|burne-jones|waterhouse|leighton|beardsley|manet|monet|renoir|degas|pissarro|sisley|morisot|cassatt|van gogh|cezanne|gauguin|seurat|signac|lautrec|rousseau|redon|bonnard|klimt|schiele|mucha|matisse|kandinsky|klee|mondrian|malevich|modigliani|munch|whistler|homer|sargent|leyendecker|rackham|dore|bilibin|illustration|fresco|mural/i;
+    const bias = options?.prefer ?? (fashionOnly ? fashionBias : artOnly ? painterBias : graphic);
     const candidates = memesOnly
       ? shuffle(raw)
       : [
-          ...shuffle(raw.filter((item) => bias.test(`${item.title} ${item.author ?? ""}`))),
-          ...shuffle(raw.filter((item) => !bias.test(`${item.title} ${item.author ?? ""}`))),
+          ...shuffle(raw.filter((item) => bias.test(`${item.title} ${item.author ?? ""} ${(item as { preferText?: string }).preferText ?? ""}`))),
+          ...shuffle(raw.filter((item) => !bias.test(`${item.title} ${item.author ?? ""} ${(item as { preferText?: string }).preferText ?? ""}`))),
         ];
-    console.log(`${memesOnly ? "meme" : artOnly ? "art" : "photo"} candidates: ${candidates.length}`);
+    console.log(`${memesOnly ? "meme" : fashionOnly ? "fashion" : artOnly ? "art" : "photo"} candidates: ${candidates.length}`);
 
     async function keep(item: CatalogItem, key: string) {
       const latest = await loadCatalog();
@@ -293,10 +304,10 @@ export async function ingestPhotos(options?: {
         memesOnly
           ? await collectCommonsMemeCandidates(seen)
           : artOnly
-            ? await collectCommonsArtCandidates(seen)
+            ? await collectCommonsArtCandidates(seen, fashionOnly ? { fashionOnly: true } : undefined)
             : await collectCommonsCandidates(seen),
       );
-      console.log(`commons ${memesOnly ? "meme" : artOnly ? "art" : "graphic"} candidates: ${commons.length}`);
+      console.log(`commons ${memesOnly ? "meme" : fashionOnly ? "fashion" : artOnly ? "art" : "graphic"} candidates: ${commons.length}`);
       for (const title of commons) {
         if (added.length >= count) break;
         if (isTitleCard(title)) {
@@ -330,12 +341,16 @@ export async function ingestPhotos(options?: {
       message: added.length
         ? memesOnly
           ? `新收入 ${added.length} 张可公开梗图。`
-          : artOnly
+          : fashionOnly
+            ? `新收入 ${added.length} 张服饰 / 时装参考图。`
+            : artOnly
             ? `新收入 ${added.length} 张名画 / 设计 / 古代壁画。`
             : `新收入 ${added.length} 张可公开摄影作品。`
         : memesOnly
           ? `暂时没有抓到新的可授权梗图（跳过 ${skipped}）。真正开放授权的梗图很少。`
-          : artOnly
+          : fashionOnly
+            ? `暂时没有抓到新的可授权服饰参考（跳过 ${skipped}）。`
+            : artOnly
             ? `暂时没有抓到新的可授权名画或古代图像（跳过 ${skipped}）。`
             : `暂时没有抓到新的可授权摄影（跳过 ${skipped}）。`,
     };

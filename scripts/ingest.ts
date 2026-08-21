@@ -2,7 +2,9 @@ import { ingestDaily, ingestPhotos } from "../src/lib/ingest";
 
 async function main() {
   const memes = process.argv.includes("--memes");
-  const art = process.argv.includes("--art");
+  const fashion = process.argv.includes("--fashion");
+  const tattoo = process.argv.includes("--tattoo");
+  const art = process.argv.includes("--art") || fashion || tattoo;
   const cats = process.argv.includes("--cats");
   const photos = process.argv.includes("--photos") || memes || art || cats;
   const force = process.argv.includes("--force") || process.argv.includes("--seed");
@@ -18,14 +20,19 @@ async function main() {
         persist: true,
         memes,
         art,
+        fashion,
         cats,
         prefer: memes
           ? /meme/i
-          : art
-            ? /painting|botticelli|caravaggio|vermeer|rembrandt|monet|van gogh|klimt|matisse|sargent|leyendecker|beardsley|fresco|mural|nianhua|embroidery|textile|porcelain/i
-            : cats
-              ? /cat|kitten|tabby|feline|kitty/i
-              : undefined,
+          : tattoo
+            ? /tattoo|flash|irezumi|henna|engraving|sailor jerry|blackwork|tribal tattoo|maori tattoo|polynesian tattoo/i
+            : fashion
+              ? /costume|fashion|gown|dress|worth|poiret|vionnet|cardin|courreges|quant|ball gown|haute couture|edwardian|regency|empire waist|met costume/i
+              : art
+                ? /tattoo|flash|irezumi|henna|engraving|sailor jerry|blackwork|tribal|costume|fashion|gown|dress|worth|poiret|vionnet|cardin|courreges|quant|painting|botticelli|caravaggio|vermeer|rembrandt|monet|van gogh|klimt|matisse|sargent|leyendecker|beardsley|fresco|mural|nianhua|embroidery|textile|porcelain/i
+                : cats
+                  ? /cat|kitten|tabby|feline|kitty/i
+                  : undefined,
       })
     : await ingestDaily({
         count: Number.isFinite(count) ? Math.min(Math.max(count, 1), 120) : 10,

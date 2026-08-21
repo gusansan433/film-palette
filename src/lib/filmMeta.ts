@@ -194,6 +194,36 @@ const KNOWN: Record<string, FilmCredits> = {
     titleZh: "爵士之王",
     director: "约翰·默里·安德森 / 保罗·费霍斯",
   },
+  "the circus": {
+    titleEn: "The Circus",
+    titleZh: "马戏团",
+    director: "查理·卓别林",
+  },
+  "toll of the sea": {
+    titleEn: "The Toll of the Sea",
+    titleZh: "海之殇",
+    director: "切斯特·M·富兰克林",
+  },
+  "becky sharp": {
+    titleEn: "Becky Sharp",
+    titleZh: "蓓基·夏普",
+    director: "鲁本·马莫利安",
+  },
+  "gulf between": {
+    titleEn: "The Gulf Between",
+    titleZh: "海湾之间",
+    director: "W.S. 范戴克",
+  },
+  "thief of bagdad": {
+    titleEn: "The Thief of Bagdad",
+    titleZh: "巴格达窃贼",
+    director: "路德维希·贝格尔 / 迈克尔·鲍威尔 / 蒂姆·惠兰",
+  },
+  "memphis belle": {
+    titleEn: "The Memphis Belle",
+    titleZh: "孟菲斯美女号",
+    director: "威廉·怀勒",
+  },
   "sweet smell of success": {
     titleEn: "Sweet Smell of Success",
     titleZh: "成功的滋味",

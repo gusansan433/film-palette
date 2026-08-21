@@ -24,32 +24,32 @@ const PD = {
 
 const BY = {
   kind: "cc-by" as const,
-  short: "署名后可商用/二创",
-  detail: "CC BY：署名后可商用与二创",
+  short: "需署名 · 可商用/二创",
+  detail: "CC BY：署名后可商用与二创（请保留作者与许可声明）",
 };
 
 const BY_SA = {
   kind: "cc-by-sa" as const,
-  short: "署名后可商用/二创；再分发需相同许可",
+  short: "需署名+相同许可 · 可商用/二创",
   detail: "CC BY-SA：署名后可商用与二创，再分发需相同许可",
 };
 
 const NO_KNOWN = {
   kind: "no-known" as const,
-  short: "馆方未见限制；建议谨慎商用",
+  short: "馆方未见限制 · 谨慎商用",
   detail: "馆方未见已知限制；建议谨慎商用并保留来源",
 };
 
 const USER = {
   kind: "user" as const,
-  short: "未知或用户提供；建议谨慎使用",
+  short: "未知或用户提供 · 谨慎使用",
   detail: "许可未明确或由用户标注；请自行核实后再用",
 };
 
 const UNKNOWN = {
   kind: "unknown" as const,
-  short: "未知 · 建议谨慎使用",
-  detail: "无法识别许可条款，建议谨慎使用",
+  short: "未知许可 · 谨慎使用",
+  detail: "无法识别许可条款，建议谨慎使用或仅作灵感参考",
 };
 
 function normalize(license: string) {

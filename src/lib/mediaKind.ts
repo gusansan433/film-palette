@@ -3,7 +3,7 @@ import { creatorLabel, isPainting, isPoster, isDesign, parseCreator } from "./cr
 import { withSearchTags } from "./classify";
 
 const PLACE_PHOTO =
-  /\b(theater|theatre|playhouse|church|opera house|elks club|street,|avenue,)\b/i;
+  /\b(theater|theatre|playhouse|church|opera house|elks club|street,|avenue,|chaplin,\s*west virginia|scotts run)\b/i;
 const FILM_STILL =
   /\b(film still|movie still|motion picture still|screenshot|trailer|still from|in the film|in the movie)\b/i;
 
@@ -36,7 +36,7 @@ export function guessKind(item: Pick<CatalogItem, "title" | "source" | "fileKey"
   if (isPlacePhoto(text)) return "photo";
   if (looksLikeFilmStill(text)) return "film";
   if (
-    /\b(nosferatu|metropolis|caligari|chaplin|keaton|charade|sintel|potemkin|gold rush|living dead)\b/i.test(
+    /\b(nosferatu|metropolis|caligari|chaplin|keaton|charade|sintel|potemkin|gold rush|living dead|toll of the sea|becky sharp|gulf between|memphis belle|thief of bagdad|the circus)\b/i.test(
       text,
     )
   ) {
