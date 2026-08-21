@@ -244,12 +244,10 @@ export async function ingestPhotos(options?: {
     const painterBias =
       /costume|fashion|gown|dress|worth|poiret|vionnet|cardin|courreges|quant|painting|botticelli|leonardo|durer|michelangelo|raphael|titian|bruegel|tintoretto|veronese|greco|caravaggio|rubens|hals|gentileschi|velazquez|rembrandt|steen|vermeer|ruisdael|watteau|boucher|fragonard|reynolds|gainsborough|david|goya|blake|friedrich|turner|constable|ingres|delacroix|gericault|corot|millet|courbet|daumier|menzel|bouguereau|cabanel|alma-tadema|gerome|repin|aivazovsky|shishkin|surikov|kuindzhi|rossetti|millais|burne-jones|waterhouse|leighton|beardsley|manet|monet|renoir|degas|pissarro|sisley|morisot|cassatt|van gogh|cezanne|gauguin|seurat|signac|lautrec|rousseau|redon|bonnard|klimt|schiele|mucha|matisse|kandinsky|klee|mondrian|malevich|modigliani|munch|whistler|homer|sargent|leyendecker|rackham|dore|bilibin|illustration|fresco|mural/i;
     const bias = options?.prefer ?? (fashionOnly ? fashionBias : artOnly ? painterBias : graphic);
-    const candidates = memesOnly
-      ? shuffle(raw)
-      : [
-          ...shuffle(raw.filter((item) => bias.test(`${item.title} ${item.author ?? ""} ${(item as { preferText?: string }).preferText ?? ""}`))),
-          ...shuffle(raw.filter((item) => !bias.test(`${item.title} ${item.author ?? ""} ${(item as { preferText?: string }).preferText ?? ""}`))),
-        ];
+    const candidates = [
+      ...shuffle(raw.filter((item) => bias.test(`${item.title} ${item.author ?? ""} ${(item as { preferText?: string }).preferText ?? ""}`))),
+      ...shuffle(raw.filter((item) => !bias.test(`${item.title} ${item.author ?? ""} ${(item as { preferText?: string }).preferText ?? ""}`))),
+    ];
     console.log(`${memesOnly ? "meme" : fashionOnly ? "fashion" : artOnly ? "art" : "photo"} candidates: ${candidates.length}`);
 
     async function keep(item: CatalogItem, key: string) {

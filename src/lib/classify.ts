@@ -11,29 +11,33 @@ export const MEDIA_CATEGORIES: { id: MediaCategory; label: string }[] = [
 
 /** Prefer wordless reaction / animal / classic meme phrasing over captioned macros. */
 const MEME_HIT =
-  /\b(meme|trollface|troll meme|rage comic|image macro|wojak meme|advice animal|rage face|reaction image|reaction meme|facepalm|funny animal|confused animal|surprised face|vintage funny|public domain meme)\b/i;
+  /\b(meme|troll[\s-]*face|trollface|troll[\s-]*meme|rage[\s-]*comics?|rage[\s-]*face|forever[\s-]*alone|me[\s-]*gusta([\s-]*(face|meme))?|cereal[\s-]*guy|derp[\s-]*face|poker[\s-]*face|image[\s-]*macro|wojak[\s-]*meme|advice[\s-]*animal|reaction[\s-]*(image|meme|clipart|face)|facepalm|funny[\s-]*(animal|reaction|clipart)|confused[\s-]*animal|surprised[\s-]*face|vintage[\s-]*funny|public[\s-]*domain[\s-]*meme|classic[\s-]*rage)\b/i;
 /** Keep signal: reaction / animal / classic templates — bare “X [Meme]” macros fail this. */
 const MEME_KEEP =
-  /\b(trollface|troll meme|rage comic|rage face|wojak meme|\bwojak\b|advice animal|image macro|reaction (image|meme|photo)|facepalm|funny animal|confused animal|surprised (cat|dog|face)|blank meme template|vintage funny|public domain meme|cats?|kittens?|dogs?|puppies?|animals?|animal face)\b/i;
+  /\b(troll[\s-]*face|trollface|troll[\s-]*meme|rage[\s-]*comics?|rage[\s-]*face|forever[\s-]*alone|me[\s-]*gusta([\s-]*(face|meme))?|cereal[\s-]*guy|derp[\s-]*face|poker[\s-]*face|wojak[\s-]*meme|\bwojak\b|advice[\s-]*animal|image[\s-]*macro|reaction[\s-]*(image|meme|photo|clipart|face)|facepalm|funny[\s-]*(animal|reaction|clipart)|confused[\s-]*animal|surprised[\s-]*(cat|dog|face)|blank[\s-]*meme[\s-]*template|vintage[\s-]*funny|public[\s-]*domain[\s-]*meme|classic[\s-]*rage|cats?|kittens?|dogs?|puppies?|animals?|animal[\s-]*face)\b/i;
 /** Polish “wojak” (soldier) / surnames must not count as the internet Wojak meme. */
 const MEME_WOJAK_NAME_NOISE =
-  /\b(dobry wojak|weso[łl]y wojak|szwejk|olaf wojak|irmtrud wojak|wojak nr\b|dr\.?\s+\w+\s+wojak)\b/i;
+  /\b(dobry wojak|weso[łl]y wojak|szwejk|olaf wojak|irmtrud wojak|leopold wojak|julian wojak|wojak,\s*\w+|wojak nr\b|dr\.?\s+\w+\s+wojak|cameron wojak|quartermaster|uss\b|us navy|navy\b|flag hoist|signal flags|piwo wojak|stary wyglond|dpla)\b/i;
 const MEME_NOISE =
-  /zombomeme|buzzfeed|meme ranch|laser engraving|street art|misinformation|styled after|how many|cosplay|exhibition|museum|wall of|when internet memes attack|meme performance|hiding place|hyperinflation|controlnet|bolivar|fuduji|pixelfreunde|xvala|6-7 meme|67 meme|distrito rap|rap pol[ií]tico|pasaporte covid|suicid|meme edit|chipotle/i;
+  /zombomeme|buzzfeed|meme ranch|laser engraving|street art|misinformation|styled after|how many|cosplay|exhibition|museum|wall of|when internet memes attack|meme performance|hiding place|hyperinflation|controlnet|bolivar|fuduji|pixelfreunde|xvala|6-7 meme|67 meme|distrito rap|rap pol[ií]tico|pasaporte covid|suicid|meme edit|chipotle|revoltech|lotion bottle|thetoychannel|jeepersmedia|coworker|motorcycle|yamaha|cruiser|insert trollface|carving a troll|pumpkin|halloween|#halloween|lithopane|trollface mii|\bmii\b|tony abbott|jackie chan|imitating some classic|roflcon|delorean|metalist|ultras|capuchin|me gusta terminar|todo sudado|walk of fame|quartermaster|uss\b|us navy|show me your derp|my friend,.+trollface|olha quem|kraven|& fan|trollface qr|maker coin|trollface makeup|troll face spider|spider with a troll|as trollface|boni.{0,6}derp|dakota derp|rage face egg|#vienna|vj - forever|hahaha!! love rage|all the rage comics and games|l meets the troll|sdcc 2011|troll face quest|overlay a troll|photobomber|i tuben|beach \| stones|will \(derp|@ mtac|rage face.? ale|in my beard|fill flash test|michael nesmith|what kids remember|2nd bat|59th oshbr|grumpy troll face/i;
 const MEME_BLOCKED_IP =
   /\b(pepe the frog|doge\b|kabosu|distracted boyfriend|drake hotline|woman yelling at a cat|this is fine|hide the pain|success kid|overly attached|ancient aliens|surprised pikachu|spongebob|minions|gru'?s plan|arthur'?s fist|naruto|sasuke|one piece|dragon ball|cyberpunk\s*2077|\bcyberpunk\b|lannister|game of thrones|\bgot\b|jon snow|marvel|avengers|spider-?man|batman|superman|disney|pixar|harry potter|pokemon|pokémon|nintendo|zelda|mario\b|sonic the|fallout|caesar'?s legion|the institute|euphoria|star wars|star trek|lord of the rings|hobbit|witcher|fortnite|minecraft|genshin|anime)\b/i;
 
 export function looksLikeMeme(text: string) {
   if (MEME_WOJAK_NAME_NOISE.test(text)) return false;
-  // Internet Wojak character: allow bare “wojak” only when not a Polish name/statue hit above.
-  const hit =
-    MEME_HIT.test(text) ||
-    (/\bwojak\b/i.test(text) && !/\b(szwejk|przemysl|warszawa|protest|nr\s*\d)\b/i.test(text));
+  // Internet Wojak character: require meme/template context, not bare surname hits.
+  const wojakMeme =
+    /\bwojak\b/i.test(text) &&
+    /\b(meme|template|feels|chad|soyjak|coomer|doomer|bloomer|npc|rage|reaction|clipart|sticker)\b/i.test(
+      text,
+    ) &&
+    !/\b(szwejk|przemysl|warszawa|protest|nr\s*\d|navy|uss\b|quartermaster)\b/i.test(text);
+  const hit = MEME_HIT.test(text) || wojakMeme;
   if (!hit || MEME_NOISE.test(text) || MEME_BLOCKED_IP.test(text)) {
     return false;
   }
   // Drop captioned franchise / personality macros that only match on the word “meme”.
-  if (!MEME_KEEP.test(text) && !/\bwojak\b/i.test(text)) return false;
+  if (!MEME_KEEP.test(text) && !wojakMeme) return false;
   return true;
 }
 

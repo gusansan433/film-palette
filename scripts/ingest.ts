@@ -23,7 +23,7 @@ async function main() {
         fashion,
         cats,
         prefer: memes
-          ? /meme/i
+          ? /troll\s*face|trollface|troll meme|rage comics?|rage face|forever alone|me gusta|cereal guy|derp face|poker face|wojak|facepalm|reaction (meme|image|clipart|face)|funny reaction|meme/i
           : tattoo
             ? /tattoo|flash|irezumi|henna|engraving|sailor jerry|blackwork|tribal tattoo|maori tattoo|polynesian tattoo/i
             : fashion

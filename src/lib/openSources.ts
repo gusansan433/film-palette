@@ -1146,7 +1146,24 @@ export async function collectArtCandidates(seen: Set<string>, options?: { fashio
 }
 
 const MEME_QUERIES = [
-  // Prefer wordless reaction / animal / historical funny (titles must still lookLikeMeme).
+  // Classic rage / reaction faces first (wordless clipart preferred).
+  "troll face",
+  "trollface",
+  "troll face clipart",
+  "troll meme",
+  "rage face",
+  "rage comic",
+  "rage comic face",
+  "forever alone face",
+  "me gusta face",
+  "cereal guy",
+  "derp face",
+  "poker face rage comic",
+  "classic rage faces public domain",
+  "funny reaction clipart",
+  "facepalm meme",
+  "wojak meme",
+  // Broader reaction / animal / PD funny.
   "reaction meme",
   "reaction image",
   "reaction image meme",
@@ -1156,11 +1173,6 @@ const MEME_QUERIES = [
   "surprised cat meme",
   "confused dog meme",
   "surprised face illustration public domain",
-  "facepalm meme",
-  "trollface",
-  "troll meme",
-  "rage comic",
-  "wojak meme",
   "blank meme template",
   "vintage funny advertisement",
   "old comic funny public domain",
@@ -1173,14 +1185,20 @@ const MEME_QUERIES = [
 
 async function collectOpenverseMemes(seen: Set<string>) {
   const found: OpenCandidate[] = [];
+  const rageBias =
+    /troll|rage|forever alone|me gusta|cereal guy|derp|poker face|reaction clipart|wojak|facepalm/i;
+  // Uncategorized first: Flickr rage faces often miss illustration/artwork tags.
+  const categoryPasses: (string | undefined)[] = [undefined, "illustration", "photograph", "digitized_artwork"];
   for (const query of MEME_QUERIES) {
-    for (const category of ["illustration", "digitized_artwork", "photograph"]) {
-      for (const page of [1, 2]) {
+    const categories = rageBias.test(query) ? categoryPasses : ["illustration", "digitized_artwork", "photograph"];
+    const pages = rageBias.test(query) ? [1, 2, 3] : [1, 2];
+    for (const category of categories) {
+      for (const page of pages) {
         try {
           const url = new URL(OPENVERSE);
           url.searchParams.set("q", query);
           url.searchParams.set("license", "cc0,pdm,by,by-sa");
-          url.searchParams.set("category", category);
+          if (category) url.searchParams.set("category", category);
           url.searchParams.set("excluded_source", "wikimedia");
           url.searchParams.set("page_size", "20");
           url.searchParams.set("page", String(page));
@@ -1212,10 +1230,13 @@ async function collectOpenverseMemes(seen: Set<string>) {
             if (BLOCKED_TITLE.test(title) || !looksLikeMeme(blob)) continue;
             const key = `openverse:${row.id}`;
             if (seen.has(key)) continue;
+            // Prefer stable thumbnails when editor_ CDN URLs 404 (common on Rawpixel).
+            const stableUrl =
+              provider.includes("rawpixel") && row.thumbnail ? row.thumbnail : imageUrl;
             found.push({
               key,
               title,
-              imageUrl,
+              imageUrl: stableUrl,
               pageUrl: row.foreign_landing_url || imageUrl,
               author: row.creator || row.provider || "Openverse",
               license: license.toUpperCase(),
@@ -1223,13 +1244,16 @@ async function collectOpenverseMemes(seen: Set<string>) {
               source: "openverse",
               kind: "photo",
               sourceLabel: providerLabel(row.provider),
+              preferText: rageBias.test(query) ? `rage face ${query}` : undefined,
             });
           }
         } catch (error) {
-          console.log(`openverse meme skip (${query} ${category} p${page}): ${String(error).slice(0, 140)}`);
+          console.log(
+            `openverse meme skip (${query} ${category ?? "any"} p${page}): ${String(error).slice(0, 140)}`,
+          );
           break;
         }
-        await sleep(250);
+        await sleep(280);
       }
     }
   }
@@ -1239,7 +1263,7 @@ async function collectOpenverseMemes(seen: Set<string>) {
 async function collectArchiveMemes(seen: Set<string>) {
   const found: OpenCandidate[] = [];
   const query =
-    'mediatype:image AND (title:meme OR subject:meme) AND (licenseurl:*creativecommons* OR licenseurl:*publicdomain* OR licenseurl:*cc0*)';
+    'mediatype:image AND (title:meme OR subject:meme OR title:trollface OR title:"troll face" OR title:"rage comic" OR title:"rage face" OR title:"forever alone" OR title:"me gusta" OR title:"cereal guy" OR title:"derp face") AND (licenseurl:*creativecommons* OR licenseurl:*publicdomain* OR licenseurl:*cc0*)';
   try {
     const url = new URL(ARCHIVE_SEARCH);
     url.searchParams.set("q", query);
@@ -1247,7 +1271,7 @@ async function collectArchiveMemes(seen: Set<string>) {
     url.searchParams.append("fl[]", "title");
     url.searchParams.append("fl[]", "creator");
     url.searchParams.append("fl[]", "licenseurl");
-    url.searchParams.set("rows", "40");
+    url.searchParams.set("rows", "60");
     url.searchParams.set("output", "json");
     const data = (await (await fetchOk(url)).json()) as {
       response?: {
@@ -1270,6 +1294,9 @@ async function collectArchiveMemes(seen: Set<string>) {
         source: "archive",
         kind: "photo",
         sourceLabel: "互联网档案馆",
+        preferText: /troll|rage|forever alone|me gusta|cereal|derp/i.test(title)
+          ? "rage face archive"
+          : undefined,
       });
     }
   } catch (error) {
