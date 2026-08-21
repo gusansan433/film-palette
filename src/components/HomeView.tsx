@@ -267,6 +267,7 @@ export function HomeView({ initialItems }: HomeViewProps) {
         <p className="mt-2 max-w-2xl">
           画面来自 Flickr、维基共享资源、Openverse、美国国会图书馆、互联网档案馆、大都会艺术博物馆等公有领域及自由许可作品，以及用户标注出处后上传的画面。版权归原作者及权利人所有。标明出处不等于获得授权。
         </p>
+        <p className="mt-2">本网站由 Hewitt-sansan-tmoW 搭建</p>
       </footer>
 
       {selected && (
