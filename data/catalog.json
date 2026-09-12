@@ -329248,10 +329248,4411 @@
       "kind": "film",
       "photographer": "Ximonic (Simo Räsänen)",
       "sourceLabel": "维基共享资源",
-      "contentHash": "ffffff5ff0793fdf877e01fe03e010000000"
+      "contentHash": "ffffff5ff0793fdf877e01fe03e010000000",
+      "category": "film",
+      "subjects": [
+        "people"
+      ]
+    },
+    {
+      "id": "909758da-24cd-4910-badc-f15418215682",
+      "title": "[Japanese Women in Traditional Dress]",
+      "titleEn": "[Japanese Women in Traditional Dress]",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/909758da-24cd-4910-badc-f15418215682.jpg",
+      "thumbUrl": "/stills/909758da-24cd-4910-badc-f15418215682.jpg",
+      "pageUrl": "https://archive.org/details/mma_japanese_women_in_traditional_dress_288502",
+      "author": "Shinichi Suzuki",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_japanese_women_in_traditional_dress_288502",
+      "buckets": [
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#7c6257",
+          "rgb": [
+            124,
+            98,
+            87
+          ],
+          "ratio": 0.3062065972222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#8f7569",
+          "rgb": [
+            143,
+            117,
+            105
+          ],
+          "ratio": 0.2508680555555556,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#a1897b",
+          "rgb": [
+            161,
+            137,
+            123
+          ],
+          "ratio": 0.22135416666666666,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#5e433b",
+          "rgb": [
+            94,
+            67,
+            59
+          ],
+          "ratio": 0.16026475694444445,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#c4ab9a",
+          "rgb": [
+            196,
+            171,
+            154
+          ],
+          "ratio": 0.06130642361111111,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-09-12T01:53:12.591Z",
+      "fileKey": "archive:mma_japanese_women_in_traditional_dress_288502",
+      "kind": "photo",
+      "photographer": "Shinichi Suzuki",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "000bf0ff8ffcfdcfecee41a419c4d80082f8",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "8837162d-c445-40ce-9e87-51be93e1ae0d",
+      "title": "Design for Ecclesiastical Embroidery",
+      "titleEn": "Design for Ecclesiastical Embroidery",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/8837162d-c445-40ce-9e87-51be93e1ae0d.jpg",
+      "thumbUrl": "/stills/8837162d-c445-40ce-9e87-51be93e1ae0d.jpg",
+      "pageUrl": "https://archive.org/details/mma_design_for_ecclesiastical_embroidery_363624",
+      "author": "Ernest Geldart",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_design_for_ecclesiastical_embroidery_363624",
+      "buckets": [
+        "yellow",
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#f1e9d9",
+          "rgb": [
+            241,
+            233,
+            217
+          ],
+          "ratio": 0.4071180555555556,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#dcd4c3",
+          "rgb": [
+            220,
+            212,
+            195
+          ],
+          "ratio": 0.2488064236111111,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#72534b",
+          "rgb": [
+            114,
+            83,
+            75
+          ],
+          "ratio": 0.13802083333333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#b5a999",
+          "rgb": [
+            181,
+            169,
+            153
+          ],
+          "ratio": 0.10481770833333333,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#8a7065",
+          "rgb": [
+            138,
+            112,
+            101
+          ],
+          "ratio": 0.10123697916666667,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-09-12T01:53:13.654Z",
+      "fileKey": "archive:mma_design_for_ecclesiastical_embroidery_363624",
+      "kind": "photo",
+      "photographer": "Ernest Geldart",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "fff8ff07f07f07f03f03f07f07f07f1fffff",
+      "category": "photo",
+      "subjects": [
+        "design",
+        "pattern"
+      ]
+    },
+    {
+      "id": "d2fdbe9a-c0b5-4e32-a8bf-28c90fc7d693",
+      "title": "SZ 深圳 Shenzhen 龍華 Longhua 旺民街 Wangmin Street 深圳美術館 Shenzhen Art Museum exhibition 中國剪紙藝術 Chinese paper cutting February 2025 R12S 208",
+      "titleEn": "SZ 深圳 Shenzhen 龍華 Longhua 旺民街 Wangmin Street 深圳美術館 Shenzhen Art Museum exhibition 中國剪紙藝術 Chinese paper cutting February 2025 R12S 208",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/d2fdbe9a-c0b5-4e32-a8bf-28c90fc7d693.jpg",
+      "thumbUrl": "/stills/d2fdbe9a-c0b5-4e32-a8bf-28c90fc7d693.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF_Longhua_%E6%97%BA%E6%B0%91%E8%A1%97_Wangmin_Street_%E6%B7%B1%E5%9C%B3%E7%BE%8E%E8%A1%93%E9%A4%A8_Shenzhen_Art_Museum_exhibition_%E4%B8%AD%E5%9C%8B%E5%89%AA%E7%B4%99%E8%97%9D%E8%A1%93_Chinese_paper_cutting_February_2025_R12S_208.jpg",
+      "author": "ALB 302 AOE woapsing",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "buckets": [
+        "pink",
+        "red",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#7e5b5c",
+          "rgb": [
+            126,
+            91,
+            92
+          ],
+          "ratio": 0.24674479166666666,
+          "bucket": "red"
+        },
+        {
+          "hex": "#ed70b2",
+          "rgb": [
+            237,
+            112,
+            178
+          ],
+          "ratio": 0.23860677083333334,
+          "bucket": "pink"
+        },
+        {
+          "hex": "#343625",
+          "rgb": [
+            52,
+            54,
+            37
+          ],
+          "ratio": 0.2099609375,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#d35894",
+          "rgb": [
+            211,
+            88,
+            148
+          ],
+          "ratio": 0.1965060763888889,
+          "bucket": "pink"
+        },
+        {
+          "hex": "#c8b5ba",
+          "rgb": [
+            200,
+            181,
+            186
+          ],
+          "ratio": 0.1081814236111111,
+          "bucket": "pink"
+        }
+      ],
+      "addedAt": "2026-09-12T01:57:00.505Z",
+      "fileKey": "File:SZ 深圳 Shenzhen 龍華 Longhua 旺民街 Wangmin Street 深圳美術館 Shenzhen Art Museum exhibition 中國剪紙藝術 Chinese paper cutting February 2025 R12S 208.jpg",
+      "kind": "film",
+      "photographer": "ALB 302 AOE woapsing",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "9a0ff8ff8df0fe0ff8ee0ff17f33f10e0040",
+      "category": "film",
+      "subjects": [
+        "city"
+      ]
+    },
+    {
+      "id": "ff8e4ebf-2c9a-456a-9b51-a3ee1590f948",
+      "title": "Vanavasin, one of the 16 elders (Arhat or Sthavira) - 16th century Tibetan thangka",
+      "titleEn": "Vanavasin, one of the 16 elders (Arhat or Sthavira) 16th century Tibetan thangka",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/ff8e4ebf-2c9a-456a-9b51-a3ee1590f948.jpg",
+      "thumbUrl": "/stills/ff8e4ebf-2c9a-456a-9b51-a3ee1590f948.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Vanavasin,_one_of_the_16_elders_(Arhat_or_Sthavira)_-_16th_century_Tibetan_thangka.jpg",
+      "author": "Unknown painter, 16th century Tibetan thangka",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Vanavasin,_one_of_the_16_elders_(Arhat_or_Sthavira)_-_16th_century_Tibetan_thangka.jpg",
+      "buckets": [
+        "green",
+        "cyan",
+        "brown",
+        "red",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#435a49",
+          "rgb": [
+            67,
+            90,
+            73
+          ],
+          "ratio": 0.2974175347222222,
+          "bucket": "green"
+        },
+        {
+          "hex": "#273a3e",
+          "rgb": [
+            39,
+            58,
+            62
+          ],
+          "ratio": 0.2713758680555556,
+          "bucket": "cyan"
+        },
+        {
+          "hex": "#896c4b",
+          "rgb": [
+            137,
+            108,
+            75
+          ],
+          "ratio": 0.1745876736111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#d45946",
+          "rgb": [
+            212,
+            89,
+            70
+          ],
+          "ratio": 0.1494140625,
+          "bucket": "red"
+        },
+        {
+          "hex": "#dfad76",
+          "rgb": [
+            223,
+            173,
+            118
+          ],
+          "ratio": 0.1072048611111111,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-09-12T01:57:01.814Z",
+      "fileKey": "File:Vanavasin, one of the 16 elders (Arhat or Sthavira) - 16th century Tibetan thangka.jpg",
+      "kind": "film",
+      "photographer": "Unknown painter, 16th century Tibetan thangka",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "00000846a1681fc978facfeced0ee80f80f8",
+      "category": "film",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "79ba0263-71ec-4979-a089-1a573ae5407e",
+      "title": "Iznik tiles, Istanbul Archaeological Museums",
+      "titleEn": "Iznik tiles, Istanbul Archaeological Museums",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/79ba0263-71ec-4979-a089-1a573ae5407e.jpg",
+      "thumbUrl": "/stills/79ba0263-71ec-4979-a089-1a573ae5407e.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Iznik_tiles,_Istanbul_Archaeological_Museums.jpg",
+      "author": "Carole Raddato",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "buckets": [
+        "yellow",
+        "gray",
+        "blue",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#b0ac9c",
+          "rgb": [
+            176,
+            172,
+            156
+          ],
+          "ratio": 0.2513020833333333,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#64716e",
+          "rgb": [
+            100,
+            113,
+            110
+          ],
+          "ratio": 0.24891493055555555,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#e2ddd1",
+          "rgb": [
+            226,
+            221,
+            209
+          ],
+          "ratio": 0.19498697916666666,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#143157",
+          "rgb": [
+            20,
+            49,
+            87
+          ],
+          "ratio": 0.1781684027777778,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#672c18",
+          "rgb": [
+            103,
+            44,
+            24
+          ],
+          "ratio": 0.12662760416666666,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-09-12T01:57:05.535Z",
+      "fileKey": "File:Iznik tiles, Istanbul Archaeological Museums.jpg",
+      "kind": "photo",
+      "photographer": "Carole Raddato",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "fffe0f8f329c79efff7ff3fd000000000fff",
+      "category": "photo",
+      "subjects": [
+        "design",
+        "pattern"
+      ]
+    },
+    {
+      "id": "7b683948-1fa2-464d-a886-e79294e96797",
+      "title": "C1925 green satin dress with attached painted velvet wrap by Paul Poiret, Paris. 05",
+      "titleEn": "C1925 green satin dress with attached painted velvet wrap by Paul Poiret, Paris. 05",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/7b683948-1fa2-464d-a886-e79294e96797.jpg",
+      "thumbUrl": "/stills/7b683948-1fa2-464d-a886-e79294e96797.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:C1925_green_satin_dress_with_attached_painted_velvet_wrap_by_Paul_Poiret,_Paris._05.jpg",
+      "author": "Photographer for the Rhode Island School of Design Museum of Art",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "buckets": [
+        "brown",
+        "green"
+      ],
+      "palette": [
+        {
+          "hex": "#7c6833",
+          "rgb": [
+            124,
+            104,
+            51
+          ],
+          "ratio": 0.2808159722222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#3b2c11",
+          "rgb": [
+            59,
+            44,
+            17
+          ],
+          "ratio": 0.2693142361111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#57471e",
+          "rgb": [
+            87,
+            71,
+            30
+          ],
+          "ratio": 0.19325086805555555,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#555c3b",
+          "rgb": [
+            85,
+            92,
+            59
+          ],
+          "ratio": 0.171875,
+          "bucket": "green"
+        },
+        {
+          "hex": "#a58d44",
+          "rgb": [
+            165,
+            141,
+            68
+          ],
+          "ratio": 0.0847439236111111,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-09-12T01:57:06.678Z",
+      "fileKey": "File:C1925 green satin dress with attached painted velvet wrap by Paul Poiret, Paris. 05.jpg",
+      "kind": "film",
+      "photographer": "Photographer for the Rhode Island School of Design Museum of Art",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "0030000000001003fc3febffbffbffffffff",
+      "category": "film",
+      "subjects": [
+        "city",
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "0243db59-7711-4ccd-a4e2-1eb7d3d79a0d",
+      "title": "Tibetan astronomical Thangka 4",
+      "titleEn": "Tibetan astronomical Thangka 4",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/0243db59-7711-4ccd-a4e2-1eb7d3d79a0d.jpg",
+      "thumbUrl": "/stills/0243db59-7711-4ccd-a4e2-1eb7d3d79a0d.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Tibetan_astronomical_Thangka_4.jpg",
+      "author": "Unknown author Unknown author",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Tibetan_astronomical_Thangka_4.jpg",
+      "buckets": [
+        "red",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#de813f",
+          "rgb": [
+            222,
+            129,
+            63
+          ],
+          "ratio": 0.24641927083333334,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#8f4033",
+          "rgb": [
+            143,
+            64,
+            51
+          ],
+          "ratio": 0.2443576388888889,
+          "bucket": "red"
+        },
+        {
+          "hex": "#6a312b",
+          "rgb": [
+            106,
+            49,
+            43
+          ],
+          "ratio": 0.1925998263888889,
+          "bucket": "red"
+        },
+        {
+          "hex": "#c06d42",
+          "rgb": [
+            192,
+            109,
+            66
+          ],
+          "ratio": 0.1615668402777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#ae4d38",
+          "rgb": [
+            174,
+            77,
+            56
+          ],
+          "ratio": 0.1550564236111111,
+          "bucket": "red"
+        }
+      ],
+      "addedAt": "2026-09-12T01:57:17.843Z",
+      "fileKey": "File:Tibetan astronomical Thangka 4.jpg",
+      "kind": "film",
+      "photographer": "Unknown author Unknown author",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "c07807c0fc0fc0fc0fe07e07647643703761",
+      "category": "film",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "ad5f1408-5791-43ca-af02-00a6edbec0ea",
+      "title": "Iznik pottery, Iznik Archaeological Museum - 53476810052",
+      "titleEn": "Iznik pottery, Iznik Archaeological Museum 53476810052",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/ad5f1408-5791-43ca-af02-00a6edbec0ea.jpg",
+      "thumbUrl": "/stills/ad5f1408-5791-43ca-af02-00a6edbec0ea.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Iznik_pottery,_Iznik_Archaeological_Museum_-_53476810052.jpg",
+      "author": "Carole Raddato",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "buckets": [
+        "gray",
+        "yellow",
+        "orange",
+        "cyan"
+      ],
+      "palette": [
+        {
+          "hex": "#555e5e",
+          "rgb": [
+            85,
+            94,
+            94
+          ],
+          "ratio": 0.3108723958333333,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#a18d7a",
+          "rgb": [
+            161,
+            141,
+            122
+          ],
+          "ratio": 0.2302517361111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#658786",
+          "rgb": [
+            101,
+            135,
+            134
+          ],
+          "ratio": 0.17469618055555555,
+          "bucket": "cyan"
+        },
+        {
+          "hex": "#e3deb3",
+          "rgb": [
+            227,
+            222,
+            179
+          ],
+          "ratio": 0.16786024305555555,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#bdb696",
+          "rgb": [
+            189,
+            182,
+            150
+          ],
+          "ratio": 0.11631944444444445,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-09-12T01:58:52.456Z",
+      "fileKey": "File:Iznik pottery, Iznik Archaeological Museum - 53476810052.jpg",
+      "kind": "photo",
+      "photographer": "Carole Raddato",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "0011053fd3cd30f6976b770770773f70f6cf",
+      "category": "photo",
+      "subjects": [
+        "design",
+        "pattern"
+      ]
+    },
+    {
+      "id": "1230e4c5-5f34-49a2-8287-e4ca685d7af1",
+      "title": "Painting in Ajanta Cave 1-16",
+      "titleEn": "Ajanta Cave 1 16",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/1230e4c5-5f34-49a2-8287-e4ca685d7af1.jpg",
+      "thumbUrl": "/stills/1230e4c5-5f34-49a2-8287-e4ca685d7af1.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Painting_in_Ajanta_Cave_1-16.jpg",
+      "author": "Biswas Dibyendu",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "buckets": [
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#65605d",
+          "rgb": [
+            101,
+            96,
+            93
+          ],
+          "ratio": 0.3071831597222222,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#81766c",
+          "rgb": [
+            129,
+            118,
+            108
+          ],
+          "ratio": 0.23697916666666666,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#4b4643",
+          "rgb": [
+            75,
+            70,
+            67
+          ],
+          "ratio": 0.1906467013888889,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#938b82",
+          "rgb": [
+            147,
+            139,
+            130
+          ],
+          "ratio": 0.17154947916666666,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#a7a19b",
+          "rgb": [
+            167,
+            161,
+            155
+          ],
+          "ratio": 0.09364149305555555,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-09-12T02:01:40.786Z",
+      "fileKey": "File:Painting in Ajanta Cave 1-16.jpg",
+      "kind": "photo",
+      "photographer": "Biswas Dibyendu",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "fc1db0cd0decffeefcffcff4bf8f902c0200",
+      "category": "painting",
+      "subjects": [
+        "ancient"
+      ]
+    },
+    {
+      "id": "eb924ad4-db2b-4ccf-be8b-a0138c60273d",
+      "title": "Mummy portrait young man with white tunic with dark red clavus Flavian hairstyle wood Manchester Museum 69-96 CE",
+      "titleEn": "Mummy portrait young man with white tunic with dark red clavus Flavian hairstyle wood Manchester Museum 69 96 CE",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/eb924ad4-db2b-4ccf-be8b-a0138c60273d.jpg",
+      "thumbUrl": "/stills/eb924ad4-db2b-4ccf-be8b-a0138c60273d.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Mummy_portrait_young_man_with_white_tunic_with_dark_red_clavus_Flavian_hairstyle_wood_Manchester_Museum_69-96_CE.jpg",
+      "author": "Allan Gluck",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "buckets": [
+        "brown",
+        "black"
+      ],
+      "palette": [
+        {
+          "hex": "#050404",
+          "rgb": [
+            5,
+            4,
+            4
+          ],
+          "ratio": 0.2741970486111111,
+          "bucket": "black"
+        },
+        {
+          "hex": "#6c4e3a",
+          "rgb": [
+            108,
+            78,
+            58
+          ],
+          "ratio": 0.23524305555555555,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#543928",
+          "rgb": [
+            84,
+            57,
+            40
+          ],
+          "ratio": 0.2041015625,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#2c201a",
+          "rgb": [
+            44,
+            32,
+            26
+          ],
+          "ratio": 0.16341145833333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#83614b",
+          "rgb": [
+            131,
+            97,
+            75
+          ],
+          "ratio": 0.123046875,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-09-12T02:02:52.033Z",
+      "fileKey": "File:Mummy portrait young man with white tunic with dark red clavus Flavian hairstyle wood Manchester Museum 69-96 CE.jpg",
+      "kind": "film",
+      "photographer": "Allan Gluck",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "3fc3843303703fc3fc3fc3fc3fc1fc1fc2fc",
+      "category": "film",
+      "people": "one",
+      "subjects": [
+        "portrait",
+        "people"
+      ]
+    },
+    {
+      "id": "067477f3-6259-4ee9-ad93-069f68aade24",
+      "title": "The Strawberry Thief, Mackay Crescent, Tadpole Garden Village, Swindon - geograph.org.uk - 7723987",
+      "titleEn": "The Strawberry Thief, Mackay Crescent, Tadpole Garden Village, Swindon geograph.org.uk 7723987",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/067477f3-6259-4ee9-ad93-069f68aade24.jpg",
+      "thumbUrl": "/stills/067477f3-6259-4ee9-ad93-069f68aade24.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:The_Strawberry_Thief,_Mackay_Crescent,_Tadpole_Garden_Village,_Swindon_-_geograph.org.uk_-_7723987.jpg",
+      "author": "Brian Robert Marshall",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "buckets": [
+        "blue",
+        "orange",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#605d59",
+          "rgb": [
+            96,
+            93,
+            89
+          ],
+          "ratio": 0.2318793402777778,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#4d87cc",
+          "rgb": [
+            77,
+            135,
+            204
+          ],
+          "ratio": 0.22688802083333334,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#88aad6",
+          "rgb": [
+            136,
+            170,
+            214
+          ],
+          "ratio": 0.2043185763888889,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#9a8e83",
+          "rgb": [
+            154,
+            142,
+            131
+          ],
+          "ratio": 0.1906467013888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d0cbc5",
+          "rgb": [
+            208,
+            203,
+            197
+          ],
+          "ratio": 0.1462673611111111,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-09-12T02:07:12.893Z",
+      "fileKey": "File:The Strawberry Thief, Mackay Crescent, Tadpole Garden Village, Swindon - geograph.org.uk - 7723987.jpg",
+      "kind": "film",
+      "photographer": "Brian Robert Marshall",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "000d80fffffcff0d7fdb87d8ff8ff8000000",
+      "category": "film",
+      "subjects": [
+        "nature"
+      ]
+    },
+    {
+      "id": "c7eaed38-3fb5-48ec-8c08-eeed34467b69",
+      "title": "Iznik pottery, Iznik Archaeological Museum - 53477713681",
+      "titleEn": "Iznik pottery, Iznik Archaeological Museum 53477713681",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/c7eaed38-3fb5-48ec-8c08-eeed34467b69.jpg",
+      "thumbUrl": "/stills/c7eaed38-3fb5-48ec-8c08-eeed34467b69.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Iznik_pottery,_Iznik_Archaeological_Museum_-_53477713681.jpg",
+      "author": "Carole Raddato",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "buckets": [
+        "gray",
+        "yellow",
+        "blue"
+      ],
+      "palette": [
+        {
+          "hex": "#1a3a5f",
+          "rgb": [
+            26,
+            58,
+            95
+          ],
+          "ratio": 0.2867838541666667,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#6f6a65",
+          "rgb": [
+            111,
+            106,
+            101
+          ],
+          "ratio": 0.2595486111111111,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#e4e4d4",
+          "rgb": [
+            228,
+            228,
+            212
+          ],
+          "ratio": 0.19737413194444445,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#cac6bb",
+          "rgb": [
+            202,
+            198,
+            187
+          ],
+          "ratio": 0.134765625,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#a1978f",
+          "rgb": [
+            161,
+            151,
+            143
+          ],
+          "ratio": 0.12152777777777778,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-09-12T02:08:02.310Z",
+      "fileKey": "File:Iznik pottery, Iznik Archaeological Museum - 53477713681.jpg",
+      "kind": "photo",
+      "photographer": "Carole Raddato",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "1830186e472233e7cc6666b23bc1dc6f2000",
+      "category": "photo",
+      "subjects": [
+        "design",
+        "pattern"
+      ]
+    },
+    {
+      "id": "a3e70d03-cb88-409b-91f6-ff7b83f4ca07",
+      "title": "Iznik pottery, Leighton House, London - 53482274710",
+      "titleEn": "Iznik pottery, Leighton House, London 53482274710",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/a3e70d03-cb88-409b-91f6-ff7b83f4ca07.jpg",
+      "thumbUrl": "/stills/a3e70d03-cb88-409b-91f6-ff7b83f4ca07.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Iznik_pottery,_Leighton_House,_London_-_53482274710.jpg",
+      "author": "Carole Raddato",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "buckets": [
+        "gray",
+        "black",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#41403a",
+          "rgb": [
+            65,
+            64,
+            58
+          ],
+          "ratio": 0.3041449652777778,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#222321",
+          "rgb": [
+            34,
+            35,
+            33
+          ],
+          "ratio": 0.2518446180555556,
+          "bucket": "black"
+        },
+        {
+          "hex": "#5f5a4e",
+          "rgb": [
+            95,
+            90,
+            78
+          ],
+          "ratio": 0.2273220486111111,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#817561",
+          "rgb": [
+            129,
+            117,
+            97
+          ],
+          "ratio": 0.15234375,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#ab9777",
+          "rgb": [
+            171,
+            151,
+            119
+          ],
+          "ratio": 0.06434461805555555,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-09-12T02:08:05.270Z",
+      "fileKey": "File:Iznik pottery, Leighton House, London - 53482274710.jpg",
+      "kind": "photo",
+      "photographer": "Carole Raddato",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "fc0ff0fc0f00fe8ff8ff8fe4fc8e00600080",
+      "category": "photo",
+      "subjects": [
+        "design",
+        "pattern"
+      ]
+    },
+    {
+      "id": "06d247e3-ad00-4c8b-8b52-3d088e37b9fc",
+      "title": "Iznik pottery, Leighton House, London - 53481864716",
+      "titleEn": "Iznik pottery, Leighton House, London 53481864716",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/06d247e3-ad00-4c8b-8b52-3d088e37b9fc.jpg",
+      "thumbUrl": "/stills/06d247e3-ad00-4c8b-8b52-3d088e37b9fc.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Iznik_pottery,_Leighton_House,_London_-_53481864716.jpg",
+      "author": "Carole Raddato",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "buckets": [
+        "black",
+        "gray",
+        "red",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#1a0e0f",
+          "rgb": [
+            26,
+            14,
+            15
+          ],
+          "ratio": 0.4059244791666667,
+          "bucket": "black"
+        },
+        {
+          "hex": "#6b1e15",
+          "rgb": [
+            107,
+            30,
+            21
+          ],
+          "ratio": 0.23036024305555555,
+          "bucket": "red"
+        },
+        {
+          "hex": "#403841",
+          "rgb": [
+            64,
+            56,
+            65
+          ],
+          "ratio": 0.14518229166666666,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#b2542e",
+          "rgb": [
+            178,
+            84,
+            46
+          ],
+          "ratio": 0.11480034722222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#948980",
+          "rgb": [
+            148,
+            137,
+            128
+          ],
+          "ratio": 0.1037326388888889,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-09-12T02:09:42.228Z",
+      "fileKey": "File:Iznik pottery, Leighton House, London - 53481864716.jpg",
+      "kind": "photo",
+      "photographer": "Carole Raddato",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "6fbf9fbfefffe03e73e03604400000000000",
+      "category": "photo",
+      "subjects": [
+        "design",
+        "pattern"
+      ]
+    },
+    {
+      "id": "b8b25efd-7238-4799-8d5f-0595b88b78ee",
+      "title": "Jardin de Paris la belle IRENE, AFF64(1)",
+      "titleEn": "Jardin de Paris la belle IRENE, AFF64(1)",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/b8b25efd-7238-4799-8d5f-0595b88b78ee.jpg",
+      "thumbUrl": "/stills/b8b25efd-7238-4799-8d5f-0595b88b78ee.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Jardin_de_Paris_la_belle_IRENE,_AFF64(1).jpg",
+      "author": "Anonyme, dessinateur",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "buckets": [
+        "orange",
+        "brown",
+        "yellow",
+        "red"
+      ],
+      "palette": [
+        {
+          "hex": "#ddd5c7",
+          "rgb": [
+            221,
+            213,
+            199
+          ],
+          "ratio": 0.3477647569444444,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#baa288",
+          "rgb": [
+            186,
+            162,
+            136
+          ],
+          "ratio": 0.1769748263888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#a3432a",
+          "rgb": [
+            163,
+            67,
+            42
+          ],
+          "ratio": 0.1674262152777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#dea724",
+          "rgb": [
+            222,
+            167,
+            36
+          ],
+          "ratio": 0.1616753472222222,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#423636",
+          "rgb": [
+            66,
+            54,
+            54
+          ],
+          "ratio": 0.14615885416666666,
+          "bucket": "red"
+        }
+      ],
+      "addedAt": "2026-09-12T02:10:08.778Z",
+      "fileKey": "File:Jardin de Paris la belle IRENE, AFF64(1).jpg",
+      "kind": "film",
+      "photographer": "Anonyme, dessinateur",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "fcffc3edd9bffb1f11a798f99f999ca008f0",
+      "category": "film",
+      "subjects": [
+        "city"
+      ]
+    },
+    {
+      "id": "9fa4b048-3397-44c9-ad9a-fcc31820a65b",
+      "title": "Knossos frise taureau",
+      "titleEn": "Knossos frise taureau",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/9fa4b048-3397-44c9-ad9a-fcc31820a65b.jpg",
+      "thumbUrl": "/stills/9fa4b048-3397-44c9-ad9a-fcc31820a65b.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Knossos_frise_taureau.JPG",
+      "author": "Harrieta171",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "buckets": [
+        "green",
+        "orange",
+        "brown",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#4e6b61",
+          "rgb": [
+            78,
+            107,
+            97
+          ],
+          "ratio": 0.3092447916666667,
+          "bucket": "green"
+        },
+        {
+          "hex": "#b39055",
+          "rgb": [
+            179,
+            144,
+            85
+          ],
+          "ratio": 0.2585720486111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#ceba89",
+          "rgb": [
+            206,
+            186,
+            137
+          ],
+          "ratio": 0.1845703125,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#88653f",
+          "rgb": [
+            136,
+            101,
+            63
+          ],
+          "ratio": 0.14561631944444445,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#534532",
+          "rgb": [
+            83,
+            69,
+            50
+          ],
+          "ratio": 0.10199652777777778,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-09-12T02:10:10.010Z",
+      "fileKey": "File:Knossos frise taureau.JPG",
+      "kind": "film",
+      "photographer": "Harrieta171",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "ffff00c80c00800800990040003ffbffffff",
+      "category": "film",
+      "subjects": [
+        "ancient"
+      ]
+    },
+    {
+      "id": "b353ecb2-5adc-4bbf-92c1-3b3cffa65f06",
+      "title": "Sichuan brocade, animal and dancing human figures",
+      "titleEn": "Sichuan brocade, animal and dancing human figures",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/b353ecb2-5adc-4bbf-92c1-3b3cffa65f06.jpg",
+      "thumbUrl": "/stills/b353ecb2-5adc-4bbf-92c1-3b3cffa65f06.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Sichuan_brocade,_animal_and_dancing_human_figures.jpg",
+      "author": "Unknown author Unknown author",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Sichuan_brocade,_animal_and_dancing_human_figures.jpg",
+      "buckets": [
+        "red",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#9d7a75",
+          "rgb": [
+            157,
+            122,
+            117
+          ],
+          "ratio": 0.2553168402777778,
+          "bucket": "red"
+        },
+        {
+          "hex": "#a88b83",
+          "rgb": [
+            168,
+            139,
+            131
+          ],
+          "ratio": 0.2472873263888889,
+          "bucket": "red"
+        },
+        {
+          "hex": "#916765",
+          "rgb": [
+            145,
+            103,
+            101
+          ],
+          "ratio": 0.20930989583333334,
+          "bucket": "red"
+        },
+        {
+          "hex": "#b59b92",
+          "rgb": [
+            181,
+            155,
+            146
+          ],
+          "ratio": 0.15657552083333334,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#825051",
+          "rgb": [
+            130,
+            80,
+            81
+          ],
+          "ratio": 0.13151041666666666,
+          "bucket": "red"
+        }
+      ],
+      "addedAt": "2026-09-12T02:10:59.085Z",
+      "fileKey": "File:Sichuan brocade, animal and dancing human figures.jpg",
+      "kind": "film",
+      "photographer": "Unknown author Unknown author",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "7c07e07f07c87e01e03c07e8bf01cc1c81f0",
+      "category": "film",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "14686575-46c0-4f08-9d82-931a68bafd8a",
+      "title": "Rihanna Met Gala 2017",
+      "titleEn": "Rihanna Met Gala 2017",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/14686575-46c0-4f08-9d82-931a68bafd8a.jpg",
+      "thumbUrl": "/stills/14686575-46c0-4f08-9d82-931a68bafd8a.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Rihanna_Met_Gala_2017.jpg",
+      "author": "Danilo Lauria",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "buckets": [
+        "pink"
+      ],
+      "palette": [
+        {
+          "hex": "#7d3f82",
+          "rgb": [
+            125,
+            63,
+            130
+          ],
+          "ratio": 0.2692057291666667,
+          "bucket": "pink"
+        },
+        {
+          "hex": "#4e1e3d",
+          "rgb": [
+            78,
+            30,
+            61
+          ],
+          "ratio": 0.2513020833333333,
+          "bucket": "pink"
+        },
+        {
+          "hex": "#6c3063",
+          "rgb": [
+            108,
+            48,
+            99
+          ],
+          "ratio": 0.25,
+          "bucket": "pink"
+        },
+        {
+          "hex": "#260d1f",
+          "rgb": [
+            38,
+            13,
+            31
+          ],
+          "ratio": 0.15983072916666666,
+          "bucket": "pink"
+        },
+        {
+          "hex": "#b17ac2",
+          "rgb": [
+            177,
+            122,
+            194
+          ],
+          "ratio": 0.06966145833333333,
+          "bucket": "purple"
+        }
+      ],
+      "addedAt": "2026-09-12T02:12:10.300Z",
+      "fileKey": "File:Rihanna Met Gala 2017.jpg",
+      "kind": "film",
+      "photographer": "Danilo Lauria",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "f9ef9ff9ee7e9fc1040c21c64cc46c07487c",
+      "category": "film",
+      "subjects": [
+        "people"
+      ]
+    },
+    {
+      "id": "86e018c5-a747-4df0-8eae-33ce0fd77137",
+      "title": "Iznik pottery, Leighton House, London - 53482005643",
+      "titleEn": "Iznik pottery, Leighton House, London 53482005643",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/86e018c5-a747-4df0-8eae-33ce0fd77137.jpg",
+      "thumbUrl": "/stills/86e018c5-a747-4df0-8eae-33ce0fd77137.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Iznik_pottery,_Leighton_House,_London_-_53482005643.jpg",
+      "author": "Carole Raddato",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "buckets": [
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#42281b",
+          "rgb": [
+            66,
+            40,
+            27
+          ],
+          "ratio": 0.2785373263888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#29150e",
+          "rgb": [
+            41,
+            21,
+            14
+          ],
+          "ratio": 0.248046875,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#877563",
+          "rgb": [
+            135,
+            117,
+            99
+          ],
+          "ratio": 0.1814236111111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#65452e",
+          "rgb": [
+            101,
+            69,
+            46
+          ],
+          "ratio": 0.15397135416666666,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#b6ab96",
+          "rgb": [
+            182,
+            171,
+            150
+          ],
+          "ratio": 0.13802083333333334,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-09-12T02:15:19.223Z",
+      "fileKey": "File:Iznik pottery, Leighton House, London - 53482005643.jpg",
+      "kind": "photo",
+      "photographer": "Carole Raddato",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "3e0000000000ff7fffffbef7c63000000180",
+      "category": "photo",
+      "subjects": [
+        "design",
+        "pattern"
+      ]
+    },
+    {
+      "id": "6372d134-92f9-4d71-84f4-be7cddf94672",
+      "title": "Iznik pottery, Iznik Archaeological Museum - 53477857928",
+      "titleEn": "Iznik pottery, Iznik Archaeological Museum 53477857928",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/6372d134-92f9-4d71-84f4-be7cddf94672.jpg",
+      "thumbUrl": "/stills/6372d134-92f9-4d71-84f4-be7cddf94672.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Iznik_pottery,_Iznik_Archaeological_Museum_-_53477857928.jpg",
+      "author": "Carole Raddato",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "buckets": [
+        "gray",
+        "orange",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#454448",
+          "rgb": [
+            69,
+            68,
+            72
+          ],
+          "ratio": 0.24251302083333334,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#aa998b",
+          "rgb": [
+            170,
+            153,
+            139
+          ],
+          "ratio": 0.2250434027777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#7f766a",
+          "rgb": [
+            127,
+            118,
+            106
+          ],
+          "ratio": 0.2158203125,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#c7bfb0",
+          "rgb": [
+            199,
+            191,
+            176
+          ],
+          "ratio": 0.16004774305555555,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#dddbc9",
+          "rgb": [
+            221,
+            219,
+            201
+          ],
+          "ratio": 0.15657552083333334,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-09-12T02:15:45.274Z",
+      "fileKey": "File:Iznik pottery, Iznik Archaeological Museum - 53477857928.jpg",
+      "kind": "photo",
+      "photographer": "Carole Raddato",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "fffd0b80388719d09921858e6f679f30f000",
+      "category": "photo",
+      "subjects": [
+        "design",
+        "pattern"
+      ]
+    },
+    {
+      "id": "ab22e819-c848-4f76-b304-b84e332aa5e3",
+      "title": "Dunhuang Zhang Yichao army",
+      "titleEn": "Dunhuang Zhang Yichao army",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/ab22e819-c848-4f76-b304-b84e332aa5e3.jpg",
+      "thumbUrl": "/stills/ab22e819-c848-4f76-b304-b84e332aa5e3.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Dunhuang_Zhang_Yichao_army.jpg",
+      "author": "Unknown author Unknown author",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Dunhuang_Zhang_Yichao_army.jpg",
+      "buckets": [
+        "brown",
+        "orange",
+        "yellow",
+        "red"
+      ],
+      "palette": [
+        {
+          "hex": "#8b7e5e",
+          "rgb": [
+            139,
+            126,
+            94
+          ],
+          "ratio": 0.2777777777777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#7d5b40",
+          "rgb": [
+            125,
+            91,
+            64
+          ],
+          "ratio": 0.2136501736111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#b69a6c",
+          "rgb": [
+            182,
+            154,
+            108
+          ],
+          "ratio": 0.2134331597222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d6bf8b",
+          "rgb": [
+            214,
+            191,
+            139
+          ],
+          "ratio": 0.1681857638888889,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#522d24",
+          "rgb": [
+            82,
+            45,
+            36
+          ],
+          "ratio": 0.126953125,
+          "bucket": "red"
+        }
+      ],
+      "addedAt": "2026-09-12T02:16:09.768Z",
+      "fileKey": "File:Dunhuang Zhang Yichao army.jpg",
+      "kind": "photo",
+      "photographer": "Unknown author Unknown author",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "000c046080607e77fe7fef6ffee0300710f8",
+      "category": "painting",
+      "subjects": [
+        "ancient"
+      ]
+    },
+    {
+      "id": "2cc25131-0add-4494-9694-59032bee9e9f",
+      "title": "Tissu d'ameublement (V&A Museum) (9483000084)",
+      "titleEn": "Tissu d'ameublement (V&A Museum) (9483000084)",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/2cc25131-0add-4494-9694-59032bee9e9f.jpg",
+      "thumbUrl": "/stills/2cc25131-0add-4494-9694-59032bee9e9f.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Tissu_d%27ameublement_(V%26A_Museum)_(9483000084).jpg",
+      "author": "Jean-Pierre Dalbéra from Paris, France",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "buckets": [
+        "gray",
+        "yellow",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#65634f",
+          "rgb": [
+            101,
+            99,
+            79
+          ],
+          "ratio": 0.3414713541666667,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#383d39",
+          "rgb": [
+            56,
+            61,
+            57
+          ],
+          "ratio": 0.2339409722222222,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#838575",
+          "rgb": [
+            131,
+            133,
+            117
+          ],
+          "ratio": 0.22569444444444445,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#cfb48a",
+          "rgb": [
+            207,
+            180,
+            138
+          ],
+          "ratio": 0.11469184027777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#b47349",
+          "rgb": [
+            180,
+            115,
+            73
+          ],
+          "ratio": 0.0842013888888889,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-09-12T02:20:05.540Z",
+      "fileKey": "File:Tissu d'ameublement (V&A Museum) (9483000084).jpg",
+      "kind": "film",
+      "photographer": "Jean-Pierre Dalbéra from Paris, France",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "c93f9ff9f1b8b6da65000108b9daf0108000",
+      "category": "film",
+      "subjects": [
+        "people"
+      ]
+    },
+    {
+      "id": "92265181-9b79-4e92-9f23-474b4650a3de",
+      "title": "Herculaneum 20230625 31",
+      "titleEn": "Herculaneum 20230625 31",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/92265181-9b79-4e92-9f23-474b4650a3de.jpg",
+      "thumbUrl": "/stills/92265181-9b79-4e92-9f23-474b4650a3de.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Herculaneum_20230625_31.jpg",
+      "author": "Argo Navis",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "buckets": [
+        "brown",
+        "orange",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#866a4d",
+          "rgb": [
+            134,
+            106,
+            77
+          ],
+          "ratio": 0.2914496527777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#aa9170",
+          "rgb": [
+            170,
+            145,
+            112
+          ],
+          "ratio": 0.2485894097222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#69492f",
+          "rgb": [
+            105,
+            73,
+            47
+          ],
+          "ratio": 0.22298177083333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#472918",
+          "rgb": [
+            71,
+            41,
+            24
+          ],
+          "ratio": 0.13856336805555555,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#c3c3bb",
+          "rgb": [
+            195,
+            195,
+            187
+          ],
+          "ratio": 0.0984157986111111,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-09-12T02:21:16.733Z",
+      "fileKey": "File:Herculaneum 20230625 31.jpg",
+      "kind": "film",
+      "photographer": "Argo Navis",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "1fc5fd0fc07447d00c07c00c01e0fe1fe103",
+      "category": "film",
+      "subjects": [
+        "ancient"
+      ]
+    },
+    {
+      "id": "a7896059-b136-49bc-a16f-6a64076f4c5c",
+      "title": "Iznik pottery, Leighton House, London - 53482168164",
+      "titleEn": "Iznik pottery, Leighton House, London 53482168164",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/a7896059-b136-49bc-a16f-6a64076f4c5c.jpg",
+      "thumbUrl": "/stills/a7896059-b136-49bc-a16f-6a64076f4c5c.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Iznik_pottery,_Leighton_House,_London_-_53482168164.jpg",
+      "author": "Carole Raddato",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "buckets": [
+        "red",
+        "gray",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#61110a",
+          "rgb": [
+            97,
+            17,
+            10
+          ],
+          "ratio": 0.2585720486111111,
+          "bucket": "red"
+        },
+        {
+          "hex": "#250606",
+          "rgb": [
+            37,
+            6,
+            6
+          ],
+          "ratio": 0.21712239583333334,
+          "bucket": "red"
+        },
+        {
+          "hex": "#902013",
+          "rgb": [
+            144,
+            32,
+            19
+          ],
+          "ratio": 0.2019314236111111,
+          "bucket": "red"
+        },
+        {
+          "hex": "#645c57",
+          "rgb": [
+            100,
+            92,
+            87
+          ],
+          "ratio": 0.1779513888888889,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#ad9d84",
+          "rgb": [
+            173,
+            157,
+            132
+          ],
+          "ratio": 0.14442274305555555,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-09-12T02:22:06.359Z",
+      "fileKey": "File:Iznik pottery, Leighton House, London - 53482168164.jpg",
+      "kind": "photo",
+      "photographer": "Carole Raddato",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "8021fb1f93f93fd3ed3983f80600001e83fe",
+      "category": "photo",
+      "subjects": [
+        "design",
+        "pattern"
+      ]
+    },
+    {
+      "id": "f0814c1c-340c-41eb-b701-107cb64b121d",
+      "title": "Judge v092 n2365 1927-02-26.Leslie-Judge (Darwination-IA)",
+      "titleEn": "Judge v092 n2365 1927 02 26.Leslie Judge (Darwination IA)",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/f0814c1c-340c-41eb-b701-107cb64b121d.jpg",
+      "thumbUrl": "/stills/f0814c1c-340c-41eb-b701-107cb64b121d.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Judge_v092_n2365_1927-02-26.Leslie-Judge_(Darwination-IA).djvu",
+      "author": "Wikimedia Commons",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Judge_v092_n2365_1927-02-26.Leslie-Judge_(Darwination-IA).djvu",
+      "buckets": [
+        "yellow",
+        "red"
+      ],
+      "palette": [
+        {
+          "hex": "#f3ecdd",
+          "rgb": [
+            243,
+            236,
+            221
+          ],
+          "ratio": 0.3924696180555556,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#efe9d8",
+          "rgb": [
+            239,
+            233,
+            216
+          ],
+          "ratio": 0.3474392361111111,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#a85755",
+          "rgb": [
+            168,
+            87,
+            85
+          ],
+          "ratio": 0.10601128472222222,
+          "bucket": "red"
+        },
+        {
+          "hex": "#d0897d",
+          "rgb": [
+            208,
+            137,
+            125
+          ],
+          "ratio": 0.09038628472222222,
+          "bucket": "red"
+        },
+        {
+          "hex": "#d1beb2",
+          "rgb": [
+            209,
+            190,
+            178
+          ],
+          "ratio": 0.0636935763888889,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-09-12T02:24:06.763Z",
+      "fileKey": "File:Judge v092 n2365 1927-02-26.Leslie-Judge (Darwination-IA).djvu",
+      "kind": "film",
+      "photographer": "Wikimedia Commons",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "001e0df0ff0ff1ff0ff1ff1ff3ff9bf9ff9f",
+      "category": "film",
+      "subjects": [
+        "people"
+      ]
+    },
+    {
+      "id": "abca539f-959d-489b-8c2a-9ea8e449ab20",
+      "title": "Starr 050307-4913 aerial photograph of Maui",
+      "titleEn": "Starr 050307 4913 aerial photograph of Maui",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/abca539f-959d-489b-8c2a-9ea8e449ab20.jpg",
+      "thumbUrl": "/stills/abca539f-959d-489b-8c2a-9ea8e449ab20.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Starr_050307-4913_aerial_photograph_of_Maui.jpg",
+      "author": "Forest & Kim Starr",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "buckets": [
+        "blue",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#206b92",
+          "rgb": [
+            32,
+            107,
+            146
+          ],
+          "ratio": 0.2725694444444444,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#54584f",
+          "rgb": [
+            84,
+            88,
+            79
+          ],
+          "ratio": 0.2685546875,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#98d0fa",
+          "rgb": [
+            152,
+            208,
+            250
+          ],
+          "ratio": 0.21451822916666666,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#c7e8fc",
+          "rgb": [
+            199,
+            232,
+            252
+          ],
+          "ratio": 0.13313802083333334,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#6b849c",
+          "rgb": [
+            107,
+            132,
+            156
+          ],
+          "ratio": 0.11121961805555555,
+          "bucket": "blue"
+        }
+      ],
+      "addedAt": "2026-09-12T02:24:08.933Z",
+      "fileKey": "File:Starr 050307-4913 aerial photograph of Maui.jpg",
+      "kind": "film",
+      "photographer": "Forest & Kim Starr",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "fffffffffff0c0080000008007f00f001000",
+      "category": "film",
+      "subjects": [
+        "landscape"
+      ]
+    },
+    {
+      "id": "f6330805-c5b3-44fc-a1fb-a43230f52d88",
+      "title": "Iznik pottery, Leighton House, London - 53480962527",
+      "titleEn": "Iznik pottery, Leighton House, London 53480962527",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/f6330805-c5b3-44fc-a1fb-a43230f52d88.jpg",
+      "thumbUrl": "/stills/f6330805-c5b3-44fc-a1fb-a43230f52d88.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Iznik_pottery,_Leighton_House,_London_-_53480962527.jpg",
+      "author": "Carole Raddato",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "buckets": [
+        "red",
+        "gray",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#2d0809",
+          "rgb": [
+            45,
+            8,
+            9
+          ],
+          "ratio": 0.2726779513888889,
+          "bucket": "red"
+        },
+        {
+          "hex": "#681611",
+          "rgb": [
+            104,
+            22,
+            17
+          ],
+          "ratio": 0.2688802083333333,
+          "bucket": "red"
+        },
+        {
+          "hex": "#9a2c1f",
+          "rgb": [
+            154,
+            44,
+            31
+          ],
+          "ratio": 0.1613498263888889,
+          "bucket": "red"
+        },
+        {
+          "hex": "#63606e",
+          "rgb": [
+            99,
+            96,
+            110
+          ],
+          "ratio": 0.15223524305555555,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#aa9c95",
+          "rgb": [
+            170,
+            156,
+            149
+          ],
+          "ratio": 0.14485677083333334,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-09-12T02:24:10.172Z",
+      "fileKey": "File:Iznik pottery, Leighton House, London - 53480962527.jpg",
+      "kind": "photo",
+      "photographer": "Carole Raddato",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "603461df8df8bfcb7c9b81f806000057a57e",
+      "category": "photo",
+      "subjects": [
+        "design",
+        "pattern"
+      ]
+    },
+    {
+      "id": "79c67d02-7a80-4d21-b63a-892ecbcc94f8",
+      "title": "Rihanna Met Gala 2014 (cropped)",
+      "titleEn": "Rihanna Met Gala 2014 (cropped)",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/79c67d02-7a80-4d21-b63a-892ecbcc94f8.jpg",
+      "thumbUrl": "/stills/79c67d02-7a80-4d21-b63a-892ecbcc94f8.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Rihanna_Met_Gala_2014_(cropped).jpg",
+      "author": "Danilo Lauria",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "buckets": [
+        "brown",
+        "black",
+        "blue"
+      ],
+      "palette": [
+        {
+          "hex": "#5e4027",
+          "rgb": [
+            94,
+            64,
+            39
+          ],
+          "ratio": 0.3485243055555556,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#786355",
+          "rgb": [
+            120,
+            99,
+            85
+          ],
+          "ratio": 0.2074652777777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#140905",
+          "rgb": [
+            20,
+            9,
+            5
+          ],
+          "ratio": 0.18858506944444445,
+          "bucket": "black"
+        },
+        {
+          "hex": "#a7acb8",
+          "rgb": [
+            167,
+            172,
+            184
+          ],
+          "ratio": 0.1511501736111111,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#392417",
+          "rgb": [
+            57,
+            36,
+            23
+          ],
+          "ratio": 0.1042751736111111,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-09-12T02:24:34.606Z",
+      "fileKey": "File:Rihanna Met Gala 2014 (cropped).jpg",
+      "kind": "film",
+      "photographer": "Danilo Lauria",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "001001081403403501181780fc0fe6fffffa",
+      "category": "film",
+      "subjects": [
+        "people"
+      ]
+    },
+    {
+      "id": "32f4dffe-3dce-4816-bfe9-bce9c0b55951",
+      "title": "Graffiti protesting violence in Medellín",
+      "titleEn": "Medellín",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/32f4dffe-3dce-4816-bfe9-bce9c0b55951.jpg",
+      "thumbUrl": "/stills/32f4dffe-3dce-4816-bfe9-bce9c0b55951.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Graffiti_protesting_violence_in_Medell%C3%ADn.jpg",
+      "author": "JoranL",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "buckets": [
+        "green",
+        "blue",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#8b937a",
+          "rgb": [
+            139,
+            147,
+            122
+          ],
+          "ratio": 0.3477647569444444,
+          "bucket": "green"
+        },
+        {
+          "hex": "#5a585f",
+          "rgb": [
+            90,
+            88,
+            95
+          ],
+          "ratio": 0.3152126736111111,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#302f3a",
+          "rgb": [
+            48,
+            47,
+            58
+          ],
+          "ratio": 0.1410590277777778,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#e7ebf0",
+          "rgb": [
+            231,
+            235,
+            240
+          ],
+          "ratio": 0.1316189236111111,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#528dc3",
+          "rgb": [
+            82,
+            141,
+            195
+          ],
+          "ratio": 0.06434461805555555,
+          "bucket": "blue"
+        }
+      ],
+      "addedAt": "2026-09-12T02:24:35.878Z",
+      "fileKey": "File:Graffiti protesting violence in Medellín.jpg",
+      "kind": "film",
+      "photographer": "JoranL",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "ffffff9ff09f3ff00f04f04f000000000c80",
+      "category": "film",
+      "subjects": [
+        "graffiti"
+      ]
+    },
+    {
+      "id": "a3c44a72-b931-4357-ab29-18784549dd6f",
+      "title": "Iznik tiles, IMetropolitan Museum of Art, New York",
+      "titleEn": "Iznik tiles, IMetropolitan Museum of Art, New York",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/a3c44a72-b931-4357-ab29-18784549dd6f.jpg",
+      "thumbUrl": "/stills/a3c44a72-b931-4357-ab29-18784549dd6f.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Iznik_tiles,_IMetropolitan_Museum_of_Art,_New_York.jpg",
+      "author": "Carole Raddato",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "buckets": [
+        "brown",
+        "orange",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#817164",
+          "rgb": [
+            129,
+            113,
+            100
+          ],
+          "ratio": 0.3610026041666667,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#645950",
+          "rgb": [
+            100,
+            89,
+            80
+          ],
+          "ratio": 0.3237847222222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#a89888",
+          "rgb": [
+            168,
+            152,
+            136
+          ],
+          "ratio": 0.1840277777777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d4cdb6",
+          "rgb": [
+            212,
+            205,
+            182
+          ],
+          "ratio": 0.11903211805555555,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#0c0a08",
+          "rgb": [
+            12,
+            10,
+            8
+          ],
+          "ratio": 0.012152777777777778,
+          "bucket": "black"
+        }
+      ],
+      "addedAt": "2026-09-12T02:24:38.646Z",
+      "fileKey": "File:Iznik tiles, IMetropolitan Museum of Art, New York.jpg",
+      "kind": "photo",
+      "photographer": "Carole Raddato",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "1f01f01f01f00003f03f83f83f83f83f83f8",
+      "category": "photo",
+      "subjects": [
+        "design",
+        "pattern"
+      ]
+    },
+    {
+      "id": "9d6cd0d9-0cdb-4c5e-9ca7-8a9def3695a1",
+      "title": "Défilé album souvenir du voyage de Paul Poiret à Copenhague, invité à l’occasion de la semaine de la mode organisée pa, 1987.1.447",
+      "titleEn": "Défilé album souvenir du voyage de Paul Poiret à Copenhague, invité à l’occasion de la semaine de la mode organisée pa, 1987.1.447",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/9d6cd0d9-0cdb-4c5e-9ca7-8a9def3695a1.jpg",
+      "thumbUrl": "/stills/9d6cd0d9-0cdb-4c5e-9ca7-8a9def3695a1.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:D%C3%A9fil%C3%A9_album_souvenir_du_voyage_de_Paul_Poiret_%C3%A0_Copenhague,_invit%C3%A9_%C3%A0_l%E2%80%99occasion_de_la_semaine_de_la_mode_organis%C3%A9e_pa,_1987.1.447.jpg",
+      "author": "Anonyme, photographe",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "buckets": [
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#d0c4b7",
+          "rgb": [
+            208,
+            196,
+            183
+          ],
+          "ratio": 0.3379991319444444,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#725f4e",
+          "rgb": [
+            114,
+            95,
+            78
+          ],
+          "ratio": 0.20301649305555555,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#554537",
+          "rgb": [
+            85,
+            69,
+            55
+          ],
+          "ratio": 0.1779513888888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#a6907a",
+          "rgb": [
+            166,
+            144,
+            122
+          ],
+          "ratio": 0.16319444444444445,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#392d23",
+          "rgb": [
+            57,
+            45,
+            35
+          ],
+          "ratio": 0.11783854166666667,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-09-12T02:24:44.546Z",
+      "fileKey": "File:Défilé album souvenir du voyage de Paul Poiret à Copenhague, invité à l’occasion de la semaine de la mode organisée pa, 1987.1.447.jpg",
+      "kind": "film",
+      "photographer": "Anonyme, photographe",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "ff1bff9f99f113010c01881c0100f03f0ffe",
+      "category": "film",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "9ffd1618-07f6-448b-8768-e477b864dc10",
+      "title": "Japanese katana with horimono (blade carving)",
+      "titleEn": "Japanese katana with horimono (blade carving)",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/9ffd1618-07f6-448b-8768-e477b864dc10.jpg",
+      "thumbUrl": "/stills/9ffd1618-07f6-448b-8768-e477b864dc10.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Japanese_katana_with_horimono_(blade_carving).jpg",
+      "author": "ElPablo",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "buckets": [
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#8f5105",
+          "rgb": [
+            143,
+            81,
+            5
+          ],
+          "ratio": 0.3989800347222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#753c04",
+          "rgb": [
+            117,
+            60,
+            4
+          ],
+          "ratio": 0.2616102430555556,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#b5740f",
+          "rgb": [
+            181,
+            116,
+            15
+          ],
+          "ratio": 0.18055555555555555,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#5b2904",
+          "rgb": [
+            91,
+            41,
+            4
+          ],
+          "ratio": 0.09776475694444445,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#ecb150",
+          "rgb": [
+            236,
+            177,
+            80
+          ],
+          "ratio": 0.061089409722222224,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-09-12T02:25:55.968Z",
+      "fileKey": "File:Japanese katana with horimono (blade carving).jpg",
+      "kind": "film",
+      "photographer": "ElPablo",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "0180100100180001c001f03e07f1ff7ff7ff",
+      "category": "film",
+      "subjects": [
+        "people"
+      ]
+    },
+    {
+      "id": "e26ab8ce-5379-42b6-b589-969c93b87727",
+      "title": "Iznik pottery, Leighton House, London - 53482168049",
+      "titleEn": "Iznik pottery, Leighton House, London 53482168049",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/e26ab8ce-5379-42b6-b589-969c93b87727.jpg",
+      "thumbUrl": "/stills/e26ab8ce-5379-42b6-b589-969c93b87727.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Iznik_pottery,_Leighton_House,_London_-_53482168049.jpg",
+      "author": "Carole Raddato",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "buckets": [
+        "brown",
+        "gray",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#26120c",
+          "rgb": [
+            38,
+            18,
+            12
+          ],
+          "ratio": 0.2731119791666667,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#cbbb9e",
+          "rgb": [
+            203,
+            187,
+            158
+          ],
+          "ratio": 0.20638020833333334,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#3d271e",
+          "rgb": [
+            61,
+            39,
+            30
+          ],
+          "ratio": 0.18153211805555555,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#898077",
+          "rgb": [
+            137,
+            128,
+            119
+          ],
+          "ratio": 0.1771918402777778,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#524d56",
+          "rgb": [
+            82,
+            77,
+            86
+          ],
+          "ratio": 0.16178385416666666,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-09-12T02:29:51.335Z",
+      "fileKey": "File:Iznik pottery, Leighton House, London - 53482168049.jpg",
+      "kind": "photo",
+      "photographer": "Carole Raddato",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "000000000ffbffffffffffdff8f706000000",
+      "category": "photo",
+      "subjects": [
+        "design",
+        "pattern"
+      ]
+    },
+    {
+      "id": "558286e6-361d-434f-981b-aeb90cfe188b",
+      "title": "Moravská galerie 02 - Thonet-Mundus křeslo",
+      "titleEn": "Moravská galerie 02 Thonet Mundus křeslo",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/558286e6-361d-434f-981b-aeb90cfe188b.jpg",
+      "thumbUrl": "/stills/558286e6-361d-434f-981b-aeb90cfe188b.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Moravsk%C3%A1_galerie_02_-_Thonet-Mundus_k%C5%99eslo.jpg",
+      "author": "Dominik Matus",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "buckets": [
+        "gray",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#c4c4c4",
+          "rgb": [
+            196,
+            196,
+            196
+          ],
+          "ratio": 0.517578125,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#64341e",
+          "rgb": [
+            100,
+            52,
+            30
+          ],
+          "ratio": 0.1831597222222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#96735e",
+          "rgb": [
+            150,
+            115,
+            94
+          ],
+          "ratio": 0.1359592013888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#aba8a6",
+          "rgb": [
+            171,
+            168,
+            166
+          ],
+          "ratio": 0.10601128472222222,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#e1e1e1",
+          "rgb": [
+            225,
+            225,
+            225
+          ],
+          "ratio": 0.057291666666666664,
+          "bucket": "white"
+        }
+      ],
+      "addedAt": "2026-09-12T02:33:24.928Z",
+      "fileKey": "File:Moravská galerie 02 - Thonet-Mundus křeslo.jpg",
+      "kind": "photo",
+      "photographer": "Dominik Matus",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "fffff9ff0ff1fe1fc1e01c01080800e01fff",
+      "category": "photo",
+      "subjects": [
+        "design"
+      ]
+    },
+    {
+      "id": "2bd9f4be-9913-465c-befd-6fa97e05d924",
+      "title": "Fayum portrait BM EA 65346",
+      "titleEn": "Fayum portrait BM EA 65346",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/2bd9f4be-9913-465c-befd-6fa97e05d924.jpg",
+      "thumbUrl": "/stills/2bd9f4be-9913-465c-befd-6fa97e05d924.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Fayum_portrait_BM_EA_65346.jpg",
+      "author": "Wikimedia Commons",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Fayum_portrait_BM_EA_65346.jpg",
+      "buckets": [
+        "orange",
+        "brown",
+        "blue"
+      ],
+      "palette": [
+        {
+          "hex": "#a48d62",
+          "rgb": [
+            164,
+            141,
+            98
+          ],
+          "ratio": 0.3071831597222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#876f49",
+          "rgb": [
+            135,
+            111,
+            73
+          ],
+          "ratio": 0.2407769097222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#bea77b",
+          "rgb": [
+            190,
+            167,
+            123
+          ],
+          "ratio": 0.2273220486111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#504134",
+          "rgb": [
+            80,
+            65,
+            52
+          ],
+          "ratio": 0.12782118055555555,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#899fb0",
+          "rgb": [
+            137,
+            159,
+            176
+          ],
+          "ratio": 0.0968967013888889,
+          "bucket": "blue"
+        }
+      ],
+      "addedAt": "2026-09-12T02:34:59.442Z",
+      "fileKey": "File:Fayum portrait BM EA 65346.jpg",
+      "kind": "photo",
+      "photographer": "Wikimedia Commons",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "c71c11c83cefcefae726f0cf0cfb471c700e",
+      "category": "painting",
+      "people": "one",
+      "subjects": [
+        "portrait",
+        "ancient"
+      ]
+    },
+    {
+      "id": "4b813c97-4a89-4979-b916-482ead0a1ad5",
+      "title": "Iznik pottery, Iznik Archaeological Museum - 53477857973",
+      "titleEn": "Iznik pottery, Iznik Archaeological Museum 53477857973",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/4b813c97-4a89-4979-b916-482ead0a1ad5.jpg",
+      "thumbUrl": "/stills/4b813c97-4a89-4979-b916-482ead0a1ad5.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Iznik_pottery,_Iznik_Archaeological_Museum_-_53477857973.jpg",
+      "author": "Carole Raddato",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "buckets": [
+        "yellow",
+        "blue",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#91866d",
+          "rgb": [
+            145,
+            134,
+            109
+          ],
+          "ratio": 0.3718532986111111,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#d2cda0",
+          "rgb": [
+            210,
+            205,
+            160
+          ],
+          "ratio": 0.2316623263888889,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#526e90",
+          "rgb": [
+            82,
+            110,
+            144
+          ],
+          "ratio": 0.150390625,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#784b27",
+          "rgb": [
+            120,
+            75,
+            39
+          ],
+          "ratio": 0.12727864583333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#404f62",
+          "rgb": [
+            64,
+            79,
+            98
+          ],
+          "ratio": 0.11881510416666667,
+          "bucket": "blue"
+        }
+      ],
+      "addedAt": "2026-09-12T02:36:10.724Z",
+      "fileKey": "File:Iznik pottery, Iznik Archaeological Museum - 53477857973.jpg",
+      "kind": "photo",
+      "photographer": "Carole Raddato",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "00700101f10f1073873c71f93fe3ff7feece",
+      "category": "photo",
+      "subjects": [
+        "design",
+        "pattern"
+      ]
+    },
+    {
+      "id": "dac83e96-c65c-4cf4-8164-07a8fca6ca1e",
+      "title": "Altamira 4",
+      "titleEn": "Altamira 4",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/dac83e96-c65c-4cf4-8164-07a8fca6ca1e.jpg",
+      "thumbUrl": "/stills/dac83e96-c65c-4cf4-8164-07a8fca6ca1e.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Altamira_4.jpg",
+      "author": "Émile Cartailhac",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Altamira_4.jpg",
+      "buckets": [
+        "yellow",
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#f9f1c6",
+          "rgb": [
+            249,
+            241,
+            198
+          ],
+          "ratio": 0.2708333333333333,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#f1d69c",
+          "rgb": [
+            241,
+            214,
+            156
+          ],
+          "ratio": 0.2384982638888889,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#fdfce9",
+          "rgb": [
+            253,
+            252,
+            233
+          ],
+          "ratio": 0.1947699652777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#bda783",
+          "rgb": [
+            189,
+            167,
+            131
+          ],
+          "ratio": 0.16417100694444445,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#7e6a51",
+          "rgb": [
+            126,
+            106,
+            81
+          ],
+          "ratio": 0.13172743055555555,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-09-12T02:39:41.909Z",
+      "fileKey": "File:Altamira 4.jpg",
+      "kind": "film",
+      "photographer": "Émile Cartailhac",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "fe7003400000000c01dc891b88f8ff87feff",
+      "category": "film",
+      "subjects": [
+        "ancient"
+      ]
+    },
+    {
+      "id": "0609e763-edee-413b-a748-0c10a63aa7f9",
+      "title": "Knossos Bull-Leaping Fresco",
+      "titleEn": "Knossos Bull Leaping Fresco",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/0609e763-edee-413b-a748-0c10a63aa7f9.jpg",
+      "thumbUrl": "/stills/0609e763-edee-413b-a748-0c10a63aa7f9.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Knossos_Bull-Leaping_Fresco.jpg",
+      "author": "unknown ancient artist",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Knossos_Bull-Leaping_Fresco.jpg",
+      "buckets": [
+        "orange",
+        "yellow",
+        "gray",
+        "red"
+      ],
+      "palette": [
+        {
+          "hex": "#dcdad1",
+          "rgb": [
+            220,
+            218,
+            209
+          ],
+          "ratio": 0.2629123263888889,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#c2ae9a",
+          "rgb": [
+            194,
+            174,
+            154
+          ],
+          "ratio": 0.2509765625,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#8a8381",
+          "rgb": [
+            138,
+            131,
+            129
+          ],
+          "ratio": 0.17957899305555555,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#bd6f4e",
+          "rgb": [
+            189,
+            111,
+            78
+          ],
+          "ratio": 0.1748046875,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#5a3b38",
+          "rgb": [
+            90,
+            59,
+            56
+          ],
+          "ratio": 0.13172743055555555,
+          "bucket": "red"
+        }
+      ],
+      "addedAt": "2026-09-12T02:41:39.768Z",
+      "fileKey": "File:Knossos Bull-Leaping Fresco.jpg",
+      "kind": "photo",
+      "photographer": "unknown ancient artist",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "0f00003f07c88dff9ffccffeffffff080000",
+      "category": "painting",
+      "subjects": [
+        "ancient"
+      ]
+    },
+    {
+      "id": "c221553b-517a-41c8-88d0-5b33c6dff9f4",
+      "title": "Barnsley Cemetery 4 November 2017 (139a)",
+      "titleEn": "Barnsley Cemetery 4 November 2017 (139a)",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/c221553b-517a-41c8-88d0-5b33c6dff9f4.jpg",
+      "thumbUrl": "/stills/c221553b-517a-41c8-88d0-5b33c6dff9f4.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Barnsley_Cemetery_4_November_2017_(139a).jpg",
+      "author": "Storye book",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "buckets": [
+        "yellow",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#e6decd",
+          "rgb": [
+            230,
+            222,
+            205
+          ],
+          "ratio": 0.4350043402777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#bcb4a2",
+          "rgb": [
+            188,
+            180,
+            162
+          ],
+          "ratio": 0.189453125,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#534a3a",
+          "rgb": [
+            83,
+            74,
+            58
+          ],
+          "ratio": 0.15440538194444445,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#272114",
+          "rgb": [
+            39,
+            33,
+            20
+          ],
+          "ratio": 0.12261284722222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#88806e",
+          "rgb": [
+            136,
+            128,
+            110
+          ],
+          "ratio": 0.09852430555555555,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-09-12T02:43:39.432Z",
+      "fileKey": "File:Barnsley Cemetery 4 November 2017 (139a).jpg",
+      "kind": "film",
+      "photographer": "Storye book",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "fffffff0ff83c0380f8c7c03e01f01fc1ff1",
+      "category": "film",
+      "subjects": [
+        "people"
+      ]
+    },
+    {
+      "id": "aaf545f8-2ed6-4c5a-b02f-7d75747b83fd",
+      "title": "Textile, The Strawberry Thief, designed 1883",
+      "titleEn": "Textile, The Strawberry Thief, designed 1883 (CH 18386443)",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/aaf545f8-2ed6-4c5a-b02f-7d75747b83fd.jpg",
+      "thumbUrl": "/stills/aaf545f8-2ed6-4c5a-b02f-7d75747b83fd.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Textile,_The_Strawberry_Thief,_designed_1883_(CH_18386443).jpg",
+      "author": "William Morris",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Textile,_The_Strawberry_Thief,_designed_1883_(CH_18386443).jpg",
+      "buckets": [
+        "gray",
+        "blue",
+        "white",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#484e4b",
+          "rgb": [
+            72,
+            78,
+            75
+          ],
+          "ratio": 0.2879774305555556,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#6c6b5e",
+          "rgb": [
+            108,
+            107,
+            94
+          ],
+          "ratio": 0.23307291666666666,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#1d2c42",
+          "rgb": [
+            29,
+            44,
+            66
+          ],
+          "ratio": 0.2202690972222222,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#f2f3f5",
+          "rgb": [
+            242,
+            243,
+            245
+          ],
+          "ratio": 0.1703559027777778,
+          "bucket": "white"
+        },
+        {
+          "hex": "#aca08c",
+          "rgb": [
+            172,
+            160,
+            140
+          ],
+          "ratio": 0.08832465277777778,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-09-12T02:47:14.473Z",
+      "fileKey": "File:Textile, The Strawberry Thief, designed 1883 (CH 18386443).jpg",
+      "kind": "photo",
+      "photographer": "William Morris",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "fff000000000208e0e110040000000111fff",
+      "category": "photo",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "07cd4008-7522-427c-b277-6a56d3cb144d",
+      "title": "Bisonte de Altamira",
+      "titleEn": "Bisonte de Altamira",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/07cd4008-7522-427c-b277-6a56d3cb144d.jpg",
+      "thumbUrl": "/stills/07cd4008-7522-427c-b277-6a56d3cb144d.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Bisonte_de_Altamira.jpg",
+      "author": "Émile Cartailhac",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Bisonte_de_Altamira.jpg",
+      "buckets": [
+        "green",
+        "red",
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#6b1706",
+          "rgb": [
+            107,
+            23,
+            6
+          ],
+          "ratio": 0.3301866319444444,
+          "bucket": "red"
+        },
+        {
+          "hex": "#e6f5ea",
+          "rgb": [
+            230,
+            245,
+            234
+          ],
+          "ratio": 0.2581380208333333,
+          "bucket": "green"
+        },
+        {
+          "hex": "#a2542a",
+          "rgb": [
+            162,
+            84,
+            42
+          ],
+          "ratio": 0.20703125,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#d9dfce",
+          "rgb": [
+            217,
+            223,
+            206
+          ],
+          "ratio": 0.1193576388888889,
+          "bucket": "green"
+        },
+        {
+          "hex": "#b99b7d",
+          "rgb": [
+            185,
+            155,
+            125
+          ],
+          "ratio": 0.08528645833333333,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-09-12T02:47:41.534Z",
+      "fileKey": "File:Bisonte de Altamira.jpg",
+      "kind": "film",
+      "photographer": "Émile Cartailhac",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "ffff80f00300000000000001b87fffffffff",
+      "category": "film",
+      "subjects": [
+        "ancient"
+      ]
+    },
+    {
+      "id": "a75bc153-0b16-4fab-bf1c-dc50f89c3da0",
+      "title": "Iznik pottery, Iznik Archaeological Museum - 53478027919",
+      "titleEn": "Iznik pottery, Iznik Archaeological Museum 53478027919",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/a75bc153-0b16-4fab-bf1c-dc50f89c3da0.jpg",
+      "thumbUrl": "/stills/a75bc153-0b16-4fab-bf1c-dc50f89c3da0.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Iznik_pottery,_Iznik_Archaeological_Museum_-_53478027919.jpg",
+      "author": "Carole Raddato",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "buckets": [
+        "gray",
+        "blue",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#a0948b",
+          "rgb": [
+            160,
+            148,
+            139
+          ],
+          "ratio": 0.3064236111111111,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#666c76",
+          "rgb": [
+            102,
+            108,
+            118
+          ],
+          "ratio": 0.2065972222222222,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#1c3353",
+          "rgb": [
+            28,
+            51,
+            83
+          ],
+          "ratio": 0.18370225694444445,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#d9d6c8",
+          "rgb": [
+            217,
+            214,
+            200
+          ],
+          "ratio": 0.1540798611111111,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#285973",
+          "rgb": [
+            40,
+            89,
+            115
+          ],
+          "ratio": 0.1491970486111111,
+          "bucket": "blue"
+        }
+      ],
+      "addedAt": "2026-09-12T02:48:29.532Z",
+      "fileKey": "File:Iznik pottery, Iznik Archaeological Museum - 53478027919.jpg",
+      "kind": "photo",
+      "photographer": "Carole Raddato",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "f0100100100305337f37fb7da7f87fb5fe7f",
+      "category": "photo",
+      "subjects": [
+        "design",
+        "pattern"
+      ]
+    },
+    {
+      "id": "2f4c0c80-d41b-4424-a49d-aa208b792dd5",
+      "title": "Iznik pottery, Leighton House, London - 53482005648",
+      "titleEn": "Iznik pottery, Leighton House, London 53482005648",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/2f4c0c80-d41b-4424-a49d-aa208b792dd5.jpg",
+      "thumbUrl": "/stills/2f4c0c80-d41b-4424-a49d-aa208b792dd5.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Iznik_pottery,_Leighton_House,_London_-_53482005648.jpg",
+      "author": "Carole Raddato",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "buckets": [
+        "red",
+        "orange",
+        "gray",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#481312",
+          "rgb": [
+            72,
+            19,
+            18
+          ],
+          "ratio": 0.3655598958333333,
+          "bucket": "red"
+        },
+        {
+          "hex": "#5a5c5e",
+          "rgb": [
+            90,
+            92,
+            94
+          ],
+          "ratio": 0.1904296875,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#97442f",
+          "rgb": [
+            151,
+            68,
+            47
+          ],
+          "ratio": 0.17491319444444445,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#9d917d",
+          "rgb": [
+            157,
+            145,
+            125
+          ],
+          "ratio": 0.17447916666666666,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d4bf9a",
+          "rgb": [
+            212,
+            191,
+            154
+          ],
+          "ratio": 0.09461805555555555,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-09-12T02:51:40.196Z",
+      "fileKey": "File:Iznik pottery, Leighton House, London - 53482005648.jpg",
+      "kind": "photo",
+      "photographer": "Carole Raddato",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "04000070438f7d7fe77effdff9ff0f000000",
+      "category": "photo",
+      "subjects": [
+        "design",
+        "pattern"
+      ]
+    },
+    {
+      "id": "7960f162-c201-4db2-ad00-d79b29f41daf",
+      "title": "Ball gown",
+      "titleEn": "Ball gown MET 49.3.27ab d",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/7960f162-c201-4db2-ad00-d79b29f41daf.jpg",
+      "thumbUrl": "/stills/7960f162-c201-4db2-ad00-d79b29f41daf.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Ball_gown_MET_49.3.27ab_d.jpg",
+      "author": "Jacques Doucet",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "buckets": [
+        "yellow",
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#c2baa5",
+          "rgb": [
+            194,
+            186,
+            165
+          ],
+          "ratio": 0.2516276041666667,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#a17349",
+          "rgb": [
+            161,
+            115,
+            73
+          ],
+          "ratio": 0.2392578125,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#b98e61",
+          "rgb": [
+            185,
+            142,
+            97
+          ],
+          "ratio": 0.1947699652777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#b7ac95",
+          "rgb": [
+            183,
+            172,
+            149
+          ],
+          "ratio": 0.1769748263888889,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#6a4e2c",
+          "rgb": [
+            106,
+            78,
+            44
+          ],
+          "ratio": 0.13736979166666666,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-09-12T02:52:29.719Z",
+      "fileKey": "File:Ball gown MET 49.3.27ab d.jpg",
+      "kind": "film",
+      "photographer": "Jacques Doucet",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "fffffd3f81f80f8018830c31c01c03f03c03",
+      "category": "film",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "e2f6ecf6-957f-45f4-85ea-311cc6ec68bb",
+      "title": "Iznik pottery, Leighton House, London - 53482168114",
+      "titleEn": "Iznik pottery, Leighton House, London 53482168114",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/e2f6ecf6-957f-45f4-85ea-311cc6ec68bb.jpg",
+      "thumbUrl": "/stills/e2f6ecf6-957f-45f4-85ea-311cc6ec68bb.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Iznik_pottery,_Leighton_House,_London_-_53482168114.jpg",
+      "author": "Carole Raddato",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "buckets": [
+        "red",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#972818",
+          "rgb": [
+            151,
+            40,
+            24
+          ],
+          "ratio": 0.3473307291666667,
+          "bucket": "red"
+        },
+        {
+          "hex": "#730d09",
+          "rgb": [
+            115,
+            13,
+            9
+          ],
+          "ratio": 0.3013237847222222,
+          "bucket": "red"
+        },
+        {
+          "hex": "#bc4628",
+          "rgb": [
+            188,
+            70,
+            40
+          ],
+          "ratio": 0.1771918402777778,
+          "bucket": "red"
+        },
+        {
+          "hex": "#a29981",
+          "rgb": [
+            162,
+            153,
+            129
+          ],
+          "ratio": 0.10948350694444445,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#5e5b57",
+          "rgb": [
+            94,
+            91,
+            87
+          ],
+          "ratio": 0.0646701388888889,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-09-12T02:56:04.597Z",
+      "fileKey": "File:Iznik pottery, Leighton House, London - 53482168114.jpg",
+      "kind": "photo",
+      "photographer": "Carole Raddato",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "0600600600602e07e47ec7fe7ee1fe07e064",
+      "category": "photo",
+      "subjects": [
+        "design",
+        "pattern"
+      ]
+    },
+    {
+      "id": "d8d9b782-83e4-4ea1-95f8-205b9c09cd11",
+      "title": "Iznik pottery, Iznik Archaeological Museum - 53477857853",
+      "titleEn": "Iznik pottery, Iznik Archaeological Museum 53477857853",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/d8d9b782-83e4-4ea1-95f8-205b9c09cd11.jpg",
+      "thumbUrl": "/stills/d8d9b782-83e4-4ea1-95f8-205b9c09cd11.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Iznik_pottery,_Iznik_Archaeological_Museum_-_53477857853.jpg",
+      "author": "Carole Raddato",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "buckets": [
+        "orange",
+        "blue",
+        "gray",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#384357",
+          "rgb": [
+            56,
+            67,
+            87
+          ],
+          "ratio": 0.3006727430555556,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#b9aa99",
+          "rgb": [
+            185,
+            170,
+            153
+          ],
+          "ratio": 0.2134331597222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#897f74",
+          "rgb": [
+            137,
+            127,
+            116
+          ],
+          "ratio": 0.20421006944444445,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#cfc3b2",
+          "rgb": [
+            207,
+            195,
+            178
+          ],
+          "ratio": 0.1708984375,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#ddd7c6",
+          "rgb": [
+            221,
+            215,
+            198
+          ],
+          "ratio": 0.11078559027777778,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-09-12T02:57:45.669Z",
+      "fileKey": "File:Iznik pottery, Iznik Archaeological Museum - 53477857853.jpg",
+      "kind": "photo",
+      "photographer": "Carole Raddato",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "fffe1ff1f8e78c384280581f83f046980c03",
+      "category": "photo",
+      "subjects": [
+        "design",
+        "pattern"
+      ]
+    },
+    {
+      "id": "7a411ba7-958e-4d61-b888-d797ab9ac901",
+      "title": "Iznik pottery, Iznik Archaeological Museum - 53477857943",
+      "titleEn": "Iznik pottery, Iznik Archaeological Museum 53477857943",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/7a411ba7-958e-4d61-b888-d797ab9ac901.jpg",
+      "thumbUrl": "/stills/7a411ba7-958e-4d61-b888-d797ab9ac901.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Iznik_pottery,_Iznik_Archaeological_Museum_-_53477857943.jpg",
+      "author": "Carole Raddato",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "buckets": [
+        "gray",
+        "blue",
+        "orange",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#88847a",
+          "rgb": [
+            136,
+            132,
+            122
+          ],
+          "ratio": 0.259765625,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#244266",
+          "rgb": [
+            36,
+            66,
+            102
+          ],
+          "ratio": 0.23817274305555555,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#bcac97",
+          "rgb": [
+            188,
+            172,
+            151
+          ],
+          "ratio": 0.2222222222222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#cec6b1",
+          "rgb": [
+            206,
+            198,
+            177
+          ],
+          "ratio": 0.2211371527777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#825130",
+          "rgb": [
+            130,
+            81,
+            48
+          ],
+          "ratio": 0.05870225694444445,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-09-12T02:57:48.722Z",
+      "fileKey": "File:Iznik pottery, Iznik Archaeological Museum - 53477857943.jpg",
+      "kind": "photo",
+      "photographer": "Carole Raddato",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "c03801881a97b899099098999ddbdffdff8f",
+      "category": "photo",
+      "subjects": [
+        "design",
+        "pattern"
+      ]
+    },
+    {
+      "id": "86595900-5fdf-4011-a7ef-9e975880e9cc",
+      "title": "Pompeii Ruins Fresco (48442834532)",
+      "titleEn": "Pompeii Ruins Fresco (48442834532)",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/86595900-5fdf-4011-a7ef-9e975880e9cc.jpg",
+      "thumbUrl": "/stills/86595900-5fdf-4011-a7ef-9e975880e9cc.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Pompeii_Ruins_Fresco_(48442834532).jpg",
+      "author": "Gary Todd from Xinzheng, China",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Pompeii_Ruins_Fresco_(48442834532).jpg",
+      "buckets": [
+        "brown",
+        "red",
+        "white"
+      ],
+      "palette": [
+        {
+          "hex": "#bfa3a3",
+          "rgb": [
+            191,
+            163,
+            163
+          ],
+          "ratio": 0.2292751736111111,
+          "bucket": "red"
+        },
+        {
+          "hex": "#6e432b",
+          "rgb": [
+            110,
+            67,
+            43
+          ],
+          "ratio": 0.22591145833333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#dad3d6",
+          "rgb": [
+            218,
+            211,
+            214
+          ],
+          "ratio": 0.2123480902777778,
+          "bucket": "white"
+        },
+        {
+          "hex": "#502d1a",
+          "rgb": [
+            80,
+            45,
+            26
+          ],
+          "ratio": 0.2072482638888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#9c6f62",
+          "rgb": [
+            156,
+            111,
+            98
+          ],
+          "ratio": 0.1252170138888889,
+          "bucket": "red"
+        }
+      ],
+      "addedAt": "2026-09-12T02:59:23.317Z",
+      "fileKey": "File:Pompeii Ruins Fresco (48442834532).jpg",
+      "kind": "photo",
+      "photographer": "Pompeii Ruins Fresco",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "000000000000e00f00f80fdeffffffffffff",
+      "category": "painting",
+      "subjects": [
+        "ancient"
+      ]
+    },
+    {
+      "id": "0003af9a-2790-45c8-9008-81482f913941",
+      "title": "Iznik pottery, Leighton House, London - 53482005813",
+      "titleEn": "Iznik pottery, Leighton House, London 53482005813",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/0003af9a-2790-45c8-9008-81482f913941.jpg",
+      "thumbUrl": "/stills/0003af9a-2790-45c8-9008-81482f913941.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Iznik_pottery,_Leighton_House,_London_-_53482005813.jpg",
+      "author": "Carole Raddato",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "buckets": [
+        "red",
+        "pink",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#72353a",
+          "rgb": [
+            114,
+            53,
+            58
+          ],
+          "ratio": 0.3559027777777778,
+          "bucket": "red"
+        },
+        {
+          "hex": "#371821",
+          "rgb": [
+            55,
+            24,
+            33
+          ],
+          "ratio": 0.2813585069444444,
+          "bucket": "pink"
+        },
+        {
+          "hex": "#be685d",
+          "rgb": [
+            190,
+            104,
+            93
+          ],
+          "ratio": 0.1980251736111111,
+          "bucket": "red"
+        },
+        {
+          "hex": "#c4b49a",
+          "rgb": [
+            196,
+            180,
+            154
+          ],
+          "ratio": 0.087890625,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#78797b",
+          "rgb": [
+            120,
+            121,
+            123
+          ],
+          "ratio": 0.07682291666666667,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-09-12T02:59:51.231Z",
+      "fileKey": "File:Iznik pottery, Leighton House, London - 53482005813.jpg",
+      "kind": "photo",
+      "photographer": "Carole Raddato",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "ffffffffffff6040000001080683683fc0e0",
+      "category": "photo",
+      "subjects": [
+        "design",
+        "pattern"
+      ]
+    },
+    {
+      "id": "4025959d-2c50-443a-8c81-cb629a5a8d15",
+      "title": "NASA Earth Day Exhibits (NHQ202304200014)",
+      "titleEn": "NASA Earth Day Exhibits (NHQ202304200014)",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/4025959d-2c50-443a-8c81-cb629a5a8d15.jpg",
+      "thumbUrl": "/stills/4025959d-2c50-443a-8c81-cb629a5a8d15.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:NASA_Earth_Day_Exhibits_(NHQ202304200014).jpg",
+      "author": "NASA Headquarters / NASA/Keegan Barber",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:NASA_Earth_Day_Exhibits_(NHQ202304200014).jpg",
+      "buckets": [
+        "brown",
+        "orange",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#332723",
+          "rgb": [
+            51,
+            39,
+            35
+          ],
+          "ratio": 0.2970920138888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#b79781",
+          "rgb": [
+            183,
+            151,
+            129
+          ],
+          "ratio": 0.2136501736111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d4cec9",
+          "rgb": [
+            212,
+            206,
+            201
+          ],
+          "ratio": 0.2019314236111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#8d5a40",
+          "rgb": [
+            141,
+            90,
+            64
+          ],
+          "ratio": 0.18326822916666666,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#646465",
+          "rgb": [
+            100,
+            100,
+            101
+          ],
+          "ratio": 0.10405815972222222,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-09-12T02:59:53.513Z",
+      "fileKey": "File:NASA Earth Day Exhibits (NHQ202304200014).jpg",
+      "kind": "film",
+      "photographer": "NASA Headquarters / NASA/Keegan Barber",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "fff1f31f33f03e0be1fa201800900f003fe0",
+      "category": "film",
+      "subjects": [
+        "landscape"
+      ]
+    },
+    {
+      "id": "e2bcba3d-8269-4d7c-83b5-b6446793e01b",
+      "title": "Mummy portrait man with white tunic with purple clavis wood Manchester Museum 110-140 CE",
+      "titleEn": "Mummy portrait man with white tunic with purple clavis wood Manchester Museum 110 140 CE",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/e2bcba3d-8269-4d7c-83b5-b6446793e01b.jpg",
+      "thumbUrl": "/stills/e2bcba3d-8269-4d7c-83b5-b6446793e01b.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Mummy_portrait_man_with_white_tunic_with_purple_clavis_wood_Manchester_Museum_110-140_CE.jpg",
+      "author": "Allan Gluck",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "buckets": [
+        "brown",
+        "black"
+      ],
+      "palette": [
+        {
+          "hex": "#564031",
+          "rgb": [
+            86,
+            64,
+            49
+          ],
+          "ratio": 0.3241102430555556,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#3a2c23",
+          "rgb": [
+            58,
+            44,
+            35
+          ],
+          "ratio": 0.248046875,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#725642",
+          "rgb": [
+            114,
+            86,
+            66
+          ],
+          "ratio": 0.1867404513888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#15100e",
+          "rgb": [
+            21,
+            16,
+            14
+          ],
+          "ratio": 0.16221788194444445,
+          "bucket": "black"
+        },
+        {
+          "hex": "#927560",
+          "rgb": [
+            146,
+            117,
+            96
+          ],
+          "ratio": 0.0788845486111111,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-09-12T03:00:41.480Z",
+      "fileKey": "File:Mummy portrait man with white tunic with purple clavis wood Manchester Museum 110-140 CE.jpg",
+      "kind": "film",
+      "photographer": "Allan Gluck",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "2f04f44e42fc2ec16c78c7947bc3dc3fc3dc",
+      "category": "film",
+      "people": "one",
+      "subjects": [
+        "portrait",
+        "people"
+      ]
+    },
+    {
+      "id": "089948cc-7406-496a-8eac-971b3f523461",
+      "title": "Iznik pottery, Iznik Archaeological Museum - 53477713566",
+      "titleEn": "Iznik pottery, Iznik Archaeological Museum 53477713566",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/089948cc-7406-496a-8eac-971b3f523461.jpg",
+      "thumbUrl": "/stills/089948cc-7406-496a-8eac-971b3f523461.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Iznik_pottery,_Iznik_Archaeological_Museum_-_53477713566.jpg",
+      "author": "Carole Raddato",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "buckets": [
+        "yellow",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#d1cec0",
+          "rgb": [
+            209,
+            206,
+            192
+          ],
+          "ratio": 0.3734809027777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#767668",
+          "rgb": [
+            118,
+            118,
+            104
+          ],
+          "ratio": 0.1838107638888889,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#999986",
+          "rgb": [
+            153,
+            153,
+            134
+          ],
+          "ratio": 0.15907118055555555,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#b7b39f",
+          "rgb": [
+            183,
+            179,
+            159
+          ],
+          "ratio": 0.1462673611111111,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#544c46",
+          "rgb": [
+            84,
+            76,
+            70
+          ],
+          "ratio": 0.13736979166666666,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-09-12T03:01:06.118Z",
+      "fileKey": "File:Iznik pottery, Iznik Archaeological Museum - 53477713566.jpg",
+      "kind": "photo",
+      "photographer": "Carole Raddato",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "00001fbff0fb13303d43f22d0211f71fffff",
+      "category": "photo",
+      "subjects": [
+        "design",
+        "pattern"
+      ]
+    },
+    {
+      "id": "36724c2b-efa0-45a7-a47e-da2cd826b766",
+      "title": "Murals painting at Ajanta caves by Shagil 09 31 22 841000",
+      "titleEn": "Murals painting at Ajanta caves by Shagil 09 31 22 841000",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/36724c2b-efa0-45a7-a47e-da2cd826b766.jpg",
+      "thumbUrl": "/stills/36724c2b-efa0-45a7-a47e-da2cd826b766.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Murals_painting_at_Ajanta_caves_by_Shagil_09_31_22_841000.jpeg",
+      "author": "Shagil Muzhappilangad",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "buckets": [
+        "brown",
+        "yellow",
+        "orange",
+        "black"
+      ],
+      "palette": [
+        {
+          "hex": "#3c2c1d",
+          "rgb": [
+            60,
+            44,
+            29
+          ],
+          "ratio": 0.23231336805555555,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#b6ab92",
+          "rgb": [
+            182,
+            171,
+            146
+          ],
+          "ratio": 0.21885850694444445,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#90826e",
+          "rgb": [
+            144,
+            130,
+            110
+          ],
+          "ratio": 0.21473524305555555,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#61503d",
+          "rgb": [
+            97,
+            80,
+            61
+          ],
+          "ratio": 0.1937934027777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#1a0f07",
+          "rgb": [
+            26,
+            15,
+            7
+          ],
+          "ratio": 0.14029947916666666,
+          "bucket": "black"
+        }
+      ],
+      "addedAt": "2026-09-12T03:01:07.324Z",
+      "fileKey": "File:Murals painting at Ajanta caves by Shagil 09 31 22 841000.jpeg",
+      "kind": "photo",
+      "photographer": "Shagil Muzhappilangad",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "002023066c08e3cf3cf3cf7ce7ce7ce3ce18",
+      "category": "painting",
+      "subjects": [
+        "ancient"
+      ]
+    },
+    {
+      "id": "68035986-c0ca-4126-933b-1ea6b46f8c25",
+      "title": "Strawberrythief",
+      "titleEn": "Strawberrythief",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/68035986-c0ca-4126-933b-1ea6b46f8c25.jpg",
+      "thumbUrl": "/stills/68035986-c0ca-4126-933b-1ea6b46f8c25.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Strawberrythief.jpg",
+      "author": "The original uploader was VAwebteam at English Wikipedia .",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Strawberrythief.jpg",
+      "buckets": [
+        "gray",
+        "brown",
+        "blue",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#6d6858",
+          "rgb": [
+            109,
+            104,
+            88
+          ],
+          "ratio": 0.3036024305555556,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#4e4d47",
+          "rgb": [
+            78,
+            77,
+            71
+          ],
+          "ratio": 0.2613932291666667,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#8d887e",
+          "rgb": [
+            141,
+            136,
+            126
+          ],
+          "ratio": 0.21278211805555555,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#2e2f3a",
+          "rgb": [
+            46,
+            47,
+            58
+          ],
+          "ratio": 0.1353081597222222,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#cec5b4",
+          "rgb": [
+            206,
+            197,
+            180
+          ],
+          "ratio": 0.0869140625,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-09-12T03:01:55.103Z",
+      "fileKey": "File:Strawberrythief.jpg",
+      "kind": "film",
+      "photographer": "The original uploader was VAwebteam at English Wikipedia .",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "5b7c04f1f1b52f9ecb0003513bb0e0000ffe"
     }
   ],
-  "lastIngestDate": "2026-09-11",
+  "lastIngestDate": "2026-09-12",
   "seenFileKeys": [
     "stills:04b85cc4-5a5c-4d95-9d52-460ceefa3ee5.jpg",
     "stills:0509b1d5-b5da-4b3c-8e65-edda97b86985.jpg",
@@ -335512,7 +339913,91 @@
     "File:Venus de Milo Louvre.jpg",
     "File:Hieronymus Bosch - The Garden of Earthly Delights - The Earthly Paradise (Garden of Eden).jpg",
     "File:Investigation on preferably oriented abnormal growth of CdSe nanorods along (0002) plane synthesized by henna leaf extract-mediated green synthesis.pdf",
-    "File:Bisajärvi in evening light from the southwest in Sipoonkorpi, Vantaa, Finland, 2021 May.jpg"
+    "File:Bisajärvi in evening light from the southwest in Sipoonkorpi, Vantaa, Finland, 2021 May.jpg",
+    "archive:mma_japanese_women_in_traditional_dress_288502",
+    "archive:mma_design_for_ecclesiastical_embroidery_363624",
+    "archive:mma_terracotta_statuette_of_a_woman_with_child_241094",
+    "File:SZ 深圳 Shenzhen 龍華 Longhua 旺民街 Wangmin Street 深圳美術館 Shenzhen Art Museum exhibition 中國剪紙藝術 Chinese paper cutting February 2025 R12S 208.jpg",
+    "File:Vanavasin, one of the 16 elders (Arhat or Sthavira) - 16th century Tibetan thangka.jpg",
+    "File:Живописное обозрение 1890, № 01-26 (1 янв. - 24 июня); № 27-52 (1 июля - 23 дек.) Page 0594.jpg",
+    "File:Iznik tiles, Istanbul Archaeological Museums.jpg",
+    "File:C1925 green satin dress with attached painted velvet wrap by Paul Poiret, Paris. 05.jpg",
+    "File:Yungang Grottoes Postcard.jpg",
+    "File:Tibetan astronomical Thangka 4.jpg",
+    "File:Iznik pottery, Iznik Archaeological Museum - 53476810052.jpg",
+    "File:William Morris, poet, craftsman, socialist; (IA williammorrispoe00cary).pdf",
+    "File:Barnsley Cemetery 4 November 2017 (138).JPG",
+    "File:Painting in Ajanta Cave 1-16.jpg",
+    "File:Mummy portrait young man with white tunic with dark red clavus Flavian hairstyle wood Manchester Museum 69-96 CE.jpg",
+    "File:Kusakabe Kimbei - 153. Japanese Tattoo.jpg",
+    "File:Живописное обозрение 1890, № 01-26 (1 янв. - 24 июня); № 27-52 (1 июля - 23 дек.) Page 0751.jpg",
+    "File:The Strawberry Thief, Mackay Crescent, Tadpole Garden Village, Swindon - geograph.org.uk - 7723987.jpg",
+    "File:Iznik pottery, Iznik Archaeological Museum - 53477713681.jpg",
+    "File:Iznik pottery, Leighton House, London - 53482274710.jpg",
+    "File:Paul Poiret - dress with tasseled sash cph.3b04585.jpg",
+    "File:Iznik pottery, Leighton House, London - 53481864716.jpg",
+    "File:Jardin de Paris la belle IRENE, AFF64(1).jpg",
+    "File:Knossos frise taureau.JPG",
+    "File:(H.A.S.C. No. 110-32) OVERVIEW OF MILITARY RESALE PROGRAMS (IA gov.gpo.fdsys.CHRG-110hhrg37318).pdf",
+    "File:Sichuan brocade, animal and dancing human figures.jpg",
+    "File:Rihanna Met Gala 2017.jpg",
+    "File:Iznik pottery, Leighton House, London - 53482005643.jpg",
+    "File:Iznik pottery, Iznik Archaeological Museum - 53477857928.jpg",
+    "File:Dunhuang Zhang Yichao army.jpg",
+    "File:Catalogue of an exhibition of the work of William Morris - the Municipal School Of Art, Manchester, October MCMVIII (IA catalogueofexhib00morr).pdf",
+    "File:Tissu d'ameublement (V&A Museum) (9483000084).jpg",
+    "File:Herculaneum 20230625 31.jpg",
+    "File:Iznik pottery, Leighton House, London - 53482168164.jpg",
+    "File:Живописное обозрение 1890, № 01-26 (1 янв. - 24 июня); № 27-52 (1 июля - 23 дек.) Page 0376.jpg",
+    "File:Judge v092 n2365 1927-02-26.Leslie-Judge (Darwination-IA).djvu",
+    "File:Starr 050307-4913 aerial photograph of Maui.jpg",
+    "File:Iznik pottery, Leighton House, London - 53480962527.jpg",
+    "File:Rihanna Met Gala 2014 (cropped).jpg",
+    "File:Graffiti protesting violence in Medellín.jpg",
+    "File:Iznik tiles, IMetropolitan Museum of Art, New York.jpg",
+    "File:Défilé album souvenir du voyage de Paul Poiret à Copenhague, invité à l’occasion de la semaine de la mode organisée pa, 1987.1.447.jpg",
+    "File:Japanese katana with horimono (blade carving).jpg",
+    "File:Thonet Bugholzstuhl.jpg",
+    "File:Iznik pottery, Leighton House, London - 53482168049.jpg",
+    "File:Живописное обозрение 1890, № 01-26 (1 янв. - 24 июня); № 27-52 (1 июля - 23 дек.) Page 0965.jpg",
+    "File:Moravská galerie 02 - Thonet-Mundus křeslo.jpg",
+    "File:Fayum portrait BM EA 65346.jpg",
+    "File:Iznik pottery, Iznik Archaeological Museum - 53477857973.jpg",
+    "File:Altamira 4.jpg",
+    "File:Knossos Bull-Leaping Fresco.jpg",
+    "File:Barnsley Cemetery 4 November 2017 (139a).jpg",
+    "File:A batch of proverbs - a comedietta in one act (IA batchofproverbsc00morr).pdf",
+    "File:Earth, Moon and Lunar Module, AS11-44-6643.jpg",
+    "File:Textile, The Strawberry Thief, designed 1883 (CH 18386443).jpg",
+    "File:Живописное обозрение 1890, № 01-26 (1 янв. - 24 июня); № 27-52 (1 июля - 23 дек.) Page 0417.jpg",
+    "File:Brooklyn Museum - Charm - 12.jpg",
+    "File:Bisonte de Altamira.jpg",
+    "File:Iznik pottery, Iznik Archaeological Museum - 53478027919.jpg",
+    "File:William Morris, poet, craftsman, socialist; (IA cu31924013528231).pdf",
+    "File:William Morris, poet, craftsman, socialist; (IA williammorrispoe00cary 0).pdf",
+    "File:Decorative textiles; an illustrated book on coverings for furniture, walls and floors, including damasks, brocades and velvets, tapestries, laces, embroideries, chintzes, cretonnes, drapery and (14783243972).jpg",
+    "File:Iznik pottery, Leighton House, London - 53482005648.jpg",
+    "File:Decorative textiles; an illustrated book on coverings for furniture, walls and floors, including damasks, brocades and velvets, tapestries, laces, embroideries, chintzes, cretones, drapery and (14598314819).jpg",
+    "File:Illustrated fashion catalogue - summer, 1890 (1890) (14597321320).jpg",
+    "File:Ball gown MET 49.3.27ab d.jpg",
+    "File:Theatrical costume MET CI46.9.73a F.jpg",
+    "File:Sierra Madre News 1920-06-18 (IA csie 000719).pdf",
+    "File:Iznik pottery, Leighton House, London - 53482168114.jpg",
+    "File:Barnsley Cemetery 4 November 2017 (139).JPG",
+    "File:Decorative art of William Morris and his work (IA decorativeartofw00dayl).pdf",
+    "File:Живописное обозрение 1890, № 01-26 (1 янв. - 24 июня); № 27-52 (1 июля - 23 дек.) Page 0054.jpg",
+    "File:Iznik pottery, Iznik Archaeological Museum - 53477857853.jpg",
+    "File:Живописное обозрение 1890, № 01-26 (1 янв. - 24 июня); № 27-52 (1 июля - 23 дек.) Page 1086.jpg",
+    "File:Iznik pottery, Iznik Archaeological Museum - 53477857943.jpg",
+    "File:Pompeii Ruins Fresco (48442834532).jpg",
+    "File:Alone (IA alone00harl 0).pdf",
+    "File:A description of the villa of Mr. Horace Walpole, youngest son of Sir Robert Walpole Earl of Orford, at Strawberry-Hill near Twickenham (IA descriptionofvil00walp 0).pdf",
+    "File:Iznik pottery, Leighton House, London - 53482005813.jpg",
+    "File:NASA Earth Day Exhibits (NHQ202304200014).jpg",
+    "File:Mummy portrait man with white tunic with purple clavis wood Manchester Museum 110-140 CE.jpg",
+    "File:Iznik pottery, Iznik Archaeological Museum - 53477713566.jpg",
+    "File:Murals painting at Ajanta caves by Shagil 09 31 22 841000.jpeg",
+    "File:Strawberrythief.jpg"
   ],
   "seenContentHashes": [
     "ff8f20c0481cf3cffcf7ce58ffcffcffcd7e",
@@ -339395,6 +343880,60 @@
     "c06e76f7ce1d06c0f7ce3ec3f07f27f06c02",
     "f0d819801981be3fe7bad00000000082ffff",
     "3ee67e3feffe1fe3fa10b00800040002e07f",
-    "ffffff5ff0793fdf877e01fe03e010000000"
+    "ffffff5ff0793fdf877e01fe03e010000000",
+    "000bf0ff8ffcfdcfecee41a419c4d80082f8",
+    "fff8ff07f07f07f03f03f07f07f07f1fffff",
+    "9a0ff8ff8df0fe0ff8ee0ff17f33f10e0040",
+    "00000846a1681fc978facfeced0ee80f80f8",
+    "fffe0f8f329c79efff7ff3fd000000000fff",
+    "0030000000001003fc3febffbffbffffffff",
+    "c07807c0fc0fc0fc0fe07e07647643703761",
+    "0011053fd3cd30f6976b770770773f70f6cf",
+    "fc1db0cd0decffeefcffcff4bf8f902c0200",
+    "3fc3843303703fc3fc3fc3fc3fc1fc1fc2fc",
+    "000d80fffffcff0d7fdb87d8ff8ff8000000",
+    "1830186e472233e7cc6666b23bc1dc6f2000",
+    "fc0ff0fc0f00fe8ff8ff8fe4fc8e00600080",
+    "6fbf9fbfefffe03e73e03604400000000000",
+    "fcffc3edd9bffb1f11a798f99f999ca008f0",
+    "ffff00c80c00800800990040003ffbffffff",
+    "7c07e07f07c87e01e03c07e8bf01cc1c81f0",
+    "f9ef9ff9ee7e9fc1040c21c64cc46c07487c",
+    "3e0000000000ff7fffffbef7c63000000180",
+    "fffd0b80388719d09921858e6f679f30f000",
+    "000c046080607e77fe7fef6ffee0300710f8",
+    "c93f9ff9f1b8b6da65000108b9daf0108000",
+    "1fc5fd0fc07447d00c07c00c01e0fe1fe103",
+    "8021fb1f93f93fd3ed3983f80600001e83fe",
+    "001e0df0ff0ff1ff0ff1ff1ff3ff9bf9ff9f",
+    "fffffffffff0c0080000008007f00f001000",
+    "603461df8df8bfcb7c9b81f806000057a57e",
+    "001001081403403501181780fc0fe6fffffa",
+    "ffffff9ff09f3ff00f04f04f000000000c80",
+    "1f01f01f01f00003f03f83f83f83f83f83f8",
+    "ff1bff9f99f113010c01881c0100f03f0ffe",
+    "0180100100180001c001f03e07f1ff7ff7ff",
+    "000000000ffbffffffffffdff8f706000000",
+    "fffff9ff0ff1fe1fc1e01c01080800e01fff",
+    "c71c11c83cefcefae726f0cf0cfb471c700e",
+    "00700101f10f1073873c71f93fe3ff7feece",
+    "fe7003400000000c01dc891b88f8ff87feff",
+    "0f00003f07c88dff9ffccffeffffff080000",
+    "fffffff0ff83c0380f8c7c03e01f01fc1ff1",
+    "fff000000000208e0e110040000000111fff",
+    "ffff80f00300000000000001b87fffffffff",
+    "f0100100100305337f37fb7da7f87fb5fe7f",
+    "04000070438f7d7fe77effdff9ff0f000000",
+    "fffffd3f81f80f8018830c31c01c03f03c03",
+    "0600600600602e07e47ec7fe7ee1fe07e064",
+    "fffe1ff1f8e78c384280581f83f046980c03",
+    "c03801881a97b899099098999ddbdffdff8f",
+    "000000000000e00f00f80fdeffffffffffff",
+    "ffffffffffff6040000001080683683fc0e0",
+    "fff1f31f33f03e0be1fa201800900f003fe0",
+    "2f04f44e42fc2ec16c78c7947bc3dc3fc3dc",
+    "00001fbff0fb13303d43f22d0211f71fffff",
+    "002023066c08e3cf3cf3cf7ce7ce7ce3ce18",
+    "5b7c04f1f1b52f9ecb0003513bb0e0000ffe"
   ]
 }
