@@ -335503,10 +335503,816 @@
       "kind": "film",
       "photographer": "NASA Headquarters / NASA/Keegan Barber",
       "sourceLabel": "维基共享资源",
-      "contentHash": "81e83f83d87f87f87fc3fc1ac010030f49f0"
+      "contentHash": "81e83f83d87f87f87fc3fc1ac010030f49f0",
+      "category": "film",
+      "subjects": [
+        "landscape"
+      ]
+    },
+    {
+      "id": "c4165d6f-627d-4a61-ac6f-8484b3627327",
+      "title": "Textile Sample Book",
+      "titleEn": "Textile Sample Book",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/c4165d6f-627d-4a61-ac6f-8484b3627327.jpg",
+      "thumbUrl": "/stills/c4165d6f-627d-4a61-ac6f-8484b3627327.jpg",
+      "pageUrl": "https://archive.org/details/mma_textile_sample_book_229168",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_textile_sample_book_229168",
+      "buckets": [
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#cccab8",
+          "rgb": [
+            204,
+            202,
+            184
+          ],
+          "ratio": 0.3599175347222222,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#e6e3d1",
+          "rgb": [
+            230,
+            227,
+            209
+          ],
+          "ratio": 0.2829861111111111,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#b1ae9d",
+          "rgb": [
+            177,
+            174,
+            157
+          ],
+          "ratio": 0.2328559027777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#f4e393",
+          "rgb": [
+            244,
+            227,
+            147
+          ],
+          "ratio": 0.0625,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#7d7655",
+          "rgb": [
+            125,
+            118,
+            85
+          ],
+          "ratio": 0.06174045138888889,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-09-14T02:04:12.854Z",
+      "fileKey": "archive:mma_textile_sample_book_229168",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "0307ff3fc03c03c1fc00500703f03fffffff",
+      "category": "photo",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "40f3b33f-780c-4975-904f-867e7e725e5f",
+      "title": "Portrait of Christ",
+      "titleEn": "Portrait of Christ",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/40f3b33f-780c-4975-904f-867e7e725e5f.jpg",
+      "thumbUrl": "/stills/40f3b33f-780c-4975-904f-867e7e725e5f.jpg",
+      "pageUrl": "https://www.metmuseum.org/art/collection/search/466575",
+      "author": "met",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#8a744e",
+          "rgb": [
+            138,
+            116,
+            78
+          ],
+          "ratio": 0.2862413194444444,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#6e593a",
+          "rgb": [
+            110,
+            89,
+            58
+          ],
+          "ratio": 0.2848307291666667,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#4f3f26",
+          "rgb": [
+            79,
+            63,
+            38
+          ],
+          "ratio": 0.18467881944444445,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#a59379",
+          "rgb": [
+            165,
+            147,
+            121
+          ],
+          "ratio": 0.1528862847222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d4c3a5",
+          "rgb": [
+            212,
+            195,
+            165
+          ],
+          "ratio": 0.09136284722222222,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-09-14T02:04:13.913Z",
+      "fileKey": "openverse:f182d9f9-caf6-4ddc-9da0-5db31b2a2213",
+      "kind": "photo",
+      "photographer": "met",
+      "sourceLabel": "Met Museum",
+      "contentHash": "ffffffffff9fb5bbed969861000000000021",
+      "category": "photo",
+      "people": "one",
+      "subjects": [
+        "portrait"
+      ]
+    },
+    {
+      "id": "c9e949de-9f7a-4d81-82bb-aecae8741abb",
+      "title": "Disciples Tomb (1764) Jean Honoré",
+      "titleEn": "Disciples Tomb (1764) Jean Honoré",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/c9e949de-9f7a-4d81-82bb-aecae8741abb.jpg",
+      "thumbUrl": "/stills/c9e949de-9f7a-4d81-82bb-aecae8741abb.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/10022346/the-disciples-the-tomb-1764-jean-honore-fragonard-and-jacopo-tintoretto",
+      "author": "rawpixel",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#e6d3b9",
+          "rgb": [
+            230,
+            211,
+            185
+          ],
+          "ratio": 0.3505859375,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#b8a791",
+          "rgb": [
+            184,
+            167,
+            145
+          ],
+          "ratio": 0.18229166666666666,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#9b8c7a",
+          "rgb": [
+            155,
+            140,
+            122
+          ],
+          "ratio": 0.1814236111111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d3c0a8",
+          "rgb": [
+            211,
+            192,
+            168
+          ],
+          "ratio": 0.1648220486111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#74695b",
+          "rgb": [
+            116,
+            105,
+            91
+          ],
+          "ratio": 0.1208767361111111,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-09-14T02:04:15.516Z",
+      "fileKey": "openverse:0b728153-3315-4001-b866-931404c76516",
+      "kind": "photo",
+      "photographer": "Disciples Tomb",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "85fcafc75ecfd71c01c01a19f01e01f87fc7",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "d716b189-7399-47ef-928a-a0fdcec451cf",
+      "title": "Tibetan astronomical Thangka 3",
+      "titleEn": "Tibetan astronomical Thangka 3",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/d716b189-7399-47ef-928a-a0fdcec451cf.jpg",
+      "thumbUrl": "/stills/d716b189-7399-47ef-928a-a0fdcec451cf.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Tibetan_astronomical_Thangka_3.jpg",
+      "author": "Unknown author Unknown author",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Tibetan_astronomical_Thangka_3.jpg",
+      "buckets": [
+        "orange",
+        "red",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#d67a3c",
+          "rgb": [
+            214,
+            122,
+            60
+          ],
+          "ratio": 0.3121744791666667,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#bd5c3d",
+          "rgb": [
+            189,
+            92,
+            61
+          ],
+          "ratio": 0.2642144097222222,
+          "bucket": "red"
+        },
+        {
+          "hex": "#994c38",
+          "rgb": [
+            153,
+            76,
+            56
+          ],
+          "ratio": 0.20149739583333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#73382d",
+          "rgb": [
+            115,
+            56,
+            45
+          ],
+          "ratio": 0.13411458333333334,
+          "bucket": "red"
+        },
+        {
+          "hex": "#d48f60",
+          "rgb": [
+            212,
+            143,
+            96
+          ],
+          "ratio": 0.08799913194444445,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-09-14T02:08:00.842Z",
+      "fileKey": "File:Tibetan astronomical Thangka 3.jpg",
+      "kind": "film",
+      "photographer": "Unknown author Unknown author",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "707ec3bf17b9f39ff9f597b85f0041803003",
+      "category": "film",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "d1a29ae4-e56e-496f-8128-e6ccc6799a0d",
+      "title": "SZ 深圳 Shenzhen 龍華 Longhua 旺民街 Wangmin Street 深圳美術館 Shenzhen Art Museum exhibition 中國剪紙藝術 Chinese paper curting February 2025 R12S 132",
+      "titleEn": "SZ 深圳 Shenzhen 龍華 Longhua 旺民街 Wangmin Street 深圳美術館 Shenzhen Art Museum exhibition 中國剪紙藝術 Chinese paper curting February 2025 R12S 132",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/d1a29ae4-e56e-496f-8128-e6ccc6799a0d.jpg",
+      "thumbUrl": "/stills/d1a29ae4-e56e-496f-8128-e6ccc6799a0d.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF_Longhua_%E6%97%BA%E6%B0%91%E8%A1%97_Wangmin_Street_%E6%B7%B1%E5%9C%B3%E7%BE%8E%E8%A1%93%E9%A4%A8_Shenzhen_Art_Museum_exhibition_%E4%B8%AD%E5%9C%8B%E5%89%AA%E7%B4%99%E8%97%9D%E8%A1%93_Chinese_paper_curting_February_2025_R12S_132.jpg",
+      "author": "ALB 302 AOE woapsing",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "buckets": [
+        "orange",
+        "gray",
+        "blue",
+        "brown",
+        "cyan"
+      ],
+      "palette": [
+        {
+          "hex": "#987a5f",
+          "rgb": [
+            152,
+            122,
+            95
+          ],
+          "ratio": 0.22840711805555555,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#b9b5b0",
+          "rgb": [
+            185,
+            181,
+            176
+          ],
+          "ratio": 0.2074652777777778,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#84a0ac",
+          "rgb": [
+            132,
+            160,
+            172
+          ],
+          "ratio": 0.20008680555555555,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#5b4d3f",
+          "rgb": [
+            91,
+            77,
+            63
+          ],
+          "ratio": 0.19715711805555555,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#4692b0",
+          "rgb": [
+            70,
+            146,
+            176
+          ],
+          "ratio": 0.16688368055555555,
+          "bucket": "cyan"
+        }
+      ],
+      "addedAt": "2026-09-14T02:09:00.280Z",
+      "fileKey": "File:SZ 深圳 Shenzhen 龍華 Longhua 旺民街 Wangmin Street 深圳美術館 Shenzhen Art Museum exhibition 中國剪紙藝術 Chinese paper curting February 2025 R12S 132.jpg",
+      "kind": "film",
+      "photographer": "ALB 302 AOE woapsing",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "ffffffffffffffffff48cc9fe01400000000",
+      "category": "film",
+      "subjects": [
+        "city"
+      ]
+    },
+    {
+      "id": "ddf762cb-9551-4244-9fda-0099ab0741b0",
+      "title": "Cave of the Painters, Left mural today",
+      "titleEn": "Cave of the Painters, Left mural today",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/ddf762cb-9551-4244-9fda-0099ab0741b0.jpg",
+      "thumbUrl": "/stills/ddf762cb-9551-4244-9fda-0099ab0741b0.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Cave_of_the_Painters,_Left_mural_today.jpg",
+      "author": "Painting: 6th-7th century painter, Kizil caves Photography: Undetermined",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Cave_of_the_Painters,_Left_mural_today.jpg",
+      "buckets": [
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#46433c",
+          "rgb": [
+            70,
+            67,
+            60
+          ],
+          "ratio": 0.2770182291666667,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#5a534b",
+          "rgb": [
+            90,
+            83,
+            75
+          ],
+          "ratio": 0.2720269097222222,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#766e69",
+          "rgb": [
+            118,
+            110,
+            105
+          ],
+          "ratio": 0.2243923611111111,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#969293",
+          "rgb": [
+            150,
+            146,
+            147
+          ],
+          "ratio": 0.1587456597222222,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#33312a",
+          "rgb": [
+            51,
+            49,
+            42
+          ],
+          "ratio": 0.06781684027777778,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-09-14T02:09:48.162Z",
+      "fileKey": "File:Cave of the Painters, Left mural today.jpg",
+      "kind": "photo",
+      "photographer": "Painting: 6th-7th century painter, Kizil caves Photography: Undetermined",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "1df1fe1f8bf0ef06e0dc0ee0cf8ff0fc0800",
+      "category": "painting",
+      "subjects": []
+    },
+    {
+      "id": "2de11d50-c06f-4679-af79-53a4e8d90b58",
+      "title": "Morris Strawberry Thief 1883 detail",
+      "titleEn": "Morris Strawberry Thief 1883 detail",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/2de11d50-c06f-4679-af79-53a4e8d90b58.jpg",
+      "thumbUrl": "/stills/2de11d50-c06f-4679-af79-53a4e8d90b58.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Morris_Strawberry_Thief_1883_detail.jpg",
+      "author": "William Morris",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Morris_Strawberry_Thief_1883_detail.jpg",
+      "buckets": [
+        "red",
+        "purple",
+        "blue"
+      ],
+      "palette": [
+        {
+          "hex": "#362e48",
+          "rgb": [
+            54,
+            46,
+            72
+          ],
+          "ratio": 0.2854817708333333,
+          "bucket": "purple"
+        },
+        {
+          "hex": "#5e4342",
+          "rgb": [
+            94,
+            67,
+            66
+          ],
+          "ratio": 0.2663845486111111,
+          "bucket": "red"
+        },
+        {
+          "hex": "#615e7f",
+          "rgb": [
+            97,
+            94,
+            127
+          ],
+          "ratio": 0.1742621527777778,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#89574e",
+          "rgb": [
+            137,
+            87,
+            78
+          ],
+          "ratio": 0.15299479166666666,
+          "bucket": "red"
+        },
+        {
+          "hex": "#a78279",
+          "rgb": [
+            167,
+            130,
+            121
+          ],
+          "ratio": 0.1208767361111111,
+          "bucket": "red"
+        }
+      ],
+      "addedAt": "2026-09-14T02:17:37.232Z",
+      "fileKey": "File:Morris Strawberry Thief 1883 detail.jpg",
+      "kind": "film",
+      "photographer": "William Morris",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "890e05b0d9992946f646720026470c7de090",
+      "category": "film",
+      "subjects": [
+        "people"
+      ]
+    },
+    {
+      "id": "e7b28418-3b55-4ebc-9457-5a8586253180",
+      "title": "Dunhuang Mogao Caves Dancer",
+      "titleEn": "Dunhuang Mogao Caves Dancer",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/e7b28418-3b55-4ebc-9457-5a8586253180.jpg",
+      "thumbUrl": "/stills/e7b28418-3b55-4ebc-9457-5a8586253180.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Dunhuang_Mogao_Caves_Dancer.jpg",
+      "author": "Unknown author Unknown author",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Dunhuang_Mogao_Caves_Dancer.jpg",
+      "buckets": [
+        "yellow",
+        "gray",
+        "orange",
+        "red"
+      ],
+      "palette": [
+        {
+          "hex": "#c6c4b2",
+          "rgb": [
+            198,
+            196,
+            178
+          ],
+          "ratio": 0.3004557291666667,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#ecece1",
+          "rgb": [
+            236,
+            236,
+            225
+          ],
+          "ratio": 0.2592230902777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#978680",
+          "rgb": [
+            151,
+            134,
+            128
+          ],
+          "ratio": 0.197265625,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#ceac7b",
+          "rgb": [
+            206,
+            172,
+            123
+          ],
+          "ratio": 0.1527777777777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#5f4648",
+          "rgb": [
+            95,
+            70,
+            72
+          ],
+          "ratio": 0.09027777777777778,
+          "bucket": "red"
+        }
+      ],
+      "addedAt": "2026-09-14T02:20:21.816Z",
+      "fileKey": "File:Dunhuang Mogao Caves Dancer.jpg",
+      "kind": "photo",
+      "photographer": "Unknown author Unknown author",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "0bf39398a06c0fe1ff1ff9fe0f20f20f10f3",
+      "category": "painting",
+      "subjects": [
+        "ancient"
+      ]
+    },
+    {
+      "id": "3fa95b8a-1aee-4cb1-adaf-90f8256b59fb",
+      "title": "Tibetan thangka (4533935694)",
+      "titleEn": "Tibetan thangka (4533935694)",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/3fa95b8a-1aee-4cb1-adaf-90f8256b59fb.jpg",
+      "thumbUrl": "/stills/3fa95b8a-1aee-4cb1-adaf-90f8256b59fb.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Tibetan_thangka_(4533935694).jpg",
+      "author": "Xuan Che from Addis Ababa",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "buckets": [
+        "orange",
+        "black",
+        "yellow",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#050402",
+          "rgb": [
+            5,
+            4,
+            2
+          ],
+          "ratio": 0.3524305555555556,
+          "bucket": "black"
+        },
+        {
+          "hex": "#271809",
+          "rgb": [
+            39,
+            24,
+            9
+          ],
+          "ratio": 0.2101779513888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#60300f",
+          "rgb": [
+            96,
+            48,
+            15
+          ],
+          "ratio": 0.16015625,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#c2b474",
+          "rgb": [
+            194,
+            180,
+            116
+          ],
+          "ratio": 0.15983072916666666,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#956a2f",
+          "rgb": [
+            149,
+            106,
+            47
+          ],
+          "ratio": 0.1174045138888889,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-09-14T02:37:09.295Z",
+      "fileKey": "File:Tibetan thangka (4533935694).jpg",
+      "kind": "film",
+      "photographer": "Tibetan thangka",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "0f81fc3fc3fc3fc3fc1f80e0000000000000",
+      "category": "film",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "a4c28fe4-6627-487f-a3ed-5008904d463e",
+      "title": "Iznik Tile title QS:P1476,en:\"Iznik Tile\" label QS:Len,\"Iznik Tile\"",
+      "titleEn": "Unknown, Turkey, 1560 Iznik Tile Google Art Project",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/a4c28fe4-6627-487f-a3ed-5008904d463e.jpg",
+      "thumbUrl": "/stills/a4c28fe4-6627-487f-a3ed-5008904d463e.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Unknown,_Turkey,_1560_-_Iznik_Tile_-_Google_Art_Project.jpg",
+      "author": "Unknown, Turkey, 1560 (Turkey)",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Unknown,_Turkey,_1560_-_Iznik_Tile_-_Google_Art_Project.jpg",
+      "buckets": [
+        "green",
+        "blue",
+        "gray",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#c8d4c3",
+          "rgb": [
+            200,
+            212,
+            195
+          ],
+          "ratio": 0.3461371527777778,
+          "bucket": "green"
+        },
+        {
+          "hex": "#104177",
+          "rgb": [
+            16,
+            65,
+            119
+          ],
+          "ratio": 0.3056640625,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#8ea09b",
+          "rgb": [
+            142,
+            160,
+            155
+          ],
+          "ratio": 0.14539930555555555,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#776f54",
+          "rgb": [
+            119,
+            111,
+            84
+          ],
+          "ratio": 0.1265190972222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#c8c9ca",
+          "rgb": [
+            200,
+            201,
+            202
+          ],
+          "ratio": 0.07628038194444445,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-09-14T02:48:04.637Z",
+      "fileKey": "File:Unknown, Turkey, 1560 - Iznik Tile - Google Art Project.jpg",
+      "kind": "photo",
+      "photographer": "Unknown, Turkey, 1560 (Turkey)",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "c9b89375574ddf710571dcb375d555005007"
     }
   ],
-  "lastIngestDate": "2026-09-13",
+  "lastIngestDate": "2026-09-14",
   "seenFileKeys": [
     "stills:04b85cc4-5a5c-4d95-9d52-460ceefa3ee5.jpg",
     "stills:0509b1d5-b5da-4b3c-8e65-edda97b86985.jpg",
@@ -341882,7 +342688,23 @@
     "File:Mural paintings at The Ajanta Caves (1).jpg",
     "File:Mural paintings at The Ajanta Caves (10).jpg",
     "File:Mural paintings at The Ajanta Caves (7).jpg",
-    "File:NASA Earth Day Exhibits (NHQ202304200006).jpg"
+    "File:NASA Earth Day Exhibits (NHQ202304200006).jpg",
+    "archive:mma_textile_sample_book_229168",
+    "openverse:f182d9f9-caf6-4ddc-9da0-5db31b2a2213",
+    "openverse:0b728153-3315-4001-b866-931404c76516",
+    "openverse:c6d98224-a2af-4d01-8d3c-423b98ddcf7f",
+    "File:Tibetan astronomical Thangka 3.jpg",
+    "File:Mary Leiter, Lady Curzon, wearing a 1903 gown by Jean-Philippe Worth.jpg",
+    "File:Yungang Grottoes, 1907 (10).jpg",
+    "File:SZ 深圳 Shenzhen 龍華 Longhua 旺民街 Wangmin Street 深圳美術館 Shenzhen Art Museum exhibition 中國剪紙藝術 Chinese paper curting February 2025 R12S 132.jpg",
+    "File:Cave of the Painters, Left mural today.jpg",
+    "File:Antique chippendale buffet.JPG",
+    "File:Morris Strawberry Thief 1883 detail.jpg",
+    "File:Dunhuang Mogao Caves Dancer.jpg",
+    "File:Ancient Greek Marble Aphrodite of Milos (Venus de Milo), 130-100 BC (28302841505).jpg",
+    "File:Herculaneum Fresco 001.jpg",
+    "File:Tibetan thangka (4533935694).jpg",
+    "File:Unknown, Turkey, 1560 - Iznik Tile - Google Art Project.jpg"
   ],
   "seenContentHashes": [
     "ff8f20c0481cf3cffcf7ce58ffcffcffcd7e",
@@ -345842,6 +346664,16 @@
     "dffc9ec00c7567a37006006026439f08f000",
     "00400002007007037b17f17eb7f27f07cfff",
     "0000000000f81f80fcddc7fe3fb3ff3ff7ff",
-    "81e83f83d87f87f87fc3fc1ac010030f49f0"
+    "81e83f83d87f87f87fc3fc1ac010030f49f0",
+    "0307ff3fc03c03c1fc00500703f03fffffff",
+    "ffffffffff9fb5bbed969861000000000021",
+    "85fcafc75ecfd71c01c01a19f01e01f87fc7",
+    "707ec3bf17b9f39ff9f597b85f0041803003",
+    "ffffffffffffffffff48cc9fe01400000000",
+    "1df1fe1f8bf0ef06e0dc0ee0cf8ff0fc0800",
+    "890e05b0d9992946f646720026470c7de090",
+    "0bf39398a06c0fe1ff1ff9fe0f20f20f10f3",
+    "0f81fc3fc3fc3fc3fc1f80e0000000000000",
+    "c9b89375574ddf710571dcb375d555005007"
   ]
 }
