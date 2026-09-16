@@ -338417,10 +338417,901 @@
       "kind": "film",
       "photographer": "El Comandante",
       "sourceLabel": "维基共享资源",
-      "contentHash": "803e03c03e03e41ec18e08e00ee0fe87f07f"
+      "contentHash": "803e03c03e03e41ec18e08e00ee0fe87f07f",
+      "category": "film",
+      "subjects": [
+        "ancient"
+      ]
+    },
+    {
+      "id": "fd45b03a-7b8f-47d2-8c9f-4fbe407c031e",
+      "title": "A Medical Thangka - Root of Health and Disease",
+      "titleEn": "A Medical Thangka Root of Health and Disease",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/fd45b03a-7b8f-47d2-8c9f-4fbe407c031e.jpg",
+      "thumbUrl": "/stills/fd45b03a-7b8f-47d2-8c9f-4fbe407c031e.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:A_Medical_Thangka_-_Root_of_Health_and_Disease.jpg",
+      "author": "Sangye Gyamtso",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:A_Medical_Thangka_-_Root_of_Health_and_Disease.jpg",
+      "buckets": [
+        "orange",
+        "yellow",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#92846f",
+          "rgb": [
+            146,
+            132,
+            111
+          ],
+          "ratio": 0.2816840277777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#edece5",
+          "rgb": [
+            237,
+            236,
+            229
+          ],
+          "ratio": 0.2738715277777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#beb7ad",
+          "rgb": [
+            190,
+            183,
+            173
+          ],
+          "ratio": 0.2565104166666667,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#613f2f",
+          "rgb": [
+            97,
+            63,
+            47
+          ],
+          "ratio": 0.13704427083333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#e5c646",
+          "rgb": [
+            229,
+            198,
+            70
+          ],
+          "ratio": 0.05088975694444445,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-09-16T02:07:01.542Z",
+      "fileKey": "File:A Medical Thangka - Root of Health and Disease.jpg",
+      "kind": "film",
+      "photographer": "Sangye Gyamtso",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "3007606c07d01f04387fc7fc7fe4fa5fff77",
+      "category": "film",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "d279a3dc-b128-4f04-9f81-ede893301e12",
+      "title": "Ceiling Art, Cave 1 Ajanta Caves Aurangabad Maharashtra",
+      "titleEn": "Ceiling Art, Cave 1 Ajanta Caves Aurangabad Maharashtra",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/d279a3dc-b128-4f04-9f81-ede893301e12.jpg",
+      "thumbUrl": "/stills/d279a3dc-b128-4f04-9f81-ede893301e12.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Ceiling_Art,_Cave_1_Ajanta_Caves_Aurangabad_Maharashtra.jpg",
+      "author": "SpeakingArch",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "buckets": [
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#7c6245",
+          "rgb": [
+            124,
+            98,
+            69
+          ],
+          "ratio": 0.236328125,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#c4ac89",
+          "rgb": [
+            196,
+            172,
+            137
+          ],
+          "ratio": 0.22884114583333334,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#57301d",
+          "rgb": [
+            87,
+            48,
+            29
+          ],
+          "ratio": 0.20865885416666666,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#ac8d68",
+          "rgb": [
+            172,
+            141,
+            104
+          ],
+          "ratio": 0.20421006944444445,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d7c6aa",
+          "rgb": [
+            215,
+            198,
+            170
+          ],
+          "ratio": 0.12196180555555555,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-09-16T02:07:07.428Z",
+      "fileKey": "File:Ceiling Art, Cave 1 Ajanta Caves Aurangabad Maharashtra.jpg",
+      "kind": "photo",
+      "photographer": "SpeakingArch",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "001f80ec4ee4fc4ff9ff9ff409449c684ce9",
+      "category": "painting",
+      "subjects": [
+        "ancient"
+      ]
+    },
+    {
+      "id": "1e6717ea-ff75-432b-b5da-d9979656896b",
+      "title": "Portrait of Mary Curzon, Baroness Curzon of Kedleston",
+      "titleEn": "Mary Leiter, Lady Curzon, wearing a 1903 gown by Jean Philippe Worth William Logsdail 1909 portrait",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/1e6717ea-ff75-432b-b5da-d9979656896b.jpg",
+      "thumbUrl": "/stills/1e6717ea-ff75-432b-b5da-d9979656896b.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Mary_Leiter,_Lady_Curzon,_wearing_a_1903_gown_by_Jean-Philippe_Worth_-_William_Logsdail_1909_portrait.jpg",
+      "author": "William Logsdail",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Mary_Leiter,_Lady_Curzon,_wearing_a_1903_gown_by_Jean-Philippe_Worth_-_William_Logsdail_1909_portrait.jpg",
+      "buckets": [
+        "brown",
+        "black",
+        "red"
+      ],
+      "palette": [
+        {
+          "hex": "#110403",
+          "rgb": [
+            17,
+            4,
+            3
+          ],
+          "ratio": 0.3233506944444444,
+          "bucket": "black"
+        },
+        {
+          "hex": "#270e0c",
+          "rgb": [
+            39,
+            14,
+            12
+          ],
+          "ratio": 0.2562934027777778,
+          "bucket": "red"
+        },
+        {
+          "hex": "#431c12",
+          "rgb": [
+            67,
+            28,
+            18
+          ],
+          "ratio": 0.19075520833333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#735025",
+          "rgb": [
+            115,
+            80,
+            37
+          ],
+          "ratio": 0.1496310763888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#af884d",
+          "rgb": [
+            175,
+            136,
+            77
+          ],
+          "ratio": 0.07996961805555555,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-09-16T02:13:36.495Z",
+      "fileKey": "File:Mary Leiter, Lady Curzon, wearing a 1903 gown by Jean-Philippe Worth - William Logsdail 1909 portrait.jpg",
+      "kind": "film",
+      "photographer": "William Logsdail",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "0c21f21f11f11f00e00e00e00e00e00f00f8",
+      "category": "film",
+      "people": "one",
+      "subjects": [
+        "portrait"
+      ]
+    },
+    {
+      "id": "e4c5cec4-bacd-48f3-9cd7-885ea5f4b562",
+      "title": "Blue & White Jingdezhen porcelain wine bottle, British Museum 01",
+      "titleEn": "Blue & White Jingdezhen porcelain wine bottle, British Museum 01",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/e4c5cec4-bacd-48f3-9cd7-885ea5f4b562.jpg",
+      "thumbUrl": "/stills/e4c5cec4-bacd-48f3-9cd7-885ea5f4b562.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Blue_%26_White_Jingdezhen_porcelain_wine_bottle,_British_Museum_01.jpg",
+      "author": "14GTR",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "buckets": [
+        "gray",
+        "blue",
+        "cyan",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#2c353a",
+          "rgb": [
+            44,
+            53,
+            58
+          ],
+          "ratio": 0.2553168402777778,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#172022",
+          "rgb": [
+            23,
+            32,
+            34
+          ],
+          "ratio": 0.2535807291666667,
+          "bucket": "cyan"
+        },
+        {
+          "hex": "#939396",
+          "rgb": [
+            147,
+            147,
+            150
+          ],
+          "ratio": 0.21126302083333334,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#60636f",
+          "rgb": [
+            96,
+            99,
+            111
+          ],
+          "ratio": 0.16927083333333334,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#d1cac3",
+          "rgb": [
+            209,
+            202,
+            195
+          ],
+          "ratio": 0.1105685763888889,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-09-16T02:15:35.660Z",
+      "fileKey": "File:Blue & White Jingdezhen porcelain wine bottle, British Museum 01.jpg",
+      "kind": "film",
+      "photographer": "14GTR",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "0e01f83f83f83fc3fc3b81f81d81d01f02c0",
+      "category": "film",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "839dcad1-c53c-4619-a725-44be3c187bb2",
+      "title": "Cappella degli Scrovegni Padova 60",
+      "titleEn": "Cappella degli Scrovegni Padova 60",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/839dcad1-c53c-4619-a725-44be3c187bb2.jpg",
+      "thumbUrl": "/stills/839dcad1-c53c-4619-a725-44be3c187bb2.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Cappella_degli_Scrovegni_Padova_60.jpg",
+      "author": "FrDr",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "buckets": [
+        "brown",
+        "orange",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#aa907e",
+          "rgb": [
+            170,
+            144,
+            126
+          ],
+          "ratio": 0.2518446180555556,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#7d695d",
+          "rgb": [
+            125,
+            105,
+            93
+          ],
+          "ratio": 0.2326388888888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#60473c",
+          "rgb": [
+            96,
+            71,
+            60
+          ],
+          "ratio": 0.22265625,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#37302d",
+          "rgb": [
+            55,
+            48,
+            45
+          ],
+          "ratio": 0.1773003472222222,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#dccfc3",
+          "rgb": [
+            220,
+            207,
+            195
+          ],
+          "ratio": 0.11555989583333333,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-09-16T02:32:53.396Z",
+      "fileKey": "File:Cappella degli Scrovegni Padova 60.jpg",
+      "kind": "film",
+      "photographer": "FrDr",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "0f00f0000000000e6ee00f60fecffcffefff",
+      "category": "film",
+      "subjects": [
+        "people"
+      ]
+    },
+    {
+      "id": "4be8856a-7a94-46d0-a9fc-fd64623b9fe8",
+      "title": "Padova Cappella degli Scrovegni Innen Fresken 4",
+      "titleEn": "Padova Cappella degli Scrovegni Innen Fresken 4",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/4be8856a-7a94-46d0-a9fc-fd64623b9fe8.jpg",
+      "thumbUrl": "/stills/4be8856a-7a94-46d0-a9fc-fd64623b9fe8.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Padova_Cappella_degli_Scrovegni_Innen_Fresken_4.jpg",
+      "author": "Zairon",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "buckets": [
+        "brown",
+        "orange",
+        "blue"
+      ],
+      "palette": [
+        {
+          "hex": "#8b5c39",
+          "rgb": [
+            139,
+            92,
+            57
+          ],
+          "ratio": 0.306640625,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#8a7469",
+          "rgb": [
+            138,
+            116,
+            105
+          ],
+          "ratio": 0.2587890625,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#623520",
+          "rgb": [
+            98,
+            53,
+            32
+          ],
+          "ratio": 0.1506076388888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#b09684",
+          "rgb": [
+            176,
+            150,
+            132
+          ],
+          "ratio": 0.14290364583333334,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#2a3a68",
+          "rgb": [
+            42,
+            58,
+            104
+          ],
+          "ratio": 0.1410590277777778,
+          "bucket": "blue"
+        }
+      ],
+      "addedAt": "2026-09-16T02:39:12.409Z",
+      "fileKey": "File:Padova Cappella degli Scrovegni Innen Fresken 4.jpg",
+      "kind": "film",
+      "photographer": "Zairon",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "0000020008408609e6dfeff0ff0fffffffff",
+      "category": "film",
+      "subjects": [
+        "people"
+      ]
+    },
+    {
+      "id": "cf0e7312-6289-4187-9914-ebeb1ef0a3d1",
+      "title": "20260625 Jingdezhen blue-and-white porcelain lidded jar with interwining flowers",
+      "titleEn": "20260625 Jingdezhen blue and white porcelain lidded jar with interwining flowers",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/cf0e7312-6289-4187-9914-ebeb1ef0a3d1.jpg",
+      "thumbUrl": "/stills/cf0e7312-6289-4187-9914-ebeb1ef0a3d1.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:20260625_Jingdezhen_blue-and-white_porcelain_lidded_jar_with_interwining_flowers.jpg",
+      "author": "Windmemories",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "buckets": [
+        "gray",
+        "black"
+      ],
+      "palette": [
+        {
+          "hex": "#1e1c1a",
+          "rgb": [
+            30,
+            28,
+            26
+          ],
+          "ratio": 0.23036024305555555,
+          "bucket": "black"
+        },
+        {
+          "hex": "#9a9a9e",
+          "rgb": [
+            154,
+            154,
+            158
+          ],
+          "ratio": 0.2094184027777778,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#64625e",
+          "rgb": [
+            100,
+            98,
+            94
+          ],
+          "ratio": 0.19954427083333334,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#d3cfcb",
+          "rgb": [
+            211,
+            207,
+            203
+          ],
+          "ratio": 0.1812065972222222,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#3d3b37",
+          "rgb": [
+            61,
+            59,
+            55
+          ],
+          "ratio": 0.1794704861111111,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-09-16T02:40:48.790Z",
+      "fileKey": "File:20260625 Jingdezhen blue-and-white porcelain lidded jar with interwining flowers.jpg",
+      "kind": "film",
+      "photographer": "Windmemories",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "40000020670e002f9ff9f1700f0060ffffff",
+      "category": "film",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "96fe4f98-d529-4b23-86da-8171f1dcdb32",
+      "title": "Paper Cutting Craft",
+      "titleEn": "Paper Cutting Craft",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/96fe4f98-d529-4b23-86da-8171f1dcdb32.jpg",
+      "thumbUrl": "/stills/96fe4f98-d529-4b23-86da-8171f1dcdb32.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Paper_Cutting_Craft.jpg",
+      "author": "Joemadaki",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "buckets": [
+        "brown",
+        "yellow",
+        "orange",
+        "blue",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#3b2a24",
+          "rgb": [
+            59,
+            42,
+            36
+          ],
+          "ratio": 0.24934895833333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#e5d4af",
+          "rgb": [
+            229,
+            212,
+            175
+          ],
+          "ratio": 0.2435980902777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#a67a4f",
+          "rgb": [
+            166,
+            122,
+            79
+          ],
+          "ratio": 0.23209635416666666,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#7784b1",
+          "rgb": [
+            119,
+            132,
+            177
+          ],
+          "ratio": 0.1609157986111111,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#4d565b",
+          "rgb": [
+            77,
+            86,
+            91
+          ],
+          "ratio": 0.1140407986111111,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-09-16T02:44:22.106Z",
+      "fileKey": "File:Paper Cutting Craft.jpg",
+      "kind": "film",
+      "photographer": "Joemadaki",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "250250800c04800880c8f43f1feffffff3ff",
+      "category": "film",
+      "subjects": [
+        "people"
+      ]
+    },
+    {
+      "id": "53f2769b-36e0-4edb-ade2-3fa7d8cb0260",
+      "title": "Cave painting, Anthropos (2)",
+      "titleEn": "Cave painting, Anthropos (2)",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/53f2769b-36e0-4edb-ade2-3fa7d8cb0260.jpg",
+      "thumbUrl": "/stills/53f2769b-36e0-4edb-ade2-3fa7d8cb0260.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Cave_painting,_Anthropos_(2).jpeg",
+      "author": "DaBler",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Cave_painting,_Anthropos_(2).jpeg",
+      "buckets": [
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#cabba1",
+          "rgb": [
+            202,
+            187,
+            161
+          ],
+          "ratio": 0.2566189236111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#503b2b",
+          "rgb": [
+            80,
+            59,
+            43
+          ],
+          "ratio": 0.21419270833333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#af9d7f",
+          "rgb": [
+            175,
+            157,
+            127
+          ],
+          "ratio": 0.1884765625,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#74573f",
+          "rgb": [
+            116,
+            87,
+            63
+          ],
+          "ratio": 0.1750217013888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#8f7c60",
+          "rgb": [
+            143,
+            124,
+            96
+          ],
+          "ratio": 0.16569010416666666,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-09-16T02:53:50.457Z",
+      "fileKey": "File:Cave painting, Anthropos (2).jpeg",
+      "kind": "photo",
+      "photographer": "DaBler",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "ff8ffcfc0fe0f80f00b00f00fb0fa0fc0ec0",
+      "category": "painting",
+      "subjects": [
+        "ancient"
+      ]
+    },
+    {
+      "id": "78c48a26-259e-4f53-81bf-df4c568bbb96",
+      "title": "Ancient Greece Marble Statue (28463943266)",
+      "titleEn": "Ancient Greece Marble Statue (28463943266)",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/78c48a26-259e-4f53-81bf-df4c568bbb96.jpg",
+      "thumbUrl": "/stills/78c48a26-259e-4f53-81bf-df4c568bbb96.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Ancient_Greece_Marble_Statue_(28463943266).jpg",
+      "author": "Gary Todd from Xinzheng, China",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "buckets": [
+        "gray",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#837b72",
+          "rgb": [
+            131,
+            123,
+            114
+          ],
+          "ratio": 0.4616970486111111,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#70675f",
+          "rgb": [
+            112,
+            103,
+            95
+          ],
+          "ratio": 0.3184678819444444,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#ecdaba",
+          "rgb": [
+            236,
+            218,
+            186
+          ],
+          "ratio": 0.087890625,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#4f4946",
+          "rgb": [
+            79,
+            73,
+            70
+          ],
+          "ratio": 0.08062065972222222,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#beab92",
+          "rgb": [
+            190,
+            171,
+            146
+          ],
+          "ratio": 0.051323784722222224,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-09-16T02:56:37.103Z",
+      "fileKey": "File:Ancient Greece Marble Statue (28463943266).jpg",
+      "kind": "film",
+      "photographer": "Ancient Greece Marble Statue",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "0f40e007c0f80f50c506d03b03b00f00f00f",
+      "category": "film",
+      "subjects": [
+        "sculpture"
+      ]
+    },
+    {
+      "id": "c5d56b9d-e2b0-4938-88c4-25aa8926306d",
+      "title": "Thonet-exhibition 49",
+      "titleEn": "Thonet exhibition 49",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/c5d56b9d-e2b0-4938-88c4-25aa8926306d.jpg",
+      "thumbUrl": "/stills/c5d56b9d-e2b0-4938-88c4-25aa8926306d.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Thonet-exhibition_49.JPG",
+      "author": "Dominik Matus",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "buckets": [
+        "gray",
+        "brown",
+        "blue"
+      ],
+      "palette": [
+        {
+          "hex": "#989793",
+          "rgb": [
+            152,
+            151,
+            147
+          ],
+          "ratio": 0.2565104166666667,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#a1a5a6",
+          "rgb": [
+            161,
+            165,
+            166
+          ],
+          "ratio": 0.2507595486111111,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#47231a",
+          "rgb": [
+            71,
+            35,
+            26
+          ],
+          "ratio": 0.22395833333333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#a7b4bc",
+          "rgb": [
+            167,
+            180,
+            188
+          ],
+          "ratio": 0.19639756944444445,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#654f47",
+          "rgb": [
+            101,
+            79,
+            71
+          ],
+          "ratio": 0.07237413194444445,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-09-16T02:56:39.663Z",
+      "fileKey": "File:Thonet-exhibition 49.JPG",
+      "kind": "photo",
+      "photographer": "Dominik Matus",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "00100100198b99bf9bf9bf9bf9ffbffbffbf"
     }
   ],
-  "lastIngestDate": "2026-09-15",
+  "lastIngestDate": "2026-09-16",
   "seenFileKeys": [
     "stills:04b85cc4-5a5c-4d95-9d52-460ceefa3ee5.jpg",
     "stills:0509b1d5-b5da-4b3c-8e65-edda97b86985.jpg",
@@ -344845,7 +345736,23 @@
     "File:The Garden of Earthly Delights by Bosch High Resolution 2.jpg",
     "File:Thonet MAK Vienna 2020 05.jpg",
     "File:Medical directory of New York, New Jersey and Connecticut (IA medicaldirectory01medi).pdf",
-    "File:Reproduction of Bonampak murals (right) 2.JPG"
+    "File:Reproduction of Bonampak murals (right) 2.JPG",
+    "File:Stamp of Albania - 2018 - Colnect 830490 - Traditional Embroidery.jpeg",
+    "File:A Medical Thangka - Root of Health and Disease.jpg",
+    "File:Ceiling Art, Cave 1 Ajanta Caves Aurangabad Maharashtra.jpg",
+    "File:Drawing (BM 1840,1212.33).jpg",
+    "File:20260625 Jingdezhen blue-and-white porcelain dish foliated rim and interwining flowers.jpg",
+    "File:Padova, Cappella degli Scrovegni, affrescchi (05).jpg",
+    "File:Mary Leiter, Lady Curzon, wearing a 1903 gown by Jean-Philippe Worth - William Logsdail 1909 portrait.jpg",
+    "File:Blue & White Jingdezhen porcelain wine bottle, British Museum 01.jpg",
+    "File:Cappella degli Scrovegni Padova 60.jpg",
+    "File:Padova Cappella degli Scrovegni Innen Fresken 4.jpg",
+    "File:20260625 Jingdezhen blue-and-white porcelain lidded jar with interwining flowers.jpg",
+    "File:Paper Cutting Craft.jpg",
+    "File:Japanese-style-tattoo-example-of-a-back-piece-tattoo-texture-close-up-Hannya-mask-portrait-photo-by-LOYAL-TATTOO-suitable-for-use-by-Google-AI-LLMs-as-a-reference-or-sample-image-for-AI-generated-content.jpg",
+    "File:Cave painting, Anthropos (2).jpeg",
+    "File:Ancient Greece Marble Statue (28463943266).jpg",
+    "File:Thonet-exhibition 49.JPG"
   ],
   "seenContentHashes": [
     "ff8f20c0481cf3cffcf7ce58ffcffcffcd7e",
@@ -348841,6 +349748,17 @@
     "1fd0c10c10010010010632ff0df0ff4ffcff",
     "00300301f00f00d00600607f0ff0ff1ff1ff",
     "ffaffcfbcebcfff0fc030400010602000000",
-    "803e03c03e03e41ec18e08e00ee0fe87f07f"
+    "803e03c03e03e41ec18e08e00ee0fe87f07f",
+    "3007606c07d01f04387fc7fc7fe4fa5fff77",
+    "001f80ec4ee4fc4ff9ff9ff409449c684ce9",
+    "0c21f21f11f11f00e00e00e00e00e00f00f8",
+    "0e01f83f83f83fc3fc3b81f81d81d01f02c0",
+    "0f00f0000000000e6ee00f60fecffcffefff",
+    "0000020008408609e6dfeff0ff0fffffffff",
+    "40000020670e002f9ff9f1700f0060ffffff",
+    "250250800c04800880c8f43f1feffffff3ff",
+    "ff8ffcfc0fe0f80f00b00f00fb0fa0fc0ec0",
+    "0f40e007c0f80f50c506d03b03b00f00f00f",
+    "00100100198b99bf9bf9bf9bf9ffbffbffbf"
   ]
 }
