@@ -340439,10 +340439,570 @@
       "kind": "photo",
       "photographer": "Hieronymus Bosch",
       "sourceLabel": "维基共享资源",
-      "contentHash": "3fe37f03f1bc178001a01c03000600fd0fb3"
+      "contentHash": "3fe37f03f1bc178001a01c03000600fd0fb3",
+      "category": "painting",
+      "subjects": [
+        "nature"
+      ]
+    },
+    {
+      "id": "61426eac-d1af-41a5-af70-86700b06607d",
+      "title": "Dressing gown",
+      "titleEn": "Dressing gown",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/61426eac-d1af-41a5-af70-86700b06607d.jpg",
+      "thumbUrl": "/stills/61426eac-d1af-41a5-af70-86700b06607d.jpg",
+      "pageUrl": "https://archive.org/details/mma_dressing_gown_108696",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dressing_gown_108696",
+      "buckets": [
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#c44b1b",
+          "rgb": [
+            196,
+            75,
+            27
+          ],
+          "ratio": 0.3308376736111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#88381a",
+          "rgb": [
+            136,
+            56,
+            26
+          ],
+          "ratio": 0.22916666666666666,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#301f15",
+          "rgb": [
+            48,
+            31,
+            21
+          ],
+          "ratio": 0.21766493055555555,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#cb9f61",
+          "rgb": [
+            203,
+            159,
+            97
+          ],
+          "ratio": 0.11664496527777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#9b7145",
+          "rgb": [
+            155,
+            113,
+            69
+          ],
+          "ratio": 0.1056857638888889,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-09-18T01:56:41.156Z",
+      "fileKey": "archive:mma_dressing_gown_108696",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "b72b72b72bfab72b72b72b7a972b76972b72",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "2b7ba749-c9c5-4301-a995-75e9865a5619",
+      "title": "Recollections and impressions of James A. McNeill Whistler",
+      "titleEn": "Recollections and impressions of James A. McNeill Whistler",
+      "titleZh": "",
+      "director": "",
+      "source": "loc",
+      "imageUrl": "/stills/2b7ba749-c9c5-4301-a995-75e9865a5619.jpg",
+      "thumbUrl": "/stills/2b7ba749-c9c5-4301-a995-75e9865a5619.jpg",
+      "pageUrl": "https://www.loc.gov/item/03031473/",
+      "author": "Library of Congress",
+      "license": "No known restrictions / public domain",
+      "licenseUrl": "https://www.loc.gov/item/03031473/",
+      "buckets": [
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#e7e1c9",
+          "rgb": [
+            231,
+            225,
+            201
+          ],
+          "ratio": 0.5709635416666666,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#ded3b7",
+          "rgb": [
+            222,
+            211,
+            183
+          ],
+          "ratio": 0.2723524305555556,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#3b3833",
+          "rgb": [
+            59,
+            56,
+            51
+          ],
+          "ratio": 0.06532118055555555,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#b5a990",
+          "rgb": [
+            181,
+            169,
+            144
+          ],
+          "ratio": 0.058051215277777776,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#f2edd0",
+          "rgb": [
+            242,
+            237,
+            208
+          ],
+          "ratio": 0.03331163194444445,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-09-18T01:56:42.200Z",
+      "fileKey": "loc:http://www.loc.gov/item/03031473/",
+      "kind": "photo",
+      "photographer": "James McNeill Whistler",
+      "sourceLabel": "美国国会图书馆",
+      "contentHash": "ffcffcffcffcffeffce7ef7effeffeffeffe",
+      "category": "painting",
+      "subjects": []
+    },
+    {
+      "id": "4faa8a06-de29-423d-8670-7abcd47b6a85",
+      "title": "VI.17 Herculaneum. September 2019. Looking towards east wall of triclinium 13. Photo courtesy of Klaus Heese.",
+      "titleEn": "VI.17 Herculaneum. September 2019. Looking towards east wall of triclinium 13. Photo courtesy of Klaus Heese.",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/4faa8a06-de29-423d-8670-7abcd47b6a85.jpg",
+      "thumbUrl": "/stills/4faa8a06-de29-423d-8670-7abcd47b6a85.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:VI.17_Herculaneum._September_2019._Looking_towards_east_wall_of_triclinium_13._Photo_courtesy_of_Klaus_Heese..jpg",
+      "author": "Ancient Roman frescos of Pompeii",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:VI.17_Herculaneum._September_2019._Looking_towards_east_wall_of_triclinium_13._Photo_courtesy_of_Klaus_Heese..jpg",
+      "buckets": [
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#a2887e",
+          "rgb": [
+            162,
+            136,
+            126
+          ],
+          "ratio": 0.3245442708333333,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#c1aa9e",
+          "rgb": [
+            193,
+            170,
+            158
+          ],
+          "ratio": 0.22081163194444445,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#876b62",
+          "rgb": [
+            135,
+            107,
+            98
+          ],
+          "ratio": 0.20909288194444445,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#6a5046",
+          "rgb": [
+            106,
+            80,
+            70
+          ],
+          "ratio": 0.1605902777777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#543d34",
+          "rgb": [
+            84,
+            61,
+            52
+          ],
+          "ratio": 0.0849609375,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-09-18T02:00:04.592Z",
+      "fileKey": "File:VI.17 Herculaneum. September 2019. Looking towards east wall of triclinium 13. Photo courtesy of Klaus Heese..jpg",
+      "kind": "film",
+      "photographer": "Ancient Roman frescos of Pompeii",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "03b05700700f07f03f03f07f0ff8ffaffdbf",
+      "category": "film",
+      "subjects": [
+        "ancient"
+      ]
+    },
+    {
+      "id": "4bd74e24-9051-4cd2-b4d7-dbe7cae857a6",
+      "title": "Kizil Cave 83 mural",
+      "titleEn": "Kizil Cave 83 mural",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/4bd74e24-9051-4cd2-b4d7-dbe7cae857a6.jpg",
+      "thumbUrl": "/stills/4bd74e24-9051-4cd2-b4d7-dbe7cae857a6.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Kizil_Cave_83_mural.jpg",
+      "author": "Painter: 5th century CE Photograph: undetermined",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Kizil_Cave_83_mural.jpg",
+      "buckets": [
+        "orange",
+        "gray",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#ddc09a",
+          "rgb": [
+            221,
+            192,
+            154
+          ],
+          "ratio": 0.2248263888888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#e8dbc1",
+          "rgb": [
+            232,
+            219,
+            193
+          ],
+          "ratio": 0.2136501736111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#b8b293",
+          "rgb": [
+            184,
+            178,
+            147
+          ],
+          "ratio": 0.2029079861111111,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#8e8e75",
+          "rgb": [
+            142,
+            142,
+            117
+          ],
+          "ratio": 0.1999782986111111,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#54564b",
+          "rgb": [
+            84,
+            86,
+            75
+          ],
+          "ratio": 0.1586371527777778,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-09-18T02:00:10.608Z",
+      "fileKey": "File:Kizil Cave 83 mural.jpg",
+      "kind": "photo",
+      "photographer": "Painter: 5th century CE Photograph: undetermined",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "0004fc6f6ef6efe0e7377ffeffcbbc136010",
+      "category": "painting",
+      "subjects": [
+        "ancient"
+      ]
+    },
+    {
+      "id": "116a2b47-8cc2-4a70-88ca-0cf0603e01c0",
+      "title": "Stourhead OpenArmchair Thomas Chippendale the Younger January2024 NT CCBYSA open",
+      "titleEn": "Stourhead OpenArmchair Thomas Chippendale the Younger January2024 NT CCBYSA open",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/116a2b47-8cc2-4a70-88ca-0cf0603e01c0.jpg",
+      "thumbUrl": "/stills/116a2b47-8cc2-4a70-88ca-0cf0603e01c0.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Stourhead_OpenArmchair_Thomas_Chippendale_the_Younger_January2024_NT_CCBYSA_open.jpg",
+      "author": "James Dobson, photographer employed by National Trust",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "buckets": [
+        "white",
+        "brown",
+        "red"
+      ],
+      "palette": [
+        {
+          "hex": "#f4f4f4",
+          "rgb": [
+            244,
+            244,
+            244
+          ],
+          "ratio": 0.5639105902777778,
+          "bucket": "white"
+        },
+        {
+          "hex": "#643526",
+          "rgb": [
+            100,
+            53,
+            38
+          ],
+          "ratio": 0.2241753472222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#8c6b63",
+          "rgb": [
+            140,
+            107,
+            99
+          ],
+          "ratio": 0.09526909722222222,
+          "bucket": "red"
+        },
+        {
+          "hex": "#c0b0ad",
+          "rgb": [
+            192,
+            176,
+            173
+          ],
+          "ratio": 0.06239149305555555,
+          "bucket": "red"
+        },
+        {
+          "hex": "#fbfdfd",
+          "rgb": [
+            251,
+            253,
+            253
+          ],
+          "ratio": 0.054253472222222224,
+          "bucket": "cyan"
+        }
+      ],
+      "addedAt": "2026-09-18T02:03:06.297Z",
+      "fileKey": "File:Stourhead OpenArmchair Thomas Chippendale the Younger January2024 NT CCBYSA open.jpg",
+      "kind": "photo",
+      "photographer": "James Dobson, photographer employed by National Trust",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "e7f99f99fdcfc01c41c05c01c01d7df7ff7f",
+      "category": "photo",
+      "subjects": [
+        "design"
+      ]
+    },
+    {
+      "id": "d5108a12-5708-45d8-b76d-956789a86a3e",
+      "title": "Application of mehendi (henna) design on hand in India",
+      "titleEn": "India",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/d5108a12-5708-45d8-b76d-956789a86a3e.jpg",
+      "thumbUrl": "/stills/d5108a12-5708-45d8-b76d-956789a86a3e.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Application_of_mehendi_(henna)_design_on_hand_in_India.jpg",
+      "author": "The open draft",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "buckets": [
+        "red"
+      ],
+      "palette": [
+        {
+          "hex": "#d5907a",
+          "rgb": [
+            213,
+            144,
+            122
+          ],
+          "ratio": 0.2534722222222222,
+          "bucket": "red"
+        },
+        {
+          "hex": "#a95e51",
+          "rgb": [
+            169,
+            94,
+            81
+          ],
+          "ratio": 0.21223958333333334,
+          "bucket": "red"
+        },
+        {
+          "hex": "#814742",
+          "rgb": [
+            129,
+            71,
+            66
+          ],
+          "ratio": 0.1996527777777778,
+          "bucket": "red"
+        },
+        {
+          "hex": "#c37864",
+          "rgb": [
+            195,
+            120,
+            100
+          ],
+          "ratio": 0.1899956597222222,
+          "bucket": "red"
+        },
+        {
+          "hex": "#573030",
+          "rgb": [
+            87,
+            48,
+            48
+          ],
+          "ratio": 0.14463975694444445,
+          "bucket": "red"
+        }
+      ],
+      "addedAt": "2026-09-18T02:35:12.405Z",
+      "fileKey": "File:Application of mehendi (henna) design on hand in India.jpg",
+      "kind": "film",
+      "photographer": "The open draft",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "bc2ac20c214e1ef086806c0663a7fb3ff0ff",
+      "category": "film",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "7dee4f0f-44e2-42fe-90f6-b6469ce1110c",
+      "title": "Venus de Milo, 25 May 2009 001",
+      "titleEn": "Venus de Milo, 25 May 2009 001",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/7dee4f0f-44e2-42fe-90f6-b6469ce1110c.jpg",
+      "thumbUrl": "/stills/7dee4f0f-44e2-42fe-90f6-b6469ce1110c.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Venus_de_Milo,_25_May_2009_001.jpg",
+      "author": "Sharon Mollerus",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "buckets": [
+        "gray",
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#786e64",
+          "rgb": [
+            120,
+            110,
+            100
+          ],
+          "ratio": 0.2888454861111111,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#bbb6b2",
+          "rgb": [
+            187,
+            182,
+            178
+          ],
+          "ratio": 0.2143012152777778,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#5a4e3c",
+          "rgb": [
+            90,
+            78,
+            60
+          ],
+          "ratio": 0.2056206597222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#9f9284",
+          "rgb": [
+            159,
+            146,
+            132
+          ],
+          "ratio": 0.15104166666666666,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#332f27",
+          "rgb": [
+            51,
+            47,
+            39
+          ],
+          "ratio": 0.1401909722222222,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-09-18T02:38:51.138Z",
+      "fileKey": "File:Venus de Milo, 25 May 2009 001.jpg",
+      "kind": "film",
+      "photographer": "Sharon Mollerus",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "0770e31f11f90f80380f00f01f81f81fc3fc"
     }
   ],
-  "lastIngestDate": "2026-09-17",
+  "lastIngestDate": "2026-09-18",
   "seenFileKeys": [
     "stills:04b85cc4-5a5c-4d95-9d52-460ceefa3ee5.jpg",
     "stills:0509b1d5-b5da-4b3c-8e65-edda97b86985.jpg",
@@ -346899,7 +347459,17 @@
     "File:Живописное обозрение 1890, № 01-26 (1 янв. - 24 июня); № 27-52 (1 июля - 23 дек.) Page 1233.jpg",
     "File:Blue nylon ball gown 2007.154.jpg",
     "File:Knossos frise taureau-edit.png",
-    "File:Hieronymus Bosch - Triptych of Garden of Earthly Delights (detail) - WGA2526.jpg"
+    "File:Hieronymus Bosch - Triptych of Garden of Earthly Delights (detail) - WGA2526.jpg",
+    "archive:mma_dressing_gown_108696",
+    "loc:http://www.loc.gov/item/03031473/",
+    "File:A Tattooed Girl. (1836) - TIMEA.jpg",
+    "File:VI.17 Herculaneum. September 2019. Looking towards east wall of triclinium 13. Photo courtesy of Klaus Heese..jpg",
+    "File:Kizil Cave 83 mural.jpg",
+    "File:Aerial landscape (AM 82224-1).jpg",
+    "File:Stourhead OpenArmchair Thomas Chippendale the Younger January2024 NT CCBYSA open.jpg",
+    "File:Application of mehendi (henna) design on hand in India.jpg",
+    "File:French Chairs, in Chippendale Drawings, Vol. I MET DP-14278-013.jpg",
+    "File:Venus de Milo, 25 May 2009 001.jpg"
   ],
   "seenContentHashes": [
     "ff8f20c0481cf3cffcf7ce58ffcffcffcd7e",
@@ -350920,6 +351490,13 @@
     "000007407c0fc1fc1fc0fc1fc0f80f006002",
     "ccfcefbefb77967867877870870830838838",
     "ec0a84fc00008011003c807c000fffffdfff",
-    "3fe37f03f1bc178001a01c03000600fd0fb3"
+    "3fe37f03f1bc178001a01c03000600fd0fb3",
+    "b72b72b72bfab72b72b72b7a972b76972b72",
+    "ffcffcffcffcffeffce7ef7effeffeffeffe",
+    "03b05700700f07f03f03f07f0ff8ffaffdbf",
+    "0004fc6f6ef6efe0e7377ffeffcbbc136010",
+    "e7f99f99fdcfc01c41c05c01c01d7df7ff7f",
+    "bc2ac20c214e1ef086806c0663a7fb3ff0ff",
+    "0770e31f11f90f80380f00f01f81f81fc3fc"
   ]
 }
