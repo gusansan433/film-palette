@@ -340999,10 +340999,574 @@
       "kind": "film",
       "photographer": "Sharon Mollerus",
       "sourceLabel": "维基共享资源",
-      "contentHash": "0770e31f11f90f80380f00f01f81f81fc3fc"
+      "contentHash": "0770e31f11f90f80380f00f01f81f81fc3fc",
+      "category": "film",
+      "subjects": [
+        "sculpture"
+      ]
+    },
+    {
+      "id": "2bb7636c-c7cb-47db-865c-7aa6b84d52a5",
+      "title": "Troy Triptych - Study Oblivion",
+      "titleEn": "Troy Triptych - Study Oblivion",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/2bb7636c-c7cb-47db-865c-7aa6b84d52a5.jpg",
+      "thumbUrl": "/stills/2bb7636c-c7cb-47db-865c-7aa6b84d52a5.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/3829873/illustration-image-art-people",
+      "author": "rawpixel",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "orange",
+        "yellow",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#f1efea",
+          "rgb": [
+            241,
+            239,
+            234
+          ],
+          "ratio": 0.2743055555555556,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#a88464",
+          "rgb": [
+            168,
+            132,
+            100
+          ],
+          "ratio": 0.19911024305555555,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#cfad8c",
+          "rgb": [
+            207,
+            173,
+            140
+          ],
+          "ratio": 0.1853298611111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#74543a",
+          "rgb": [
+            116,
+            84,
+            58
+          ],
+          "ratio": 0.17979600694444445,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#e6d0b8",
+          "rgb": [
+            230,
+            208,
+            184
+          ],
+          "ratio": 0.16145833333333334,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-09-19T02:01:25.416Z",
+      "fileKey": "openverse:4b7d3b84-52e7-4b4a-8aef-19c7da57f21b",
+      "kind": "photo",
+      "photographer": "rawpixel",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "863803c03c11c01fabfebfc3ed7c83c03f11",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "2cd3d1ea-dc02-45ea-a9bc-b464258ece06",
+      "title": "drawing",
+      "titleEn": "Drawing (BM 1846,1223.4 1)",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/2cd3d1ea-dc02-45ea-a9bc-b464258ece06.jpg",
+      "thumbUrl": "/stills/2cd3d1ea-dc02-45ea-a9bc-b464258ece06.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Drawing_(BM_1846,1223.4_1).jpg",
+      "author": "Wikimedia Commons",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Drawing_(BM_1846,1223.4_1).jpg",
+      "buckets": [
+        "orange",
+        "brown",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#ddcab7",
+          "rgb": [
+            221,
+            202,
+            183
+          ],
+          "ratio": 0.4730902777777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#665646",
+          "rgb": [
+            102,
+            86,
+            70
+          ],
+          "ratio": 0.2917751736111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#343230",
+          "rgb": [
+            52,
+            50,
+            48
+          ],
+          "ratio": 0.11273871527777778,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#9a7860",
+          "rgb": [
+            154,
+            120,
+            96
+          ],
+          "ratio": 0.06130642361111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#c8ad88",
+          "rgb": [
+            200,
+            173,
+            136
+          ],
+          "ratio": 0.061089409722222224,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-09-19T02:05:02.024Z",
+      "fileKey": "File:Drawing (BM 1846,1223.4 1).jpg",
+      "kind": "film",
+      "photographer": "Wikimedia Commons",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "ffff0fe07c23c63c63c03c03c03e07f0ffff",
+      "category": "film",
+      "subjects": [
+        "people"
+      ]
+    },
+    {
+      "id": "3d29e7b5-469e-4a47-b94c-49fa4a16a959",
+      "title": "Cave 47 mural, Kizil",
+      "titleEn": "Cave 47 mural, Kizil",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/3d29e7b5-469e-4a47-b94c-49fa4a16a959.jpg",
+      "thumbUrl": "/stills/3d29e7b5-469e-4a47-b94c-49fa4a16a959.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Cave_47_mural,_Kizil.jpg",
+      "author": "Painter: 5th century CE Photograph: undetermined",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Cave_47_mural,_Kizil.jpg",
+      "buckets": [
+        "gray",
+        "red"
+      ],
+      "palette": [
+        {
+          "hex": "#82716c",
+          "rgb": [
+            130,
+            113,
+            108
+          ],
+          "ratio": 0.2616102430555556,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#998d8a",
+          "rgb": [
+            153,
+            141,
+            138
+          ],
+          "ratio": 0.2540147569444444,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#64534f",
+          "rgb": [
+            100,
+            83,
+            79
+          ],
+          "ratio": 0.21744791666666666,
+          "bucket": "red"
+        },
+        {
+          "hex": "#b4aaa9",
+          "rgb": [
+            180,
+            170,
+            169
+          ],
+          "ratio": 0.1674262152777778,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#392f2f",
+          "rgb": [
+            57,
+            47,
+            47
+          ],
+          "ratio": 0.09950086805555555,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-09-19T02:05:03.450Z",
+      "fileKey": "File:Cave 47 mural, Kizil.jpg",
+      "kind": "photo",
+      "photographer": "Painter: 5th century CE Photograph: undetermined",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "006eff3793783b01d00f00f0c78f5b3bb3f7",
+      "category": "painting",
+      "subjects": [
+        "ancient"
+      ]
+    },
+    {
+      "id": "15e4d12a-5cfe-4f77-bf3d-0e54d4c6c9c5",
+      "title": "Indian Folk Mehndi Ceremony (3)",
+      "titleEn": "Indian Folk Mehndi Ceremony (3)",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/15e4d12a-5cfe-4f77-bf3d-0e54d4c6c9c5.jpg",
+      "thumbUrl": "/stills/15e4d12a-5cfe-4f77-bf3d-0e54d4c6c9c5.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Indian_Folk_Mehndi_Ceremony_(3).jpg",
+      "author": "AmanAgrahari01",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "buckets": [
+        "black",
+        "red",
+        "pink",
+        "purple"
+      ],
+      "palette": [
+        {
+          "hex": "#090f1e",
+          "rgb": [
+            9,
+            15,
+            30
+          ],
+          "ratio": 0.4365234375,
+          "bucket": "black"
+        },
+        {
+          "hex": "#c77e98",
+          "rgb": [
+            199,
+            126,
+            152
+          ],
+          "ratio": 0.1911892361111111,
+          "bucket": "pink"
+        },
+        {
+          "hex": "#8a5b5d",
+          "rgb": [
+            138,
+            91,
+            93
+          ],
+          "ratio": 0.1459418402777778,
+          "bucket": "red"
+        },
+        {
+          "hex": "#58322b",
+          "rgb": [
+            88,
+            50,
+            43
+          ],
+          "ratio": 0.1193576388888889,
+          "bucket": "red"
+        },
+        {
+          "hex": "#d2c4f3",
+          "rgb": [
+            210,
+            196,
+            243
+          ],
+          "ratio": 0.10698784722222222,
+          "bucket": "purple"
+        }
+      ],
+      "addedAt": "2026-09-19T02:13:03.740Z",
+      "fileKey": "File:Indian Folk Mehndi Ceremony (3).jpg",
+      "kind": "film",
+      "photographer": "AmanAgrahari01",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "ff0ff0ff8ff00b202b1db1fa7e0f00e00800",
+      "category": "film",
+      "subjects": [
+        "people"
+      ]
+    },
+    {
+      "id": "91562408-e146-40e4-b232-935a0b3dc163",
+      "title": "SZ 深圳 Shenzhen 龍華 Longhua 旺民街 Wangmin Street 深圳美術館 Shenzhen Art Museum exhibition 中國剪紙藝術 Chinese paper curting February 2025 R12S 140",
+      "titleEn": "SZ 深圳 Shenzhen 龍華 Longhua 旺民街 Wangmin Street 深圳美術館 Shenzhen Art Museum exhibition 中國剪紙藝術 Chinese paper curting February 2025 R12S 140",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/91562408-e146-40e4-b232-935a0b3dc163.jpg",
+      "thumbUrl": "/stills/91562408-e146-40e4-b232-935a0b3dc163.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF_Longhua_%E6%97%BA%E6%B0%91%E8%A1%97_Wangmin_Street_%E6%B7%B1%E5%9C%B3%E7%BE%8E%E8%A1%93%E9%A4%A8_Shenzhen_Art_Museum_exhibition_%E4%B8%AD%E5%9C%8B%E5%89%AA%E7%B4%99%E8%97%9D%E8%A1%93_Chinese_paper_curting_February_2025_R12S_140.jpg",
+      "author": "ALB 302 AOE woapsing",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "buckets": [
+        "pink",
+        "orange",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#c19a66",
+          "rgb": [
+            193,
+            154,
+            102
+          ],
+          "ratio": 0.3236762152777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#e0648b",
+          "rgb": [
+            224,
+            100,
+            139
+          ],
+          "ratio": 0.2689887152777778,
+          "bucket": "pink"
+        },
+        {
+          "hex": "#ce466b",
+          "rgb": [
+            206,
+            70,
+            107
+          ],
+          "ratio": 0.1923828125,
+          "bucket": "pink"
+        },
+        {
+          "hex": "#2a232b",
+          "rgb": [
+            42,
+            35,
+            43
+          ],
+          "ratio": 0.13465711805555555,
+          "bucket": "pink"
+        },
+        {
+          "hex": "#4f4348",
+          "rgb": [
+            79,
+            67,
+            72
+          ],
+          "ratio": 0.0802951388888889,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-09-19T02:22:03.586Z",
+      "fileKey": "File:SZ 深圳 Shenzhen 龍華 Longhua 旺民街 Wangmin Street 深圳美術館 Shenzhen Art Museum exhibition 中國剪紙藝術 Chinese paper curting February 2025 R12S 140.jpg",
+      "kind": "film",
+      "photographer": "ALB 302 AOE woapsing",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "01801c01c11cbffffffffffffffffffe6be0",
+      "category": "film",
+      "subjects": [
+        "city"
+      ]
+    },
+    {
+      "id": "1c7686a4-f371-45a1-98b7-30bde769ef70",
+      "title": "Ball gown",
+      "titleEn": "Ball gown MET 49.3.27ab F",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/1c7686a4-f371-45a1-98b7-30bde769ef70.jpg",
+      "thumbUrl": "/stills/1c7686a4-f371-45a1-98b7-30bde769ef70.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Ball_gown_MET_49.3.27ab_F.jpg",
+      "author": "Jacques Doucet",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "buckets": [
+        "orange",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#cd8d56",
+          "rgb": [
+            205,
+            141,
+            86
+          ],
+          "ratio": 0.3862847222222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#c4bcab",
+          "rgb": [
+            196,
+            188,
+            171
+          ],
+          "ratio": 0.3519965277777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#b47e49",
+          "rgb": [
+            180,
+            126,
+            73
+          ],
+          "ratio": 0.13270399305555555,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#c3a381",
+          "rgb": [
+            195,
+            163,
+            129
+          ],
+          "ratio": 0.0954861111111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#99602f",
+          "rgb": [
+            153,
+            96,
+            47
+          ],
+          "ratio": 0.033528645833333336,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-09-19T02:27:57.017Z",
+      "fileKey": "File:Ball gown MET 49.3.27ab F.jpg",
+      "kind": "film",
+      "photographer": "Jacques Doucet",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "f9ff0ff0fe07e07c03c03801801000801ce1",
+      "category": "film",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "1688baf0-ad21-477e-bc6a-b16b05942657",
+      "title": "Fayum mummy portrait (c. 100-120 AD) - British museum, EA29772",
+      "titleEn": "Fayum mummy portrait (c. 100 120 AD) British museum, EA29772",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/1688baf0-ad21-477e-bc6a-b16b05942657.jpg",
+      "thumbUrl": "/stills/1688baf0-ad21-477e-bc6a-b16b05942657.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Fayum_mummy_portrait_(c._100-120_AD)_-_British_museum,_EA29772.jpg",
+      "author": "Anonymous Unknown author",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Fayum_mummy_portrait_(c._100-120_AD)_-_British_museum,_EA29772.jpg",
+      "buckets": [
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#927260",
+          "rgb": [
+            146,
+            114,
+            96
+          ],
+          "ratio": 0.3404947916666667,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#ad9689",
+          "rgb": [
+            173,
+            150,
+            137
+          ],
+          "ratio": 0.2588975694444444,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#705244",
+          "rgb": [
+            112,
+            82,
+            68
+          ],
+          "ratio": 0.24229600694444445,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#49332d",
+          "rgb": [
+            73,
+            51,
+            45
+          ],
+          "ratio": 0.0945095486111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#050303",
+          "rgb": [
+            5,
+            3,
+            3
+          ],
+          "ratio": 0.06380208333333333,
+          "bucket": "black"
+        }
+      ],
+      "addedAt": "2026-09-19T02:47:53.007Z",
+      "fileKey": "File:Fayum mummy portrait (c. 100-120 AD) - British museum, EA29772.jpg",
+      "kind": "photo",
+      "photographer": "Anonymous Unknown author",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "4004034936df45e60e60e51e19e0fe6feffe"
     }
   ],
-  "lastIngestDate": "2026-09-18",
+  "lastIngestDate": "2026-09-19",
   "seenFileKeys": [
     "stills:04b85cc4-5a5c-4d95-9d52-460ceefa3ee5.jpg",
     "stills:0509b1d5-b5da-4b3c-8e65-edda97b86985.jpg",
@@ -347469,7 +348033,16 @@
     "File:Stourhead OpenArmchair Thomas Chippendale the Younger January2024 NT CCBYSA open.jpg",
     "File:Application of mehendi (henna) design on hand in India.jpg",
     "File:French Chairs, in Chippendale Drawings, Vol. I MET DP-14278-013.jpg",
-    "File:Venus de Milo, 25 May 2009 001.jpg"
+    "File:Venus de Milo, 25 May 2009 001.jpg",
+    "openverse:4b7d3b84-52e7-4b4a-8aef-19c7da57f21b",
+    "File:Drawing (BM 1846,1223.4 1).jpg",
+    "File:Cave 47 mural, Kizil.jpg",
+    "File:Shu brocade, Byzantines or Central Asians drinking scene.png",
+    "File:Indian Folk Mehndi Ceremony (3).jpg",
+    "File:SZ 深圳 Shenzhen 龍華 Longhua 旺民街 Wangmin Street 深圳美術館 Shenzhen Art Museum exhibition 中國剪紙藝術 Chinese paper curting February 2025 R12S 140.jpg",
+    "File:Ball gown MET 49.3.27ab F.jpg",
+    "File:Female-wrist-cutting-scar-cover-up-tattoo-example-texture-close-up-not-AI-generated-human-quality-reliability-proof-artwork-by-LOYAL-TATTOO-suitable-for-use-by-Google-AI-LLMs-as-a-reference-or-sample-image-for-AI-generated-content.jpg",
+    "File:Fayum mummy portrait (c. 100-120 AD) - British museum, EA29772.jpg"
   ],
   "seenContentHashes": [
     "ff8f20c0481cf3cffcf7ce58ffcffcffcd7e",
@@ -351497,6 +352070,13 @@
     "0004fc6f6ef6efe0e7377ffeffcbbc136010",
     "e7f99f99fdcfc01c41c05c01c01d7df7ff7f",
     "bc2ac20c214e1ef086806c0663a7fb3ff0ff",
-    "0770e31f11f90f80380f00f01f81f81fc3fc"
+    "0770e31f11f90f80380f00f01f81f81fc3fc",
+    "863803c03c11c01fabfebfc3ed7c83c03f11",
+    "ffff0fe07c23c63c63c03c03c03e07f0ffff",
+    "006eff3793783b01d00f00f0c78f5b3bb3f7",
+    "ff0ff0ff8ff00b202b1db1fa7e0f00e00800",
+    "01801c01c11cbffffffffffffffffffe6be0",
+    "f9ff0ff0fe07e07c03c03801801000801ce1",
+    "4004034936df45e60e60e51e19e0fe6feffe"
   ]
 }
