@@ -341563,10 +341563,1294 @@
       "kind": "photo",
       "photographer": "Anonymous Unknown author",
       "sourceLabel": "维基共享资源",
-      "contentHash": "4004034936df45e60e60e51e19e0fe6feffe"
+      "contentHash": "4004034936df45e60e60e51e19e0fe6feffe",
+      "category": "painting",
+      "people": "one",
+      "subjects": [
+        "portrait",
+        "ancient"
+      ]
+    },
+    {
+      "id": "9988061e-0375-4e8f-bbfa-ae6014a8e29f",
+      "title": "Polygraphice: or, The arts of drawing, engraving, etching, limning, painting, washing, varnishing, gilding, colouring, dying, beautifying and perfuming ... : To which also is added, I. The one hundred and twelve chymical arcanums of Petrus Johannes Faber ... II. An abstract of choice chymical preparation, fitted for vulgar use, for curing most diseases incident to humane bodies",
+      "titleEn": "Polygraphice: or, The arts of drawing, engraving, etching, limning, painting, washing, varnishing, gilding, colouring, dying, beautifying and perfuming ... : To which also is added, I. The one hundred and twelve chymical arcanums of Petrus Johannes Faber ... II. An abstract of choice chymical preparation, fitted for vulgar use, for curing most diseases incident to humane bodies",
+      "titleZh": "",
+      "director": "",
+      "source": "loc",
+      "imageUrl": "/stills/9988061e-0375-4e8f-bbfa-ae6014a8e29f.jpg",
+      "thumbUrl": "/stills/9988061e-0375-4e8f-bbfa-ae6014a8e29f.jpg",
+      "pageUrl": "https://www.loc.gov/item/09023683/",
+      "author": "Library of Congress",
+      "license": "No known restrictions / public domain",
+      "licenseUrl": "https://www.loc.gov/item/09023683/",
+      "buckets": [
+        "brown",
+        "black"
+      ],
+      "palette": [
+        {
+          "hex": "#463126",
+          "rgb": [
+            70,
+            49,
+            38
+          ],
+          "ratio": 0.3913845486111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#352824",
+          "rgb": [
+            53,
+            40,
+            36
+          ],
+          "ratio": 0.3047960069444444,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#534338",
+          "rgb": [
+            83,
+            67,
+            56
+          ],
+          "ratio": 0.1343315972222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#1c1919",
+          "rgb": [
+            28,
+            25,
+            25
+          ],
+          "ratio": 0.11729600694444445,
+          "bucket": "black"
+        },
+        {
+          "hex": "#766a5d",
+          "rgb": [
+            118,
+            106,
+            93
+          ],
+          "ratio": 0.052191840277777776,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-09-20T02:06:07.523Z",
+      "fileKey": "loc:http://www.loc.gov/item/09023683/",
+      "kind": "photo",
+      "photographer": "Library of Congress",
+      "sourceLabel": "美国国会图书馆",
+      "contentHash": "1fe5fe0000781781f81f807c1f87fe000180",
+      "category": "painting",
+      "people": "none",
+      "subjects": []
+    },
+    {
+      "id": "4ab231b9-b29c-41a9-a600-b63a57dd84db",
+      "title": "Red Shirt, Homosassa, Florida (1904)",
+      "titleEn": "Red Shirt, Homosassa, Florida (1904)",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/4ab231b9-b29c-41a9-a600-b63a57dd84db.jpg",
+      "thumbUrl": "/stills/4ab231b9-b29c-41a9-a600-b63a57dd84db.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/8231258/image-watercolor-art-vintage",
+      "author": "nationalgalleryofart",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "gray",
+        "yellow",
+        "green"
+      ],
+      "palette": [
+        {
+          "hex": "#494f4c",
+          "rgb": [
+            73,
+            79,
+            76
+          ],
+          "ratio": 0.265625,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#e6e0c3",
+          "rgb": [
+            230,
+            224,
+            195
+          ],
+          "ratio": 0.232421875,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#727c6d",
+          "rgb": [
+            114,
+            124,
+            109
+          ],
+          "ratio": 0.2074652777777778,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#9da596",
+          "rgb": [
+            157,
+            165,
+            150
+          ],
+          "ratio": 0.1498480902777778,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#bdc3b3",
+          "rgb": [
+            189,
+            195,
+            179
+          ],
+          "ratio": 0.14463975694444445,
+          "bucket": "green"
+        }
+      ],
+      "addedAt": "2026-09-20T02:06:08.922Z",
+      "fileKey": "openverse:1bdfa83d-63a3-4a06-8d8f-3f17f2c4dd03",
+      "kind": "photo",
+      "photographer": "nationalgalleryofart",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "fffffffbf31f62ff4166c01f001000000c07",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "2b76d002-720b-4711-9a3c-1d05be9bbc7c",
+      "title": "Pernille Kirkeby ll, Little Norwegian",
+      "titleEn": "Pernille Kirkeby ll, Little Norwegian",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/2b76d002-720b-4711-9a3c-1d05be9bbc7c.jpg",
+      "thumbUrl": "/stills/2b76d002-720b-4711-9a3c-1d05be9bbc7c.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/2043880/pernille-kirkeby",
+      "author": "themet",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "orange",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#ece2cf",
+          "rgb": [
+            236,
+            226,
+            207
+          ],
+          "ratio": 0.4320746527777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#e8dfcc",
+          "rgb": [
+            232,
+            223,
+            204
+          ],
+          "ratio": 0.3758680555555556,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#e1d7c5",
+          "rgb": [
+            225,
+            215,
+            197
+          ],
+          "ratio": 0.10286458333333333,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#eee5d1",
+          "rgb": [
+            238,
+            229,
+            209
+          ],
+          "ratio": 0.0517578125,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#d0c6b6",
+          "rgb": [
+            208,
+            198,
+            182
+          ],
+          "ratio": 0.037434895833333336,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-09-20T02:06:10.174Z",
+      "fileKey": "openverse:386844d0-58e8-4ff8-90a1-3cdb61230a48",
+      "kind": "photo",
+      "photographer": "themet",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "f0ff0fe77cb39a7967b77677a77073032070",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "9be81a1a-8f2a-407f-a9af-6310a9cd09bf",
+      "title": "Raphael 's Disputation Holy Sacrament",
+      "titleEn": "Raphael 's Disputation Holy Sacrament",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/9be81a1a-8f2a-407f-a9af-6310a9cd09bf.jpg",
+      "thumbUrl": "/stills/9be81a1a-8f2a-407f-a9af-6310a9cd09bf.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/3848204/illustration-image-art-people",
+      "author": "rawpixel",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "orange",
+        "white",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#bcaf9c",
+          "rgb": [
+            188,
+            175,
+            156
+          ],
+          "ratio": 0.2712673611111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#9c784e",
+          "rgb": [
+            156,
+            120,
+            78
+          ],
+          "ratio": 0.19325086805555555,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#e2e1dc",
+          "rgb": [
+            226,
+            225,
+            220
+          ],
+          "ratio": 0.19140625,
+          "bucket": "white"
+        },
+        {
+          "hex": "#584840",
+          "rgb": [
+            88,
+            72,
+            64
+          ],
+          "ratio": 0.17664930555555555,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#928881",
+          "rgb": [
+            146,
+            136,
+            129
+          ],
+          "ratio": 0.1674262152777778,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-09-20T02:06:12.210Z",
+      "fileKey": "openverse:6594e57b-1fd5-48de-99a2-36ba9bf838eb",
+      "kind": "photo",
+      "photographer": "Raphael",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "000000d10f5c24c1f1ceffffec0c00ff8ffe",
+      "category": "painting",
+      "subjects": []
+    },
+    {
+      "id": "e1901788-4dc8-4286-a8b2-7531a6a55721",
+      "title": "Raphael 's Madonna Goldfinch (1505–1506)",
+      "titleEn": "Raphael 's Madonna Goldfinch (1505–1506)",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/e1901788-4dc8-4286-a8b2-7531a6a55721.jpg",
+      "thumbUrl": "/stills/e1901788-4dc8-4286-a8b2-7531a6a55721.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/3848217/illustration-image-art-people",
+      "author": "rawpixel",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "orange",
+        "brown",
+        "purple",
+        "blue"
+      ],
+      "palette": [
+        {
+          "hex": "#5f5345",
+          "rgb": [
+            95,
+            83,
+            69
+          ],
+          "ratio": 0.3128255208333333,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#1e1b21",
+          "rgb": [
+            30,
+            27,
+            33
+          ],
+          "ratio": 0.2163628472222222,
+          "bucket": "purple"
+        },
+        {
+          "hex": "#a18065",
+          "rgb": [
+            161,
+            128,
+            101
+          ],
+          "ratio": 0.1824001736111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#dbd0c1",
+          "rgb": [
+            219,
+            208,
+            193
+          ],
+          "ratio": 0.1589626736111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#8da1ad",
+          "rgb": [
+            141,
+            161,
+            173
+          ],
+          "ratio": 0.1294487847222222,
+          "bucket": "blue"
+        }
+      ],
+      "addedAt": "2026-09-20T02:06:14.372Z",
+      "fileKey": "openverse:bcd60ce2-881f-4457-becf-57c174184b15",
+      "kind": "photo",
+      "photographer": "Raphael",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "fffffff7fe44c8e9b69b0610a18610290090",
+      "category": "painting",
+      "subjects": []
+    },
+    {
+      "id": "ffabe8ab-08a7-4b0b-b80d-fe914c5d623a",
+      "title": "Mrs. Robinson Sir Joshua Reynolds",
+      "titleEn": "Mrs. Robinson Sir Joshua Reynolds",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/ffabe8ab-08a7-4b0b-b80d-fe914c5d623a.jpg",
+      "thumbUrl": "/stills/ffabe8ab-08a7-4b0b-b80d-fe914c5d623a.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/9490661/mrs-robinson",
+      "author": "rawpixel",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#8d7a6c",
+          "rgb": [
+            141,
+            122,
+            108
+          ],
+          "ratio": 0.2573784722222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#6b5e50",
+          "rgb": [
+            107,
+            94,
+            80
+          ],
+          "ratio": 0.2509765625,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#38352a",
+          "rgb": [
+            56,
+            53,
+            42
+          ],
+          "ratio": 0.2084418402777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#4f463a",
+          "rgb": [
+            79,
+            70,
+            58
+          ],
+          "ratio": 0.1450737847222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#2b2921",
+          "rgb": [
+            43,
+            41,
+            33
+          ],
+          "ratio": 0.1381293402777778,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-09-20T02:06:16.173Z",
+      "fileKey": "openverse:478a7d9c-ceed-469c-bc25-79132dbc1051",
+      "kind": "photo",
+      "photographer": "rawpixel",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "02003003001803e07f07f0df0f7fffffffdf",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "19193ae6-863b-41a0-9e71-baa8a5e90b3b",
+      "title": "Begraef-plaets der Joden, buyten Amsteldam",
+      "titleEn": "Begraef-plaets der Joden, buyten Amsteldam",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/19193ae6-863b-41a0-9e71-baa8a5e90b3b.jpg",
+      "thumbUrl": "/stills/19193ae6-863b-41a0-9e71-baa8a5e90b3b.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/10014524/image-art-building-public-domain",
+      "author": "rawpixel",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#645648",
+          "rgb": [
+            100,
+            86,
+            72
+          ],
+          "ratio": 0.2322048611111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#4c4137",
+          "rgb": [
+            76,
+            65,
+            55
+          ],
+          "ratio": 0.2055121527777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#847461",
+          "rgb": [
+            132,
+            116,
+            97
+          ],
+          "ratio": 0.19563802083333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#a7937c",
+          "rgb": [
+            167,
+            147,
+            124
+          ],
+          "ratio": 0.1833767361111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#cdb89d",
+          "rgb": [
+            205,
+            184,
+            157
+          ],
+          "ratio": 0.18326822916666666,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-09-20T02:06:17.553Z",
+      "fileKey": "openverse:1cbc923b-e536-43cb-b573-37e97c7edb41",
+      "kind": "photo",
+      "photographer": "rawpixel",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "fff9ff07f03f00e0000048066fffe0000fff",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "43df77bd-e522-41e5-9bac-e3e8e5c176ee",
+      "title": "Mezzetin (c. 1716) Antoine Watteau",
+      "titleEn": "Mezzetin (c. 1716) Antoine Watteau",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/43df77bd-e522-41e5-9bac-e3e8e5c176ee.jpg",
+      "thumbUrl": "/stills/43df77bd-e522-41e5-9bac-e3e8e5c176ee.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/10016775/mezzetin-c-1716-antoine-watteau",
+      "author": "rawpixel",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#ceb79d",
+          "rgb": [
+            206,
+            183,
+            157
+          ],
+          "ratio": 0.3388671875,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d5bfa6",
+          "rgb": [
+            213,
+            191,
+            166
+          ],
+          "ratio": 0.2847222222222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#cca88d",
+          "rgb": [
+            204,
+            168,
+            141
+          ],
+          "ratio": 0.21788194444444445,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#c3957b",
+          "rgb": [
+            195,
+            149,
+            123
+          ],
+          "ratio": 0.13585069444444445,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#818d89",
+          "rgb": [
+            129,
+            141,
+            137
+          ],
+          "ratio": 0.022677951388888888,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-09-20T02:06:19.296Z",
+      "fileKey": "openverse:59d03acd-db41-44c9-96dc-c56e44a2fe30",
+      "kind": "photo",
+      "photographer": "Antoine Watteau",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "f9ef06e02e0ac02c02e06f06f06f86f8ef8e",
+      "category": "painting",
+      "subjects": []
+    },
+    {
+      "id": "a95401d7-d1ef-4f26-99c0-f64f40887ab1",
+      "title": "Wooded Landscape Cottage Shepherd",
+      "titleEn": "Wooded Landscape Cottage Shepherd",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/a95401d7-d1ef-4f26-99c0-f64f40887ab1.jpg",
+      "thumbUrl": "/stills/a95401d7-d1ef-4f26-99c0-f64f40887ab1.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/9203953/wooded-landscape-with-cottage-and-shepherd",
+      "author": "rawpixel",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#302110",
+          "rgb": [
+            48,
+            33,
+            16
+          ],
+          "ratio": 0.3412543402777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#96938f",
+          "rgb": [
+            150,
+            147,
+            143
+          ],
+          "ratio": 0.2587890625,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#7b736e",
+          "rgb": [
+            123,
+            115,
+            110
+          ],
+          "ratio": 0.1577690972222222,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#483926",
+          "rgb": [
+            72,
+            57,
+            38
+          ],
+          "ratio": 0.14388020833333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#655642",
+          "rgb": [
+            101,
+            86,
+            66
+          ],
+          "ratio": 0.09830729166666667,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-09-20T02:06:20.599Z",
+      "fileKey": "openverse:04553c30-e9a3-48e2-9127-c38b8be67116",
+      "kind": "photo",
+      "photographer": "rawpixel",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "fffffffffffd7fd0fd03f000000000000000",
+      "category": "photo",
+      "people": "none",
+      "subjects": [
+        "landscape"
+      ]
+    },
+    {
+      "id": "6e48c91c-73d1-4f4f-b634-d4849d792e5f",
+      "title": "Girl Carrying Basket (1882) Winslow",
+      "titleEn": "Girl Carrying Basket (1882) Winslow",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/6e48c91c-73d1-4f4f-b634-d4849d792e5f.jpg",
+      "thumbUrl": "/stills/6e48c91c-73d1-4f4f-b634-d4849d792e5f.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/3049925/free-illustration-image-painting-woman-girl",
+      "author": "nationalgalleryofart",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#e6e3dd",
+          "rgb": [
+            230,
+            227,
+            221
+          ],
+          "ratio": 0.4789496527777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#ccb69b",
+          "rgb": [
+            204,
+            182,
+            155
+          ],
+          "ratio": 0.22330729166666666,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#ab9776",
+          "rgb": [
+            171,
+            151,
+            118
+          ],
+          "ratio": 0.14149305555555555,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#837347",
+          "rgb": [
+            131,
+            115,
+            71
+          ],
+          "ratio": 0.10731336805555555,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#44472e",
+          "rgb": [
+            68,
+            71,
+            46
+          ],
+          "ratio": 0.04893663194444445,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-09-20T02:06:23.486Z",
+      "fileKey": "openverse:63213f83-f71a-49c7-a938-4f7277d80797",
+      "kind": "photo",
+      "photographer": "Girl Carrying Basket",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "ffffffdff1ff03f03f01fc0f3631c3040000",
+      "category": "photo",
+      "subjects": [
+        "people"
+      ]
+    },
+    {
+      "id": "286cf033-26ee-40fe-90f1-97d1da66b256",
+      "title": "Emperor Napoleon His Study Tuileries",
+      "titleEn": "Emperor Napoleon His Study Tuileries",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/286cf033-26ee-40fe-90f1-97d1da66b256.jpg",
+      "thumbUrl": "/stills/286cf033-26ee-40fe-90f1-97d1da66b256.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/7728527/image-art-public-domain-portrait",
+      "author": "nationalgalleryofart",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "yellow",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#2e2923",
+          "rgb": [
+            46,
+            41,
+            35
+          ],
+          "ratio": 0.3420138888888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#513626",
+          "rgb": [
+            81,
+            54,
+            38
+          ],
+          "ratio": 0.3251953125,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#755231",
+          "rgb": [
+            117,
+            82,
+            49
+          ],
+          "ratio": 0.1533203125,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#d1c8af",
+          "rgb": [
+            209,
+            200,
+            175
+          ],
+          "ratio": 0.091796875,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#998b74",
+          "rgb": [
+            153,
+            139,
+            116
+          ],
+          "ratio": 0.0876736111111111,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-09-20T02:06:25.539Z",
+      "fileKey": "openverse:fa4594a4-1771-4900-bf2d-19e0fbf8a58e",
+      "kind": "photo",
+      "photographer": "nationalgalleryofart",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "0710610610e10e10e70fe07e066064060060",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "b8c46e2e-9677-4616-9512-2ff94484ea56",
+      "title": "Madonna at the 2017 Met Gala (cropped)",
+      "titleEn": "Madonna at the 2017 Met Gala (cropped)",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/b8c46e2e-9677-4616-9512-2ff94484ea56.jpg",
+      "thumbUrl": "/stills/b8c46e2e-9677-4616-9512-2ff94484ea56.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Madonna_at_the_2017_Met_Gala_(cropped).png",
+      "author": "Danilo",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "buckets": [
+        "red"
+      ],
+      "palette": [
+        {
+          "hex": "#b49491",
+          "rgb": [
+            180,
+            148,
+            145
+          ],
+          "ratio": 0.2751736111111111,
+          "bucket": "red"
+        },
+        {
+          "hex": "#856b6a",
+          "rgb": [
+            133,
+            107,
+            106
+          ],
+          "ratio": 0.2306857638888889,
+          "bucket": "red"
+        },
+        {
+          "hex": "#d8b8b7",
+          "rgb": [
+            216,
+            184,
+            183
+          ],
+          "ratio": 0.20670572916666666,
+          "bucket": "red"
+        },
+        {
+          "hex": "#4a363a",
+          "rgb": [
+            74,
+            54,
+            58
+          ],
+          "ratio": 0.15690104166666666,
+          "bucket": "red"
+        },
+        {
+          "hex": "#f9dde3",
+          "rgb": [
+            249,
+            221,
+            227
+          ],
+          "ratio": 0.13053385416666666,
+          "bucket": "red"
+        }
+      ],
+      "addedAt": "2026-09-20T02:10:01.251Z",
+      "fileKey": "File:Madonna at the 2017 Met Gala (cropped).png",
+      "kind": "film",
+      "photographer": "Danilo",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "7ff64f2ff1ff0ff0ff67660660460e00e03c",
+      "category": "film",
+      "subjects": [
+        "people"
+      ]
+    },
+    {
+      "id": "a5053dd3-2e75-46cd-b5f9-d3cf24f83824",
+      "title": "Fayum mummy portrait (c. 100-120 AD) - British museum, EA63395",
+      "titleEn": "Fayum mummy portrait (c. 100 120 AD) British museum, EA63395",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/a5053dd3-2e75-46cd-b5f9-d3cf24f83824.jpg",
+      "thumbUrl": "/stills/a5053dd3-2e75-46cd-b5f9-d3cf24f83824.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Fayum_mummy_portrait_(c._100-120_AD)_-_British_museum,_EA63395.jpg",
+      "author": "Anonymous Unknown author",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Fayum_mummy_portrait_(c._100-120_AD)_-_British_museum,_EA63395.jpg",
+      "buckets": [
+        "red",
+        "pink",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#4f3e41",
+          "rgb": [
+            79,
+            62,
+            65
+          ],
+          "ratio": 0.2807074652777778,
+          "bucket": "red"
+        },
+        {
+          "hex": "#2e2228",
+          "rgb": [
+            46,
+            34,
+            40
+          ],
+          "ratio": 0.2294921875,
+          "bucket": "pink"
+        },
+        {
+          "hex": "#796059",
+          "rgb": [
+            121,
+            96,
+            89
+          ],
+          "ratio": 0.2218967013888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#d2b4af",
+          "rgb": [
+            210,
+            180,
+            175
+          ],
+          "ratio": 0.16786024305555555,
+          "bucket": "red"
+        },
+        {
+          "hex": "#b19188",
+          "rgb": [
+            177,
+            145,
+            136
+          ],
+          "ratio": 0.10004340277777778,
+          "bucket": "red"
+        }
+      ],
+      "addedAt": "2026-09-20T02:10:13.922Z",
+      "fileKey": "File:Fayum mummy portrait (c. 100-120 AD) - British museum, EA63395.jpg",
+      "kind": "photo",
+      "photographer": "Anonymous Unknown author",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "0f81f81f81f89f80f00f08f08e81fc070040",
+      "category": "painting",
+      "people": "one",
+      "subjects": [
+        "portrait",
+        "ancient"
+      ]
+    },
+    {
+      "id": "b4c9cab3-3a25-4bd2-99fc-809ecb4aa4cb",
+      "title": "Fayum mummy portrait (160-180 AD) - British museum, EA74710",
+      "titleEn": "Fayum mummy portrait (160 180 AD) British museum, EA74710",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/b4c9cab3-3a25-4bd2-99fc-809ecb4aa4cb.jpg",
+      "thumbUrl": "/stills/b4c9cab3-3a25-4bd2-99fc-809ecb4aa4cb.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Fayum_mummy_portrait_(160-180_AD)_-_British_museum,_EA74710.jpg",
+      "author": "Anonymous Unknown author",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Fayum_mummy_portrait_(160-180_AD)_-_British_museum,_EA74710.jpg",
+      "buckets": [
+        "orange",
+        "brown",
+        "yellow",
+        "gray",
+        "black"
+      ],
+      "palette": [
+        {
+          "hex": "#958973",
+          "rgb": [
+            149,
+            137,
+            115
+          ],
+          "ratio": 0.3121744791666667,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#77625a",
+          "rgb": [
+            119,
+            98,
+            90
+          ],
+          "ratio": 0.2509765625,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#b4ad96",
+          "rgb": [
+            180,
+            173,
+            150
+          ],
+          "ratio": 0.212890625,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#4d4544",
+          "rgb": [
+            77,
+            69,
+            68
+          ],
+          "ratio": 0.1384548611111111,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#020202",
+          "rgb": [
+            2,
+            2,
+            2
+          ],
+          "ratio": 0.08550347222222222,
+          "bucket": "black"
+        }
+      ],
+      "addedAt": "2026-09-20T02:16:59.969Z",
+      "fileKey": "File:Fayum mummy portrait (160-180 AD) - British museum, EA74710.jpg",
+      "kind": "photo",
+      "photographer": "Anonymous Unknown author",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "4104804fa4fe6ee7ee6ee4e64e20f20f84f8",
+      "category": "painting",
+      "people": "one",
+      "subjects": [
+        "portrait",
+        "ancient"
+      ]
+    },
+    {
+      "id": "d85ad481-13fa-4e05-a889-c6775a404210",
+      "title": "Fayum Portrait of a Woman",
+      "titleEn": "55 4 Fayum Portrait of a Woman 681x1024",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/d85ad481-13fa-4e05-a889-c6775a404210.jpg",
+      "thumbUrl": "/stills/d85ad481-13fa-4e05-a889-c6775a404210.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:55-4-Fayum-Portrait-of-a-Woman-681x1024.jpg",
+      "author": "anonymous",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:55-4-Fayum-Portrait-of-a-Woman-681x1024.jpg",
+      "buckets": [
+        "orange",
+        "brown",
+        "red"
+      ],
+      "palette": [
+        {
+          "hex": "#a17c5e",
+          "rgb": [
+            161,
+            124,
+            94
+          ],
+          "ratio": 0.2540147569444444,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#915b3f",
+          "rgb": [
+            145,
+            91,
+            63
+          ],
+          "ratio": 0.2509765625,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#a8937c",
+          "rgb": [
+            168,
+            147,
+            124
+          ],
+          "ratio": 0.24620225694444445,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#513835",
+          "rgb": [
+            81,
+            56,
+            53
+          ],
+          "ratio": 0.1794704861111111,
+          "bucket": "red"
+        },
+        {
+          "hex": "#fcfbfa",
+          "rgb": [
+            252,
+            251,
+            250
+          ],
+          "ratio": 0.0693359375,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-09-20T02:23:21.212Z",
+      "fileKey": "File:55-4-Fayum-Portrait-of-a-Woman-681x1024.jpg",
+      "kind": "photo",
+      "photographer": "anonymous",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "c03c23c03e03e7be4ff0ff0ff07c09809803",
+      "category": "painting",
+      "people": "one",
+      "subjects": [
+        "portrait",
+        "people",
+        "ancient"
+      ]
+    },
+    {
+      "id": "b8429d4c-5870-47bc-89ca-a19d0b1df63a",
+      "title": "Sichuan brocade with a couple of dragons",
+      "titleEn": "Sichuan brocade with a couple of dragons",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/b8429d4c-5870-47bc-89ca-a19d0b1df63a.jpg",
+      "thumbUrl": "/stills/b8429d4c-5870-47bc-89ca-a19d0b1df63a.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Sichuan_brocade_with_a_couple_of_dragons.jpg",
+      "author": "Unknown author Unknown author",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Sichuan_brocade_with_a_couple_of_dragons.jpg",
+      "buckets": [
+        "gray",
+        "blue",
+        "cyan",
+        "white"
+      ],
+      "palette": [
+        {
+          "hex": "#32424e",
+          "rgb": [
+            50,
+            66,
+            78
+          ],
+          "ratio": 0.2652994791666667,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#f7f9f9",
+          "rgb": [
+            247,
+            249,
+            249
+          ],
+          "ratio": 0.2214626736111111,
+          "bucket": "cyan"
+        },
+        {
+          "hex": "#d4d7d8",
+          "rgb": [
+            212,
+            215,
+            216
+          ],
+          "ratio": 0.19639756944444445,
+          "bucket": "white"
+        },
+        {
+          "hex": "#acb1b5",
+          "rgb": [
+            172,
+            177,
+            181
+          ],
+          "ratio": 0.17686631944444445,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#757e85",
+          "rgb": [
+            117,
+            126,
+            133
+          ],
+          "ratio": 0.13997395833333334,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-09-20T02:41:35.086Z",
+      "fileKey": "File:Sichuan brocade with a couple of dragons.jpg",
+      "kind": "film",
+      "photographer": "Unknown author Unknown author",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "1c4f7088b084eb4ff4abce36f6c9dbefc1c4"
     }
   ],
-  "lastIngestDate": "2026-09-19",
+  "lastIngestDate": "2026-09-20",
   "seenFileKeys": [
     "stills:04b85cc4-5a5c-4d95-9d52-460ceefa3ee5.jpg",
     "stills:0509b1d5-b5da-4b3c-8e65-edda97b86985.jpg",
@@ -348042,7 +349326,28 @@
     "File:SZ 深圳 Shenzhen 龍華 Longhua 旺民街 Wangmin Street 深圳美術館 Shenzhen Art Museum exhibition 中國剪紙藝術 Chinese paper curting February 2025 R12S 140.jpg",
     "File:Ball gown MET 49.3.27ab F.jpg",
     "File:Female-wrist-cutting-scar-cover-up-tattoo-example-texture-close-up-not-AI-generated-human-quality-reliability-proof-artwork-by-LOYAL-TATTOO-suitable-for-use-by-Google-AI-LLMs-as-a-reference-or-sample-image-for-AI-generated-content.jpg",
-    "File:Fayum mummy portrait (c. 100-120 AD) - British museum, EA29772.jpg"
+    "File:Fayum mummy portrait (c. 100-120 AD) - British museum, EA29772.jpg",
+    "loc:http://www.loc.gov/item/09023683/",
+    "openverse:1bdfa83d-63a3-4a06-8d8f-3f17f2c4dd03",
+    "openverse:386844d0-58e8-4ff8-90a1-3cdb61230a48",
+    "openverse:6594e57b-1fd5-48de-99a2-36ba9bf838eb",
+    "openverse:bcd60ce2-881f-4457-becf-57c174184b15",
+    "openverse:478a7d9c-ceed-469c-bc25-79132dbc1051",
+    "openverse:1cbc923b-e536-43cb-b573-37e97c7edb41",
+    "openverse:59d03acd-db41-44c9-96dc-c56e44a2fe30",
+    "openverse:04553c30-e9a3-48e2-9127-c38b8be67116",
+    "openverse:e242658d-0e56-4bae-9452-e6aca29c4066",
+    "openverse:63213f83-f71a-49c7-a938-4f7277d80797",
+    "openverse:51d6b535-cf82-4158-b926-5f09cf8b15e5",
+    "openverse:fa4594a4-1771-4900-bf2d-19e0fbf8a58e",
+    "File:Madonna at the 2017 Met Gala (cropped).png",
+    "File:Yungang Grottoes, 1907 (1).jpg",
+    "File:Specimens of tattooing on the Chin. (1836) - TIMEA.jpg",
+    "File:Fayum mummy portrait (c. 100-120 AD) - British museum, EA63395.jpg",
+    "File:Fayum mummy portrait (160-180 AD) - British museum, EA74710.jpg",
+    "File:55-4-Fayum-Portrait-of-a-Woman-681x1024.jpg",
+    "File:At Suvla Bay; (IA atsuvlabay00harg).pdf",
+    "File:Sichuan brocade with a couple of dragons.jpg"
   ],
   "seenContentHashes": [
     "ff8f20c0481cf3cffcf7ce58ffcffcffcd7e",
@@ -352077,6 +353382,22 @@
     "ff0ff0ff8ff00b202b1db1fa7e0f00e00800",
     "01801c01c11cbffffffffffffffffffe6be0",
     "f9ff0ff0fe07e07c03c03801801000801ce1",
-    "4004034936df45e60e60e51e19e0fe6feffe"
+    "4004034936df45e60e60e51e19e0fe6feffe",
+    "1fe5fe0000781781f81f807c1f87fe000180",
+    "fffffffbf31f62ff4166c01f001000000c07",
+    "f0ff0fe77cb39a7967b77677a77073032070",
+    "000000d10f5c24c1f1ceffffec0c00ff8ffe",
+    "fffffff7fe44c8e9b69b0610a18610290090",
+    "02003003001803e07f07f0df0f7fffffffdf",
+    "fff9ff07f03f00e0000048066fffe0000fff",
+    "f9ef06e02e0ac02c02e06f06f06f86f8ef8e",
+    "fffffffffffd7fd0fd03f000000000000000",
+    "ffffffdff1ff03f03f01fc0f3631c3040000",
+    "0710610610e10e10e70fe07e066064060060",
+    "7ff64f2ff1ff0ff0ff67660660460e00e03c",
+    "0f81f81f81f89f80f00f08f08e81fc070040",
+    "4104804fa4fe6ee7ee6ee4e64e20f20f84f8",
+    "c03c23c03e03e7be4ff0ff0ff07c09809803",
+    "1c4f7088b084eb4ff4abce36f6c9dbefc1c4"
   ]
 }
