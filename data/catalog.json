@@ -342847,10 +342847,1040 @@
       "kind": "film",
       "photographer": "Unknown author Unknown author",
       "sourceLabel": "维基共享资源",
-      "contentHash": "1c4f7088b084eb4ff4abce36f6c9dbefc1c4"
+      "contentHash": "1c4f7088b084eb4ff4abce36f6c9dbefc1c4",
+      "category": "film",
+      "people": "two",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "4ce9595a-a31a-44f2-8660-6f00d1ef6f32",
+      "title": "Songs Innocence Experience: Laughing Song",
+      "titleEn": "Songs Innocence Experience: Laughing Song",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/4ce9595a-a31a-44f2-8660-6f00d1ef6f32.jpg",
+      "thumbUrl": "/stills/4ce9595a-a31a-44f2-8660-6f00d1ef6f32.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/9241219/image-art-watercolors-vintage",
+      "author": "themet",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#e4dac7",
+          "rgb": [
+            228,
+            218,
+            199
+          ],
+          "ratio": 0.4009331597222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d5bfa0",
+          "rgb": [
+            213,
+            191,
+            160
+          ],
+          "ratio": 0.23600260416666666,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#cba073",
+          "rgb": [
+            203,
+            160,
+            115
+          ],
+          "ratio": 0.14171006944444445,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#918363",
+          "rgb": [
+            145,
+            131,
+            99
+          ],
+          "ratio": 0.11968315972222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#665e43",
+          "rgb": [
+            102,
+            94,
+            67
+          ],
+          "ratio": 0.10167100694444445,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-09-21T02:03:39.063Z",
+      "fileKey": "openverse:05c0df1a-1f5d-478c-b88b-b21ebd4d68e7",
+      "kind": "photo",
+      "photographer": "themet",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "801801801801801ffbffffffffffffffbff9",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "b866e102-01b4-4163-b476-195aaa5ee9d6",
+      "title": "The Fat Kitchen",
+      "titleEn": "The Fat Kitchen",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/b866e102-01b4-4163-b476-195aaa5ee9d6.jpg",
+      "thumbUrl": "/stills/b866e102-01b4-4163-b476-195aaa5ee9d6.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/8260873/the-fat-kitchen",
+      "author": "themet",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "orange",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#a19585",
+          "rgb": [
+            161,
+            149,
+            133
+          ],
+          "ratio": 0.2165798611111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#ded0bf",
+          "rgb": [
+            222,
+            208,
+            191
+          ],
+          "ratio": 0.21006944444444445,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#bfb2a1",
+          "rgb": [
+            191,
+            178,
+            161
+          ],
+          "ratio": 0.20930989583333334,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#857b6d",
+          "rgb": [
+            133,
+            123,
+            109
+          ],
+          "ratio": 0.20865885416666666,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#696157",
+          "rgb": [
+            105,
+            97,
+            87
+          ],
+          "ratio": 0.15538194444444445,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-09-21T02:03:40.778Z",
+      "fileKey": "openverse:ae177086-d977-45f3-aadb-fa6ae80d40a9",
+      "kind": "photo",
+      "photographer": "themet",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "fff400200110c9018c100120060ce0ffffff",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "94eb82c7-b42b-4091-beaa-8abd28ed4097",
+      "title": "Fables (volume I) (published 1811)",
+      "titleEn": "Fables (volume I) (published 1811)",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/94eb82c7-b42b-4091-beaa-8abd28ed4097.jpg",
+      "thumbUrl": "/stills/94eb82c7-b42b-4091-beaa-8abd28ed4097.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/10032941/photo-image-book-art-public-domain",
+      "author": "rawpixel",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "gray",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#4d3021",
+          "rgb": [
+            77,
+            48,
+            33
+          ],
+          "ratio": 0.3129340277777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#424547",
+          "rgb": [
+            66,
+            69,
+            71
+          ],
+          "ratio": 0.2697482638888889,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#595853",
+          "rgb": [
+            89,
+            88,
+            83
+          ],
+          "ratio": 0.2152777777777778,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#74675d",
+          "rgb": [
+            116,
+            103,
+            93
+          ],
+          "ratio": 0.1498480902777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#110804",
+          "rgb": [
+            17,
+            8,
+            4
+          ],
+          "ratio": 0.052191840277777776,
+          "bucket": "black"
+        }
+      ],
+      "addedAt": "2026-09-21T02:03:43.329Z",
+      "fileKey": "openverse:38b1a529-41ba-4f04-98d9-b6c85b35303e",
+      "kind": "photo",
+      "photographer": "rawpixel",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "0fe0ff0ff0ff0ff0ff0ff0f70ef0ff0fe0fe",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "bf53133c-18ed-4767-a4e7-6f1b904c376e",
+      "title": "Bath, Woman drying herself -",
+      "titleEn": "Bath, Woman drying herself -",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/bf53133c-18ed-4767-a4e7-6f1b904c376e.jpg",
+      "thumbUrl": "/stills/bf53133c-18ed-4767-a4e7-6f1b904c376e.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/7666621/image-art-vintage-public-domain",
+      "author": "rawpixel",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "orange",
+        "gray",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#b4a68d",
+          "rgb": [
+            180,
+            166,
+            141
+          ],
+          "ratio": 0.23350694444444445,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#948b7e",
+          "rgb": [
+            148,
+            139,
+            126
+          ],
+          "ratio": 0.23014322916666666,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#706756",
+          "rgb": [
+            112,
+            103,
+            86
+          ],
+          "ratio": 0.2192925347222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#958258",
+          "rgb": [
+            149,
+            130,
+            88
+          ],
+          "ratio": 0.1662326388888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#bfbbae",
+          "rgb": [
+            191,
+            187,
+            174
+          ],
+          "ratio": 0.1508246527777778,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-09-21T02:03:47.090Z",
+      "fileKey": "openverse:d78344e3-ac53-4048-8510-1226d75c4c3f",
+      "kind": "photo",
+      "photographer": "rawpixel",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "c0bc03dc4ff0e83fc4dec9f81f11f03f83b8",
+      "category": "photo",
+      "subjects": [
+        "people"
+      ]
+    },
+    {
+      "id": "4d24e2e0-5e66-48d2-ac18-fa11063a49ae",
+      "title": "Millstone Cistern Trees (La Meule",
+      "titleEn": "Millstone Cistern Trees (La Meule",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/4d24e2e0-5e66-48d2-ac18-fa11063a49ae.jpg",
+      "thumbUrl": "/stills/4d24e2e0-5e66-48d2-ac18-fa11063a49ae.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/2035677/millstone-and-cistern-under-trees",
+      "author": "barnesfoundation",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "gray",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#767d72",
+          "rgb": [
+            118,
+            125,
+            114
+          ],
+          "ratio": 0.2828776041666667,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#9a9c87",
+          "rgb": [
+            154,
+            156,
+            135
+          ],
+          "ratio": 0.21202256944444445,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#4b5b5b",
+          "rgb": [
+            75,
+            91,
+            91
+          ],
+          "ratio": 0.18272569444444445,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#c4ad8a",
+          "rgb": [
+            196,
+            173,
+            138
+          ],
+          "ratio": 0.17078993055555555,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#ad8864",
+          "rgb": [
+            173,
+            136,
+            100
+          ],
+          "ratio": 0.1515842013888889,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-09-21T02:03:47.988Z",
+      "fileKey": "openverse:c449ad72-ecb2-4e6a-becc-6748da72a57f",
+      "kind": "photo",
+      "photographer": "barnesfoundation",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "fffffdffec3688c98d800b403314601e0e80",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "04e31647-c6f1-470b-aada-2e370f4d116d",
+      "title": "Songs Innocence Experience: Blossom: Merry",
+      "titleEn": "Songs Innocence Experience: Blossom: Merry",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/04e31647-c6f1-470b-aada-2e370f4d116d.jpg",
+      "thumbUrl": "/stills/04e31647-c6f1-470b-aada-2e370f4d116d.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/9240818/image-art-watercolors-vintage",
+      "author": "themet",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "orange",
+        "brown",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#e5dbc8",
+          "rgb": [
+            229,
+            219,
+            200
+          ],
+          "ratio": 0.3357204861111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d6c09e",
+          "rgb": [
+            214,
+            192,
+            158
+          ],
+          "ratio": 0.2599826388888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#c39469",
+          "rgb": [
+            195,
+            148,
+            105
+          ],
+          "ratio": 0.1889105902777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#866755",
+          "rgb": [
+            134,
+            103,
+            85
+          ],
+          "ratio": 0.12250434027777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#9ea69e",
+          "rgb": [
+            158,
+            166,
+            158
+          ],
+          "ratio": 0.09288194444444445,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-09-21T02:03:50.377Z",
+      "fileKey": "openverse:4ff2ed4d-f680-4add-a66c-ce93d7eaac86",
+      "kind": "photo",
+      "photographer": "themet",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "c01c03c01c01f61ff1ff1ff1df99f9bf9801",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "9663a80d-5b64-499d-b23d-5e28ce41abac",
+      "title": "Portrait Man (c. 1635) Frans",
+      "titleEn": "Portrait Man (c. 1635) Frans",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/9663a80d-5b64-499d-b23d-5e28ce41abac.jpg",
+      "thumbUrl": "/stills/9663a80d-5b64-499d-b23d-5e28ce41abac.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/13742035/portrait-man-c-1635-frans-hals",
+      "author": "rijksmuseum",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#715637",
+          "rgb": [
+            113,
+            86,
+            55
+          ],
+          "ratio": 0.4072265625,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#26241f",
+          "rgb": [
+            38,
+            36,
+            31
+          ],
+          "ratio": 0.24989149305555555,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#4e402d",
+          "rgb": [
+            78,
+            64,
+            45
+          ],
+          "ratio": 0.18880208333333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#aea491",
+          "rgb": [
+            174,
+            164,
+            145
+          ],
+          "ratio": 0.0802951388888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#8d7860",
+          "rgb": [
+            141,
+            120,
+            96
+          ],
+          "ratio": 0.07378472222222222,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-09-21T02:03:52.919Z",
+      "fileKey": "openverse:a26ff480-2b67-4adf-8b24-b9950be7c137",
+      "kind": "photo",
+      "photographer": "rijksmuseum",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "1ff23f43fddfdb9ff1fe1ff783f001004000",
+      "category": "photo",
+      "people": "one",
+      "subjects": [
+        "portrait",
+        "people"
+      ]
+    },
+    {
+      "id": "823895ee-839a-4b8f-a99c-a5d3e645e742",
+      "title": "Gallant Gardener (c. 1711-1712) Antoine",
+      "titleEn": "Gallant Gardener (c. 1711-1712) Antoine",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/823895ee-839a-4b8f-a99c-a5d3e645e742.jpg",
+      "thumbUrl": "/stills/823895ee-839a-4b8f-a99c-a5d3e645e742.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/10016668/the-gallant-gardener-c-1711-1712-antoine-watteau",
+      "author": "rawpixel",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#dbc7a8",
+          "rgb": [
+            219,
+            199,
+            168
+          ],
+          "ratio": 0.2913411458333333,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d8bd9c",
+          "rgb": [
+            216,
+            189,
+            156
+          ],
+          "ratio": 0.2717013888888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d2af8a",
+          "rgb": [
+            210,
+            175,
+            138
+          ],
+          "ratio": 0.2637803819444444,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#ca976e",
+          "rgb": [
+            202,
+            151,
+            110
+          ],
+          "ratio": 0.15321180555555555,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#f1ebcd",
+          "rgb": [
+            241,
+            235,
+            205
+          ],
+          "ratio": 0.019965277777777776,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-09-21T02:03:55.456Z",
+      "fileKey": "openverse:a57f1f96-d671-481a-8eb1-d207f488f265",
+      "kind": "photo",
+      "photographer": "rawpixel",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "fc0fc6facf9c79c79c69e7be7a2f02722400",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "e6e982ad-e6ca-4d32-a10f-1a2c9765b5d4",
+      "title": "The Tower of Babel",
+      "titleEn": "The Tower of Babel",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/e6e982ad-e6ca-4d32-a10f-1a2c9765b5d4.jpg",
+      "thumbUrl": "/stills/e6e982ad-e6ca-4d32-a10f-1a2c9765b5d4.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/8201751/the-tower-babel",
+      "author": "themet",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#c5b6a3",
+          "rgb": [
+            197,
+            182,
+            163
+          ],
+          "ratio": 0.21907552083333334,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d7c8b5",
+          "rgb": [
+            215,
+            200,
+            181
+          ],
+          "ratio": 0.2085503472222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#afa18f",
+          "rgb": [
+            175,
+            161,
+            143
+          ],
+          "ratio": 0.20692274305555555,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#968979",
+          "rgb": [
+            150,
+            137,
+            121
+          ],
+          "ratio": 0.19303385416666666,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#7a6f62",
+          "rgb": [
+            122,
+            111,
+            98
+          ],
+          "ratio": 0.1724175347222222,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-09-21T02:03:58.071Z",
+      "fileKey": "openverse:c16c270d-7ba0-4588-a9d3-8796b33d3cd8",
+      "kind": "photo",
+      "photographer": "themet",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "ffffdff07e87e83cd01802a0080100005fff",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "dacb2018-a5be-4010-aeaa-ae32aeb94486",
+      "title": "Songs Innocence Experience: Angel William",
+      "titleEn": "Songs Innocence Experience: Angel William",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/dacb2018-a5be-4010-aeaa-ae32aeb94486.jpg",
+      "thumbUrl": "/stills/dacb2018-a5be-4010-aeaa-ae32aeb94486.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/9241116/image-art-watercolors-vintage",
+      "author": "themet",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#e9dfcc",
+          "rgb": [
+            233,
+            223,
+            204
+          ],
+          "ratio": 0.4095052083333333,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#e2cca8",
+          "rgb": [
+            226,
+            204,
+            168
+          ],
+          "ratio": 0.21397569444444445,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d6b585",
+          "rgb": [
+            214,
+            181,
+            133
+          ],
+          "ratio": 0.15245225694444445,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#aa936b",
+          "rgb": [
+            170,
+            147,
+            107
+          ],
+          "ratio": 0.13932291666666666,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#7b6c4f",
+          "rgb": [
+            123,
+            108,
+            79
+          ],
+          "ratio": 0.0847439236111111,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-09-21T02:04:00.425Z",
+      "fileKey": "openverse:cd180148-76b4-4b5e-babe-7fab37245da2",
+      "kind": "photo",
+      "photographer": "themet",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "c03c03c03c03c03dffdfbffbdfbdffdffdfb",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "f62b8c6d-b533-45a7-a9fb-1b8e1348038d",
+      "title": "20260625 Blue-and-white porcelain figurine of He Xiangu",
+      "titleEn": "20260625 Blue and white porcelain figurine of He Xiangu",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/f62b8c6d-b533-45a7-a9fb-1b8e1348038d.jpg",
+      "thumbUrl": "/stills/f62b8c6d-b533-45a7-a9fb-1b8e1348038d.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:20260625_Blue-and-white_porcelain_figurine_of_He_Xiangu.jpg",
+      "author": "Windmemories",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "buckets": [
+        "black",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#161611",
+          "rgb": [
+            22,
+            22,
+            17
+          ],
+          "ratio": 0.3018663194444444,
+          "bucket": "black"
+        },
+        {
+          "hex": "#9a9b99",
+          "rgb": [
+            154,
+            155,
+            153
+          ],
+          "ratio": 0.21375868055555555,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#2e2d27",
+          "rgb": [
+            46,
+            45,
+            39
+          ],
+          "ratio": 0.2004123263888889,
+          "bucket": "black"
+        },
+        {
+          "hex": "#cccdcf",
+          "rgb": [
+            204,
+            205,
+            207
+          ],
+          "ratio": 0.14680989583333334,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#5f6162",
+          "rgb": [
+            95,
+            97,
+            98
+          ],
+          "ratio": 0.1371527777777778,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-09-21T02:08:03.278Z",
+      "fileKey": "File:20260625 Blue-and-white porcelain figurine of He Xiangu.jpg",
+      "kind": "film",
+      "photographer": "Windmemories",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "0000600602707fffff0f80f00f00f00f83ff",
+      "category": "film",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "a0fe7c17-7df8-4529-a5e1-77a5221ccbd1",
+      "title": "Khro bo gtso mchog mKha’ ’gying and mKha’ la gdug mo with their entourage pigments and gold on cotton - Bonpo thangka c. 1300",
+      "titleEn": "Khro bo gtso mchog mKha’ ’gying and mKha’ la gdug mo with their entourage pigments and gold on cotton Bonpo thangka c. 1300",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/a0fe7c17-7df8-4529-a5e1-77a5221ccbd1.jpg",
+      "thumbUrl": "/stills/a0fe7c17-7df8-4529-a5e1-77a5221ccbd1.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Khro_bo_gtso_mchog_mKha%E2%80%99_%E2%80%99gying_and_mKha%E2%80%99_la_gdug_mo_with_their_entourage_pigments_and_gold_on_cotton_-_Bonpo_thangka_c._1300.png",
+      "author": "Unknown tibetan painter, c. 1300 AD. Photo from the thangka located at a private collection in Zurich",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Khro_bo_gtso_mchog_mKha%E2%80%99_%E2%80%99gying_and_mKha%E2%80%99_la_gdug_mo_with_their_entourage_pigments_and_gold_on_cotton_-_Bonpo_thangka_c._1300.png",
+      "buckets": [
+        "brown",
+        "gray",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#774f36",
+          "rgb": [
+            119,
+            79,
+            54
+          ],
+          "ratio": 0.2932942708333333,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#b15634",
+          "rgb": [
+            177,
+            86,
+            52
+          ],
+          "ratio": 0.2761501736111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#343732",
+          "rgb": [
+            52,
+            55,
+            50
+          ],
+          "ratio": 0.1962890625,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#af8348",
+          "rgb": [
+            175,
+            131,
+            72
+          ],
+          "ratio": 0.1843532986111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#a8ba89",
+          "rgb": [
+            168,
+            186,
+            137
+          ],
+          "ratio": 0.04991319444444445,
+          "bucket": "green"
+        }
+      ],
+      "addedAt": "2026-09-21T02:08:04.711Z",
+      "fileKey": "File:Khro bo gtso mchog mKha’ ’gying and mKha’ la gdug mo with their entourage pigments and gold on cotton - Bonpo thangka c. 1300.png",
+      "kind": "film",
+      "photographer": "Unknown tibetan painter, c. 1300 AD. Photo from the thangka located at a private collection in Zurich",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "8f7e0fe4f30fe07c0fdcfee9eed82d431020",
+      "category": "film",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "e7afbc14-a58d-445e-8a4a-0f3dbfde7083",
+      "title": "The Royal Tattoo, 1875",
+      "titleEn": "The Royal Tattoo, 1875",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/e7afbc14-a58d-445e-8a4a-0f3dbfde7083.jpg",
+      "thumbUrl": "/stills/e7afbc14-a58d-445e-8a4a-0f3dbfde7083.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:The_Royal_Tattoo,_1875.jpg",
+      "author": "Joseph Keppler",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:The_Royal_Tattoo,_1875.jpg",
+      "buckets": [
+        "yellow",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#32322c",
+          "rgb": [
+            50,
+            50,
+            44
+          ],
+          "ratio": 0.2273220486111111,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#737165",
+          "rgb": [
+            115,
+            113,
+            101
+          ],
+          "ratio": 0.2016059027777778,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#ded7bf",
+          "rgb": [
+            222,
+            215,
+            191
+          ],
+          "ratio": 0.1941189236111111,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#ada895",
+          "rgb": [
+            173,
+            168,
+            149
+          ],
+          "ratio": 0.1898871527777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#f7f2dc",
+          "rgb": [
+            247,
+            242,
+            220
+          ],
+          "ratio": 0.1870659722222222,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-09-21T02:08:16.205Z",
+      "fileKey": "File:The Royal Tattoo, 1875.jpg",
+      "kind": "film",
+      "photographer": "Joseph Keppler",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "f7fff7dc7c93ac3fe3be3801a03a03800e03"
     }
   ],
-  "lastIngestDate": "2026-09-20",
+  "lastIngestDate": "2026-09-21",
   "seenFileKeys": [
     "stills:04b85cc4-5a5c-4d95-9d52-460ceefa3ee5.jpg",
     "stills:0509b1d5-b5da-4b3c-8e65-edda97b86985.jpg",
@@ -349347,7 +350377,23 @@
     "File:Fayum mummy portrait (160-180 AD) - British museum, EA74710.jpg",
     "File:55-4-Fayum-Portrait-of-a-Woman-681x1024.jpg",
     "File:At Suvla Bay; (IA atsuvlabay00harg).pdf",
-    "File:Sichuan brocade with a couple of dragons.jpg"
+    "File:Sichuan brocade with a couple of dragons.jpg",
+    "openverse:05c0df1a-1f5d-478c-b88b-b21ebd4d68e7",
+    "openverse:ae177086-d977-45f3-aadb-fa6ae80d40a9",
+    "openverse:38b1a529-41ba-4f04-98d9-b6c85b35303e",
+    "openverse:081920b2-0857-4d0c-9fdf-9cc27c937704",
+    "openverse:d78344e3-ac53-4048-8510-1226d75c4c3f",
+    "openverse:c449ad72-ecb2-4e6a-becc-6748da72a57f",
+    "openverse:4ff2ed4d-f680-4add-a66c-ce93d7eaac86",
+    "openverse:77e86419-0972-4fce-bee8-6ccb32462143",
+    "openverse:a26ff480-2b67-4adf-8b24-b9950be7c137",
+    "openverse:a57f1f96-d671-481a-8eb1-d207f488f265",
+    "openverse:c16c270d-7ba0-4588-a9d3-8796b33d3cd8",
+    "openverse:cd180148-76b4-4b5e-babe-7fab37245da2",
+    "File:20260625 Blue-and-white porcelain figurine of He Xiangu.jpg",
+    "File:Khro bo gtso mchog mKha’ ’gying and mKha’ la gdug mo with their entourage pigments and gold on cotton - Bonpo thangka c. 1300.png",
+    "File:Beautiful ball gown (1903).jpg",
+    "File:The Royal Tattoo, 1875.jpg"
   ],
   "seenContentHashes": [
     "ff8f20c0481cf3cffcf7ce58ffcffcffcd7e",
@@ -353398,6 +354444,19 @@
     "0f81f81f81f89f80f00f08f08e81fc070040",
     "4104804fa4fe6ee7ee6ee4e64e20f20f84f8",
     "c03c23c03e03e7be4ff0ff0ff07c09809803",
-    "1c4f7088b084eb4ff4abce36f6c9dbefc1c4"
+    "1c4f7088b084eb4ff4abce36f6c9dbefc1c4",
+    "801801801801801ffbffffffffffffffbff9",
+    "fff400200110c9018c100120060ce0ffffff",
+    "0fe0ff0ff0ff0ff0ff0ff0f70ef0ff0fe0fe",
+    "c0bc03dc4ff0e83fc4dec9f81f11f03f83b8",
+    "fffffdffec3688c98d800b403314601e0e80",
+    "c01c03c01c01f61ff1ff1ff1df99f9bf9801",
+    "1ff23f43fddfdb9ff1fe1ff783f001004000",
+    "fc0fc6facf9c79c79c69e7be7a2f02722400",
+    "ffffdff07e87e83cd01802a0080100005fff",
+    "c03c03c03c03c03dffdfbffbdfbdffdffdfb",
+    "0000600602707fffff0f80f00f00f00f83ff",
+    "8f7e0fe4f30fe07c0fdcfee9eed82d431020",
+    "f7fff7dc7c93ac3fe3be3801a03a03800e03"
   ]
 }
