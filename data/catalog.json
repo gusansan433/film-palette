@@ -343877,10 +343877,744 @@
       "kind": "film",
       "photographer": "Joseph Keppler",
       "sourceLabel": "维基共享资源",
-      "contentHash": "f7fff7dc7c93ac3fe3be3801a03a03800e03"
+      "contentHash": "f7fff7dc7c93ac3fe3be3801a03a03800e03",
+      "category": "film",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "1404d5e4-5127-4668-8ff2-8a071aaad1f5",
+      "title": "Dressing gown",
+      "titleEn": "Dressing gown",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/1404d5e4-5127-4668-8ff2-8a071aaad1f5.jpg",
+      "thumbUrl": "/stills/1404d5e4-5127-4668-8ff2-8a071aaad1f5.jpg",
+      "pageUrl": "https://archive.org/details/mma_dressing_gown_155933",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dressing_gown_155933",
+      "buckets": [
+        "gray",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#6d6c6c",
+          "rgb": [
+            109,
+            108,
+            108
+          ],
+          "ratio": 0.3328993055555556,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#734032",
+          "rgb": [
+            115,
+            64,
+            50
+          ],
+          "ratio": 0.2273220486111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#8d8785",
+          "rgb": [
+            141,
+            135,
+            133
+          ],
+          "ratio": 0.20084635416666666,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#965d4b",
+          "rgb": [
+            150,
+            93,
+            75
+          ],
+          "ratio": 0.1496310763888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#36221c",
+          "rgb": [
+            54,
+            34,
+            28
+          ],
+          "ratio": 0.08930121527777778,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-09-22T02:07:16.597Z",
+      "fileKey": "archive:mma_dressing_gown_155933",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "f3fe27e07e07e97e0fe0fe07c17c17c03c01",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "05e4b874-5e72-4c00-96d1-4d8a85794531",
+      "title": "Dunhuang mogao mural cave 409",
+      "titleEn": "Dunhuang mogao mural cave 409",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/05e4b874-5e72-4c00-96d1-4d8a85794531.jpg",
+      "thumbUrl": "/stills/05e4b874-5e72-4c00-96d1-4d8a85794531.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Dunhuang_mogao_mural_cave_409.jpg",
+      "author": "Unknown author Unknown author",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Dunhuang_mogao_mural_cave_409.jpg",
+      "buckets": [
+        "gray",
+        "brown",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#908e82",
+          "rgb": [
+            144,
+            142,
+            130
+          ],
+          "ratio": 0.3192274305555556,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#8d7557",
+          "rgb": [
+            141,
+            117,
+            87
+          ],
+          "ratio": 0.2593315972222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#b3b2a6",
+          "rgb": [
+            179,
+            178,
+            166
+          ],
+          "ratio": 0.24283854166666666,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#d8d7c9",
+          "rgb": [
+            216,
+            215,
+            201
+          ],
+          "ratio": 0.11968315972222222,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#3a2a22",
+          "rgb": [
+            58,
+            42,
+            34
+          ],
+          "ratio": 0.058919270833333336,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-09-22T02:11:01.555Z",
+      "fileKey": "File:Dunhuang mogao mural cave 409.jpg",
+      "kind": "photo",
+      "photographer": "Unknown author Unknown author",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "06077a070070dfb7ff1f68f08f08e08e00e0",
+      "category": "painting",
+      "subjects": [
+        "ancient"
+      ]
+    },
+    {
+      "id": "65fcf9cf-dd18-432f-8de5-b0444985509f",
+      "title": "Horiyoshi 3",
+      "titleEn": "Horiyoshi 3",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/65fcf9cf-dd18-432f-8de5-b0444985509f.jpg",
+      "thumbUrl": "/stills/65fcf9cf-dd18-432f-8de5-b0444985509f.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Horiyoshi_3.jpg",
+      "author": "Holyfox",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "buckets": [
+        "pink",
+        "black",
+        "purple"
+      ],
+      "palette": [
+        {
+          "hex": "#0b090f",
+          "rgb": [
+            11,
+            9,
+            15
+          ],
+          "ratio": 0.3371310763888889,
+          "bucket": "black"
+        },
+        {
+          "hex": "#342832",
+          "rgb": [
+            52,
+            40,
+            50
+          ],
+          "ratio": 0.3206380208333333,
+          "bucket": "pink"
+        },
+        {
+          "hex": "#65586d",
+          "rgb": [
+            101,
+            88,
+            109
+          ],
+          "ratio": 0.16341145833333334,
+          "bucket": "purple"
+        },
+        {
+          "hex": "#9c8ba1",
+          "rgb": [
+            156,
+            139,
+            161
+          ],
+          "ratio": 0.10416666666666667,
+          "bucket": "purple"
+        },
+        {
+          "hex": "#decbd3",
+          "rgb": [
+            222,
+            203,
+            211
+          ],
+          "ratio": 0.07465277777777778,
+          "bucket": "pink"
+        }
+      ],
+      "addedAt": "2026-09-22T02:11:08.299Z",
+      "fileKey": "File:Horiyoshi 3.jpg",
+      "kind": "film",
+      "photographer": "Holyfox",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "6f02f02f0ef7c70070c30c30c78c70c44c4c",
+      "category": "film",
+      "subjects": [
+        "people"
+      ]
+    },
+    {
+      "id": "65e74a92-58c8-4052-97f1-4c87589f25d0",
+      "title": "Aerial view of landscape of Ladakh 03",
+      "titleEn": "Aerial view of landscape of Ladakh 03",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/65e74a92-58c8-4052-97f1-4c87589f25d0.jpg",
+      "thumbUrl": "/stills/65e74a92-58c8-4052-97f1-4c87589f25d0.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_landscape_of_Ladakh_03.jpg",
+      "author": "Harvinder Chandigarh",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "buckets": [
+        "blue",
+        "white"
+      ],
+      "palette": [
+        {
+          "hex": "#6f7e9a",
+          "rgb": [
+            111,
+            126,
+            154
+          ],
+          "ratio": 0.3625217013888889,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#515968",
+          "rgb": [
+            81,
+            89,
+            104
+          ],
+          "ratio": 0.21940104166666666,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#d6dad9",
+          "rgb": [
+            214,
+            218,
+            217
+          ],
+          "ratio": 0.14637586805555555,
+          "bucket": "white"
+        },
+        {
+          "hex": "#8ca9c8",
+          "rgb": [
+            140,
+            169,
+            200
+          ],
+          "ratio": 0.13802083333333334,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#1b5ba5",
+          "rgb": [
+            27,
+            91,
+            165
+          ],
+          "ratio": 0.13368055555555555,
+          "bucket": "blue"
+        }
+      ],
+      "addedAt": "2026-09-22T02:25:50.147Z",
+      "fileKey": "File:Aerial view of landscape of Ladakh 03.jpg",
+      "kind": "film",
+      "photographer": "Harvinder Chandigarh",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "fffffffff00700302000000100303d0780f8",
+      "category": "film",
+      "people": "none",
+      "subjects": [
+        "landscape"
+      ]
+    },
+    {
+      "id": "ae194298-46fc-42ba-8aeb-c39b508bb694",
+      "title": "Terracotta warriors (15249)",
+      "titleEn": "Terracotta warriors (15249)",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/ae194298-46fc-42ba-8aeb-c39b508bb694.jpg",
+      "thumbUrl": "/stills/ae194298-46fc-42ba-8aeb-c39b508bb694.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Terracotta_warriors_(15249).jpg",
+      "author": "Ideophagous",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "buckets": [
+        "orange",
+        "gray",
+        "brown",
+        "blue"
+      ],
+      "palette": [
+        {
+          "hex": "#a58468",
+          "rgb": [
+            165,
+            132,
+            104
+          ],
+          "ratio": 0.23990885416666666,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#413e45",
+          "rgb": [
+            65,
+            62,
+            69
+          ],
+          "ratio": 0.22330729166666666,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#755e50",
+          "rgb": [
+            117,
+            94,
+            80
+          ],
+          "ratio": 0.2191840277777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#23283d",
+          "rgb": [
+            35,
+            40,
+            61
+          ],
+          "ratio": 0.2084418402777778,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#e2bd90",
+          "rgb": [
+            226,
+            189,
+            144
+          ],
+          "ratio": 0.1091579861111111,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-09-22T02:28:13.049Z",
+      "fileKey": "File:Terracotta warriors (15249).jpg",
+      "kind": "film",
+      "photographer": "Terracotta warriors",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "03103f07f07b004004030070858ffeffffff",
+      "category": "film",
+      "subjects": [
+        "people"
+      ]
+    },
+    {
+      "id": "26320736-6300-416f-b654-dee4f13cd911",
+      "title": "Foreigner on ceiling of Cave 1at Ajanta Caves photograph and drawing",
+      "titleEn": "Foreigner on ceiling of Cave 1at Ajanta Caves photograph and drawing",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/26320736-6300-416f-b654-dee4f13cd911.jpg",
+      "thumbUrl": "/stills/26320736-6300-416f-b654-dee4f13cd911.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Foreigner_on_ceiling_of_Cave_1at_Ajanta_Caves_photograph_and_drawing.jpg",
+      "author": "Photo by User:Aadi Maurya . Drawing from L'art Greco Bouddhique Du Gandhara Tome-ii, p.557 by Foucher [1] Published in 1905",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "buckets": [
+        "orange",
+        "gray",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#d2c2b0",
+          "rgb": [
+            210,
+            194,
+            176
+          ],
+          "ratio": 0.2696397569444444,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#a5a29a",
+          "rgb": [
+            165,
+            162,
+            154
+          ],
+          "ratio": 0.23763020833333334,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#f6f3f1",
+          "rgb": [
+            246,
+            243,
+            241
+          ],
+          "ratio": 0.22276475694444445,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#98826a",
+          "rgb": [
+            152,
+            130,
+            106
+          ],
+          "ratio": 0.1875,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#69523b",
+          "rgb": [
+            105,
+            82,
+            59
+          ],
+          "ratio": 0.08246527777777778,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-09-22T02:33:45.072Z",
+      "fileKey": "File:Foreigner on ceiling of Cave 1at Ajanta Caves photograph and drawing.jpg",
+      "kind": "photo",
+      "photographer": "Photo by User:Aadi Maurya . Drawing from L'art Greco Bouddhique Du Gandhara Tome-ii, p.557 by Foucher [1] Published in 1905",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "00100703713713301007cfffb27d34ffffff",
+      "category": "painting",
+      "subjects": [
+        "ancient"
+      ]
+    },
+    {
+      "id": "888a851f-d675-4d19-80ea-752fb1818e9f",
+      "title": "A-beautiful-portrait-capturing-Ihori-LOYAL-TATTOO-LT-MACHINES-Japans-most-famous-tattoo-artist-and-tattoo-machine-builder-active-in-the-Keihin-area-Tokyo-and-Yokohama-with-corvette-c7-grand-sports-convertible-blk-2019",
+      "titleEn": "the Keihin area Tokyo and Yokohama with corvette c7 grand sports convertible blk 2019",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/888a851f-d675-4d19-80ea-752fb1818e9f.jpg",
+      "thumbUrl": "/stills/888a851f-d675-4d19-80ea-752fb1818e9f.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:A-beautiful-portrait-capturing-Ihori-LOYAL-TATTOO-LT-MACHINES-Japans-most-famous-tattoo-artist-and-tattoo-machine-builder-active-in-the-Keihin-area-Tokyo-and-Yokohama-with-corvette-c7-grand-sports-convertible-blk-2019.jpg",
+      "author": "Riku69x",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "buckets": [
+        "orange",
+        "black",
+        "gray",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#080707",
+          "rgb": [
+            8,
+            7,
+            7
+          ],
+          "ratio": 0.3612196180555556,
+          "bucket": "black"
+        },
+        {
+          "hex": "#a89c90",
+          "rgb": [
+            168,
+            156,
+            144
+          ],
+          "ratio": 0.19856770833333334,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#eae7e5",
+          "rgb": [
+            234,
+            231,
+            229
+          ],
+          "ratio": 0.1870659722222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#4f4a49",
+          "rgb": [
+            79,
+            74,
+            73
+          ],
+          "ratio": 0.15592447916666666,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#866246",
+          "rgb": [
+            134,
+            98,
+            70
+          ],
+          "ratio": 0.09722222222222222,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-09-22T02:33:46.435Z",
+      "fileKey": "File:A-beautiful-portrait-capturing-Ihori-LOYAL-TATTOO-LT-MACHINES-Japans-most-famous-tattoo-artist-and-tattoo-machine-builder-active-in-the-Keihin-area-Tokyo-and-Yokohama-with-corvette-c7-grand-sports-convertible-blk-2019.jpg",
+      "kind": "film",
+      "photographer": "Riku69x",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "f797f837d77ce7cc7c87c07c0300248049d0",
+      "category": "film",
+      "people": "one",
+      "subjects": [
+        "portrait",
+        "city",
+        "pattern"
+      ]
+    },
+    {
+      "id": "18b3161e-cb24-42ce-a3d4-0b92d918dddf",
+      "title": "Thonet-exhibition 20",
+      "titleEn": "Thonet exhibition 20",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/18b3161e-cb24-42ce-a3d4-0b92d918dddf.jpg",
+      "thumbUrl": "/stills/18b3161e-cb24-42ce-a3d4-0b92d918dddf.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Thonet-exhibition_20.JPG",
+      "author": "Dominik Matus",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "buckets": [
+        "brown",
+        "green",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#837669",
+          "rgb": [
+            131,
+            118,
+            105
+          ],
+          "ratio": 0.2962239583333333,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#6a5548",
+          "rgb": [
+            106,
+            85,
+            72
+          ],
+          "ratio": 0.20811631944444445,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#c2c5b5",
+          "rgb": [
+            194,
+            197,
+            181
+          ],
+          "ratio": 0.19563802083333334,
+          "bucket": "green"
+        },
+        {
+          "hex": "#442c22",
+          "rgb": [
+            68,
+            44,
+            34
+          ],
+          "ratio": 0.1677517361111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#939094",
+          "rgb": [
+            147,
+            144,
+            148
+          ],
+          "ratio": 0.1322699652777778,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-09-22T02:50:00.251Z",
+      "fileKey": "File:Thonet-exhibition 20.JPG",
+      "kind": "photo",
+      "photographer": "Dominik Matus",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "c03007407c0640e40e6f36f127b27330f3ff",
+      "category": "photo",
+      "subjects": [
+        "design"
+      ]
+    },
+    {
+      "id": "1bbb856a-641c-423a-a984-406887320163",
+      "title": "NASA Earth Day Exhibits (NHQ202304200011)",
+      "titleEn": "NASA Earth Day Exhibits (NHQ202304200011)",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/1bbb856a-641c-423a-a984-406887320163.jpg",
+      "thumbUrl": "/stills/1bbb856a-641c-423a-a984-406887320163.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:NASA_Earth_Day_Exhibits_(NHQ202304200011).jpg",
+      "author": "NASA Headquarters / NASA/Keegan Barber",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:NASA_Earth_Day_Exhibits_(NHQ202304200011).jpg",
+      "buckets": [
+        "gray",
+        "brown",
+        "blue"
+      ],
+      "palette": [
+        {
+          "hex": "#9e9592",
+          "rgb": [
+            158,
+            149,
+            146
+          ],
+          "ratio": 0.3056640625,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#151823",
+          "rgb": [
+            21,
+            24,
+            35
+          ],
+          "ratio": 0.19303385416666666,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#d2cfcc",
+          "rgb": [
+            210,
+            207,
+            204
+          ],
+          "ratio": 0.17317708333333334,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#866559",
+          "rgb": [
+            134,
+            101,
+            89
+          ],
+          "ratio": 0.1694878472222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#513d36",
+          "rgb": [
+            81,
+            61,
+            54
+          ],
+          "ratio": 0.1586371527777778,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-09-22T02:51:36.861Z",
+      "fileKey": "File:NASA Earth Day Exhibits (NHQ202304200011).jpg",
+      "kind": "film",
+      "photographer": "NASA Headquarters / NASA/Keegan Barber",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "fffecffef29e0202f8029249fc1e20e9020c"
     }
   ],
-  "lastIngestDate": "2026-09-21",
+  "lastIngestDate": "2026-09-22",
   "seenFileKeys": [
     "stills:04b85cc4-5a5c-4d95-9d52-460ceefa3ee5.jpg",
     "stills:0509b1d5-b5da-4b3c-8e65-edda97b86985.jpg",
@@ -350393,7 +351127,20 @@
     "File:20260625 Blue-and-white porcelain figurine of He Xiangu.jpg",
     "File:Khro bo gtso mchog mKha’ ’gying and mKha’ la gdug mo with their entourage pigments and gold on cotton - Bonpo thangka c. 1300.png",
     "File:Beautiful ball gown (1903).jpg",
-    "File:The Royal Tattoo, 1875.jpg"
+    "File:The Royal Tattoo, 1875.jpg",
+    "archive:mma_dressing_gown_155933",
+    "File:Dunhuang mogao mural cave 409.jpg",
+    "File:Aerial photograph of Swedish landscape taken by rocket, 1897.jpg",
+    "File:Horiyoshi 3.jpg",
+    "File:Scribner's Magazine, Volume 69, Issue 1.pdf",
+    "File:Aerial view of landscape of Ladakh 03.jpg",
+    "File:Terracotta warriors (15249).jpg",
+    "File:Foreigner on ceiling of Cave 1at Ajanta Caves photograph and drawing.jpg",
+    "File:A-beautiful-portrait-capturing-Ihori-LOYAL-TATTOO-LT-MACHINES-Japans-most-famous-tattoo-artist-and-tattoo-machine-builder-active-in-the-Keihin-area-Tokyo-and-Yokohama-with-corvette-c7-grand-sports-convertible-blk-2019.jpg",
+    "File:Two French Chairs, in Chippendale Drawings, Vol. I MET DP104140.jpg",
+    "File:Two French Chairs, in Chippendale Drawings, Vol. I MET DP104142.jpg",
+    "File:Thonet-exhibition 20.JPG",
+    "File:NASA Earth Day Exhibits (NHQ202304200011).jpg"
   ],
   "seenContentHashes": [
     "ff8f20c0481cf3cffcf7ce58ffcffcffcd7e",
@@ -354457,6 +355204,15 @@
     "c03c03c03c03c03dffdfbffbdfbdffdffdfb",
     "0000600602707fffff0f80f00f00f00f83ff",
     "8f7e0fe4f30fe07c0fdcfee9eed82d431020",
-    "f7fff7dc7c93ac3fe3be3801a03a03800e03"
+    "f7fff7dc7c93ac3fe3be3801a03a03800e03",
+    "f3fe27e07e07e97e0fe0fe07c17c17c03c01",
+    "06077a070070dfb7ff1f68f08f08e08e00e0",
+    "6f02f02f0ef7c70070c30c30c78c70c44c4c",
+    "fffffffff00700302000000100303d0780f8",
+    "03103f07f07b004004030070858ffeffffff",
+    "00100703713713301007cfffb27d34ffffff",
+    "f797f837d77ce7cc7c87c07c0300248049d0",
+    "c03007407c0640e40e6f36f127b27330f3ff",
+    "fffecffef29e0202f8029249fc1e20e9020c"
   ]
 }
