@@ -344611,10 +344611,897 @@
       "kind": "film",
       "photographer": "NASA Headquarters / NASA/Keegan Barber",
       "sourceLabel": "维基共享资源",
-      "contentHash": "fffecffef29e0202f8029249fc1e20e9020c"
+      "contentHash": "fffecffef29e0202f8029249fc1e20e9020c",
+      "category": "film",
+      "subjects": [
+        "landscape"
+      ]
+    },
+    {
+      "id": "327245d1-c1a9-49b3-ac75-9e55f17cde0c",
+      "title": "A new and elegant pattern for a dress shirt or a tucker",
+      "titleEn": "A new and elegant pattern for a dress shirt or a tucker",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/327245d1-c1a9-49b3-ac75-9e55f17cde0c.jpg",
+      "thumbUrl": "/stills/327245d1-c1a9-49b3-ac75-9e55f17cde0c.jpg",
+      "pageUrl": "https://archive.org/details/LMG00012",
+      "author": "Lady's Magazine",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "buckets": [
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#f2e4bf",
+          "rgb": [
+            242,
+            228,
+            191
+          ],
+          "ratio": 0.3295355902777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#f8ecc7",
+          "rgb": [
+            248,
+            236,
+            199
+          ],
+          "ratio": 0.2348090277777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#e5d8b4",
+          "rgb": [
+            229,
+            216,
+            180
+          ],
+          "ratio": 0.1898871527777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#c7bc9d",
+          "rgb": [
+            199,
+            188,
+            157
+          ],
+          "ratio": 0.14073350694444445,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#968c75",
+          "rgb": [
+            150,
+            140,
+            117
+          ],
+          "ratio": 0.10503472222222222,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-09-23T02:10:48.461Z",
+      "fileKey": "archive:LMG00012",
+      "kind": "photo",
+      "photographer": "Lady's Magazine",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "fffffffff7ff3fec00800800e01f05f9fe38",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design",
+        "pattern"
+      ]
+    },
+    {
+      "id": "e7b8e616-85a4-4c05-ab4a-ec3f6029e546",
+      "title": "Dunhuang figures showing shading technique",
+      "titleEn": "Dunhuang figures showing shading technique",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/e7b8e616-85a4-4c05-ab4a-ec3f6029e546.jpg",
+      "thumbUrl": "/stills/e7b8e616-85a4-4c05-ab4a-ec3f6029e546.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Dunhuang_figures_showing_shading_technique.jpg",
+      "author": "Unknown author Unknown author",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Dunhuang_figures_showing_shading_technique.jpg",
+      "buckets": [
+        "orange",
+        "red",
+        "brown",
+        "white"
+      ],
+      "palette": [
+        {
+          "hex": "#d3b699",
+          "rgb": [
+            211,
+            182,
+            153
+          ],
+          "ratio": 0.2661675347222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#1c1415",
+          "rgb": [
+            28,
+            20,
+            21
+          ],
+          "ratio": 0.2326388888888889,
+          "bucket": "red"
+        },
+        {
+          "hex": "#aa836b",
+          "rgb": [
+            170,
+            131,
+            107
+          ],
+          "ratio": 0.21158854166666666,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#7d4e3f",
+          "rgb": [
+            125,
+            78,
+            63
+          ],
+          "ratio": 0.1976996527777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#e2dfe2",
+          "rgb": [
+            226,
+            223,
+            226
+          ],
+          "ratio": 0.09190538194444445,
+          "bucket": "white"
+        }
+      ],
+      "addedAt": "2026-09-23T02:14:03.652Z",
+      "fileKey": "File:Dunhuang figures showing shading technique.jpg",
+      "kind": "photo",
+      "photographer": "Unknown author Unknown author",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "083206604f28e78e76e91fb3f6bfd9f9ffc7",
+      "category": "painting",
+      "subjects": [
+        "ancient"
+      ]
+    },
+    {
+      "id": "4498cdf0-8ea1-4b34-8c49-389628a79760",
+      "title": "The Works of Charles Dickens",
+      "titleEn": "Works of Charles Dickens, ed. Lang Volume 20",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/4498cdf0-8ea1-4b34-8c49-389628a79760.jpg",
+      "thumbUrl": "/stills/4498cdf0-8ea1-4b34-8c49-389628a79760.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Works_of_Charles_Dickens,_ed._Lang_-_Volume_20.djvu",
+      "author": "Charles Dickens",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Works_of_Charles_Dickens,_ed._Lang_-_Volume_20.djvu",
+      "buckets": [
+        "blue"
+      ],
+      "palette": [
+        {
+          "hex": "#222e5c",
+          "rgb": [
+            34,
+            46,
+            92
+          ],
+          "ratio": 0.3870442708333333,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#212a54",
+          "rgb": [
+            33,
+            42,
+            84
+          ],
+          "ratio": 0.2635633680555556,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#273462",
+          "rgb": [
+            39,
+            52,
+            98
+          ],
+          "ratio": 0.23057725694444445,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#1f254b",
+          "rgb": [
+            31,
+            37,
+            75
+          ],
+          "ratio": 0.09516059027777778,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#a5a59d",
+          "rgb": [
+            165,
+            165,
+            157
+          ],
+          "ratio": 0.023654513888888888,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-09-23T02:14:06.005Z",
+      "fileKey": "File:Works of Charles Dickens, ed. Lang - Volume 20.djvu",
+      "kind": "film",
+      "photographer": "Charles Dickens",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "c01e03c0700700700f00f00f00f00f00f01f",
+      "category": "film",
+      "subjects": [
+        "people"
+      ]
+    },
+    {
+      "id": "99c73c40-188a-4e26-882c-9a5f9d65add2",
+      "title": "Gazette du Bon Ton, 1922 - No. 10 Rosalinde Robe du soir, de Worth, RP-P-2009-1964-4",
+      "titleEn": "Gazette du Bon Ton, 1922 No. 10 Rosalinde Robe du soir, de Worth, RP P 2009 1964 4",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/99c73c40-188a-4e26-882c-9a5f9d65add2.jpg",
+      "thumbUrl": "/stills/99c73c40-188a-4e26-882c-9a5f9d65add2.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Gazette_du_Bon_Ton,_1922_-_No._10_Rosalinde_Robe_du_soir,_de_Worth,_RP-P-2009-1964-4.jpg",
+      "author": "Rijksmuseum",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "buckets": [
+        "yellow",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#e1dcc6",
+          "rgb": [
+            225,
+            220,
+            198
+          ],
+          "ratio": 0.6376953125,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#3b2d23",
+          "rgb": [
+            59,
+            45,
+            35
+          ],
+          "ratio": 0.115234375,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#80725f",
+          "rgb": [
+            128,
+            114,
+            95
+          ],
+          "ratio": 0.1081814236111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#b8aa8c",
+          "rgb": [
+            184,
+            170,
+            140
+          ],
+          "ratio": 0.10340711805555555,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#f1ede0",
+          "rgb": [
+            241,
+            237,
+            224
+          ],
+          "ratio": 0.035481770833333336,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-09-23T02:20:45.326Z",
+      "fileKey": "File:Gazette du Bon Ton, 1922 - No. 10 Rosalinde Robe du soir, de Worth, RP-P-2009-1964-4.jpg",
+      "kind": "film",
+      "photographer": "Rijksmuseum",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "fdfffffdbfdbe9bc03c03c01c03d9bffffff",
+      "category": "film",
+      "subjects": [
+        "people"
+      ]
+    },
+    {
+      "id": "02578fa4-ba42-4071-8391-6a60ef9cd6b9",
+      "title": "Lascaux cave paintings on Transit Van",
+      "titleEn": "Lascaux cave paintings on Transit Van",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/02578fa4-ba42-4071-8391-6a60ef9cd6b9.jpg",
+      "thumbUrl": "/stills/02578fa4-ba42-4071-8391-6a60ef9cd6b9.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Lascaux_cave_paintings_on_Transit_Van.jpg",
+      "author": "Micksculptor",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "buckets": [
+        "orange",
+        "blue",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#deb059",
+          "rgb": [
+            222,
+            176,
+            89
+          ],
+          "ratio": 0.3070746527777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#b77b1c",
+          "rgb": [
+            183,
+            123,
+            28
+          ],
+          "ratio": 0.3005642361111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#becdde",
+          "rgb": [
+            190,
+            205,
+            222
+          ],
+          "ratio": 0.18684895833333334,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#83aed9",
+          "rgb": [
+            131,
+            174,
+            217
+          ],
+          "ratio": 0.1042751736111111,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#412f1d",
+          "rgb": [
+            65,
+            47,
+            29
+          ],
+          "ratio": 0.10123697916666667,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-09-23T02:23:59.437Z",
+      "fileKey": "File:Lascaux cave paintings on Transit Van.jpg",
+      "kind": "film",
+      "photographer": "Micksculptor",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "fffffffffe3ff21f00e00e00e0000381ffff",
+      "category": "film",
+      "subjects": [
+        "ancient"
+      ]
+    },
+    {
+      "id": "d03834b1-6bc4-401f-a72e-fef214870031",
+      "title": "Gazette du Bon Ton. Art- Modes & Frivolités, 1923 - No. 5 Mme Ida Rubinstein dans la dame aux camélias Robe, de Worth, RP-P-2009-1969-1",
+      "titleEn": "Gazette du Bon Ton. Art Modes & Frivolités, 1923 No. 5 Mme Ida Rubinstein dans la dame aux camélias Robe, de Worth, RP P 2009 1969 1",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/d03834b1-6bc4-401f-a72e-fef214870031.jpg",
+      "thumbUrl": "/stills/d03834b1-6bc4-401f-a72e-fef214870031.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Gazette_du_Bon_Ton._Art-_Modes_%26_Frivolit%C3%A9s,_1923_-_No._5_Mme_Ida_Rubinstein_dans_la_dame_aux_cam%C3%A9lias_Robe,_de_Worth,_RP-P-2009-1969-1.jpg",
+      "author": "Rijksmuseum",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "buckets": [
+        "yellow",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#e8e0c8",
+          "rgb": [
+            232,
+            224,
+            200
+          ],
+          "ratio": 0.4445529513888889,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#50504b",
+          "rgb": [
+            80,
+            80,
+            75
+          ],
+          "ratio": 0.20833333333333334,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#c3b274",
+          "rgb": [
+            195,
+            178,
+            116
+          ],
+          "ratio": 0.1577690972222222,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#a6a6a3",
+          "rgb": [
+            166,
+            166,
+            163
+          ],
+          "ratio": 0.1351996527777778,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#7d7d72",
+          "rgb": [
+            125,
+            125,
+            114
+          ],
+          "ratio": 0.054144965277777776,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-09-23T02:27:58.192Z",
+      "fileKey": "File:Gazette du Bon Ton. Art- Modes & Frivolités, 1923 - No. 5 Mme Ida Rubinstein dans la dame aux camélias Robe, de Worth, RP-P-2009-1969-1.jpg",
+      "kind": "film",
+      "photographer": "Rijksmuseum",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "dfbd7bdebd3bc1bc0bc03c07c03c03ffffff",
+      "category": "film",
+      "subjects": [
+        "people"
+      ]
+    },
+    {
+      "id": "ec5eefcc-0c72-4654-8c8c-e91880b78a63",
+      "title": "Iznik pottery, Leighton House, London - 53480962497",
+      "titleEn": "Iznik pottery, Leighton House, London 53480962497",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/ec5eefcc-0c72-4654-8c8c-e91880b78a63.jpg",
+      "thumbUrl": "/stills/ec5eefcc-0c72-4654-8c8c-e91880b78a63.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Iznik_pottery,_Leighton_House,_London_-_53480962497.jpg",
+      "author": "Carole Raddato",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "buckets": [
+        "brown",
+        "gray",
+        "red"
+      ],
+      "palette": [
+        {
+          "hex": "#906256",
+          "rgb": [
+            144,
+            98,
+            86
+          ],
+          "ratio": 0.2693142361111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#221510",
+          "rgb": [
+            34,
+            21,
+            16
+          ],
+          "ratio": 0.2564019097222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#752722",
+          "rgb": [
+            117,
+            39,
+            34
+          ],
+          "ratio": 0.19151475694444445,
+          "bucket": "red"
+        },
+        {
+          "hex": "#48423c",
+          "rgb": [
+            72,
+            66,
+            60
+          ],
+          "ratio": 0.15125868055555555,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#a4a69c",
+          "rgb": [
+            164,
+            166,
+            156
+          ],
+          "ratio": 0.13151041666666666,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-09-23T02:40:24.308Z",
+      "fileKey": "File:Iznik pottery, Leighton House, London - 53480962497.jpg",
+      "kind": "photo",
+      "photographer": "Carole Raddato",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "0f08f0860cf8cf0df8dfcdf89f89f80f80f8",
+      "category": "photo",
+      "subjects": [
+        "design",
+        "pattern"
+      ]
+    },
+    {
+      "id": "a0268bf2-cc7f-48b4-991d-638eff252894",
+      "title": "Gazette du Bon Ton. Art- Modes & Frivolités, 1924 - No. 6 L'Empire du monde Robe du soir, de Worth, RP-P-2009-1970-6",
+      "titleEn": "Gazette du Bon Ton. Art Modes & Frivolités, 1924 No. 6 L'Empire du monde Robe du soir, de Worth, RP P 2009 1970 6",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/a0268bf2-cc7f-48b4-991d-638eff252894.jpg",
+      "thumbUrl": "/stills/a0268bf2-cc7f-48b4-991d-638eff252894.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Gazette_du_Bon_Ton._Art-_Modes_%26_Frivolit%C3%A9s,_1924_-_No._6_L%27Empire_du_monde_Robe_du_soir,_de_Worth,_RP-P-2009-1970-6.jpg",
+      "author": "Rijksmuseum",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "buckets": [
+        "yellow",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#ebe4ce",
+          "rgb": [
+            235,
+            228,
+            206
+          ],
+          "ratio": 0.4601779513888889,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#e7e0c9",
+          "rgb": [
+            231,
+            224,
+            201
+          ],
+          "ratio": 0.3379991319444444,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#605c54",
+          "rgb": [
+            96,
+            92,
+            84
+          ],
+          "ratio": 0.09342447916666667,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#a99584",
+          "rgb": [
+            169,
+            149,
+            132
+          ],
+          "ratio": 0.061848958333333336,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#c8c0b0",
+          "rgb": [
+            200,
+            192,
+            176
+          ],
+          "ratio": 0.046549479166666664,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-09-23T02:42:25.555Z",
+      "fileKey": "File:Gazette du Bon Ton. Art- Modes & Frivolités, 1924 - No. 6 L'Empire du monde Robe du soir, de Worth, RP-P-2009-1970-6.jpg",
+      "kind": "film",
+      "photographer": "Rijksmuseum",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "f9ffdff8ffcffcff4fe0fe0fe0fe87fe7fff",
+      "category": "film",
+      "subjects": [
+        "people"
+      ]
+    },
+    {
+      "id": "3e2c8f2d-3049-44df-bb55-ad77fa254e34",
+      "title": "Gazette du Bon Ton, 1924 - No. 9 Eros Robe et manteau, pour le soir, de Worth, RP-P-2009-1973-5",
+      "titleEn": "Gazette du Bon Ton, 1924 No. 9 Eros Robe et manteau, pour le soir, de Worth, RP P 2009 1973 5",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/3e2c8f2d-3049-44df-bb55-ad77fa254e34.jpg",
+      "thumbUrl": "/stills/3e2c8f2d-3049-44df-bb55-ad77fa254e34.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Gazette_du_Bon_Ton,_1924_-_No._9_Eros_Robe_et_manteau,_pour_le_soir,_de_Worth,_RP-P-2009-1973-5.jpg",
+      "author": "Rijksmuseum",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "buckets": [
+        "yellow",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#e7e1c9",
+          "rgb": [
+            231,
+            225,
+            201
+          ],
+          "ratio": 0.4330512152777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#ebe4ce",
+          "rgb": [
+            235,
+            228,
+            206
+          ],
+          "ratio": 0.2517361111111111,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#7c7464",
+          "rgb": [
+            124,
+            116,
+            100
+          ],
+          "ratio": 0.16861979166666666,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#afa998",
+          "rgb": [
+            175,
+            169,
+            152
+          ],
+          "ratio": 0.0871310763888889,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#d5cdb5",
+          "rgb": [
+            213,
+            205,
+            181
+          ],
+          "ratio": 0.05946180555555555,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-09-23T02:48:05.129Z",
+      "fileKey": "File:Gazette du Bon Ton, 1924 - No. 9 Eros Robe et manteau, pour le soir, de Worth, RP-P-2009-1973-5.jpg",
+      "kind": "film",
+      "photographer": "Rijksmuseum",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "fdff9fed7e97e83c83c83c83c83c87f3ffff",
+      "category": "film",
+      "subjects": [
+        "people"
+      ]
+    },
+    {
+      "id": "4bf77a39-0b4a-4a7b-902a-e74777e61316",
+      "title": "Gazette du Bon Ton, 1924, No. 9, Pl. 51 Eros. Robe et manteau pour le soir, de Worth (titel op object), RP-P-2009-1815",
+      "titleEn": "Gazette du Bon Ton, 1924, No. 9, Pl. 51 Eros. Robe et manteau pour le soir, de Worth (titel op object), RP P 2009 1815",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/4bf77a39-0b4a-4a7b-902a-e74777e61316.jpg",
+      "thumbUrl": "/stills/4bf77a39-0b4a-4a7b-902a-e74777e61316.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Gazette_du_Bon_Ton,_1924,_No._9,_Pl._51_Eros._Robe_et_manteau_pour_le_soir,_de_Worth_(titel_op_object),_RP-P-2009-1815.jpg",
+      "author": "Rijksmuseum",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "buckets": [
+        "orange",
+        "yellow",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#dfd2b9",
+          "rgb": [
+            223,
+            210,
+            185
+          ],
+          "ratio": 0.4516059027777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#e7dcc0",
+          "rgb": [
+            231,
+            220,
+            192
+          ],
+          "ratio": 0.275390625,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#7d7569",
+          "rgb": [
+            125,
+            117,
+            105
+          ],
+          "ratio": 0.1498480902777778,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#aaa396",
+          "rgb": [
+            170,
+            163,
+            150
+          ],
+          "ratio": 0.1023220486111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#f8f5e3",
+          "rgb": [
+            248,
+            245,
+            227
+          ],
+          "ratio": 0.020833333333333332,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-09-23T02:54:34.238Z",
+      "fileKey": "File:Gazette du Bon Ton, 1924, No. 9, Pl. 51 Eros. Robe et manteau pour le soir, de Worth (titel op object), RP-P-2009-1815.jpg",
+      "kind": "film",
+      "photographer": "Rijksmuseum",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "f9ff9fe97e83e83c83c83c83c07e17ffffff",
+      "category": "film",
+      "subjects": [
+        "people"
+      ]
+    },
+    {
+      "id": "f75189ed-b97b-438d-9b42-25f94f8e6dcf",
+      "title": "Herculaneum Red Fresco - panoramio",
+      "titleEn": "Herculaneum Red Fresco panoramio",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/f75189ed-b97b-438d-9b42-25f94f8e6dcf.jpg",
+      "thumbUrl": "/stills/f75189ed-b97b-438d-9b42-25f94f8e6dcf.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Herculaneum_Red_Fresco_-_panoramio.jpg",
+      "author": "trukdotcom",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "buckets": [
+        "brown",
+        "orange",
+        "white"
+      ],
+      "palette": [
+        {
+          "hex": "#89685a",
+          "rgb": [
+            137,
+            104,
+            90
+          ],
+          "ratio": 0.2962239583333333,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#753d28",
+          "rgb": [
+            117,
+            61,
+            40
+          ],
+          "ratio": 0.2601996527777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#a79083",
+          "rgb": [
+            167,
+            144,
+            131
+          ],
+          "ratio": 0.2463107638888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#3a1b11",
+          "rgb": [
+            58,
+            27,
+            17
+          ],
+          "ratio": 0.1083984375,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#d6d0d0",
+          "rgb": [
+            214,
+            208,
+            208
+          ],
+          "ratio": 0.0888671875,
+          "bucket": "white"
+        }
+      ],
+      "addedAt": "2026-09-23T02:58:56.564Z",
+      "fileKey": "File:Herculaneum Red Fresco - panoramio.jpg",
+      "kind": "photo",
+      "photographer": "trukdotcom",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "1e0500fe1e7ffffff3f21f217f5785580000"
     }
   ],
-  "lastIngestDate": "2026-09-22",
+  "lastIngestDate": "2026-09-23",
   "seenFileKeys": [
     "stills:04b85cc4-5a5c-4d95-9d52-460ceefa3ee5.jpg",
     "stills:0509b1d5-b5da-4b3c-8e65-edda97b86985.jpg",
@@ -351140,7 +352027,44 @@
     "File:Two French Chairs, in Chippendale Drawings, Vol. I MET DP104140.jpg",
     "File:Two French Chairs, in Chippendale Drawings, Vol. I MET DP104142.jpg",
     "File:Thonet-exhibition 20.JPG",
-    "File:NASA Earth Day Exhibits (NHQ202304200011).jpg"
+    "File:NASA Earth Day Exhibits (NHQ202304200011).jpg",
+    "archive:clevelandart-1942.978-histoire-du-costume",
+    "archive:LMG00012",
+    "File:Theatrical costume MET CI46.9.73g.jpg",
+    "File:Dunhuang figures showing shading technique.jpg",
+    "File:Works of Charles Dickens, ed. Lang - Volume 20.djvu",
+    "File:Museo del Traje - MT106249 - Vestido largo.jpg",
+    "File:Altamira cave.jpg",
+    "File:History Of Frederick The Second Called Frederick The Great (IA historyoffrederi027764mbp).pdf",
+    "File:Gazette du Bon Ton. Art- Modes & Frivolités, 1924 - No. 7 Le Belvédère Robe-Manteau, de Worth, RP-P-2009-1971-4.jpg",
+    "File:Personal remembrances of Sir Frederick Pollock, second baronet, sometime queen's remembrancer (IA personalremembra01poll).pdf",
+    "File:History of Frederick the Second, called Frederick the Great (IA historyoffrederi00abbo).pdf",
+    "File:Gazette du Bon Ton, 1922 - No. 10 Rosalinde Robe du soir, de Worth, RP-P-2009-1964-4.jpg",
+    "File:Poems, by Frederick Earl of Carlisle (IA poemsbyfrederick00carl).pdf",
+    "File:Life and letters of Frederick Walker (IA lifelettersoffre00mark).pdf",
+    "File:Lascaux cave paintings on Transit Van.jpg",
+    "File:Lady Frederick; a comedy in three acts (IA ladyfrederickcom00maugrich).pdf",
+    "File:Gazette du Bon Ton. Art- Modes & Frivolités, 1923 - No. 5 Mme Ida Rubinstein dans la dame aux camélias Robe, de Worth, RP-P-2009-1969-1.jpg",
+    "File:The works of Charles Dickens (IA worksofcharlesdi26dick).pdf",
+    "File:Cap and gown in prose; (IA capgowninprose00page).pdf",
+    "File:Живописное обозрение 1890, № 01-26 (1 янв. - 24 июня); № 27-52 (1 июля - 23 дек.) Page 0485.jpg",
+    "File:Exhibition of pictures & sketches by Charles Wellington Furse, A.R.A (IA exhibitionofpict00burl 0).pdf",
+    "File:A-masterpiece-in-the-history-of-Japanese-style-full-sleeve-tattoo-featuring-the-Karajishi-peony-LOYAL-TATTOO-art-work-craftsmanship-proof-suitable-for-use-by-Google-AI-LLMs-as-a-reference-or-sample-image-for-AI-generated-content.jpg",
+    "File:Charles the Twelfth, King of Sweden, (IA charlestwelfthki00gade).pdf",
+    "File:Gazette du Bon Ton, 1923 - No. 1, Pl. 2 Alcyone Robe et manteau du soir, de Worth (titel op object), RP-P-2009-1965-2.jpg",
+    "File:Personal remembrances of Sir Frederick Pollock, second baronet, sometime queen's remembrancer (IA cu31924026355242).pdf",
+    "File:Iznik pottery, Leighton House, London - 53480962497.jpg",
+    "File:Gazette du Bon Ton. Art- Modes & Frivolités, 1924 - No. 6 L'Empire du monde Robe du soir, de Worth, RP-P-2009-1970-6.jpg",
+    "File:Cap and gown in prose; short sketches selected from undergraduate periodicals of recent years; (IA capandgownprose00knowrich).pdf",
+    "File:Xuanzang returned from India. Dunhuang mural, Cave 103. High Tang period (712-765)..jpg",
+    "File:Life and letters of Frederick Walker, A. R. A. (IA lifelettersoffre00markrich).pdf",
+    "File:The reminiscences of Frederick Goodall, R. A. With two portraits (IA reminiscencesoff00good).pdf",
+    "File:Gazette du Bon Ton, 1924 - No. 9 Eros Robe et manteau, pour le soir, de Worth, RP-P-2009-1973-5.jpg",
+    "File:Elizabeth Christine, wife of Frederick the Great (IA elizabethchristi00hurs).pdf",
+    "File:Gazette du Bon Ton. Art- Modes & Frivolités, 1924 - No. 8 La rose de l'infante Costume, de Worth, RP-P-2009-1972-2.jpg",
+    "File:Gazette du Bon Ton, 1924, No. 9, Pl. 51 Eros. Robe et manteau pour le soir, de Worth (titel op object), RP-P-2009-1815.jpg",
+    "File:The works of Charles Dickens, with introductions, general essay, and notes (IA cu31924064973070).pdf",
+    "File:Herculaneum Red Fresco - panoramio.jpg"
   ],
   "seenContentHashes": [
     "ff8f20c0481cf3cffcf7ce58ffcffcffcd7e",
@@ -355213,6 +356137,17 @@
     "00100703713713301007cfffb27d34ffffff",
     "f797f837d77ce7cc7c87c07c0300248049d0",
     "c03007407c0640e40e6f36f127b27330f3ff",
-    "fffecffef29e0202f8029249fc1e20e9020c"
+    "fffecffef29e0202f8029249fc1e20e9020c",
+    "fffffffff7ff3fec00800800e01f05f9fe38",
+    "083206604f28e78e76e91fb3f6bfd9f9ffc7",
+    "c01e03c0700700700f00f00f00f00f00f01f",
+    "fdfffffdbfdbe9bc03c03c01c03d9bffffff",
+    "fffffffffe3ff21f00e00e00e0000381ffff",
+    "dfbd7bdebd3bc1bc0bc03c07c03c03ffffff",
+    "0f08f0860cf8cf0df8dfcdf89f89f80f80f8",
+    "f9ffdff8ffcffcff4fe0fe0fe0fe87fe7fff",
+    "fdff9fed7e97e83c83c83c83c83c87f3ffff",
+    "f9ff9fe97e83e83c83c83c83c07e17ffffff",
+    "1e0500fe1e7ffffff3f21f217f5785580000"
   ]
 }
