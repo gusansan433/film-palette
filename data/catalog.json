@@ -347035,10 +347035,654 @@
       "kind": "film",
       "photographer": "Unknown painter, 18th century Tibetan thangka",
       "sourceLabel": "维基共享资源",
-      "contentHash": "900c01e83ef7991d81fe3f95bc1fe1ce18c1"
+      "contentHash": "900c01e83ef7991d81fe3f95bc1fe1ce18c1",
+      "category": "film",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "d21ccd37-01bf-4c83-9486-7a7a8bc9143a",
+      "title": "1904 — Emperor Gojong and Crown Prince Yi Cheok in ceremonial military dress",
+      "titleEn": "1904 — Emperor Gojong and Crown Prince Yi Cheok in ceremonial military dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/d21ccd37-01bf-4c83-9486-7a7a8bc9143a.jpg",
+      "thumbUrl": "/stills/d21ccd37-01bf-4c83-9486-7a7a8bc9143a.jpg",
+      "pageUrl": "https://archive.org/details/1904-06-emperor-gojong-and-crown-prince-yi-cheok-in-ceremonial-military-dress",
+      "author": "Internet Archive",
+      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "buckets": [
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#e8dcca",
+          "rgb": [
+            232,
+            220,
+            202
+          ],
+          "ratio": 0.2587890625,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#4e3527",
+          "rgb": [
+            78,
+            53,
+            39
+          ],
+          "ratio": 0.2580295138888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#a49381",
+          "rgb": [
+            164,
+            147,
+            129
+          ],
+          "ratio": 0.1745876736111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#6c5647",
+          "rgb": [
+            108,
+            86,
+            71
+          ],
+          "ratio": 0.1689453125,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#3b2015",
+          "rgb": [
+            59,
+            32,
+            21
+          ],
+          "ratio": 0.1396484375,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-09-26T02:20:53.765Z",
+      "fileKey": "archive:1904-06-emperor-gojong-and-crown-prince-yi-cheok-in-ceremonial-military-dress",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "31b30f307781301f0bd03c63c03c03c41fe3",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "3aa352a7-5c7b-4e66-af8c-16f523a42d66",
+      "title": "Textile Panel for Fire Screen (replacement)",
+      "titleEn": "Textile Panel for Fire Screen (replacement)",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/3aa352a7-5c7b-4e66-af8c-16f523a42d66.jpg",
+      "thumbUrl": "/stills/3aa352a7-5c7b-4e66-af8c-16f523a42d66.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-2003.253.c-textile-panel-for-fi",
+      "author": "Internet Archive",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "yellow",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#aa966b",
+          "rgb": [
+            170,
+            150,
+            107
+          ],
+          "ratio": 0.3722873263888889,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#b5aa8d",
+          "rgb": [
+            181,
+            170,
+            141
+          ],
+          "ratio": 0.212890625,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#664e3c",
+          "rgb": [
+            102,
+            78,
+            60
+          ],
+          "ratio": 0.16373697916666666,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#826d54",
+          "rgb": [
+            130,
+            109,
+            84
+          ],
+          "ratio": 0.15234375,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#473426",
+          "rgb": [
+            71,
+            52,
+            38
+          ],
+          "ratio": 0.09874131944444445,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-09-26T02:20:54.693Z",
+      "fileKey": "archive:clevelandart-2003.253.c-textile-panel-for-fi",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "d9bc03d23df9d09d09d01d09d09dd9c23f9f",
+      "category": "photo",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "67fb9471-230d-418a-b145-8b3b420341b1",
+      "title": "Wedding dress",
+      "titleEn": "Wedding dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/67fb9471-230d-418a-b145-8b3b420341b1.jpg",
+      "thumbUrl": "/stills/67fb9471-230d-418a-b145-8b3b420341b1.jpg",
+      "pageUrl": "https://archive.org/details/mma_wedding_dress_107816",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_wedding_dress_107816",
+      "buckets": [
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#8c6d3f",
+          "rgb": [
+            140,
+            109,
+            63
+          ],
+          "ratio": 0.2502170138888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#a88a5a",
+          "rgb": [
+            168,
+            138,
+            90
+          ],
+          "ratio": 0.2455512152777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#c3a778",
+          "rgb": [
+            195,
+            167,
+            120
+          ],
+          "ratio": 0.21744791666666666,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#6e4d24",
+          "rgb": [
+            110,
+            77,
+            36
+          ],
+          "ratio": 0.1462673611111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#dec699",
+          "rgb": [
+            222,
+            198,
+            153
+          ],
+          "ratio": 0.14051649305555555,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-09-26T02:21:02.940Z",
+      "fileKey": "archive:mma_wedding_dress_107816",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "7f8fe0fcfbf9ad90db9f11e3ff24801c0000",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "8f9367ac-352f-4aff-a459-8e2c4af31200",
+      "title": "Kate Upton Met Gala 2016",
+      "titleEn": "Kate Upton Met Gala 2016",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/8f9367ac-352f-4aff-a459-8e2c4af31200.jpg",
+      "thumbUrl": "/stills/8f9367ac-352f-4aff-a459-8e2c4af31200.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Kate_Upton_Met_Gala_2016.jpg",
+      "author": "Danilo Lauria",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "buckets": [
+        "gray",
+        "brown",
+        "orange",
+        "red"
+      ],
+      "palette": [
+        {
+          "hex": "#93827f",
+          "rgb": [
+            147,
+            130,
+            127
+          ],
+          "ratio": 0.3038194444444444,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#70605a",
+          "rgb": [
+            112,
+            96,
+            90
+          ],
+          "ratio": 0.2800564236111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#bea8a0",
+          "rgb": [
+            190,
+            168,
+            160
+          ],
+          "ratio": 0.2185329861111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#302727",
+          "rgb": [
+            48,
+            39,
+            39
+          ],
+          "ratio": 0.12022569444444445,
+          "bucket": "red"
+        },
+        {
+          "hex": "#dad8d8",
+          "rgb": [
+            218,
+            216,
+            216
+          ],
+          "ratio": 0.0773654513888889,
+          "bucket": "white"
+        }
+      ],
+      "addedAt": "2026-09-26T02:25:01.602Z",
+      "fileKey": "File:Kate Upton Met Gala 2016.jpg",
+      "kind": "film",
+      "photographer": "Danilo Lauria",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "f1fedfe8fecce00e84fc4fccb8c800011060",
+      "category": "film",
+      "subjects": [
+        "people"
+      ]
+    },
+    {
+      "id": "c3335de7-1a02-46e8-8cc9-4b581077b839",
+      "title": "Datong Yungang Grottoes Buddhist statues",
+      "titleEn": "Datong Yungang Grottoes Buddhist statues",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/c3335de7-1a02-46e8-8cc9-4b581077b839.jpg",
+      "thumbUrl": "/stills/c3335de7-1a02-46e8-8cc9-4b581077b839.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Datong_Yungang_Grottoes_Buddhist_statues.jpg",
+      "author": "BabelStone",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "buckets": [
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#927b6d",
+          "rgb": [
+            146,
+            123,
+            109
+          ],
+          "ratio": 0.3138020833333333,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#7e6558",
+          "rgb": [
+            126,
+            101,
+            88
+          ],
+          "ratio": 0.26171875,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#aa9586",
+          "rgb": [
+            170,
+            149,
+            134
+          ],
+          "ratio": 0.1720920138888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#ddd0c0",
+          "rgb": [
+            221,
+            208,
+            192
+          ],
+          "ratio": 0.12977430555555555,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#644b40",
+          "rgb": [
+            100,
+            75,
+            64
+          ],
+          "ratio": 0.12261284722222222,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-09-26T02:25:08.739Z",
+      "fileKey": "File:Datong Yungang Grottoes Buddhist statues.jpg",
+      "kind": "film",
+      "photographer": "BabelStone",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "c07c07c03c01c01e01e3de4d605605e01603",
+      "category": "film",
+      "subjects": [
+        "ancient"
+      ]
+    },
+    {
+      "id": "e14ba0e7-4298-4e34-8f33-1e929cd8bedc",
+      "title": "Fresco of the musical education of Olympus by Marsyas from Herculaneum Augusteum",
+      "titleEn": "Fresco of the musical education of Olympus by Marsyas from Herculaneum Augusteum",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/e14ba0e7-4298-4e34-8f33-1e929cd8bedc.jpg",
+      "thumbUrl": "/stills/e14ba0e7-4298-4e34-8f33-1e929cd8bedc.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Fresco_of_the_musical_education_of_Olympus_by_Marsyas_from_Herculaneum_Augusteum.jpg",
+      "author": "Yair-haklai",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "buckets": [
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#956e48",
+          "rgb": [
+            149,
+            110,
+            72
+          ],
+          "ratio": 0.3166232638888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#8b5b2f",
+          "rgb": [
+            139,
+            91,
+            47
+          ],
+          "ratio": 0.2798394097222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#a2815f",
+          "rgb": [
+            162,
+            129,
+            95
+          ],
+          "ratio": 0.22547743055555555,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#70492b",
+          "rgb": [
+            112,
+            73,
+            43
+          ],
+          "ratio": 0.10188802083333333,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#3e251b",
+          "rgb": [
+            62,
+            37,
+            27
+          ],
+          "ratio": 0.076171875,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-09-26T02:25:14.869Z",
+      "fileKey": "File:Fresco of the musical education of Olympus by Marsyas from Herculaneum Augusteum.jpg",
+      "kind": "photo",
+      "photographer": "Yair-haklai",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "7fe7f67f237e0de6de7821e23f27fc7f8000",
+      "category": "painting",
+      "subjects": [
+        "ancient"
+      ]
+    },
+    {
+      "id": "4d319d11-7d80-4988-93a5-761504865c79",
+      "title": "Thonet-exhibition 42",
+      "titleEn": "Thonet exhibition 42",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/4d319d11-7d80-4988-93a5-761504865c79.jpg",
+      "thumbUrl": "/stills/4d319d11-7d80-4988-93a5-761504865c79.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Thonet-exhibition_42.JPG",
+      "author": "Dominik Matus",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "buckets": [
+        "gray",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#b4bcb7",
+          "rgb": [
+            180,
+            188,
+            183
+          ],
+          "ratio": 0.3134765625,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#5b351d",
+          "rgb": [
+            91,
+            53,
+            29
+          ],
+          "ratio": 0.2682291666666667,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#a3a69c",
+          "rgb": [
+            163,
+            166,
+            156
+          ],
+          "ratio": 0.23448350694444445,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#9c6533",
+          "rgb": [
+            156,
+            101,
+            51
+          ],
+          "ratio": 0.12239583333333333,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#867661",
+          "rgb": [
+            134,
+            118,
+            97
+          ],
+          "ratio": 0.06141493055555555,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-09-26T02:39:28.079Z",
+      "fileKey": "File:Thonet-exhibition 42.JPG",
+      "kind": "photo",
+      "photographer": "Dominik Matus",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "1fd1890010018019819c7be7df7ff7ff7ff7",
+      "category": "photo",
+      "subjects": [
+        "design"
+      ]
+    },
+    {
+      "id": "8f2043f8-81bf-41b5-84dd-273bd9a7523b",
+      "title": "Ball gown",
+      "titleEn": "Ball gown MET 49.3.27b d2",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/8f2043f8-81bf-41b5-84dd-273bd9a7523b.jpg",
+      "thumbUrl": "/stills/8f2043f8-81bf-41b5-84dd-273bd9a7523b.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Ball_gown_MET_49.3.27b_d2.jpg",
+      "author": "Jacques Doucet",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "buckets": [
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#c47e4a",
+          "rgb": [
+            196,
+            126,
+            74
+          ],
+          "ratio": 0.3858506944444444,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d18f5a",
+          "rgb": [
+            209,
+            143,
+            90
+          ],
+          "ratio": 0.3745659722222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#966d33",
+          "rgb": [
+            150,
+            109,
+            51
+          ],
+          "ratio": 0.1130642361111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#5c4324",
+          "rgb": [
+            92,
+            67,
+            36
+          ],
+          "ratio": 0.078125,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#ba9f7e",
+          "rgb": [
+            186,
+            159,
+            126
+          ],
+          "ratio": 0.048394097222222224,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-09-26T02:42:15.395Z",
+      "fileKey": "File:Ball gown MET 49.3.27b d2.jpg",
+      "kind": "film",
+      "photographer": "Jacques Doucet",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "d69f09f5f97b87bc7b81b81be7b8f988b083"
     }
   ],
-  "lastIngestDate": "2026-09-25",
+  "lastIngestDate": "2026-09-26",
   "seenFileKeys": [
     "stills:04b85cc4-5a5c-4d95-9d52-460ceefa3ee5.jpg",
     "stills:0509b1d5-b5da-4b3c-8e65-edda97b86985.jpg",
@@ -353628,7 +354272,18 @@
     "File:Drawing (BM 1840,1212.33 1).jpg",
     "File:Architectural fresco in Pompeii watercolor by Luigi Bazzani.jpg",
     "File:Katy Perry Met Gala 2018.jpg",
-    "File:Shakyamuni Buddha with rainbow body - 18th century Tibetan thangka.jpg"
+    "File:Shakyamuni Buddha with rainbow body - 18th century Tibetan thangka.jpg",
+    "archive:1904-06-emperor-gojong-and-crown-prince-yi-cheok-in-ceremonial-military-dress",
+    "archive:clevelandart-2003.253.c-textile-panel-for-fi",
+    "archive:clevelandart-1954.301-length-of-textile",
+    "archive:mma_wedding_dress_107816",
+    "File:Kate Upton Met Gala 2016.jpg",
+    "File:Paul Poiret - automobile attire cph.3b04586.jpg",
+    "File:Datong Yungang Grottoes Buddhist statues.jpg",
+    "File:Fresco of the musical education of Olympus by Marsyas from Herculaneum Augusteum.jpg",
+    "File:Skull detail (looking down) from a Tibetan Thangka, Attributes of Kubera 'Lord of the Horses' (cropped).jpg",
+    "File:Thonet-exhibition 42.JPG",
+    "File:Ball gown MET 49.3.27b d2.jpg"
   ],
   "seenContentHashes": [
     "ff8f20c0481cf3cffcf7ce58ffcffcffcd7e",
@@ -357731,6 +358386,14 @@
     "f0fe07e03c03c01c01c01c01c03c03e07f0f",
     "0f3073ff3ff3ff3ff3ff3ff3ff31739f3000",
     "f07f07f27f27e07f0fffffeffef007c07402",
-    "900c01e83ef7991d81fe3f95bc1fe1ce18c1"
+    "900c01e83ef7991d81fe3f95bc1fe1ce18c1",
+    "31b30f307781301f0bd03c63c03c03c41fe3",
+    "d9bc03d23df9d09d09d01d09d09dd9c23f9f",
+    "7f8fe0fcfbf9ad90db9f11e3ff24801c0000",
+    "f1fedfe8fecce00e84fc4fccb8c800011060",
+    "c07c07c03c01c01e01e3de4d605605e01603",
+    "7fe7f67f237e0de6de7821e23f27fc7f8000",
+    "1fd1890010018019819c7be7df7ff7ff7ff7",
+    "d69f09f5f97b87bc7b81b81be7b8f988b083"
   ]
 }
