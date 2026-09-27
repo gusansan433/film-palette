@@ -347679,10 +347679,655 @@
       "kind": "film",
       "photographer": "Jacques Doucet",
       "sourceLabel": "维基共享资源",
-      "contentHash": "d69f09f5f97b87bc7b81b81be7b8f988b083"
+      "contentHash": "d69f09f5f97b87bc7b81b81be7b8f988b083",
+      "category": "film",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "9cc63025-436f-4e91-bcfd-b3fb786704d3",
+      "title": "Toilet Table, from Chippendale Drawings, Vol. II",
+      "titleEn": "Toilet Table, from Chippendale Drawings, Vol. II",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/9cc63025-436f-4e91-bcfd-b3fb786704d3.jpg",
+      "thumbUrl": "/stills/9cc63025-436f-4e91-bcfd-b3fb786704d3.jpg",
+      "pageUrl": "https://archive.org/details/mma_toilet_table_from_chippendale_drawings_vol_ii_390635",
+      "author": "Thomas Chippendale",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_toilet_table_from_chippendale_drawings_vol_ii_390635",
+      "buckets": [
+        "yellow",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#e3dcca",
+          "rgb": [
+            227,
+            220,
+            202
+          ],
+          "ratio": 0.5145399305555556,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#cac4ac",
+          "rgb": [
+            202,
+            196,
+            172
+          ],
+          "ratio": 0.2258029513888889,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#a7a186",
+          "rgb": [
+            167,
+            161,
+            134
+          ],
+          "ratio": 0.13975694444444445,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#737361",
+          "rgb": [
+            115,
+            115,
+            97
+          ],
+          "ratio": 0.0881076388888889,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#273b5c",
+          "rgb": [
+            39,
+            59,
+            92
+          ],
+          "ratio": 0.031792534722222224,
+          "bucket": "blue"
+        }
+      ],
+      "addedAt": "2026-09-27T02:10:26.129Z",
+      "fileKey": "archive:mma_toilet_table_from_chippendale_drawings_vol_ii_390635",
+      "kind": "photo",
+      "photographer": "Thomas Chippendale",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "7ff7df79f40b6036034234035fb4f36f37f1",
+      "category": "photo",
+      "subjects": [
+        "design"
+      ]
+    },
+    {
+      "id": "1e531d49-a59b-415d-89b7-27d75783c25f",
+      "title": "Set of furniture (daybed, armchair, and fire screen)",
+      "titleEn": "Set of furniture (daybed, armchair, and fire screen)",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/1e531d49-a59b-415d-89b7-27d75783c25f.jpg",
+      "thumbUrl": "/stills/1e531d49-a59b-415d-89b7-27d75783c25f.jpg",
+      "pageUrl": "https://archive.org/details/mma_set_of_furniture_daybed_armchair_and_fire_screen_236743",
+      "author": "Louis-François Chatard",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_set_of_furniture_daybed_armchair_and_fire_screen_236743",
+      "buckets": [
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#524637",
+          "rgb": [
+            82,
+            70,
+            55
+          ],
+          "ratio": 0.2583550347222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#382b1f",
+          "rgb": [
+            56,
+            43,
+            31
+          ],
+          "ratio": 0.2426215277777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#746756",
+          "rgb": [
+            116,
+            103,
+            86
+          ],
+          "ratio": 0.21126302083333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#1f140c",
+          "rgb": [
+            31,
+            20,
+            12
+          ],
+          "ratio": 0.1821831597222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#a89c8e",
+          "rgb": [
+            168,
+            156,
+            142
+          ],
+          "ratio": 0.10557725694444445,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-09-27T02:10:27.163Z",
+      "fileKey": "archive:mma_set_of_furniture_daybed_armchair_and_fire_screen_236743",
+      "kind": "photo",
+      "photographer": "Louis-François Chatard",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "ff83f09c01f11f31f99f1bf1707203001000",
+      "category": "photo",
+      "subjects": [
+        "design"
+      ]
+    },
+    {
+      "id": "9503299c-bdf7-47b8-9e89-86faa6cdc9e5",
+      "title": "Interior with Thonet-chair",
+      "titleEn": "Galimberti, Sándor Interior with Thonet chair (ca 1908)",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/9503299c-bdf7-47b8-9e89-86faa6cdc9e5.jpg",
+      "thumbUrl": "/stills/9503299c-bdf7-47b8-9e89-86faa6cdc9e5.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Galimberti,_S%C3%A1ndor_-_Interior_with_Thonet-chair_(ca_1908).jpg",
+      "author": "Sándor Galimberti",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Galimberti,_S%C3%A1ndor_-_Interior_with_Thonet-chair_(ca_1908).jpg",
+      "buckets": [
+        "yellow",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#d2bf86",
+          "rgb": [
+            210,
+            191,
+            134
+          ],
+          "ratio": 0.5354817708333334,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#663d31",
+          "rgb": [
+            102,
+            61,
+            49
+          ],
+          "ratio": 0.18196614583333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#9f8d68",
+          "rgb": [
+            159,
+            141,
+            104
+          ],
+          "ratio": 0.1469184027777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#954734",
+          "rgb": [
+            149,
+            71,
+            52
+          ],
+          "ratio": 0.07823350694444445,
+          "bucket": "red"
+        },
+        {
+          "hex": "#22221d",
+          "rgb": [
+            34,
+            34,
+            29
+          ],
+          "ratio": 0.05740017361111111,
+          "bucket": "black"
+        }
+      ],
+      "addedAt": "2026-09-27T02:14:02.670Z",
+      "fileKey": "File:Galimberti, Sándor - Interior with Thonet-chair (ca 1908).jpg",
+      "kind": "photo",
+      "photographer": "Sándor Galimberti",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "dff9ff37f07f07e37c339db8ff8f99e01e01",
+      "category": "photo",
+      "people": "none",
+      "subjects": [
+        "interior",
+        "design"
+      ]
+    },
+    {
+      "id": "23d928c3-4b1a-4037-94db-26e65c24c919",
+      "title": "Polyphemus and Galatea kissing, Pompeii",
+      "titleEn": "Polyphemus and Galatea kissing, Pompeii",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/23d928c3-4b1a-4037-94db-26e65c24c919.jpg",
+      "thumbUrl": "/stills/23d928c3-4b1a-4037-94db-26e65c24c919.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Polyphemus_and_Galatea_kissing,_Pompeii.jpg",
+      "author": "Unknown author Unknown author",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Polyphemus_and_Galatea_kissing,_Pompeii.jpg",
+      "buckets": [
+        "yellow",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#878360",
+          "rgb": [
+            135,
+            131,
+            96
+          ],
+          "ratio": 0.2891710069444444,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#787554",
+          "rgb": [
+            120,
+            117,
+            84
+          ],
+          "ratio": 0.24327256944444445,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#776d43",
+          "rgb": [
+            119,
+            109,
+            67
+          ],
+          "ratio": 0.21006944444444445,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#6a5c2f",
+          "rgb": [
+            106,
+            92,
+            47
+          ],
+          "ratio": 0.1538628472222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#94957c",
+          "rgb": [
+            148,
+            149,
+            124
+          ],
+          "ratio": 0.10362413194444445,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-09-27T02:14:03.914Z",
+      "fileKey": "File:Polyphemus and Galatea kissing, Pompeii.jpg",
+      "kind": "film",
+      "photographer": "Unknown author Unknown author",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "830160060b20830c32e3be19619bfdf9dffc",
+      "category": "film",
+      "subjects": [
+        "ancient"
+      ]
+    },
+    {
+      "id": "b40ee3b2-9c3f-4004-b412-ca6b0cb7ab6b",
+      "title": "Alicia Vikander Met Gala 2016 (cropped)",
+      "titleEn": "Alicia Vikander Met Gala 2016 (cropped)",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/b40ee3b2-9c3f-4004-b412-ca6b0cb7ab6b.jpg",
+      "thumbUrl": "/stills/b40ee3b2-9c3f-4004-b412-ca6b0cb7ab6b.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Alicia_Vikander_Met_Gala_2016_(cropped).jpg",
+      "author": "Danilo Lauria",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "buckets": [
+        "brown",
+        "orange",
+        "red"
+      ],
+      "palette": [
+        {
+          "hex": "#6c5141",
+          "rgb": [
+            108,
+            81,
+            65
+          ],
+          "ratio": 0.2846137152777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#b86241",
+          "rgb": [
+            184,
+            98,
+            65
+          ],
+          "ratio": 0.23014322916666666,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#a33726",
+          "rgb": [
+            163,
+            55,
+            38
+          ],
+          "ratio": 0.1990017361111111,
+          "bucket": "red"
+        },
+        {
+          "hex": "#3a1c13",
+          "rgb": [
+            58,
+            28,
+            19
+          ],
+          "ratio": 0.1750217013888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#bd8265",
+          "rgb": [
+            189,
+            130,
+            101
+          ],
+          "ratio": 0.11121961805555555,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-09-27T02:30:22.322Z",
+      "fileKey": "File:Alicia Vikander Met Gala 2016 (cropped).jpg",
+      "kind": "film",
+      "photographer": "Danilo Lauria",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "ef8ef8e60a6ebfe0f80f80700308f8bf8ffe",
+      "category": "film",
+      "subjects": [
+        "people"
+      ]
+    },
+    {
+      "id": "6042fa83-6f0a-4475-a03f-9e7f0a7cc76d",
+      "title": "Ball gown",
+      "titleEn": "Ball gown MET 1983.3.2ab F",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/6042fa83-6f0a-4475-a03f-9e7f0a7cc76d.jpg",
+      "thumbUrl": "/stills/6042fa83-6f0a-4475-a03f-9e7f0a7cc76d.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Ball_gown_MET_1983.3.2ab_F.jpg",
+      "author": "Wikimedia Commons",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "buckets": [
+        "orange",
+        "white"
+      ],
+      "palette": [
+        {
+          "hex": "#d1cbc6",
+          "rgb": [
+            209,
+            203,
+            198
+          ],
+          "ratio": 0.3055555555555556,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#dfdcda",
+          "rgb": [
+            223,
+            220,
+            218
+          ],
+          "ratio": 0.2819010416666667,
+          "bucket": "white"
+        },
+        {
+          "hex": "#ab9978",
+          "rgb": [
+            171,
+            153,
+            120
+          ],
+          "ratio": 0.177734375,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#9b8560",
+          "rgb": [
+            155,
+            133,
+            96
+          ],
+          "ratio": 0.1306423611111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#bdaf97",
+          "rgb": [
+            189,
+            175,
+            151
+          ],
+          "ratio": 0.10416666666666667,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-09-27T02:37:29.322Z",
+      "fileKey": "File:Ball gown MET 1983.3.2ab F.jpg",
+      "kind": "film",
+      "photographer": "Wikimedia Commons",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "f9ff0ff5ff5ff57f07f03f03f03f01e01e01",
+      "category": "film",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "c2038897-9c3d-4219-85a8-37418c95ddbb",
+      "title": "Kate Upton Met Gala 2016 (cropped)",
+      "titleEn": "Kate Upton Met Gala 2016 (cropped)",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/c2038897-9c3d-4219-85a8-37418c95ddbb.jpg",
+      "thumbUrl": "/stills/c2038897-9c3d-4219-85a8-37418c95ddbb.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Kate_Upton_Met_Gala_2016_(cropped).jpg",
+      "author": "Danilo Lauria",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "buckets": [
+        "red",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#b2958f",
+          "rgb": [
+            178,
+            149,
+            143
+          ],
+          "ratio": 0.2814670138888889,
+          "bucket": "red"
+        },
+        {
+          "hex": "#8f7871",
+          "rgb": [
+            143,
+            120,
+            113
+          ],
+          "ratio": 0.2451171875,
+          "bucket": "red"
+        },
+        {
+          "hex": "#70594d",
+          "rgb": [
+            112,
+            89,
+            77
+          ],
+          "ratio": 0.2177734375,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#46342d",
+          "rgb": [
+            70,
+            52,
+            45
+          ],
+          "ratio": 0.1392144097222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#cdbbb6",
+          "rgb": [
+            205,
+            187,
+            182
+          ],
+          "ratio": 0.1164279513888889,
+          "bucket": "red"
+        }
+      ],
+      "addedAt": "2026-09-27T02:39:52.110Z",
+      "fileKey": "File:Kate Upton Met Gala 2016 (cropped).jpg",
+      "kind": "film",
+      "photographer": "Danilo Lauria",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "ec5de7cc784b9f1da18a3c48cc1cc0fe27e0",
+      "category": "film",
+      "subjects": [
+        "people"
+      ]
+    },
+    {
+      "id": "41b95101-9a29-493a-9b30-f26eae6a6c3f",
+      "title": "Katy Perry 2017 Met Gala (center cropped)",
+      "titleEn": "Katy Perry 2017 Met Gala (center cropped)",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/41b95101-9a29-493a-9b30-f26eae6a6c3f.jpg",
+      "thumbUrl": "/stills/41b95101-9a29-493a-9b30-f26eae6a6c3f.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Katy_Perry_2017_Met_Gala_(center_cropped).png",
+      "author": "Danilo",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "buckets": [
+        "red",
+        "white"
+      ],
+      "palette": [
+        {
+          "hex": "#841814",
+          "rgb": [
+            132,
+            24,
+            20
+          ],
+          "ratio": 0.4111328125,
+          "bucket": "red"
+        },
+        {
+          "hex": "#bbaeaa",
+          "rgb": [
+            187,
+            174,
+            170
+          ],
+          "ratio": 0.1824001736111111,
+          "bucket": "red"
+        },
+        {
+          "hex": "#f5f5f5",
+          "rgb": [
+            245,
+            245,
+            245
+          ],
+          "ratio": 0.1547309027777778,
+          "bucket": "white"
+        },
+        {
+          "hex": "#372020",
+          "rgb": [
+            55,
+            32,
+            32
+          ],
+          "ratio": 0.1298828125,
+          "bucket": "red"
+        },
+        {
+          "hex": "#a15755",
+          "rgb": [
+            161,
+            87,
+            85
+          ],
+          "ratio": 0.1218532986111111,
+          "bucket": "red"
+        }
+      ],
+      "addedAt": "2026-09-27T02:40:40.419Z",
+      "fileKey": "File:Katy Perry 2017 Met Gala (center cropped).png",
+      "kind": "film",
+      "photographer": "Danilo",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "f9ff8fe07e07e03e03e03f00e00a00000000"
     }
   ],
-  "lastIngestDate": "2026-09-26",
+  "lastIngestDate": "2026-09-27",
   "seenFileKeys": [
     "stills:04b85cc4-5a5c-4d95-9d52-460ceefa3ee5.jpg",
     "stills:0509b1d5-b5da-4b3c-8e65-edda97b86985.jpg",
@@ -354283,7 +354928,17 @@
     "File:Fresco of the musical education of Olympus by Marsyas from Herculaneum Augusteum.jpg",
     "File:Skull detail (looking down) from a Tibetan Thangka, Attributes of Kubera 'Lord of the Horses' (cropped).jpg",
     "File:Thonet-exhibition 42.JPG",
-    "File:Ball gown MET 49.3.27b d2.jpg"
+    "File:Ball gown MET 49.3.27b d2.jpg",
+    "archive:mma_toilet_table_from_chippendale_drawings_vol_ii_390635",
+    "archive:mma_set_of_furniture_daybed_armchair_and_fire_screen_236743",
+    "File:Galimberti, Sándor - Interior with Thonet-chair (ca 1908).jpg",
+    "File:Polyphemus and Galatea kissing, Pompeii.jpg",
+    "File:Stamp of Finland - 1980 - Colnect 46907 - Small towel with Karelian embroidery.jpeg",
+    "File:Alicia Vikander Met Gala 2016 (cropped).jpg",
+    "File:Ball gown, 1920.jpg",
+    "File:Ball gown MET 1983.3.2ab F.jpg",
+    "File:Kate Upton Met Gala 2016 (cropped).jpg",
+    "File:Katy Perry 2017 Met Gala (center cropped).png"
   ],
   "seenContentHashes": [
     "ff8f20c0481cf3cffcf7ce58ffcffcffcd7e",
@@ -358394,6 +359049,14 @@
     "c07c07c03c01c01e01e3de4d605605e01603",
     "7fe7f67f237e0de6de7821e23f27fc7f8000",
     "1fd1890010018019819c7be7df7ff7ff7ff7",
-    "d69f09f5f97b87bc7b81b81be7b8f988b083"
+    "d69f09f5f97b87bc7b81b81be7b8f988b083",
+    "7ff7df79f40b6036034234035fb4f36f37f1",
+    "ff83f09c01f11f31f99f1bf1707203001000",
+    "dff9ff37f07f07e37c339db8ff8f99e01e01",
+    "830160060b20830c32e3be19619bfdf9dffc",
+    "ef8ef8e60a6ebfe0f80f80700308f8bf8ffe",
+    "f9ff0ff5ff5ff57f07f03f03f03f01e01e01",
+    "ec5de7cc784b9f1da18a3c48cc1cc0fe27e0",
+    "f9ff8fe07e07e03e03e03f00e00a00000000"
   ]
 }
