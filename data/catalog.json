@@ -348324,10 +348324,899 @@
       "kind": "film",
       "photographer": "Danilo",
       "sourceLabel": "维基共享资源",
-      "contentHash": "f9ff8fe07e07e03e03e03f00e00a00000000"
+      "contentHash": "f9ff8fe07e07e03e03e03f00e00a00000000",
+      "category": "film",
+      "subjects": [
+        "people"
+      ]
+    },
+    {
+      "id": "f74deac2-033a-4ad6-8329-4b29daabd669",
+      "title": "Textile Fragment",
+      "titleEn": "Textile Fragment",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/f74deac2-033a-4ad6-8329-4b29daabd669.jpg",
+      "thumbUrl": "/stills/f74deac2-033a-4ad6-8329-4b29daabd669.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1937.584-textile-fragment",
+      "author": "Internet Archive",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#c09c83",
+          "rgb": [
+            192,
+            156,
+            131
+          ],
+          "ratio": 0.2979600694444444,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d1ae94",
+          "rgb": [
+            209,
+            174,
+            148
+          ],
+          "ratio": 0.2878689236111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#a8856c",
+          "rgb": [
+            168,
+            133,
+            108
+          ],
+          "ratio": 0.2131076388888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#e0c0a7",
+          "rgb": [
+            224,
+            192,
+            167
+          ],
+          "ratio": 0.126953125,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#c1b7aa",
+          "rgb": [
+            193,
+            183,
+            170
+          ],
+          "ratio": 0.07411024305555555,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-09-28T02:17:39.118Z",
+      "fileKey": "archive:clevelandart-1937.584-textile-fragment",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "18c32c3262d60f39fb2fc8f18691fc9f8c71",
+      "category": "photo",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "b64dd91a-53b9-4499-bc69-e31f9fe2798b",
+      "title": "An elegant new pattern for a habit shirt, front of a dress",
+      "titleEn": "An elegant new pattern for a habit shirt, front of a dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/b64dd91a-53b9-4499-bc69-e31f9fe2798b.jpg",
+      "thumbUrl": "/stills/b64dd91a-53b9-4499-bc69-e31f9fe2798b.jpg",
+      "pageUrl": "https://archive.org/details/LMG00021",
+      "author": "Lady's Magazine",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "buckets": [
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#ede6cb",
+          "rgb": [
+            237,
+            230,
+            203
+          ],
+          "ratio": 0.3553602430555556,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#f6efd4",
+          "rgb": [
+            246,
+            239,
+            212
+          ],
+          "ratio": 0.3160807291666667,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#d7d1b9",
+          "rgb": [
+            215,
+            209,
+            185
+          ],
+          "ratio": 0.1316189236111111,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#bab5a0",
+          "rgb": [
+            186,
+            181,
+            160
+          ],
+          "ratio": 0.1291232638888889,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#96917f",
+          "rgb": [
+            150,
+            145,
+            127
+          ],
+          "ratio": 0.06781684027777778,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-09-28T02:17:41.426Z",
+      "fileKey": "archive:LMG00021",
+      "kind": "photo",
+      "photographer": "Lady's Magazine",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "fff3fc8e1c00a00a04805c03e0ff9fffffff",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design",
+        "pattern"
+      ]
+    },
+    {
+      "id": "224cc8c5-6853-4a61-b7df-874a5f3469f4",
+      "title": "Modern cotton textile factory - Morgantown, North Carolina",
+      "titleEn": "Modern cotton textile factory - Morgantown, North Carolina",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/224cc8c5-6853-4a61-b7df-874a5f3469f4.jpg",
+      "thumbUrl": "/stills/224cc8c5-6853-4a61-b7df-874a5f3469f4.jpg",
+      "pageUrl": "https://archive.org/details/F4_Geography_MCGSC-0387",
+      "author": "Rowland Illick",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/F4_Geography_MCGSC-0387",
+      "buckets": [
+        "brown",
+        "blue",
+        "orange",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#405662",
+          "rgb": [
+            64,
+            86,
+            98
+          ],
+          "ratio": 0.2893880208333333,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#433720",
+          "rgb": [
+            67,
+            55,
+            32
+          ],
+          "ratio": 0.2302517361111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#c4bbae",
+          "rgb": [
+            196,
+            187,
+            174
+          ],
+          "ratio": 0.1986762152777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#867c75",
+          "rgb": [
+            134,
+            124,
+            117
+          ],
+          "ratio": 0.1853298611111111,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#1d170c",
+          "rgb": [
+            29,
+            23,
+            12
+          ],
+          "ratio": 0.09635416666666667,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-09-28T02:17:42.247Z",
+      "fileKey": "archive:F4_Geography_MCGSC-0387",
+      "kind": "photo",
+      "photographer": "Rowland Illick",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "0000000000fcffffffffffff000000000020",
+      "category": "photo",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "cc899635-61f7-4a60-9967-d28a20e806c6",
+      "title": "Armchair",
+      "titleEn": "Armchair",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/cc899635-61f7-4a60-9967-d28a20e806c6.jpg",
+      "thumbUrl": "/stills/cc899635-61f7-4a60-9967-d28a20e806c6.jpg",
+      "pageUrl": "https://archive.org/details/mma_armchair_208209",
+      "author": "Jacques-Michel Dulud",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_armchair_208209",
+      "buckets": [
+        "white",
+        "gray",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#e8e8e8",
+          "rgb": [
+            232,
+            232,
+            232
+          ],
+          "ratio": 0.3382161458333333,
+          "bucket": "white"
+        },
+        {
+          "hex": "#cecece",
+          "rgb": [
+            206,
+            206,
+            206
+          ],
+          "ratio": 0.3349609375,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#211814",
+          "rgb": [
+            33,
+            24,
+            20
+          ],
+          "ratio": 0.1576605902777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#614c3c",
+          "rgb": [
+            97,
+            76,
+            60
+          ],
+          "ratio": 0.1076388888888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#928478",
+          "rgb": [
+            146,
+            132,
+            120
+          ],
+          "ratio": 0.0615234375,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-09-28T02:17:50.155Z",
+      "fileKey": "archive:mma_armchair_208209",
+      "kind": "photo",
+      "photographer": "Jacques-Michel Dulud",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "c3fc3fc3fc3fc03c1bc03e03c03d3bfbffff",
+      "category": "photo",
+      "subjects": [
+        "design"
+      ]
+    },
+    {
+      "id": "8fd26b94-20ec-46e4-9e62-ee54667be075",
+      "title": "20251026 Blue-and-white Porcelain Flask with Astamangala",
+      "titleEn": "20251026 Blue and white Porcelain Flask with Astamangala",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/8fd26b94-20ec-46e4-9e62-ee54667be075.jpg",
+      "thumbUrl": "/stills/8fd26b94-20ec-46e4-9e62-ee54667be075.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:20251026_Blue-and-white_Porcelain_Flask_with_Astamangala.jpg",
+      "author": "Windmemories",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "buckets": [
+        "orange",
+        "gray",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#b3a89d",
+          "rgb": [
+            179,
+            168,
+            157
+          ],
+          "ratio": 0.2670355902777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#646675",
+          "rgb": [
+            100,
+            102,
+            117
+          ],
+          "ratio": 0.2052951388888889,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#dfdad1",
+          "rgb": [
+            223,
+            218,
+            209
+          ],
+          "ratio": 0.1948784722222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#311e0e",
+          "rgb": [
+            49,
+            30,
+            14
+          ],
+          "ratio": 0.1870659722222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#b77b47",
+          "rgb": [
+            183,
+            123,
+            71
+          ],
+          "ratio": 0.1457248263888889,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-09-28T02:21:04.431Z",
+      "fileKey": "File:20251026 Blue-and-white Porcelain Flask with Astamangala.jpg",
+      "kind": "film",
+      "photographer": "Windmemories",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "fa062727f1fb3ff3ef39e3f43dc3e41cf04f",
+      "category": "film",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "03d0c5f0-be4f-418b-81b3-fe0713f2214b",
+      "title": "Bosch, Hieronymus - The Garden of Earthly Delights, central panel - Detail Winged figure with fish flying (upper right)",
+      "titleEn": "Bosch, Hieronymus The Garden of Earthly Delights, central panel Detail Winged figure with fish flying (upper right)",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/03d0c5f0-be4f-418b-81b3-fe0713f2214b.jpg",
+      "thumbUrl": "/stills/03d0c5f0-be4f-418b-81b3-fe0713f2214b.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Bosch,_Hieronymus_-_The_Garden_of_Earthly_Delights,_central_panel_-_Detail_Winged_figure_with_fish_flying_(upper_right).jpg",
+      "author": "Wikimedia Commons",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Bosch,_Hieronymus_-_The_Garden_of_Earthly_Delights,_central_panel_-_Detail_Winged_figure_with_fish_flying_(upper_right).jpg",
+      "buckets": [
+        "green",
+        "gray",
+        "cyan"
+      ],
+      "palette": [
+        {
+          "hex": "#999f88",
+          "rgb": [
+            153,
+            159,
+            136
+          ],
+          "ratio": 0.3780381944444444,
+          "bucket": "green"
+        },
+        {
+          "hex": "#a2a78f",
+          "rgb": [
+            162,
+            167,
+            143
+          ],
+          "ratio": 0.2726779513888889,
+          "bucket": "green"
+        },
+        {
+          "hex": "#8a9480",
+          "rgb": [
+            138,
+            148,
+            128
+          ],
+          "ratio": 0.248046875,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#627b7c",
+          "rgb": [
+            98,
+            123,
+            124
+          ],
+          "ratio": 0.07215711805555555,
+          "bucket": "cyan"
+        },
+        {
+          "hex": "#37555b",
+          "rgb": [
+            55,
+            85,
+            91
+          ],
+          "ratio": 0.029079861111111112,
+          "bucket": "cyan"
+        }
+      ],
+      "addedAt": "2026-09-28T02:21:07.525Z",
+      "fileKey": "File:Bosch, Hieronymus - The Garden of Earthly Delights, central panel - Detail Winged figure with fish flying (upper right).jpg",
+      "kind": "photo",
+      "photographer": "Hieronymus Bosch",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "000c6be69e7df1ff0ffbfcdfc4fe4ff27f97",
+      "category": "painting",
+      "subjects": [
+        "nature",
+        "people"
+      ]
+    },
+    {
+      "id": "beaa2fed-6ca4-4fcd-bc1c-930d921d2771",
+      "title": "Altamira paintings 04",
+      "titleEn": "Altamira paintings 04",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/beaa2fed-6ca4-4fcd-bc1c-930d921d2771.jpg",
+      "thumbUrl": "/stills/beaa2fed-6ca4-4fcd-bc1c-930d921d2771.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Altamira_paintings_04.jpg",
+      "author": "Henri Breuil (1877–1961) & Émile Cartailhac (1845–1921)",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Altamira_paintings_04.jpg",
+      "buckets": [
+        "red"
+      ],
+      "palette": [
+        {
+          "hex": "#fffefe",
+          "rgb": [
+            255,
+            254,
+            254
+          ],
+          "ratio": 0.4445529513888889,
+          "bucket": "red"
+        },
+        {
+          "hex": "#853126",
+          "rgb": [
+            133,
+            49,
+            38
+          ],
+          "ratio": 0.2750651041666667,
+          "bucket": "red"
+        },
+        {
+          "hex": "#32120d",
+          "rgb": [
+            50,
+            18,
+            13
+          ],
+          "ratio": 0.14290364583333334,
+          "bucket": "red"
+        },
+        {
+          "hex": "#ac7565",
+          "rgb": [
+            172,
+            117,
+            101
+          ],
+          "ratio": 0.0954861111111111,
+          "bucket": "red"
+        },
+        {
+          "hex": "#dbbaab",
+          "rgb": [
+            219,
+            186,
+            171
+          ],
+          "ratio": 0.0419921875,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-09-28T02:21:13.099Z",
+      "fileKey": "File:Altamira paintings 04.jpg",
+      "kind": "film",
+      "photographer": "Henri Breuil (1877–1961) & Émile Cartailhac (1845–1921)",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "ffffc3f80800000000800c01ce7eefeeffff",
+      "category": "film",
+      "subjects": [
+        "ancient"
+      ]
+    },
+    {
+      "id": "e12dc8f5-c39f-4c86-adfd-254bc37dea1b",
+      "title": "20241025 Gourd-Shaped Blue and White Porcelain Vase of Wanli Reign, Ming Dynasty",
+      "titleEn": "20241025 Gourd Shaped Blue and White Porcelain Vase of Wanli Reign, Ming Dynasty",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/e12dc8f5-c39f-4c86-adfd-254bc37dea1b.jpg",
+      "thumbUrl": "/stills/e12dc8f5-c39f-4c86-adfd-254bc37dea1b.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:20241025_Gourd-Shaped_Blue_and_White_Porcelain_Vase_of_Wanli_Reign,_Ming_Dynasty.jpg",
+      "author": "Windmemories",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "buckets": [
+        "orange",
+        "blue",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#ddcebb",
+          "rgb": [
+            221,
+            206,
+            187
+          ],
+          "ratio": 0.3067491319444444,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#af9a80",
+          "rgb": [
+            175,
+            154,
+            128
+          ],
+          "ratio": 0.2718098958333333,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#b1b1aa",
+          "rgb": [
+            177,
+            177,
+            170
+          ],
+          "ratio": 0.16297743055555555,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#65798c",
+          "rgb": [
+            101,
+            121,
+            140
+          ],
+          "ratio": 0.1480034722222222,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#253e59",
+          "rgb": [
+            37,
+            62,
+            89
+          ],
+          "ratio": 0.11046006944444445,
+          "bucket": "blue"
+        }
+      ],
+      "addedAt": "2026-09-28T02:21:18.867Z",
+      "fileKey": "File:20241025 Gourd-Shaped Blue and White Porcelain Vase of Wanli Reign, Ming Dynasty.jpg",
+      "kind": "film",
+      "photographer": "Windmemories",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "10f06f22fa07e0770f70f23f4ff013407e07",
+      "category": "film",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "5238ab87-ba07-48db-9ad0-14ee8d6dd78b",
+      "title": "Lascaux 003",
+      "titleEn": "Lascaux 003",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/5238ab87-ba07-48db-9ad0-14ee8d6dd78b.jpg",
+      "thumbUrl": "/stills/5238ab87-ba07-48db-9ad0-14ee8d6dd78b.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Lascaux_003.jpg",
+      "author": "JoJan",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "buckets": [
+        "brown",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#524a3c",
+          "rgb": [
+            82,
+            74,
+            60
+          ],
+          "ratio": 0.251953125,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#241b14",
+          "rgb": [
+            36,
+            27,
+            20
+          ],
+          "ratio": 0.2390407986111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#817b69",
+          "rgb": [
+            129,
+            123,
+            105
+          ],
+          "ratio": 0.20377604166666666,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#dedcd2",
+          "rgb": [
+            222,
+            220,
+            210
+          ],
+          "ratio": 0.15592447916666666,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#b0aa9d",
+          "rgb": [
+            176,
+            170,
+            157
+          ],
+          "ratio": 0.14930555555555555,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-09-28T02:28:25.419Z",
+      "fileKey": "File:Lascaux 003.jpg",
+      "kind": "film",
+      "photographer": "JoJan",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "fc0ff0ff8ffc5fe3fcbfc1f8000000000000",
+      "category": "film",
+      "subjects": [
+        "ancient"
+      ]
+    },
+    {
+      "id": "e02255a5-1490-4838-b8ed-65b9df227e69",
+      "title": "Yunjin Kim (cropped)",
+      "titleEn": "Yunjin Kim (cropped)",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/e02255a5-1490-4838-b8ed-65b9df227e69.jpg",
+      "thumbUrl": "/stills/e02255a5-1490-4838-b8ed-65b9df227e69.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Yunjin_Kim_(cropped).png",
+      "author": "PC78",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "buckets": [
+        "black",
+        "orange",
+        "blue",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#1f2021",
+          "rgb": [
+            31,
+            32,
+            33
+          ],
+          "ratio": 0.4498697916666667,
+          "bucket": "black"
+        },
+        {
+          "hex": "#dde1e6",
+          "rgb": [
+            221,
+            225,
+            230
+          ],
+          "ratio": 0.20572916666666666,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#bbaf9a",
+          "rgb": [
+            187,
+            175,
+            154
+          ],
+          "ratio": 0.1388888888888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#644e40",
+          "rgb": [
+            100,
+            78,
+            64
+          ],
+          "ratio": 0.10611979166666667,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#9b896a",
+          "rgb": [
+            155,
+            137,
+            106
+          ],
+          "ratio": 0.0993923611111111,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-09-28T02:50:04.701Z",
+      "fileKey": "File:Yunjin Kim (cropped).png",
+      "kind": "film",
+      "photographer": "PC78",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "fb8f00720738610e00e00e00c18e1effeffe",
+      "category": "film",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "22e5d4fe-bff8-4a67-b658-e8ea8adf4e77",
+      "title": "Frescoed wall from the Casa d'Argo in Herculaneum excavated in 1830 by Wilhelm Zahn",
+      "titleEn": "Herculaneum excavated in 1830 by Wilhelm Zahn",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/22e5d4fe-bff8-4a67-b658-e8ea8adf4e77.jpg",
+      "thumbUrl": "/stills/22e5d4fe-bff8-4a67-b658-e8ea8adf4e77.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Frescoed_wall_from_the_Casa_d%27Argo_in_Herculaneum_excavated_in_1830_by_Wilhelm_Zahn.jpg",
+      "author": "Wilhelm Zahn (d. 1871)",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Frescoed_wall_from_the_Casa_d%27Argo_in_Herculaneum_excavated_in_1830_by_Wilhelm_Zahn.jpg",
+      "buckets": [
+        "orange",
+        "gray",
+        "red"
+      ],
+      "palette": [
+        {
+          "hex": "#d4d2cc",
+          "rgb": [
+            212,
+            210,
+            204
+          ],
+          "ratio": 0.3479817708333333,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#cdc9c1",
+          "rgb": [
+            205,
+            201,
+            193
+          ],
+          "ratio": 0.2702907986111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#974936",
+          "rgb": [
+            151,
+            73,
+            54
+          ],
+          "ratio": 0.16536458333333334,
+          "bucket": "red"
+        },
+        {
+          "hex": "#b1806c",
+          "rgb": [
+            177,
+            128,
+            108
+          ],
+          "ratio": 0.1111111111111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#c2ad9e",
+          "rgb": [
+            194,
+            173,
+            158
+          ],
+          "ratio": 0.1052517361111111,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-09-28T02:51:16.540Z",
+      "fileKey": "File:Frescoed wall from the Casa d'Argo in Herculaneum excavated in 1830 by Wilhelm Zahn.jpg",
+      "kind": "film",
+      "photographer": "Wilhelm Zahn (d. 1871)",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "abfbfde0fa27fffffffffeff801801801fff"
     }
   ],
-  "lastIngestDate": "2026-09-27",
+  "lastIngestDate": "2026-09-28",
   "seenFileKeys": [
     "stills:04b85cc4-5a5c-4d95-9d52-460ceefa3ee5.jpg",
     "stills:0509b1d5-b5da-4b3c-8e65-edda97b86985.jpg",
@@ -354938,7 +355827,32 @@
     "File:Ball gown, 1920.jpg",
     "File:Ball gown MET 1983.3.2ab F.jpg",
     "File:Kate Upton Met Gala 2016 (cropped).jpg",
-    "File:Katy Perry 2017 Met Gala (center cropped).png"
+    "File:Katy Perry 2017 Met Gala (center cropped).png",
+    "archive:clevelandart-1937.584-textile-fragment",
+    "archive:C1403CN024",
+    "archive:mma_textile_sample_book_229171",
+    "archive:LMG00021",
+    "archive:F4_Geography_MCGSC-0387",
+    "archive:mma_dress_98751",
+    "openverse:6c5c68b6-ec89-49fd-a167-057ca686d62f",
+    "archive:GadoImages219631",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1950-12-28",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1956-12-17",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1939-07-11",
+    "archive:mma_household_furniture_and_interior_decoration_351777",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1981-11-07",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1952-10-07",
+    "archive:mma_armchair_208209",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1958-07-23",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1929-07-14",
+    "File:20251026 Blue-and-white Porcelain Flask with Astamangala.jpg",
+    "File:StateLibQld 1 170303 Tattoo (ship).jpg",
+    "File:Bosch, Hieronymus - The Garden of Earthly Delights, central panel - Detail Winged figure with fish flying (upper right).jpg",
+    "File:Altamira paintings 04.jpg",
+    "File:20241025 Gourd-Shaped Blue and White Porcelain Vase of Wanli Reign, Ming Dynasty.jpg",
+    "File:Lascaux 003.jpg",
+    "File:Yunjin Kim (cropped).png",
+    "File:Frescoed wall from the Casa d'Argo in Herculaneum excavated in 1830 by Wilhelm Zahn.jpg"
   ],
   "seenContentHashes": [
     "ff8f20c0481cf3cffcf7ce58ffcffcffcd7e",
@@ -359057,6 +359971,17 @@
     "ef8ef8e60a6ebfe0f80f80700308f8bf8ffe",
     "f9ff0ff5ff5ff57f07f03f03f03f01e01e01",
     "ec5de7cc784b9f1da18a3c48cc1cc0fe27e0",
-    "f9ff8fe07e07e03e03e03f00e00a00000000"
+    "f9ff8fe07e07e03e03e03f00e00a00000000",
+    "18c32c3262d60f39fb2fc8f18691fc9f8c71",
+    "fff3fc8e1c00a00a04805c03e0ff9fffffff",
+    "0000000000fcffffffffffff000000000020",
+    "c3fc3fc3fc3fc03c1bc03e03c03d3bfbffff",
+    "fa062727f1fb3ff3ef39e3f43dc3e41cf04f",
+    "000c6be69e7df1ff0ffbfcdfc4fe4ff27f97",
+    "ffffc3f80800000000800c01ce7eefeeffff",
+    "10f06f22fa07e0770f70f23f4ff013407e07",
+    "fc0ff0ff8ffc5fe3fcbfc1f8000000000000",
+    "fb8f00720738610e00e00e00c18e1effeffe",
+    "abfbfde0fa27fffffffffeff801801801fff"
   ]
 }
