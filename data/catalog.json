@@ -349213,10 +349213,585 @@
       "kind": "film",
       "photographer": "Wilhelm Zahn (d. 1871)",
       "sourceLabel": "维基共享资源",
-      "contentHash": "abfbfde0fa27fffffffffeff801801801fff"
+      "contentHash": "abfbfde0fa27fffffffffeff801801801fff",
+      "category": "film",
+      "subjects": [
+        "ancient"
+      ]
+    },
+    {
+      "id": "75b392be-a126-4663-ab5b-53c190fbd3dc",
+      "title": "Portrait of a Woman (Judith Colman Bulfinch?)",
+      "titleEn": "Portrait of a Woman (Judith Colman Bulfinch?)",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/75b392be-a126-4663-ab5b-53c190fbd3dc.jpg",
+      "thumbUrl": "/stills/75b392be-a126-4663-ab5b-53c190fbd3dc.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1920.3919-portrait-of-a-woman",
+      "author": "John Smibert (American, 1688–1751)",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "green",
+        "orange",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#2f2b1f",
+          "rgb": [
+            47,
+            43,
+            31
+          ],
+          "ratio": 0.4835069444444444,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#1c1e17",
+          "rgb": [
+            28,
+            30,
+            23
+          ],
+          "ratio": 0.23665364583333334,
+          "bucket": "green"
+        },
+        {
+          "hex": "#4b4b3e",
+          "rgb": [
+            75,
+            75,
+            62
+          ],
+          "ratio": 0.1286892361111111,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#b8a692",
+          "rgb": [
+            184,
+            166,
+            146
+          ],
+          "ratio": 0.08832465277777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#8b7c6b",
+          "rgb": [
+            139,
+            124,
+            107
+          ],
+          "ratio": 0.06282552083333333,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-09-29T03:03:34.460Z",
+      "fileKey": "archive:clevelandart-1920.3919-portrait-of-a-woman",
+      "kind": "photo",
+      "photographer": "John Smibert (American, 1688–1751)",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "07007807c07c0f80f80f80f8070002000000",
+      "category": "photo",
+      "people": "one",
+      "subjects": [
+        "portrait",
+        "people"
+      ]
+    },
+    {
+      "id": "d729f4bb-df22-444d-8de9-cd0a5b787d9b",
+      "title": "Portrait of Jean-Baptiste Lemoyne the Younger",
+      "titleEn": "Portrait of Jean-Baptiste Lemoyne the Younger",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/d729f4bb-df22-444d-8de9-cd0a5b787d9b.jpg",
+      "thumbUrl": "/stills/d729f4bb-df22-444d-8de9-cd0a5b787d9b.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-2011.49-portrait-of-jean-bap",
+      "author": "Elisabeth Louise Vigée-LeBrun (French, 1755–1842)",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "black"
+      ],
+      "palette": [
+        {
+          "hex": "#0d0c07",
+          "rgb": [
+            13,
+            12,
+            7
+          ],
+          "ratio": 0.3667534722222222,
+          "bucket": "black"
+        },
+        {
+          "hex": "#302c1e",
+          "rgb": [
+            48,
+            44,
+            30
+          ],
+          "ratio": 0.2497829861111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#1a180f",
+          "rgb": [
+            26,
+            24,
+            15
+          ],
+          "ratio": 0.18934461805555555,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#534530",
+          "rgb": [
+            83,
+            69,
+            48
+          ],
+          "ratio": 0.10677083333333333,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#906f53",
+          "rgb": [
+            144,
+            111,
+            83
+          ],
+          "ratio": 0.08734809027777778,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-09-29T03:03:36.030Z",
+      "fileKey": "archive:clevelandart-2011.49-portrait-of-jean-bap",
+      "kind": "photo",
+      "photographer": "Elisabeth Louise Vigée-LeBrun (French, 1755–1842)",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "0e01f01f81f01f80f80f81c03c07e07e0600",
+      "category": "photo",
+      "people": "one",
+      "subjects": [
+        "portrait"
+      ]
+    },
+    {
+      "id": "342ca928-9691-4521-aaa0-394e9ceb14e7",
+      "title": "Mary Quant 'Rex Harrison' cardigan dress chosen as Dress of the Year, 1963",
+      "titleEn": "Mary Quant 'Rex Harrison' cardigan dress chosen as Dress of the Year, 1963",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/342ca928-9691-4521-aaa0-394e9ceb14e7.jpg",
+      "thumbUrl": "/stills/342ca928-9691-4521-aaa0-394e9ceb14e7.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Mary_Quant_%27Rex_Harrison%27_cardigan_dress_chosen_as_Dress_of_the_Year,_1963.jpg",
+      "author": "Mabalu (photograph), Mary Quant and Reed Crawford (outfit).",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "buckets": [
+        "gray",
+        "white",
+        "brown",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#787465",
+          "rgb": [
+            120,
+            116,
+            101
+          ],
+          "ratio": 0.3623046875,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#494435",
+          "rgb": [
+            73,
+            68,
+            53
+          ],
+          "ratio": 0.1950954861111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#eaedef",
+          "rgb": [
+            234,
+            237,
+            239
+          ],
+          "ratio": 0.1745876736111111,
+          "bucket": "white"
+        },
+        {
+          "hex": "#d9dad5",
+          "rgb": [
+            217,
+            218,
+            213
+          ],
+          "ratio": 0.1452907986111111,
+          "bucket": "white"
+        },
+        {
+          "hex": "#aea99a",
+          "rgb": [
+            174,
+            169,
+            154
+          ],
+          "ratio": 0.12272135416666667,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-09-29T03:07:02.012Z",
+      "fileKey": "File:Mary Quant 'Rex Harrison' cardigan dress chosen as Dress of the Year, 1963.jpg",
+      "kind": "film",
+      "photographer": "Mabalu (photograph), Mary Quant and Reed Crawford (outfit).",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "fc0fc0f80f80f80f86f86f84f8cf8cc08810",
+      "category": "film",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "d8622cc6-663a-4004-a767-2d8feea03717",
+      "title": "Nianhua (年画) or New Year (Spring Festival) pictures with linked character style (lian zi gua pai 连字挂牌) 02",
+      "titleEn": "Nianhua (年画) or New Year (Spring Festival) pictures with linked character style (lian zi gua pai 连字挂牌) 02",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/d8622cc6-663a-4004-a767-2d8feea03717.jpg",
+      "thumbUrl": "/stills/d8622cc6-663a-4004-a767-2d8feea03717.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Nianhua_(%E5%B9%B4%E7%94%BB)_or_New_Year_(Spring_Festival)_pictures_with_linked_character_style_(lian_zi_gua_pai_%E8%BF%9E%E5%AD%97%E6%8C%82%E7%89%8C)_02.jpg",
+      "author": "Ancient Chinese character, unknown authorship.",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Nianhua_(%E5%B9%B4%E7%94%BB)_or_New_Year_(Spring_Festival)_pictures_with_linked_character_style_(lian_zi_gua_pai_%E8%BF%9E%E5%AD%97%E6%8C%82%E7%89%8C)_02.jpg",
+      "buckets": [
+        "white",
+        "red"
+      ],
+      "palette": [
+        {
+          "hex": "#ffffff",
+          "rgb": [
+            255,
+            255,
+            255
+          ],
+          "ratio": 0.5130208333333334,
+          "bucket": "white"
+        },
+        {
+          "hex": "#fb8e76",
+          "rgb": [
+            251,
+            142,
+            118
+          ],
+          "ratio": 0.4186197916666667,
+          "bucket": "red"
+        },
+        {
+          "hex": "#964a3c",
+          "rgb": [
+            150,
+            74,
+            60
+          ],
+          "ratio": 0.042643229166666664,
+          "bucket": "red"
+        },
+        {
+          "hex": "#f5c7b9",
+          "rgb": [
+            245,
+            199,
+            185
+          ],
+          "ratio": 0.017903645833333332,
+          "bucket": "red"
+        },
+        {
+          "hex": "#fcece3",
+          "rgb": [
+            252,
+            236,
+            227
+          ],
+          "ratio": 0.0078125,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-09-29T03:07:14.252Z",
+      "fileKey": "File:Nianhua (年画) or New Year (Spring Festival) pictures with linked character style (lian zi gua pai 连字挂牌) 02.jpg",
+      "kind": "photo",
+      "photographer": "Ancient Chinese character, unknown authorship.",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "ffff9ff0fe07c03801000801c03e07f0ff9f",
+      "category": "painting",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "ae78878b-0f23-4f1b-974b-c6b0f18ee61c",
+      "title": "Mummy portrait of a woman",
+      "titleEn": "Mummy portrait of a woman",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/ae78878b-0f23-4f1b-974b-c6b0f18ee61c.jpg",
+      "thumbUrl": "/stills/ae78878b-0f23-4f1b-974b-c6b0f18ee61c.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Mummy_portrait_of_a_woman.jpg",
+      "author": "Fitzwilliam Museum Image Library, Cambridge",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "buckets": [
+        "brown",
+        "white"
+      ],
+      "palette": [
+        {
+          "hex": "#432318",
+          "rgb": [
+            67,
+            35,
+            24
+          ],
+          "ratio": 0.3859592013888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#ebecec",
+          "rgb": [
+            235,
+            236,
+            236
+          ],
+          "ratio": 0.2777777777777778,
+          "bucket": "white"
+        },
+        {
+          "hex": "#7e5640",
+          "rgb": [
+            126,
+            86,
+            64
+          ],
+          "ratio": 0.1357421875,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#d3d4d7",
+          "rgb": [
+            211,
+            212,
+            215
+          ],
+          "ratio": 0.1279296875,
+          "bucket": "white"
+        },
+        {
+          "hex": "#ad9f96",
+          "rgb": [
+            173,
+            159,
+            150
+          ],
+          "ratio": 0.07259114583333333,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-09-29T03:11:56.641Z",
+      "fileKey": "File:Mummy portrait of a woman.jpg",
+      "kind": "film",
+      "photographer": "Fitzwilliam Museum Image Library, Cambridge",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "f8ff03e03e07e07e07e03e03e03e03c07c07",
+      "category": "film",
+      "people": "one",
+      "subjects": [
+        "portrait",
+        "people"
+      ]
+    },
+    {
+      "id": "ebf990ca-fdff-47ed-bdd4-8206c1db98dc",
+      "title": "Mummy portrait of a woman, 100-150 CE, Hawara, Fitzwilliam Museum, Cambridge",
+      "titleEn": "Mummy portrait of a woman, 100 150 CE, Hawara, Fitzwilliam Museum, Cambridge",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/ebf990ca-fdff-47ed-bdd4-8206c1db98dc.jpg",
+      "thumbUrl": "/stills/ebf990ca-fdff-47ed-bdd4-8206c1db98dc.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Mummy_portrait_of_a_woman,_100-150_CE,_Hawara,_Fitzwilliam_Museum,_Cambridge.jpg",
+      "author": "SpeakingArch",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "buckets": [
+        "brown",
+        "black",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#020201",
+          "rgb": [
+            2,
+            2,
+            1
+          ],
+          "ratio": 0.263671875,
+          "bucket": "black"
+        },
+        {
+          "hex": "#5c4029",
+          "rgb": [
+            92,
+            64,
+            41
+          ],
+          "ratio": 0.2535807291666667,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#7c5c3f",
+          "rgb": [
+            124,
+            92,
+            63
+          ],
+          "ratio": 0.2101779513888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#3b2b1a",
+          "rgb": [
+            59,
+            43,
+            26
+          ],
+          "ratio": 0.16764322916666666,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#aa8d6e",
+          "rgb": [
+            170,
+            141,
+            110
+          ],
+          "ratio": 0.10492621527777778,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-09-29T03:13:54.736Z",
+      "fileKey": "File:Mummy portrait of a woman, 100-150 CE, Hawara, Fitzwilliam Museum, Cambridge.jpg",
+      "kind": "film",
+      "photographer": "SpeakingArch",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "60e6e62f63f63fc3fc7fc3b83f87f03e03e0",
+      "category": "film",
+      "people": "one",
+      "subjects": [
+        "portrait",
+        "people"
+      ]
+    },
+    {
+      "id": "dcdb1e58-2927-4baf-b4b4-fa3744865afb",
+      "title": "Yunjin Kim cropped",
+      "titleEn": "Yunjin Kim cropped",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/dcdb1e58-2927-4baf-b4b4-fa3744865afb.jpg",
+      "thumbUrl": "/stills/dcdb1e58-2927-4baf-b4b4-fa3744865afb.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Yunjin_Kim_cropped.jpg",
+      "author": "Yunjin_Kim.jpg : Kanaka's Paradise Life from Honolulu, Hawaii derivative work: Tabercil ( talk )",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "buckets": [
+        "black",
+        "brown",
+        "blue",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#1c1d1d",
+          "rgb": [
+            28,
+            29,
+            29
+          ],
+          "ratio": 0.4086371527777778,
+          "bucket": "black"
+        },
+        {
+          "hex": "#d9dee1",
+          "rgb": [
+            217,
+            222,
+            225
+          ],
+          "ratio": 0.1867404513888889,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#b6a589",
+          "rgb": [
+            182,
+            165,
+            137
+          ],
+          "ratio": 0.1769748263888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#443f35",
+          "rgb": [
+            68,
+            63,
+            53
+          ],
+          "ratio": 0.11762152777777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#8a6b52",
+          "rgb": [
+            138,
+            107,
+            82
+          ],
+          "ratio": 0.11002604166666667,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-09-29T03:33:50.874Z",
+      "fileKey": "File:Yunjin Kim cropped.jpg",
+      "kind": "film",
+      "photographer": "Yunjin_Kim.jpg : Kanaka's Paradise Life from Honolulu, Hawaii derivative work: Tabercil ( talk )",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "f0cf30730738608e00e00e00e08c0ce9ffff"
     }
   ],
-  "lastIngestDate": "2026-09-28",
+  "lastIngestDate": "2026-09-29",
   "seenFileKeys": [
     "stills:04b85cc4-5a5c-4d95-9d52-460ceefa3ee5.jpg",
     "stills:0509b1d5-b5da-4b3c-8e65-edda97b86985.jpg",
@@ -355852,7 +356427,21 @@
     "File:20241025 Gourd-Shaped Blue and White Porcelain Vase of Wanli Reign, Ming Dynasty.jpg",
     "File:Lascaux 003.jpg",
     "File:Yunjin Kim (cropped).png",
-    "File:Frescoed wall from the Casa d'Argo in Herculaneum excavated in 1830 by Wilhelm Zahn.jpg"
+    "File:Frescoed wall from the Casa d'Argo in Herculaneum excavated in 1830 by Wilhelm Zahn.jpg",
+    "archive:EST90RES_P6",
+    "archive:clevelandart-1920.3919-portrait-of-a-woman",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1986-09-06",
+    "archive:clevelandart-2011.49-portrait-of-jean-bap",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1949-05-21",
+    "File:Mary Quant 'Rex Harrison' cardigan dress chosen as Dress of the Year, 1963.jpg",
+    "File:Bonampak, Temple of the Murals, musicians.jpg",
+    "File:Thonet chair balance.jpg",
+    "File:Nianhua (年画) or New Year (Spring Festival) pictures with linked character style (lian zi gua pai 连字挂牌) 02.jpg",
+    "File:Mummy portrait of a woman.jpg",
+    "File:Mummy portrait of a woman, 100-150 CE, Hawara, Fitzwilliam Museum, Cambridge.jpg",
+    "File:Brooklyn Museum - Charm - 11.jpg",
+    "File:Brooklyn Museum - Charm - 10.jpg",
+    "File:Yunjin Kim cropped.jpg"
   ],
   "seenContentHashes": [
     "ff8f20c0481cf3cffcf7ce58ffcffcffcd7e",
@@ -359982,6 +360571,13 @@
     "10f06f22fa07e0770f70f23f4ff013407e07",
     "fc0ff0ff8ffc5fe3fcbfc1f8000000000000",
     "fb8f00720738610e00e00e00c18e1effeffe",
-    "abfbfde0fa27fffffffffeff801801801fff"
+    "abfbfde0fa27fffffffffeff801801801fff",
+    "07007807c07c0f80f80f80f8070002000000",
+    "0e01f01f81f01f80f80f81c03c07e07e0600",
+    "fc0fc0f80f80f80f86f86f84f8cf8cc08810",
+    "ffff9ff0fe07c03801000801c03e07f0ff9f",
+    "f8ff03e03e07e07e07e03e03e03e03c07c07",
+    "60e6e62f63f63fc3fc7fc3b83f87f03e03e0",
+    "f0cf30730738608e00e00e00e08c0ce9ffff"
   ]
 }
