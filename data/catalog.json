@@ -349788,10 +349788,580 @@
       "kind": "film",
       "photographer": "Yunjin_Kim.jpg : Kanaka's Paradise Life from Honolulu, Hawaii derivative work: Tabercil ( talk )",
       "sourceLabel": "维基共享资源",
-      "contentHash": "f0cf30730738608e00e00e00e08c0ce9ffff"
+      "contentHash": "f0cf30730738608e00e00e00e08c0ce9ffff",
+      "category": "film",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "9def2ca2-fcec-4e53-965d-1b27ea4f8bde",
+      "title": "Paris dress",
+      "titleEn": "Paris dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/9def2ca2-fcec-4e53-965d-1b27ea4f8bde.jpg",
+      "thumbUrl": "/stills/9def2ca2-fcec-4e53-965d-1b27ea4f8bde.jpg",
+      "pageUrl": "https://archive.org/details/LMG00047",
+      "author": "Mutlow, Henry",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "buckets": [
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#f8eec4",
+          "rgb": [
+            248,
+            238,
+            196
+          ],
+          "ratio": 0.4131944444444444,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#ebe0ba",
+          "rgb": [
+            235,
+            224,
+            186
+          ],
+          "ratio": 0.2855902777777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#cfceb3",
+          "rgb": [
+            207,
+            206,
+            179
+          ],
+          "ratio": 0.14713541666666666,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#bcb79d",
+          "rgb": [
+            188,
+            183,
+            157
+          ],
+          "ratio": 0.11979166666666667,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#9e987f",
+          "rgb": [
+            158,
+            152,
+            127
+          ],
+          "ratio": 0.03428819444444445,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-09-30T02:42:23.874Z",
+      "fileKey": "archive:LMG00047",
+      "kind": "photo",
+      "photographer": "Mutlow, Henry",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "f8ff0ff1ff1ff3ff9ff0f30780ff0ff0fc03",
+      "category": "photo",
+      "subjects": [
+        "city",
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "9f5f6f8d-f64f-47d1-a4f2-06b81333c489",
+      "title": "Church with Round Tower, Pompeii, Italy",
+      "titleEn": "Church with Round Tower, Pompeii, Italy",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/9f5f6f8d-f64f-47d1-a4f2-06b81333c489.jpg",
+      "thumbUrl": "/stills/9f5f6f8d-f64f-47d1-a4f2-06b81333c489.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-2018.437-church-with-round-to",
+      "author": "Internet Archive",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#d5c9b7",
+          "rgb": [
+            213,
+            201,
+            183
+          ],
+          "ratio": 0.4865451388888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#583b32",
+          "rgb": [
+            88,
+            59,
+            50
+          ],
+          "ratio": 0.2707248263888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#8c7264",
+          "rgb": [
+            140,
+            114,
+            100
+          ],
+          "ratio": 0.13834635416666666,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#b9a493",
+          "rgb": [
+            185,
+            164,
+            147
+          ],
+          "ratio": 0.07096354166666667,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#e2d3c2",
+          "rgb": [
+            226,
+            211,
+            194
+          ],
+          "ratio": 0.03342013888888889,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-09-30T02:42:26.836Z",
+      "fileKey": "archive:clevelandart-2018.437-church-with-round-to",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "ff9ff9ff9ff9ff9ff9fb9eb9000006000000",
+      "category": "photo",
+      "subjects": [
+        "architecture",
+        "ancient"
+      ]
+    },
+    {
+      "id": "ec9d1739-962d-4c14-801e-bc7b87b68178",
+      "title": "Stamp of Albania - 2018 - Colnect 830491 - Traditional Embroidery",
+      "titleEn": "Stamp of Albania 2018 Colnect 830491 Traditional Embroidery",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/ec9d1739-962d-4c14-801e-bc7b87b68178.jpg",
+      "thumbUrl": "/stills/ec9d1739-962d-4c14-801e-bc7b87b68178.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Stamp_of_Albania_-_2018_-_Colnect_830491_-_Traditional_Embroidery.jpeg",
+      "author": "Post of Albania",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Stamp_of_Albania_-_2018_-_Colnect_830491_-_Traditional_Embroidery.jpeg",
+      "buckets": [
+        "red",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#f3f0eb",
+          "rgb": [
+            243,
+            240,
+            235
+          ],
+          "ratio": 0.2800564236111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#ddbab8",
+          "rgb": [
+            221,
+            186,
+            184
+          ],
+          "ratio": 0.2329644097222222,
+          "bucket": "red"
+        },
+        {
+          "hex": "#e3817e",
+          "rgb": [
+            227,
+            129,
+            126
+          ],
+          "ratio": 0.2087673611111111,
+          "bucket": "red"
+        },
+        {
+          "hex": "#e24643",
+          "rgb": [
+            226,
+            70,
+            67
+          ],
+          "ratio": 0.2075737847222222,
+          "bucket": "red"
+        },
+        {
+          "hex": "#6e5962",
+          "rgb": [
+            110,
+            89,
+            98
+          ],
+          "ratio": 0.07063802083333333,
+          "bucket": "pink"
+        }
+      ],
+      "addedAt": "2026-09-30T02:46:01.218Z",
+      "fileKey": "File:Stamp of Albania - 2018 - Colnect 830491 - Traditional Embroidery.jpeg",
+      "kind": "photo",
+      "photographer": "Post of Albania",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "a00800820820800b0982782fa3fa7f8179ff",
+      "category": "photo",
+      "subjects": [
+        "design",
+        "pattern"
+      ]
+    },
+    {
+      "id": "6d30e778-2dfd-4da6-a874-44f344ffea49",
+      "title": "Fayum mummy portrait (160-170 AD) - British museum, EA65345",
+      "titleEn": "Fayum mummy portrait (160 170 AD) British museum, EA65345",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/6d30e778-2dfd-4da6-a874-44f344ffea49.jpg",
+      "thumbUrl": "/stills/6d30e778-2dfd-4da6-a874-44f344ffea49.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Fayum_mummy_portrait_(160-170_AD)_-_British_museum,_EA65345.jpg",
+      "author": "Anonymous Unknown author",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Fayum_mummy_portrait_(160-170_AD)_-_British_museum,_EA65345.jpg",
+      "buckets": [
+        "brown",
+        "gray",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#363739",
+          "rgb": [
+            54,
+            55,
+            57
+          ],
+          "ratio": 0.2928602430555556,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#835739",
+          "rgb": [
+            131,
+            87,
+            57
+          ],
+          "ratio": 0.22862413194444445,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#a57a55",
+          "rgb": [
+            165,
+            122,
+            85
+          ],
+          "ratio": 0.18359375,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#5f3b24",
+          "rgb": [
+            95,
+            59,
+            36
+          ],
+          "ratio": 0.16015625,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#35261c",
+          "rgb": [
+            53,
+            38,
+            28
+          ],
+          "ratio": 0.134765625,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-09-30T02:46:07.057Z",
+      "fileKey": "File:Fayum mummy portrait (160-170 AD) - British museum, EA65345.jpg",
+      "kind": "photo",
+      "photographer": "Anonymous Unknown author",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "07807c1fc1fc1301b81981c03e03f83f83f8",
+      "category": "painting",
+      "people": "one",
+      "subjects": [
+        "portrait",
+        "ancient"
+      ]
+    },
+    {
+      "id": "94d4cbe8-de46-427b-a4f3-45fa17862b43",
+      "title": "Fayum mummy portrait (c. 200) - British museum, EA65344",
+      "titleEn": "Fayum mummy portrait (c. 200) British museum, EA65344",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/94d4cbe8-de46-427b-a4f3-45fa17862b43.jpg",
+      "thumbUrl": "/stills/94d4cbe8-de46-427b-a4f3-45fa17862b43.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Fayum_mummy_portrait_(c._200)_-_British_museum,_EA65344.jpg",
+      "author": "Anonymous Unknown author",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Fayum_mummy_portrait_(c._200)_-_British_museum,_EA65344.jpg",
+      "buckets": [
+        "red",
+        "white",
+        "pink"
+      ],
+      "palette": [
+        {
+          "hex": "#ddd9dd",
+          "rgb": [
+            221,
+            217,
+            221
+          ],
+          "ratio": 0.2925347222222222,
+          "bucket": "white"
+        },
+        {
+          "hex": "#b9a5a0",
+          "rgb": [
+            185,
+            165,
+            160
+          ],
+          "ratio": 0.232421875,
+          "bucket": "red"
+        },
+        {
+          "hex": "#5b474d",
+          "rgb": [
+            91,
+            71,
+            77
+          ],
+          "ratio": 0.2267795138888889,
+          "bucket": "pink"
+        },
+        {
+          "hex": "#967e7a",
+          "rgb": [
+            150,
+            126,
+            122
+          ],
+          "ratio": 0.21299913194444445,
+          "bucket": "red"
+        },
+        {
+          "hex": "#1c1919",
+          "rgb": [
+            28,
+            25,
+            25
+          ],
+          "ratio": 0.03526475694444445,
+          "bucket": "black"
+        }
+      ],
+      "addedAt": "2026-09-30T02:48:11.529Z",
+      "fileKey": "File:Fayum mummy portrait (c. 200) - British museum, EA65344.jpg",
+      "kind": "photo",
+      "photographer": "Anonymous Unknown author",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "cf6c06e6efeffeffdff5ff8f3d3000000000",
+      "category": "painting",
+      "people": "one",
+      "subjects": [
+        "portrait",
+        "ancient"
+      ]
+    },
+    {
+      "id": "2573fe3f-fb8c-4c51-b002-38b398a82a04",
+      "title": "Irezumi tatuaje penal Japón",
+      "titleEn": "Irezumi tatuaje penal Japón",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/2573fe3f-fb8c-4c51-b002-38b398a82a04.jpg",
+      "thumbUrl": "/stills/2573fe3f-fb8c-4c51-b002-38b398a82a04.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Irezumi_tatuaje_penal_Jap%C3%B3n.png",
+      "author": "Philipp Franz von Siebold",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Irezumi_tatuaje_penal_Jap%C3%B3n.png",
+      "buckets": [
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#f4d8af",
+          "rgb": [
+            244,
+            216,
+            175
+          ],
+          "ratio": 0.3932291666666667,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#f8deb6",
+          "rgb": [
+            248,
+            222,
+            182
+          ],
+          "ratio": 0.2779947916666667,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#dfc4a0",
+          "rgb": [
+            223,
+            196,
+            160
+          ],
+          "ratio": 0.16905381944444445,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#c4a98a",
+          "rgb": [
+            196,
+            169,
+            138
+          ],
+          "ratio": 0.1294487847222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#88735d",
+          "rgb": [
+            136,
+            115,
+            93
+          ],
+          "ratio": 0.0302734375,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-09-30T02:53:20.154Z",
+      "fileKey": "File:Irezumi tatuaje penal Japón.png",
+      "kind": "film",
+      "photographer": "Philipp Franz von Siebold",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "3e57db7f3ec0fc47ff64f7e7f0781b9f8838",
+      "category": "film",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "1f06f730-52b6-4275-b4ba-530d44796104",
+      "title": "Mural, Cave 198, Kizil",
+      "titleEn": "Mural, Cave 198, Kizil",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/1f06f730-52b6-4275-b4ba-530d44796104.jpg",
+      "thumbUrl": "/stills/1f06f730-52b6-4275-b4ba-530d44796104.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Mural,_Cave_198,_Kizil.jpg",
+      "author": "Drawing: 6th-7th century painter, Kizil caves Photography: Undetermined",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Mural,_Cave_198,_Kizil.jpg",
+      "buckets": [
+        "brown",
+        "blue",
+        "yellow",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#8b654a",
+          "rgb": [
+            139,
+            101,
+            74
+          ],
+          "ratio": 0.4146050347222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#596070",
+          "rgb": [
+            89,
+            96,
+            112
+          ],
+          "ratio": 0.23470052083333334,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#979172",
+          "rgb": [
+            151,
+            145,
+            114
+          ],
+          "ratio": 0.1630859375,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#6f767d",
+          "rgb": [
+            111,
+            118,
+            125
+          ],
+          "ratio": 0.15397135416666666,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#f7f5f2",
+          "rgb": [
+            247,
+            245,
+            242
+          ],
+          "ratio": 0.033637152777777776,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-09-30T03:07:53.846Z",
+      "fileKey": "File:Mural, Cave 198, Kizil.jpg",
+      "kind": "photo",
+      "photographer": "Drawing: 6th-7th century painter, Kizil caves Photography: Undetermined",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "e4ccc8ec8e5de49e01e01e03c01c01c01801"
     }
   ],
-  "lastIngestDate": "2026-09-29",
+  "lastIngestDate": "2026-09-30",
   "seenFileKeys": [
     "stills:04b85cc4-5a5c-4d95-9d52-460ceefa3ee5.jpg",
     "stills:0509b1d5-b5da-4b3c-8e65-edda97b86985.jpg",
@@ -356441,7 +357011,18 @@
     "File:Mummy portrait of a woman, 100-150 CE, Hawara, Fitzwilliam Museum, Cambridge.jpg",
     "File:Brooklyn Museum - Charm - 11.jpg",
     "File:Brooklyn Museum - Charm - 10.jpg",
-    "File:Yunjin Kim cropped.jpg"
+    "File:Yunjin Kim cropped.jpg",
+    "archive:LMG00047",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1929-12-29",
+    "archive:clevelandart-2018.437-church-with-round-to",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1947-11-20",
+    "File:Josef Frank Thonet A752 Varianten.jpg",
+    "File:Stamp of Albania - 2018 - Colnect 830491 - Traditional Embroidery.jpeg",
+    "File:Fayum mummy portrait (160-170 AD) - British museum, EA65345.jpg",
+    "File:Fayum mummy portrait (c. 200) - British museum, EA65344.jpg",
+    "File:Terracotta army xian embedded warrior.jpg",
+    "File:Irezumi tatuaje penal Japón.png",
+    "File:Mural, Cave 198, Kizil.jpg"
   ],
   "seenContentHashes": [
     "ff8f20c0481cf3cffcf7ce58ffcffcffcd7e",
@@ -360578,6 +361159,13 @@
     "ffff9ff0fe07c03801000801c03e07f0ff9f",
     "f8ff03e03e07e07e07e03e03e03e03c07c07",
     "60e6e62f63f63fc3fc7fc3b83f87f03e03e0",
-    "f0cf30730738608e00e00e00e08c0ce9ffff"
+    "f0cf30730738608e00e00e00e08c0ce9ffff",
+    "f8ff0ff1ff1ff3ff9ff0f30780ff0ff0fc03",
+    "ff9ff9ff9ff9ff9ff9fb9eb9000006000000",
+    "a00800820820800b0982782fa3fa7f8179ff",
+    "07807c1fc1fc1301b81981c03e03f83f83f8",
+    "cf6c06e6efeffeffdff5ff8f3d3000000000",
+    "3e57db7f3ec0fc47ff64f7e7f0781b9f8838",
+    "e4ccc8ec8e5de49e01e01e03c01c01c01801"
   ]
 }
