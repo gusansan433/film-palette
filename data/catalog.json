@@ -350358,10 +350358,579 @@
       "kind": "photo",
       "photographer": "Drawing: 6th-7th century painter, Kizil caves Photography: Undetermined",
       "sourceLabel": "维基共享资源",
-      "contentHash": "e4ccc8ec8e5de49e01e01e03c01c01c01801"
+      "contentHash": "e4ccc8ec8e5de49e01e01e03c01c01c01801",
+      "category": "painting",
+      "subjects": [
+        "ancient"
+      ]
+    },
+    {
+      "id": "d417c303-29e9-4ab3-936d-18d5eec41779",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/d417c303-29e9-4ab3-936d-18d5eec41779.jpg",
+      "thumbUrl": "/stills/d417c303-29e9-4ab3-936d-18d5eec41779.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_82630",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_82630",
+      "buckets": [
+        "green",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#9b9b56",
+          "rgb": [
+            155,
+            155,
+            86
+          ],
+          "ratio": 0.265625,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#657b44",
+          "rgb": [
+            101,
+            123,
+            68
+          ],
+          "ratio": 0.1976996527777778,
+          "bucket": "green"
+        },
+        {
+          "hex": "#334a20",
+          "rgb": [
+            51,
+            74,
+            32
+          ],
+          "ratio": 0.19759114583333334,
+          "bucket": "green"
+        },
+        {
+          "hex": "#c3b56f",
+          "rgb": [
+            195,
+            181,
+            111
+          ],
+          "ratio": 0.1898871527777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#73ad81",
+          "rgb": [
+            115,
+            173,
+            129
+          ],
+          "ratio": 0.1491970486111111,
+          "bucket": "green"
+        }
+      ],
+      "addedAt": "2026-10-01T02:50:18.141Z",
+      "fileKey": "archive:mma_dress_82630",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "ffe0f81f81e00c00cc0dce787fbfffffdffc",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "3f94f7de-2fd8-47f8-9cac-b403a66cd0bc",
+      "title": "Paris dress",
+      "titleEn": "Paris dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/3f94f7de-2fd8-47f8-9cac-b403a66cd0bc.jpg",
+      "thumbUrl": "/stills/3f94f7de-2fd8-47f8-9cac-b403a66cd0bc.jpg",
+      "pageUrl": "https://archive.org/details/LMG00057",
+      "author": "Mutlow, Henry",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "buckets": [
+        "yellow",
+        "orange",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#f9eec2",
+          "rgb": [
+            249,
+            238,
+            194
+          ],
+          "ratio": 0.3965928819444444,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#ecd8b5",
+          "rgb": [
+            236,
+            216,
+            181
+          ],
+          "ratio": 0.18489583333333334,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#aaa391",
+          "rgb": [
+            170,
+            163,
+            145
+          ],
+          "ratio": 0.1605902777777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#cdbea2",
+          "rgb": [
+            205,
+            190,
+            162
+          ],
+          "ratio": 0.1361762152777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#878377",
+          "rgb": [
+            135,
+            131,
+            119
+          ],
+          "ratio": 0.12174479166666667,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-10-01T02:50:19.114Z",
+      "fileKey": "archive:LMG00057",
+      "kind": "photo",
+      "photographer": "Mutlow, Henry",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "fb7f33f03f33e33e3be3be3be03c03c01808",
+      "category": "photo",
+      "subjects": [
+        "city",
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "c6f25aae-6d60-4e63-8a06-d94e37a957a4",
+      "title": "Reproduction of the \"Ladies in Blue\" fresco",
+      "titleEn": "Reproduction of the \"Ladies in Blue\" fresco",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/c6f25aae-6d60-4e63-8a06-d94e37a957a4.jpg",
+      "thumbUrl": "/stills/c6f25aae-6d60-4e63-8a06-d94e37a957a4.jpg",
+      "pageUrl": "https://archive.org/details/mma_reproduction_of_the_ladies_in_blue_fresco_258137",
+      "author": "Emile Gilliéron",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_reproduction_of_the_ladies_in_blue_fresco_258137",
+      "buckets": [
+        "yellow",
+        "gray",
+        "cyan"
+      ],
+      "palette": [
+        {
+          "hex": "#bcb89f",
+          "rgb": [
+            188,
+            184,
+            159
+          ],
+          "ratio": 0.4303385416666667,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#45514f",
+          "rgb": [
+            69,
+            81,
+            79
+          ],
+          "ratio": 0.1923828125,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#61939f",
+          "rgb": [
+            97,
+            147,
+            159
+          ],
+          "ratio": 0.17078993055555555,
+          "bucket": "cyan"
+        },
+        {
+          "hex": "#858b7c",
+          "rgb": [
+            133,
+            139,
+            124
+          ],
+          "ratio": 0.1616753472222222,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#b18135",
+          "rgb": [
+            177,
+            129,
+            53
+          ],
+          "ratio": 0.04481336805555555,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-01T02:50:19.945Z",
+      "fileKey": "archive:mma_reproduction_of_the_ladies_in_blue_fresco_258137",
+      "kind": "photo",
+      "photographer": "Emile Gilliéron",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "0000000c0266030888dc7dceb9cb9cffefff",
+      "category": "painting",
+      "subjects": [
+        "ancient"
+      ]
+    },
+    {
+      "id": "e7dd0b58-1195-4853-a79c-bb43e5cb546f",
+      "title": "Yungang Grottoes-monument",
+      "titleEn": "Yungang Grottoes monument",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/e7dd0b58-1195-4853-a79c-bb43e5cb546f.jpg",
+      "thumbUrl": "/stills/e7dd0b58-1195-4853-a79c-bb43e5cb546f.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Yungang_Grottoes-monument.jpg",
+      "author": "Original uploader was Mwrobel at pl.wikipedia",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "buckets": [
+        "gray",
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#9f938c",
+          "rgb": [
+            159,
+            147,
+            140
+          ],
+          "ratio": 0.2316623263888889,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#251c14",
+          "rgb": [
+            37,
+            28,
+            20
+          ],
+          "ratio": 0.21354166666666666,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#796e66",
+          "rgb": [
+            121,
+            110,
+            102
+          ],
+          "ratio": 0.2121310763888889,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#c2b7b2",
+          "rgb": [
+            194,
+            183,
+            178
+          ],
+          "ratio": 0.18348524305555555,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#4f443b",
+          "rgb": [
+            79,
+            68,
+            59
+          ],
+          "ratio": 0.1591796875,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-01T02:54:02.890Z",
+      "fileKey": "File:Yungang Grottoes-monument.jpg",
+      "kind": "film",
+      "photographer": "Original uploader was Mwrobel at pl.wikipedia",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "0c00400000603f07fc7feffeffedfedfcff8",
+      "category": "film",
+      "subjects": [
+        "ancient"
+      ]
+    },
+    {
+      "id": "86f43d6f-57af-45b0-a4e7-e82db022162e",
+      "title": "Wovensouls-antique-phulkari-textile-embroidery-150",
+      "titleEn": "Wovensouls antique phulkari textile embroidery 150",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/86f43d6f-57af-45b0-a4e7-e82db022162e.jpg",
+      "thumbUrl": "/stills/86f43d6f-57af-45b0-a4e7-e82db022162e.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Wovensouls-antique-phulkari-textile-embroidery-150.jpg",
+      "author": "Jainamishra",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "buckets": [
+        "black",
+        "red",
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#171110",
+          "rgb": [
+            23,
+            17,
+            16
+          ],
+          "ratio": 0.4313151041666667,
+          "bucket": "black"
+        },
+        {
+          "hex": "#453d34",
+          "rgb": [
+            69,
+            61,
+            52
+          ],
+          "ratio": 0.19368489583333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#b3414b",
+          "rgb": [
+            179,
+            65,
+            75
+          ],
+          "ratio": 0.1470269097222222,
+          "bucket": "red"
+        },
+        {
+          "hex": "#812b33",
+          "rgb": [
+            129,
+            43,
+            51
+          ],
+          "ratio": 0.11588541666666667,
+          "bucket": "red"
+        },
+        {
+          "hex": "#b89055",
+          "rgb": [
+            184,
+            144,
+            85
+          ],
+          "ratio": 0.1120876736111111,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-01T02:54:04.166Z",
+      "fileKey": "File:Wovensouls-antique-phulkari-textile-embroidery-150.jpg",
+      "kind": "photo",
+      "photographer": "Jainamishra",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "90f81780b90f8078498f59f18f18f1861801",
+      "category": "photo",
+      "subjects": [
+        "design",
+        "pattern"
+      ]
+    },
+    {
+      "id": "6760c311-457e-4387-88b2-e2965fa3a1cd",
+      "title": "Tomb Painting from Tomb TT63 (Tomb of Sobekhotep)",
+      "titleEn": "Tomb Painting from Tomb TT63 (Tomb of Sobekhotep)",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/6760c311-457e-4387-88b2-e2965fa3a1cd.jpg",
+      "thumbUrl": "/stills/6760c311-457e-4387-88b2-e2965fa3a1cd.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Tomb_Painting_from_Tomb_TT63_(Tomb_of_Sobekhotep).jpg",
+      "author": "SpeakingArch",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "buckets": [
+        "gray",
+        "orange",
+        "brown",
+        "black"
+      ],
+      "palette": [
+        {
+          "hex": "#bebdbe",
+          "rgb": [
+            190,
+            189,
+            190
+          ],
+          "ratio": 0.2574869791666667,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#a69e95",
+          "rgb": [
+            166,
+            158,
+            149
+          ],
+          "ratio": 0.2150607638888889,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#917f6e",
+          "rgb": [
+            145,
+            127,
+            110
+          ],
+          "ratio": 0.2052951388888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#665448",
+          "rgb": [
+            102,
+            84,
+            72
+          ],
+          "ratio": 0.1669921875,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#0b0a0b",
+          "rgb": [
+            11,
+            10,
+            11
+          ],
+          "ratio": 0.15516493055555555,
+          "bucket": "black"
+        }
+      ],
+      "addedAt": "2026-10-01T02:54:09.878Z",
+      "fileKey": "File:Tomb Painting from Tomb TT63 (Tomb of Sobekhotep).jpg",
+      "kind": "photo",
+      "photographer": "SpeakingArch",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "000ffcffeffeffeff7bf1db343f37f1ff000",
+      "category": "painting",
+      "subjects": []
+    },
+    {
+      "id": "8248b5ad-bccc-4b37-8b53-18b23e1233fa",
+      "title": "1922 Paul Poiret coat, beaded and embroidered silk velvet with fur 03",
+      "titleEn": "1922 Paul Poiret coat, beaded and embroidered silk velvet with fur 03",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/8248b5ad-bccc-4b37-8b53-18b23e1233fa.jpg",
+      "thumbUrl": "/stills/8248b5ad-bccc-4b37-8b53-18b23e1233fa.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1922_Paul_Poiret_coat,_beaded_and_embroidered_silk_velvet_with_fur_03.jpg",
+      "author": "Photographer for the Rhode Island School of Design Museum of Art",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "buckets": [
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#826e53",
+          "rgb": [
+            130,
+            110,
+            83
+          ],
+          "ratio": 0.3527560763888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#63523d",
+          "rgb": [
+            99,
+            82,
+            61
+          ],
+          "ratio": 0.3245442708333333,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#a48a68",
+          "rgb": [
+            164,
+            138,
+            104
+          ],
+          "ratio": 0.18934461805555555,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#332519",
+          "rgb": [
+            51,
+            37,
+            25
+          ],
+          "ratio": 0.10774739583333333,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#c6c4c2",
+          "rgb": [
+            198,
+            196,
+            194
+          ],
+          "ratio": 0.025607638888888888,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-10-01T02:54:15.664Z",
+      "fileKey": "File:1922 Paul Poiret coat, beaded and embroidered silk velvet with fur 03.jpg",
+      "kind": "film",
+      "photographer": "Photographer for the Rhode Island School of Design Museum of Art",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "fff9ff9ffdffdff5fd06406084c06c0f0060"
     }
   ],
-  "lastIngestDate": "2026-09-30",
+  "lastIngestDate": "2026-10-01",
   "seenFileKeys": [
     "stills:04b85cc4-5a5c-4d95-9d52-460ceefa3ee5.jpg",
     "stills:0509b1d5-b5da-4b3c-8e65-edda97b86985.jpg",
@@ -357022,7 +357591,29 @@
     "File:Fayum mummy portrait (c. 200) - British museum, EA65344.jpg",
     "File:Terracotta army xian embedded warrior.jpg",
     "File:Irezumi tatuaje penal Japón.png",
-    "File:Mural, Cave 198, Kizil.jpg"
+    "File:Mural, Cave 198, Kizil.jpg",
+    "archive:mma_dress_82630",
+    "archive:LMG00057",
+    "archive:mma_reproduction_of_the_ladies_in_blue_fresco_258137",
+    "openverse:a417f461-8c48-41c5-9f4b-57775a8c1ca7",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1957-09-28",
+    "openverse:1d7586e1-7559-4a02-a77e-2766aba7a1cd",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1940-01-27",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1947-06-03",
+    "openverse:44db502d-e1a0-441e-b264-7f0f32df4fa1",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_2009-07-10",
+    "archive:arkivkopia.se-raa-16000300029364",
+    "openverse:0de7627b-8156-46f9-bf82-8ed3bf3d8991",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1920-10-26",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1985-05-21",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1972-04-20",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1947-03-14",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1989-08-12",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1954-10-12",
+    "File:Yungang Grottoes-monument.jpg",
+    "File:Wovensouls-antique-phulkari-textile-embroidery-150.jpg",
+    "File:Tomb Painting from Tomb TT63 (Tomb of Sobekhotep).jpg",
+    "File:1922 Paul Poiret coat, beaded and embroidered silk velvet with fur 03.jpg"
   ],
   "seenContentHashes": [
     "ff8f20c0481cf3cffcf7ce58ffcffcffcd7e",
@@ -361166,6 +361757,13 @@
     "07807c1fc1fc1301b81981c03e03f83f83f8",
     "cf6c06e6efeffeffdff5ff8f3d3000000000",
     "3e57db7f3ec0fc47ff64f7e7f0781b9f8838",
-    "e4ccc8ec8e5de49e01e01e03c01c01c01801"
+    "e4ccc8ec8e5de49e01e01e03c01c01c01801",
+    "ffe0f81f81e00c00cc0dce787fbfffffdffc",
+    "fb7f33f03f33e33e3be3be3be03c03c01808",
+    "0000000c0266030888dc7dceb9cb9cffefff",
+    "0c00400000603f07fc7feffeffedfedfcff8",
+    "90f81780b90f8078498f59f18f18f1861801",
+    "000ffcffeffeffeff7bf1db343f37f1ff000",
+    "fff9ff9ffdffdff5fd06406084c06c0f0060"
   ]
 }
