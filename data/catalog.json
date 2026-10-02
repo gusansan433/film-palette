@@ -350927,10 +350927,413 @@
       "kind": "film",
       "photographer": "Photographer for the Rhode Island School of Design Museum of Art",
       "sourceLabel": "维基共享资源",
-      "contentHash": "fff9ff9ffdffdff5fd06406084c06c0f0060"
+      "contentHash": "fff9ff9ffdffdff5fd06406084c06c0f0060",
+      "category": "film",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "6688dd95-4d58-4db3-a73b-559a0db2da1c",
+      "title": "Tang soldiers - Dunhuang mural",
+      "titleEn": "Tang soldiers Dunhuang mural",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/6688dd95-4d58-4db3-a73b-559a0db2da1c.jpg",
+      "thumbUrl": "/stills/6688dd95-4d58-4db3-a73b-559a0db2da1c.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Tang_soldiers_-_Dunhuang_mural.jpg",
+      "author": "Anonymous Unknown author",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Tang_soldiers_-_Dunhuang_mural.jpg",
+      "buckets": [
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#a5977e",
+          "rgb": [
+            165,
+            151,
+            126
+          ],
+          "ratio": 0.296875,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#968a73",
+          "rgb": [
+            150,
+            138,
+            115
+          ],
+          "ratio": 0.24229600694444445,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#877963",
+          "rgb": [
+            135,
+            121,
+            99
+          ],
+          "ratio": 0.19596354166666666,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#b0a28c",
+          "rgb": [
+            176,
+            162,
+            140
+          ],
+          "ratio": 0.1665581597222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#716351",
+          "rgb": [
+            113,
+            99,
+            81
+          ],
+          "ratio": 0.09830729166666667,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-02T02:56:03.977Z",
+      "fileKey": "File:Tang soldiers - Dunhuang mural.jpg",
+      "kind": "photo",
+      "photographer": "Anonymous Unknown author",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "7fcbff3fe3ee3ec3fc1fc1b81b0180180180",
+      "category": "painting",
+      "people": "crowd",
+      "subjects": [
+        "ancient"
+      ]
+    },
+    {
+      "id": "528569ae-5cd1-4a62-b13f-05ac8b359c80",
+      "title": "Metropolitan greek marble funerary lekythos",
+      "titleEn": "Metropolitan greek marble funerary lekythos",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/528569ae-5cd1-4a62-b13f-05ac8b359c80.jpg",
+      "thumbUrl": "/stills/528569ae-5cd1-4a62-b13f-05ac8b359c80.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Metropolitan_greek_marble_funerary_lekythos.jpg",
+      "author": "Ad Meskens",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "buckets": [
+        "gray",
+        "brown",
+        "blue"
+      ],
+      "palette": [
+        {
+          "hex": "#5f4b3b",
+          "rgb": [
+            95,
+            75,
+            59
+          ],
+          "ratio": 0.2331814236111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#878380",
+          "rgb": [
+            135,
+            131,
+            128
+          ],
+          "ratio": 0.21885850694444445,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#a2a3a5",
+          "rgb": [
+            162,
+            163,
+            165
+          ],
+          "ratio": 0.2029079861111111,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#c8cbd3",
+          "rgb": [
+            200,
+            203,
+            211
+          ],
+          "ratio": 0.19444444444444445,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#71655c",
+          "rgb": [
+            113,
+            101,
+            92
+          ],
+          "ratio": 0.1506076388888889,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-02T02:56:05.520Z",
+      "fileKey": "File:Metropolitan greek marble funerary lekythos.jpg",
+      "kind": "film",
+      "photographer": "Ad Meskens",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "0bf0bb03803807e07e03e83f83f83f01f01f",
+      "category": "film",
+      "subjects": [
+        "people"
+      ]
+    },
+    {
+      "id": "5e34b79f-0c15-4ae6-b663-7ae47b2dc89f",
+      "title": "Fresco of an Offerer wearing a wreath from Herculaneum Augusteum",
+      "titleEn": "Fresco of an Offerer wearing a wreath from Herculaneum Augusteum",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/5e34b79f-0c15-4ae6-b663-7ae47b2dc89f.jpg",
+      "thumbUrl": "/stills/5e34b79f-0c15-4ae6-b663-7ae47b2dc89f.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Fresco_of_an_Offerer_wearing_a_wreath_from_Herculaneum_Augusteum.jpg",
+      "author": "Yair-haklai",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "buckets": [
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#beaa96",
+          "rgb": [
+            190,
+            170,
+            150
+          ],
+          "ratio": 0.2550998263888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#896953",
+          "rgb": [
+            137,
+            105,
+            83
+          ],
+          "ratio": 0.2433810763888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#75503c",
+          "rgb": [
+            117,
+            80,
+            60
+          ],
+          "ratio": 0.19921875,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#ab907a",
+          "rgb": [
+            171,
+            144,
+            122
+          ],
+          "ratio": 0.18250868055555555,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#442c25",
+          "rgb": [
+            68,
+            44,
+            37
+          ],
+          "ratio": 0.11979166666666667,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-02T02:56:11.216Z",
+      "fileKey": "File:Fresco of an Offerer wearing a wreath from Herculaneum Augusteum.jpg",
+      "kind": "photo",
+      "photographer": "Yair-haklai",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "3c23c238220620620638638678e79e786786",
+      "category": "painting",
+      "subjects": [
+        "ancient"
+      ]
+    },
+    {
+      "id": "73820af5-44d1-41e1-8165-f265b7911f6c",
+      "title": "Hieronymus Bosch - Triptych of Garden of Earthly Delights (detail) - WGA2509",
+      "titleEn": "Hieronymus Bosch Triptych of Garden of Earthly Delights (detail) WGA2509",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/73820af5-44d1-41e1-8165-f265b7911f6c.jpg",
+      "thumbUrl": "/stills/73820af5-44d1-41e1-8165-f265b7911f6c.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Hieronymus_Bosch_-_Triptych_of_Garden_of_Earthly_Delights_(detail)_-_WGA2509.jpg",
+      "author": "Wikimedia Commons",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Hieronymus_Bosch_-_Triptych_of_Garden_of_Earthly_Delights_(detail)_-_WGA2509.jpg",
+      "buckets": [
+        "brown",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#a8b0a3",
+          "rgb": [
+            168,
+            176,
+            163
+          ],
+          "ratio": 0.2478298611111111,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#7a817c",
+          "rgb": [
+            122,
+            129,
+            124
+          ],
+          "ratio": 0.2156032986111111,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#9f6a30",
+          "rgb": [
+            159,
+            106,
+            48
+          ],
+          "ratio": 0.19932725694444445,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#604128",
+          "rgb": [
+            96,
+            65,
+            40
+          ],
+          "ratio": 0.1872829861111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#251e1a",
+          "rgb": [
+            37,
+            30,
+            26
+          ],
+          "ratio": 0.1499565972222222,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-02T02:56:16.962Z",
+      "fileKey": "File:Hieronymus Bosch - Triptych of Garden of Earthly Delights (detail) - WGA2509.jpg",
+      "kind": "photo",
+      "photographer": "Hieronymus Bosch",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "ffffffdffdffdfb010100080058076070076",
+      "category": "painting",
+      "subjects": [
+        "nature"
+      ]
+    },
+    {
+      "id": "525f9baa-26b6-4039-9d5f-e680a52aecc5",
+      "title": "Fayum mummy portrait (early 2nd century) - British museum, EA63397",
+      "titleEn": "Fayum mummy portrait (early 2nd century) British museum, EA63397",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/525f9baa-26b6-4039-9d5f-e680a52aecc5.jpg",
+      "thumbUrl": "/stills/525f9baa-26b6-4039-9d5f-e680a52aecc5.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Fayum_mummy_portrait_(early_2nd_century)_-_British_museum,_EA63397.jpg",
+      "author": "Anonymous Unknown author",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Fayum_mummy_portrait_(early_2nd_century)_-_British_museum,_EA63397.jpg",
+      "buckets": [
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#9b6b4b",
+          "rgb": [
+            155,
+            107,
+            75
+          ],
+          "ratio": 0.3220486111111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#9c8e79",
+          "rgb": [
+            156,
+            142,
+            121
+          ],
+          "ratio": 0.2426215277777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#7d6a56",
+          "rgb": [
+            125,
+            106,
+            86
+          ],
+          "ratio": 0.2309027777777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#544539",
+          "rgb": [
+            84,
+            69,
+            57
+          ],
+          "ratio": 0.15364583333333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#090807",
+          "rgb": [
+            9,
+            8,
+            7
+          ],
+          "ratio": 0.05078125,
+          "bucket": "black"
+        }
+      ],
+      "addedAt": "2026-10-02T03:00:58.263Z",
+      "fileKey": "File:Fayum mummy portrait (early 2nd century) - British museum, EA63397.jpg",
+      "kind": "photo",
+      "photographer": "Anonymous Unknown author",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "0f20220025fa4b263e6fe60e78e7ee7effef"
     }
   ],
-  "lastIngestDate": "2026-10-01",
+  "lastIngestDate": "2026-10-02",
   "seenFileKeys": [
     "stills:04b85cc4-5a5c-4d95-9d52-460ceefa3ee5.jpg",
     "stills:0509b1d5-b5da-4b3c-8e65-edda97b86985.jpg",
@@ -357613,7 +358016,12 @@
     "File:Yungang Grottoes-monument.jpg",
     "File:Wovensouls-antique-phulkari-textile-embroidery-150.jpg",
     "File:Tomb Painting from Tomb TT63 (Tomb of Sobekhotep).jpg",
-    "File:1922 Paul Poiret coat, beaded and embroidered silk velvet with fur 03.jpg"
+    "File:1922 Paul Poiret coat, beaded and embroidered silk velvet with fur 03.jpg",
+    "File:Tang soldiers - Dunhuang mural.jpg",
+    "File:Metropolitan greek marble funerary lekythos.jpg",
+    "File:Fresco of an Offerer wearing a wreath from Herculaneum Augusteum.jpg",
+    "File:Hieronymus Bosch - Triptych of Garden of Earthly Delights (detail) - WGA2509.jpg",
+    "File:Fayum mummy portrait (early 2nd century) - British museum, EA63397.jpg"
   ],
   "seenContentHashes": [
     "ff8f20c0481cf3cffcf7ce58ffcffcffcd7e",
@@ -361764,6 +362172,11 @@
     "0c00400000603f07fc7feffeffedfedfcff8",
     "90f81780b90f8078498f59f18f18f1861801",
     "000ffcffeffeffeff7bf1db343f37f1ff000",
-    "fff9ff9ffdffdff5fd06406084c06c0f0060"
+    "fff9ff9ffdffdff5fd06406084c06c0f0060",
+    "7fcbff3fe3ee3ec3fc1fc1b81b0180180180",
+    "0bf0bb03803807e07e03e83f83f83f01f01f",
+    "3c23c238220620620638638678e79e786786",
+    "ffffffdffdffdfb010100080058076070076",
+    "0f20220025fa4b263e6fe60e78e7ee7effef"
   ]
 }
