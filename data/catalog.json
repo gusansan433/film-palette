@@ -351330,10 +351330,2435 @@
       "kind": "photo",
       "photographer": "Anonymous Unknown author",
       "sourceLabel": "维基共享资源",
-      "contentHash": "0f20220025fa4b263e6fe60e78e7ee7effef"
+      "contentHash": "0f20220025fa4b263e6fe60e78e7ee7effef",
+      "category": "painting",
+      "people": "one",
+      "subjects": [
+        "portrait",
+        "ancient"
+      ]
+    },
+    {
+      "id": "37b76f5f-df42-4ec4-8a6a-f113bb080fc9",
+      "title": "French Fashion plate 1924",
+      "titleEn": "French Fashion plate 1924",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/37b76f5f-df42-4ec4-8a6a-f113bb080fc9.jpg",
+      "thumbUrl": "/stills/37b76f5f-df42-4ec4-8a6a-f113bb080fc9.jpg",
+      "pageUrl": "https://archive.org/details/20201220163541188-0001",
+      "author": "société philantropique des maîtres taillieurs",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/20201220163541188-0001",
+      "buckets": [
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#f9f6e0",
+          "rgb": [
+            249,
+            246,
+            224
+          ],
+          "ratio": 0.3621961805555556,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#696a53",
+          "rgb": [
+            105,
+            106,
+            83
+          ],
+          "ratio": 0.1886935763888889,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#aba88a",
+          "rgb": [
+            171,
+            168,
+            138
+          ],
+          "ratio": 0.1732855902777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#d0d4b8",
+          "rgb": [
+            208,
+            212,
+            184
+          ],
+          "ratio": 0.1457248263888889,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#898b70",
+          "rgb": [
+            137,
+            139,
+            112
+          ],
+          "ratio": 0.1300998263888889,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-10-03T02:42:01.518Z",
+      "fileKey": "archive:20201220163541188-0001",
+      "kind": "photo",
+      "photographer": "société philantropique des maîtres taillieurs",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "ff9f79c79c39c31c11c01c41c01c21d79d79",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "76f32c4c-bc2e-488d-a2fc-45a860281a50",
+      "title": "Length of Silk Damask Textile",
+      "titleEn": "Length of Silk Damask Textile",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/76f32c4c-bc2e-488d-a2fc-45a860281a50.jpg",
+      "thumbUrl": "/stills/76f32c4c-bc2e-488d-a2fc-45a860281a50.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1953.489-length-of-silk-damas",
+      "author": "Internet Archive",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "green",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#435545",
+          "rgb": [
+            67,
+            85,
+            69
+          ],
+          "ratio": 0.2765842013888889,
+          "bucket": "green"
+        },
+        {
+          "hex": "#516352",
+          "rgb": [
+            81,
+            99,
+            82
+          ],
+          "ratio": 0.2562934027777778,
+          "bucket": "green"
+        },
+        {
+          "hex": "#364739",
+          "rgb": [
+            54,
+            71,
+            57
+          ],
+          "ratio": 0.2156032986111111,
+          "bucket": "green"
+        },
+        {
+          "hex": "#617361",
+          "rgb": [
+            97,
+            115,
+            97
+          ],
+          "ratio": 0.21397569444444445,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#a4a79e",
+          "rgb": [
+            164,
+            167,
+            158
+          ],
+          "ratio": 0.037543402777777776,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-10-03T02:42:03.478Z",
+      "fileKey": "archive:clevelandart-1953.489-length-of-silk-damas",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "801891801821cf3b8df87f019819d9de3c61",
+      "category": "photo",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "486eb53f-68f4-4e48-a184-5e3576ab6b38",
+      "title": "Wedding dress",
+      "titleEn": "Wedding dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/486eb53f-68f4-4e48-a184-5e3576ab6b38.jpg",
+      "thumbUrl": "/stills/486eb53f-68f4-4e48-a184-5e3576ab6b38.jpg",
+      "pageUrl": "https://archive.org/details/mma_wedding_dress_109195",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_wedding_dress_109195",
+      "buckets": [
+        "yellow",
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#d8d3c8",
+          "rgb": [
+            216,
+            211,
+            200
+          ],
+          "ratio": 0.4389105902777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#88592b",
+          "rgb": [
+            136,
+            89,
+            43
+          ],
+          "ratio": 0.1560329861111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#c7a876",
+          "rgb": [
+            199,
+            168,
+            118
+          ],
+          "ratio": 0.15494791666666666,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#ab804d",
+          "rgb": [
+            171,
+            128,
+            77
+          ],
+          "ratio": 0.1521267361111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#512c11",
+          "rgb": [
+            81,
+            44,
+            17
+          ],
+          "ratio": 0.09798177083333333,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-03T02:42:05.238Z",
+      "fileKey": "archive:mma_wedding_dress_109195",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "feff6fc37c17c93c13c13c03e03e03e03e03",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "42701621-d851-41cc-81fb-46dfcd02ff4c",
+      "title": "Part of a Woman's Dress",
+      "titleEn": "Part of a Woman's Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/42701621-d851-41cc-81fb-46dfcd02ff4c.jpg",
+      "thumbUrl": "/stills/42701621-d851-41cc-81fb-46dfcd02ff4c.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1950.144-part-of-a-woman-s-dr",
+      "author": "Internet Archive",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "gray",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#acadac",
+          "rgb": [
+            172,
+            173,
+            172
+          ],
+          "ratio": 0.5265842013888888,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#925635",
+          "rgb": [
+            146,
+            86,
+            53
+          ],
+          "ratio": 0.3040364583333333,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#9e6848",
+          "rgb": [
+            158,
+            104,
+            72
+          ],
+          "ratio": 0.1072048611111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#9a2f1d",
+          "rgb": [
+            154,
+            47,
+            29
+          ],
+          "ratio": 0.04665798611111111,
+          "bucket": "red"
+        },
+        {
+          "hex": "#ae948b",
+          "rgb": [
+            174,
+            148,
+            139
+          ],
+          "ratio": 0.015516493055555556,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-03T02:42:06.087Z",
+      "fileKey": "archive:clevelandart-1950.144-part-of-a-woman-s-dr",
+      "kind": "photo",
+      "photographer": "Part of a Woman",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "000000060000e07e0fe0ff0ff1ff9ff9ffbf",
+      "category": "photo",
+      "people": "one",
+      "subjects": [
+        "people",
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "01ece3a9-72f8-4e08-9b9c-246278588964",
+      "title": "Lengths of Textile",
+      "titleEn": "Lengths of Textile",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/01ece3a9-72f8-4e08-9b9c-246278588964.jpg",
+      "thumbUrl": "/stills/01ece3a9-72f8-4e08-9b9c-246278588964.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1954.296-lengths-of-textile",
+      "author": "Internet Archive",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "orange",
+        "brown",
+        "green",
+        "red"
+      ],
+      "palette": [
+        {
+          "hex": "#a39479",
+          "rgb": [
+            163,
+            148,
+            121
+          ],
+          "ratio": 0.2830946180555556,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#827660",
+          "rgb": [
+            130,
+            118,
+            96
+          ],
+          "ratio": 0.2429470486111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#c2b6a1",
+          "rgb": [
+            194,
+            182,
+            161
+          ],
+          "ratio": 0.216796875,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#5e634d",
+          "rgb": [
+            94,
+            99,
+            77
+          ],
+          "ratio": 0.16829427083333334,
+          "bucket": "green"
+        },
+        {
+          "hex": "#603d36",
+          "rgb": [
+            96,
+            61,
+            54
+          ],
+          "ratio": 0.0888671875,
+          "bucket": "red"
+        }
+      ],
+      "addedAt": "2026-10-03T02:42:07.712Z",
+      "fileKey": "archive:clevelandart-1954.296-lengths-of-textile",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "828821c618f1820b27928bfebff8208618f9",
+      "category": "photo",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "8e08b986-4327-4cda-893a-1512adfb03ed",
+      "title": "Dorothy Denning in dress",
+      "titleEn": "Dorothy Denning in dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/8e08b986-4327-4cda-893a-1512adfb03ed.jpg",
+      "thumbUrl": "/stills/8e08b986-4327-4cda-893a-1512adfb03ed.jpg",
+      "pageUrl": "https://archive.org/details/csfcp_000202",
+      "author": "Sarony, Napoleon, 1821-1896",
+      "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "licenseUrl": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "buckets": [
+        "yellow",
+        "orange",
+        "black",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#cbbd97",
+          "rgb": [
+            203,
+            189,
+            151
+          ],
+          "ratio": 0.4304470486111111,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#c2b28d",
+          "rgb": [
+            194,
+            178,
+            141
+          ],
+          "ratio": 0.2651909722222222,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#b09e7d",
+          "rgb": [
+            176,
+            158,
+            125
+          ],
+          "ratio": 0.11686197916666667,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#1e1e1c",
+          "rgb": [
+            30,
+            30,
+            28
+          ],
+          "ratio": 0.10416666666666667,
+          "bucket": "black"
+        },
+        {
+          "hex": "#8f765e",
+          "rgb": [
+            143,
+            118,
+            94
+          ],
+          "ratio": 0.08333333333333333,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-03T02:42:09.379Z",
+      "fileKey": "archive:csfcp_000202",
+      "kind": "photo",
+      "photographer": "Sarony, Napoleon, 1821-1896",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "7fe7be7fe73e7bc7bc7fe7fe7fe7fe7fe7fe",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "faf57b0e-98da-47cc-8c55-b3d1fae43efd",
+      "title": "Wedding dress",
+      "titleEn": "Wedding dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/faf57b0e-98da-47cc-8c55-b3d1fae43efd.jpg",
+      "thumbUrl": "/stills/faf57b0e-98da-47cc-8c55-b3d1fae43efd.jpg",
+      "pageUrl": "https://archive.org/details/mma_wedding_dress_84419",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_wedding_dress_84419",
+      "buckets": [
+        "yellow",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#c5c1b0",
+          "rgb": [
+            197,
+            193,
+            176
+          ],
+          "ratio": 0.4293619791666667,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#b09f7b",
+          "rgb": [
+            176,
+            159,
+            123
+          ],
+          "ratio": 0.2961154513888889,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#876430",
+          "rgb": [
+            135,
+            100,
+            48
+          ],
+          "ratio": 0.23177083333333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#e1d7bb",
+          "rgb": [
+            225,
+            215,
+            187
+          ],
+          "ratio": 0.029730902777777776,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#f2edde",
+          "rgb": [
+            242,
+            237,
+            222
+          ],
+          "ratio": 0.013020833333333334,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-10-03T02:42:10.766Z",
+      "fileKey": "archive:mma_wedding_dress_84419",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "7ff77f67f9ffb7f03f03f01f01f81e007005",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "a91ca2fc-92ee-4160-bce3-567982c15e5c",
+      "title": "Silk Textile with Goatherds in a Landscape",
+      "titleEn": "Silk Textile with Goatherds in a Landscape",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/a91ca2fc-92ee-4160-bce3-567982c15e5c.jpg",
+      "thumbUrl": "/stills/a91ca2fc-92ee-4160-bce3-567982c15e5c.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1978.76-silk-textile-with-go",
+      "author": "Internet Archive",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "orange",
+        "yellow",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#c3b5a7",
+          "rgb": [
+            195,
+            181,
+            167
+          ],
+          "ratio": 0.2628038194444444,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#a99a8b",
+          "rgb": [
+            169,
+            154,
+            139
+          ],
+          "ratio": 0.24131944444444445,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d5cabc",
+          "rgb": [
+            213,
+            202,
+            188
+          ],
+          "ratio": 0.2075737847222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#e1e0d8",
+          "rgb": [
+            225,
+            224,
+            216
+          ],
+          "ratio": 0.17545572916666666,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#897367",
+          "rgb": [
+            137,
+            115,
+            103
+          ],
+          "ratio": 0.11284722222222222,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-03T02:42:11.587Z",
+      "fileKey": "archive:clevelandart-1978.76-silk-textile-with-go",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "801fffff5801801e21ffb801801801ffbfff",
+      "category": "photo",
+      "people": "none",
+      "subjects": [
+        "landscape",
+        "pattern"
+      ]
+    },
+    {
+      "id": "ffa83cfe-33ba-4ff9-8473-2e7f6e77d7f8",
+      "title": "Length of Textile",
+      "titleEn": "Length of Textile",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/ffa83cfe-33ba-4ff9-8473-2e7f6e77d7f8.jpg",
+      "thumbUrl": "/stills/ffa83cfe-33ba-4ff9-8473-2e7f6e77d7f8.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1953.494-length-of-textile",
+      "author": "Internet Archive",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "red",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#d68d82",
+          "rgb": [
+            214,
+            141,
+            130
+          ],
+          "ratio": 0.3910590277777778,
+          "bucket": "red"
+        },
+        {
+          "hex": "#d5988c",
+          "rgb": [
+            213,
+            152,
+            140
+          ],
+          "ratio": 0.2211371527777778,
+          "bucket": "red"
+        },
+        {
+          "hex": "#b99185",
+          "rgb": [
+            185,
+            145,
+            133
+          ],
+          "ratio": 0.1857638888888889,
+          "bucket": "red"
+        },
+        {
+          "hex": "#ccaea1",
+          "rgb": [
+            204,
+            174,
+            161
+          ],
+          "ratio": 0.1431206597222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#dbdad3",
+          "rgb": [
+            219,
+            218,
+            211
+          ],
+          "ratio": 0.058919270833333336,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-10-03T02:42:12.476Z",
+      "fileKey": "archive:clevelandart-1953.494-length-of-textile",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "a158a1821925a09bf9a7187980989181d8c1",
+      "category": "photo",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "7fc473f8-9c36-4924-8114-5447fb76e7df",
+      "title": "Navajo costume. R. H. Kern delt. P.S. Duval's Lith. Steam Press. Philada. (to accompany) Reports of the secretary of war, with reconnaissances of routes from San Antonio to El Paso ... 1850.",
+      "titleEn": "Navajo costume. R. H. Kern delt. P.S. Duval's Lith. Steam Press. Philada. (to accompany) Reports of the secretary of war, with reconnaissances of routes from San Antonio to El Paso ... 1850.",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/7fc473f8-9c36-4924-8114-5447fb76e7df.jpg",
+      "thumbUrl": "/stills/7fc473f8-9c36-4924-8114-5447fb76e7df.jpg",
+      "pageUrl": "https://archive.org/details/dr_navajo-costume-r-h-kern-delt-ps-duvals-lith-steam-press-philada--0380055",
+      "author": "Johnston, Joseph E.",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/dr_navajo-costume-r-h-kern-delt-ps-duvals-lith-steam-press-philada--0380055",
+      "buckets": [
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#d9c3ab",
+          "rgb": [
+            217,
+            195,
+            171
+          ],
+          "ratio": 0.3304036458333333,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#b4a690",
+          "rgb": [
+            180,
+            166,
+            144
+          ],
+          "ratio": 0.22819010416666666,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#8a6f59",
+          "rgb": [
+            138,
+            111,
+            89
+          ],
+          "ratio": 0.2021484375,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#533020",
+          "rgb": [
+            83,
+            48,
+            32
+          ],
+          "ratio": 0.13704427083333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#efdccb",
+          "rgb": [
+            239,
+            220,
+            203
+          ],
+          "ratio": 0.10221354166666667,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-03T02:42:13.327Z",
+      "fileKey": "archive:dr_navajo-costume-r-h-kern-delt-ps-duvals-lith-steam-press-philada--0380055",
+      "kind": "photo",
+      "photographer": "Navajo costume. R. H. Kern delt. P.S. Duval",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "ffef9ef9ef0ef8ef0ec06c86c06c06c06ffe",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "d93d75c3-f6f3-4b48-b941-af29a3a1a63f",
+      "title": "Aspen Special. Sheet VIII Topography. U. S. Geological Survey, Charles D. Walcott, Director. Monograph XXXI. A.H. Thompson, Geographer. Morris Bien, Topographer in charge. Triangulation by Morris Bien. Topography by F.F. Grove. Surveyed in 1891. Julius Bien & Co. Lith. N.Y. (1898)",
+      "titleEn": "Aspen Special. Sheet VIII Topography. U. S. Geological Survey, Charles D. Walcott, Director. Monograph XXXI. A.H. Thompson, Geographer. Morris Bien, Topographer in charge. Triangulation by Morris Bien. Topography by F.F. Grove. Surveyed in 1891. Julius Bien & Co. Lith. N.Y. (1898)",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/d93d75c3-f6f3-4b48-b941-af29a3a1a63f.jpg",
+      "thumbUrl": "/stills/d93d75c3-f6f3-4b48-b941-af29a3a1a63f.jpg",
+      "pageUrl": "https://archive.org/details/dr_aspen-special-sheet-viii-topography-u-s-geological-survey-charles-d-w-0942005",
+      "author": "Spurr, Josiah Edward",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/dr_aspen-special-sheet-viii-topography-u-s-geological-survey-charles-d-w-0942005",
+      "buckets": [
+        "orange",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#d1c4ac",
+          "rgb": [
+            209,
+            196,
+            172
+          ],
+          "ratio": 0.3678385416666667,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d9ceb5",
+          "rgb": [
+            217,
+            206,
+            181
+          ],
+          "ratio": 0.2931857638888889,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#e0d5bb",
+          "rgb": [
+            224,
+            213,
+            187
+          ],
+          "ratio": 0.1784939236111111,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#bcb19b",
+          "rgb": [
+            188,
+            177,
+            155
+          ],
+          "ratio": 0.11870659722222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#6f6d63",
+          "rgb": [
+            111,
+            109,
+            99
+          ],
+          "ratio": 0.04177517361111111,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-10-03T02:42:14.784Z",
+      "fileKey": "archive:dr_aspen-special-sheet-viii-topography-u-s-geological-survey-charles-d-w-0942005",
+      "kind": "photo",
+      "photographer": "Spurr, Josiah Edward",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "ffefe2ff2fe2ff2f92e72c0ac1e81e80effe",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "2c3d5d12-9d4b-43f0-96a4-1268789c1fc0",
+      "title": "Portrait of the Marquise d'Aguirandes",
+      "titleEn": "Portrait of the Marquise d'Aguirandes",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/2c3d5d12-9d4b-43f0-96a4-1268789c1fc0.jpg",
+      "thumbUrl": "/stills/2c3d5d12-9d4b-43f0-96a4-1268789c1fc0.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1942.638-portrait-of-the-marq",
+      "author": "François Hubert Drouais (French, 1727–1775)",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#232318",
+          "rgb": [
+            35,
+            35,
+            24
+          ],
+          "ratio": 0.3383246527777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#363224",
+          "rgb": [
+            54,
+            50,
+            36
+          ],
+          "ratio": 0.2730034722222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#534a36",
+          "rgb": [
+            83,
+            74,
+            54
+          ],
+          "ratio": 0.20247395833333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#746d55",
+          "rgb": [
+            116,
+            109,
+            85
+          ],
+          "ratio": 0.11751302083333333,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#a19a80",
+          "rgb": [
+            161,
+            154,
+            128
+          ],
+          "ratio": 0.06868489583333333,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-10-03T02:42:15.650Z",
+      "fileKey": "archive:clevelandart-1942.638-portrait-of-the-marq",
+      "kind": "photo",
+      "photographer": "François Hubert Drouais (French, 1727–1775)",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "0000600600600e01f43f77f8fe1fc1de0df0",
+      "category": "photo",
+      "people": "one",
+      "subjects": [
+        "portrait"
+      ]
+    },
+    {
+      "id": "14b3b12e-ee1e-46c7-b5bc-297f9ca38c30",
+      "title": "Souvenir of an \"International Ball\" (Portrait of Miss Kathleen Bruce)",
+      "titleEn": "Souvenir of an \"International Ball\" (Portrait of Miss Kathleen Bruce)",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/14b3b12e-ee1e-46c7-b5bc-297f9ca38c30.jpg",
+      "thumbUrl": "/stills/14b3b12e-ee1e-46c7-b5bc-297f9ca38c30.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1979.16-souvenir-of-an-inter",
+      "author": "Charles Hasslewood Shannon (British, 1863–1937)",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "black",
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#1a1209",
+          "rgb": [
+            26,
+            18,
+            9
+          ],
+          "ratio": 0.435546875,
+          "bucket": "black"
+        },
+        {
+          "hex": "#2f210f",
+          "rgb": [
+            47,
+            33,
+            15
+          ],
+          "ratio": 0.1664496527777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#c4aa85",
+          "rgb": [
+            196,
+            170,
+            133
+          ],
+          "ratio": 0.15885416666666666,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#523c22",
+          "rgb": [
+            82,
+            60,
+            34
+          ],
+          "ratio": 0.12369791666666667,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#896e4f",
+          "rgb": [
+            137,
+            110,
+            79
+          ],
+          "ratio": 0.1154513888888889,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-03T02:42:23.769Z",
+      "fileKey": "archive:clevelandart-1979.16-souvenir-of-an-inter",
+      "kind": "photo",
+      "photographer": "Charles Hasslewood Shannon (British, 1863–1937)",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "0000000000000000043defbffeeff4f98ff0",
+      "category": "photo",
+      "people": "one",
+      "subjects": [
+        "portrait"
+      ]
+    },
+    {
+      "id": "2258decf-4e0f-4cfc-8344-147c4027d829",
+      "title": "Armchair (3 of 4)",
+      "titleEn": "Armchair (3 of 4)",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/2258decf-4e0f-4cfc-8344-147c4027d829.jpg",
+      "thumbUrl": "/stills/2258decf-4e0f-4cfc-8344-147c4027d829.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1947.183.4-armchair-3-of-4",
+      "author": "Royal Savonnerie Manufactory, Chaillot Workshops (French, est. 1627)",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "orange",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#807b76",
+          "rgb": [
+            128,
+            123,
+            118
+          ],
+          "ratio": 0.3110894097222222,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#ac9b89",
+          "rgb": [
+            172,
+            155,
+            137
+          ],
+          "ratio": 0.2783203125,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#dbbe9a",
+          "rgb": [
+            219,
+            190,
+            154
+          ],
+          "ratio": 0.1892361111111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#6a6157",
+          "rgb": [
+            106,
+            97,
+            87
+          ],
+          "ratio": 0.15342881944444445,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#3d3229",
+          "rgb": [
+            61,
+            50,
+            41
+          ],
+          "ratio": 0.06792534722222222,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-03T02:42:25.474Z",
+      "fileKey": "archive:clevelandart-1947.183.4-armchair-3-of-4",
+      "kind": "photo",
+      "photographer": "Royal Savonnerie Manufactory, Chaillot Workshops (French, est. 1627)",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "3fc3fcffcffcdb8de89f8800bfc9fc800800",
+      "category": "photo",
+      "subjects": [
+        "design"
+      ]
+    },
+    {
+      "id": "64bc4267-510d-4dfe-9536-c8e09e83982f",
+      "title": "Boonton, Morris Co., N.J. Morristown, Morris Co., N.J. (1872)",
+      "titleEn": "Boonton, Morris Co., N.J. Morristown, Morris Co., N.J. (1872)",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/64bc4267-510d-4dfe-9536-c8e09e83982f.jpg",
+      "thumbUrl": "/stills/64bc4267-510d-4dfe-9536-c8e09e83982f.jpg",
+      "pageUrl": "https://archive.org/details/dr_boonton-morris-co-nj-morristown-morris-co-nj-1872-01104095",
+      "author": "Beers, F. W. (Frederick W.)",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/dr_boonton-morris-co-nj-morristown-morris-co-nj-1872-01104095",
+      "buckets": [
+        "yellow",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#dccdae",
+          "rgb": [
+            220,
+            205,
+            174
+          ],
+          "ratio": 0.4091796875,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#cbba9d",
+          "rgb": [
+            203,
+            186,
+            157
+          ],
+          "ratio": 0.2817925347222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#a6967d",
+          "rgb": [
+            166,
+            150,
+            125
+          ],
+          "ratio": 0.1491970486111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#e9dbbc",
+          "rgb": [
+            233,
+            219,
+            188
+          ],
+          "ratio": 0.11176215277777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#735d43",
+          "rgb": [
+            115,
+            93,
+            67
+          ],
+          "ratio": 0.04806857638888889,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-03T02:42:26.525Z",
+      "fileKey": "archive:dr_boonton-morris-co-nj-morristown-morris-co-nj-1872-01104095",
+      "kind": "photo",
+      "photographer": "Beers, F. W. (Frederick W.)",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "ffe800ffedfeffcc7c07effeffefffb88000",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "ac42c256-07f8-40a2-9760-ce337df3f4ce",
+      "title": "Portrait of Leonello D'Este, Marquess of Ferrara (obverse and reverse)",
+      "titleEn": "Portrait of Leonello D'Este, Marquess of Ferrara (obverse and reverse)",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/ac42c256-07f8-40a2-9760-ce337df3f4ce.jpg",
+      "thumbUrl": "/stills/ac42c256-07f8-40a2-9760-ce337df3f4ce.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1971.4-portrait-of-leonello",
+      "author": "Pisanello (Italian, Ferrara, c. 1395–1455)",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#cbcecd",
+          "rgb": [
+            203,
+            206,
+            205
+          ],
+          "ratio": 0.2609592013888889,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#433e34",
+          "rgb": [
+            67,
+            62,
+            52
+          ],
+          "ratio": 0.2470703125,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#5a5447",
+          "rgb": [
+            90,
+            84,
+            71
+          ],
+          "ratio": 0.20833333333333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#2d2a22",
+          "rgb": [
+            45,
+            42,
+            34
+          ],
+          "ratio": 0.2004123263888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#94938d",
+          "rgb": [
+            148,
+            147,
+            141
+          ],
+          "ratio": 0.0832248263888889,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-10-03T02:42:27.388Z",
+      "fileKey": "archive:clevelandart-1971.4-portrait-of-leonello",
+      "kind": "photo",
+      "photographer": "Pisanello (Italian, Ferrara, c. 1395–1455)",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "f9fe07c73801801801801801801c01c03e07",
+      "category": "photo",
+      "people": "one",
+      "subjects": [
+        "portrait"
+      ]
+    },
+    {
+      "id": "a10d7129-9a7e-45c2-9feb-1642a93a4627",
+      "title": "Altarpiece with Relics - God the Father",
+      "titleEn": "Altarpiece with Relics - God the Father",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/a10d7129-9a7e-45c2-9feb-1642a93a4627.jpg",
+      "thumbUrl": "/stills/a10d7129-9a7e-45c2-9feb-1642a93a4627.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1964.357.b-altarpiece-with-reli",
+      "author": "Joseph Matthias Götz (German, 1696–1760)",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "gray",
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#a0a09f",
+          "rgb": [
+            160,
+            160,
+            159
+          ],
+          "ratio": 0.56640625,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#987b4b",
+          "rgb": [
+            152,
+            123,
+            75
+          ],
+          "ratio": 0.1449652777777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#5e4c30",
+          "rgb": [
+            94,
+            76,
+            48
+          ],
+          "ratio": 0.10883246527777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#c7ab73",
+          "rgb": [
+            199,
+            171,
+            115
+          ],
+          "ratio": 0.10015190972222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#8b8376",
+          "rgb": [
+            139,
+            131,
+            118
+          ],
+          "ratio": 0.07964409722222222,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-10-03T02:42:28.254Z",
+      "fileKey": "archive:clevelandart-1964.357.b-altarpiece-with-reli",
+      "kind": "photo",
+      "photographer": "Joseph Matthias Götz (German, 1696–1760)",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "ffffbff0fe0fc03c0380b803891003bfbffd",
+      "category": "painting",
+      "subjects": []
+    },
+    {
+      "id": "12a36194-85fd-427d-81a0-e71cbaed1896",
+      "title": "Tourtelotte Park Mining District Sheet. Geology Sheet XXI. U. S. Geological Survey, Charles D. Walcott, Director. Monograph XXXI. A.H. Thompson, Geographer. Morris Bien, Topographer in charge. Triangulation by Morris Bien. Topography by F.F. Grove. Surveyed in 1891. S.F. Emmons, Geologist in charge. Geology by J.E. Spurr. Assistant, G.W. Tower. Julius Bien & Co. Lith. N.Y. (1898)",
+      "titleEn": "Tourtelotte Park Mining District Sheet. Geology Sheet XXI. U. S. Geological Survey, Charles D. Walcott, Director. Monograph XXXI. A.H. Thompson, Geographer. Morris Bien, Topographer in charge. Triangulation by Morris Bien. Topography by F.F. Grove. Surveyed in 1891. S.F. Emmons, Geologist in charge. Geology by J.E. Spurr. Assistant, G.W. Tower. Julius Bien & Co. Lith. N.Y. (1898)",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/12a36194-85fd-427d-81a0-e71cbaed1896.jpg",
+      "thumbUrl": "/stills/12a36194-85fd-427d-81a0-e71cbaed1896.jpg",
+      "pageUrl": "https://archive.org/details/dr_tourtelotte-park-mining-district-sheet-geology-sheet-xxi-u-s-geological-0942018",
+      "author": "Spurr, Josiah Edward",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/dr_tourtelotte-park-mining-district-sheet-geology-sheet-xxi-u-s-geological-0942018",
+      "buckets": [
+        "gray",
+        "red",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#bc7f70",
+          "rgb": [
+            188,
+            127,
+            112
+          ],
+          "ratio": 0.3360460069444444,
+          "bucket": "red"
+        },
+        {
+          "hex": "#8b907e",
+          "rgb": [
+            139,
+            144,
+            126
+          ],
+          "ratio": 0.2664930555555556,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#d9cdb2",
+          "rgb": [
+            217,
+            205,
+            178
+          ],
+          "ratio": 0.23111979166666666,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#626457",
+          "rgb": [
+            98,
+            100,
+            87
+          ],
+          "ratio": 0.10210503472222222,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#beae91",
+          "rgb": [
+            190,
+            174,
+            145
+          ],
+          "ratio": 0.0642361111111111,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-03T02:42:29.096Z",
+      "fileKey": "archive:dr_tourtelotte-park-mining-district-sheet-geology-sheet-xxi-u-s-geological-0942018",
+      "kind": "photo",
+      "photographer": "Spurr, Josiah Edward",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "ffec03c02802812802803803803803803fff",
+      "category": "photo",
+      "subjects": [
+        "nature"
+      ]
+    },
+    {
+      "id": "844fb473-b774-4dc0-89f1-da920fb58098",
+      "title": "Portrait of Archduke Charles of Styria",
+      "titleEn": "Portrait of Archduke Charles of Styria",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/844fb473-b774-4dc0-89f1-da920fb58098.jpg",
+      "thumbUrl": "/stills/844fb473-b774-4dc0-89f1-da920fb58098.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1988.146-portrait-of-archduke",
+      "author": "Internet Archive",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "gray",
+        "brown",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#45423d",
+          "rgb": [
+            69,
+            66,
+            61
+          ],
+          "ratio": 0.2456597222222222,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#706144",
+          "rgb": [
+            112,
+            97,
+            68
+          ],
+          "ratio": 0.22059461805555555,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#907e56",
+          "rgb": [
+            144,
+            126,
+            86
+          ],
+          "ratio": 0.21451822916666666,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#bdbcba",
+          "rgb": [
+            189,
+            188,
+            186
+          ],
+          "ratio": 0.1945529513888889,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#a09987",
+          "rgb": [
+            160,
+            153,
+            135
+          ],
+          "ratio": 0.12467447916666667,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-10-03T02:42:31.964Z",
+      "fileKey": "archive:clevelandart-1988.146-portrait-of-archduke",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "00000002007007d805865c7fcfbef7f2ffff",
+      "category": "photo",
+      "people": "one",
+      "subjects": [
+        "portrait"
+      ]
+    },
+    {
+      "id": "ff0300e8-e354-4c84-be00-17f8d242e6d9",
+      "title": "Portrait of a Man",
+      "titleEn": "Portrait of a Man",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/ff0300e8-e354-4c84-be00-17f8d242e6d9.jpg",
+      "thumbUrl": "/stills/ff0300e8-e354-4c84-be00-17f8d242e6d9.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1985.143-portrait-of-a-man",
+      "author": "Tanzio da Varallo (Italian, c. 1575/80–1635)",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "black"
+      ],
+      "palette": [
+        {
+          "hex": "#11110d",
+          "rgb": [
+            17,
+            17,
+            13
+          ],
+          "ratio": 0.3157552083333333,
+          "bucket": "black"
+        },
+        {
+          "hex": "#2d2720",
+          "rgb": [
+            45,
+            39,
+            32
+          ],
+          "ratio": 0.2688802083333333,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#201b14",
+          "rgb": [
+            32,
+            27,
+            20
+          ],
+          "ratio": 0.2433810763888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#563931",
+          "rgb": [
+            86,
+            57,
+            49
+          ],
+          "ratio": 0.1174045138888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#917063",
+          "rgb": [
+            145,
+            112,
+            99
+          ],
+          "ratio": 0.05457899305555555,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-03T02:42:32.843Z",
+      "fileKey": "archive:clevelandart-1985.143-portrait-of-a-man",
+      "kind": "photo",
+      "photographer": "Tanzio da Varallo (Italian, c. 1575/80–1635)",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "0600600580f01f00ec0e40628fccdc1d205f",
+      "category": "photo",
+      "people": "one",
+      "subjects": [
+        "portrait",
+        "people"
+      ]
+    },
+    {
+      "id": "5c050d35-4ca4-4454-8cd9-65662fcdcc42",
+      "title": "Union India Rubber Co., New York (clothing druggests' articles, belting, boots, hose, beds, etc.); Buckley & Bancroft, Boston (feathers, beds, mattresses, custom-made furniture). Printed by Henry B. Ashmead, George Street above Eleventh, Philadelphia.",
+      "titleEn": "Union India Rubber Co., New York (clothing druggests' articles, belting, boots, hose, beds, etc.); Buckley & Bancroft, Boston (feathers, beds, mattresses, custom-made furniture). Printed by Henry B. Ashmead, George Street above Eleventh, Philadelphia.",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/5c050d35-4ca4-4454-8cd9-65662fcdcc42.jpg",
+      "thumbUrl": "/stills/5c050d35-4ca4-4454-8cd9-65662fcdcc42.jpg",
+      "pageUrl": "https://archive.org/details/dr_union-india-rubber-co-new-york-clothing-druggests-articles-belting-bo-5479098",
+      "author": "Colton, G.W.",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/dr_union-india-rubber-co-new-york-clothing-druggests-articles-belting-bo-5479098",
+      "buckets": [
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#e6d1ab",
+          "rgb": [
+            230,
+            209,
+            171
+          ],
+          "ratio": 0.3526475694444444,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d3bf9b",
+          "rgb": [
+            211,
+            191,
+            155
+          ],
+          "ratio": 0.2663845486111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#ad9e82",
+          "rgb": [
+            173,
+            158,
+            130
+          ],
+          "ratio": 0.19932725694444445,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#84755a",
+          "rgb": [
+            132,
+            117,
+            90
+          ],
+          "ratio": 0.1316189236111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#fbefcb",
+          "rgb": [
+            251,
+            239,
+            203
+          ],
+          "ratio": 0.05002170138888889,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-10-03T02:42:34.458Z",
+      "fileKey": "archive:dr_union-india-rubber-co-new-york-clothing-druggests-articles-belting-bo-5479098",
+      "kind": "photo",
+      "photographer": "Colton, G.W.",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "7ff2232233f73ff2032033673ff3ff3ff3fe",
+      "category": "photo",
+      "subjects": [
+        "city",
+        "design"
+      ]
+    },
+    {
+      "id": "4f64c848-2cc5-4397-9c13-6e2fc2ae1f9d",
+      "title": "Sketch for \"The Four Prophets of Israel\" (for Il Gesù, Rome)",
+      "titleEn": "Sketch for \"The Four Prophets of Israel\" (for Il Gesù, Rome)",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/4f64c848-2cc5-4397-9c13-6e2fc2ae1f9d.jpg",
+      "thumbUrl": "/stills/4f64c848-2cc5-4397-9c13-6e2fc2ae1f9d.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1969.131-sketch-for-the-four",
+      "author": "Giovanni Battista Gaulli (Italian, 1639–1709)",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#503b2d",
+          "rgb": [
+            80,
+            59,
+            45
+          ],
+          "ratio": 0.5923394097222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#3d2e24",
+          "rgb": [
+            61,
+            46,
+            36
+          ],
+          "ratio": 0.1711154513888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#695141",
+          "rgb": [
+            105,
+            81,
+            65
+          ],
+          "ratio": 0.10492621527777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#25211c",
+          "rgb": [
+            37,
+            33,
+            28
+          ],
+          "ratio": 0.07801649305555555,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#967d67",
+          "rgb": [
+            150,
+            125,
+            103
+          ],
+          "ratio": 0.05360243055555555,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-03T02:42:36.366Z",
+      "fileKey": "archive:clevelandart-1969.131-sketch-for-the-four",
+      "kind": "photo",
+      "photographer": "Giovanni Battista Gaulli (Italian, 1639–1709)",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "09bcc27ece7c87843f03300b861671e32e04",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "9a84cf78-498c-43f8-b40f-d67fa39d8753",
+      "title": "Painting from tomb of Inisnofruischetef",
+      "titleEn": "Painting from tomb of Inisnofruischetef",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/9a84cf78-498c-43f8-b40f-d67fa39d8753.jpg",
+      "thumbUrl": "/stills/9a84cf78-498c-43f8-b40f-d67fa39d8753.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Painting_from_tomb_of_Inisnofruischetef.png",
+      "author": "Udimu",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "buckets": [
+        "gray",
+        "brown",
+        "red"
+      ],
+      "palette": [
+        {
+          "hex": "#9b928c",
+          "rgb": [
+            155,
+            146,
+            140
+          ],
+          "ratio": 0.3684895833333333,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#807168",
+          "rgb": [
+            128,
+            113,
+            104
+          ],
+          "ratio": 0.30078125,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#615750",
+          "rgb": [
+            97,
+            87,
+            80
+          ],
+          "ratio": 0.1898871527777778,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#7b4d44",
+          "rgb": [
+            123,
+            77,
+            68
+          ],
+          "ratio": 0.08246527777777778,
+          "bucket": "red"
+        },
+        {
+          "hex": "#3c302d",
+          "rgb": [
+            60,
+            48,
+            45
+          ],
+          "ratio": 0.05837673611111111,
+          "bucket": "red"
+        }
+      ],
+      "addedAt": "2026-10-03T02:46:03.918Z",
+      "fileKey": "File:Painting from tomb of Inisnofruischetef.png",
+      "kind": "photo",
+      "photographer": "Udimu",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "0ff0ff47fffff7fc1f06e00103dc0f000000",
+      "category": "painting",
+      "subjects": []
+    },
+    {
+      "id": "b3a25d21-84f8-40d9-88a4-45cc10512013",
+      "title": "1960s Mary Quant minidress, green, purple and white jersey",
+      "titleEn": "1960s Mary Quant minidress, green, purple and white jersey",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/b3a25d21-84f8-40d9-88a4-45cc10512013.jpg",
+      "thumbUrl": "/stills/b3a25d21-84f8-40d9-88a4-45cc10512013.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1960s_Mary_Quant_minidress,_green,_purple_and_white_jersey.jpg",
+      "author": "Peloponnesian Folklore Foundation",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "buckets": [
+        "gray",
+        "green"
+      ],
+      "palette": [
+        {
+          "hex": "#026f04",
+          "rgb": [
+            2,
+            111,
+            4
+          ],
+          "ratio": 0.4334852430555556,
+          "bucket": "green"
+        },
+        {
+          "hex": "#cfd0d1",
+          "rgb": [
+            207,
+            208,
+            209
+          ],
+          "ratio": 0.3153211805555556,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#b7b7b6",
+          "rgb": [
+            183,
+            183,
+            182
+          ],
+          "ratio": 0.16200086805555555,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#580e28",
+          "rgb": [
+            88,
+            14,
+            40
+          ],
+          "ratio": 0.045355902777777776,
+          "bucket": "pink"
+        },
+        {
+          "hex": "#9fa69a",
+          "rgb": [
+            159,
+            166,
+            154
+          ],
+          "ratio": 0.04383680555555555,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-10-03T02:46:17.710Z",
+      "fileKey": "File:1960s Mary Quant minidress, green, purple and white jersey.jpg",
+      "kind": "film",
+      "photographer": "Peloponnesian Folklore Foundation",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "f03f03f03f03f03f03f03f03f03f07f07e07",
+      "category": "film",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "5069ece2-51ee-483b-83c9-3cb8b57d8132",
+      "title": "Graffiti in Augsburg, Friedensfest mural 4718",
+      "titleEn": "Augsburg, Friedensfest mural 4718",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/5069ece2-51ee-483b-83c9-3cb8b57d8132.jpg",
+      "thumbUrl": "/stills/5069ece2-51ee-483b-83c9-3cb8b57d8132.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Graffiti_in_Augsburg,_Friedensfest_mural_4718.jpg",
+      "author": "Sillerkiil",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "buckets": [
+        "gray",
+        "blue"
+      ],
+      "palette": [
+        {
+          "hex": "#989590",
+          "rgb": [
+            152,
+            149,
+            144
+          ],
+          "ratio": 0.2570529513888889,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#cbdaea",
+          "rgb": [
+            203,
+            218,
+            234
+          ],
+          "ratio": 0.2341579861111111,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#2a3541",
+          "rgb": [
+            42,
+            53,
+            65
+          ],
+          "ratio": 0.1935763888888889,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#b1b6bc",
+          "rgb": [
+            177,
+            182,
+            188
+          ],
+          "ratio": 0.18880208333333334,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#5d626a",
+          "rgb": [
+            93,
+            98,
+            106
+          ],
+          "ratio": 0.1264105902777778,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-10-03T02:55:19.561Z",
+      "fileKey": "File:Graffiti in Augsburg, Friedensfest mural 4718.jpg",
+      "kind": "photo",
+      "photographer": "Sillerkiil",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "7f87fc5403401c012312e3ec7f17f37f3793",
+      "category": "painting",
+      "subjects": [
+        "graffiti"
+      ]
+    },
+    {
+      "id": "ce6afed2-71ac-4b52-a30d-aa5d625b6410",
+      "title": "Graffiti in Augsburg, Friedensfest mural 4715",
+      "titleEn": "Augsburg, Friedensfest mural 4715",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/ce6afed2-71ac-4b52-a30d-aa5d625b6410.jpg",
+      "thumbUrl": "/stills/ce6afed2-71ac-4b52-a30d-aa5d625b6410.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Graffiti_in_Augsburg,_Friedensfest_mural_4715.jpg",
+      "author": "Sillerkiil",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "buckets": [
+        "cyan",
+        "gray",
+        "orange",
+        "yellow",
+        "blue"
+      ],
+      "palette": [
+        {
+          "hex": "#1e2525",
+          "rgb": [
+            30,
+            37,
+            37
+          ],
+          "ratio": 0.2937282986111111,
+          "bucket": "cyan"
+        },
+        {
+          "hex": "#5f6256",
+          "rgb": [
+            95,
+            98,
+            86
+          ],
+          "ratio": 0.2657335069444444,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#b89a75",
+          "rgb": [
+            184,
+            154,
+            117
+          ],
+          "ratio": 0.1928168402777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#edd7a6",
+          "rgb": [
+            237,
+            215,
+            166
+          ],
+          "ratio": 0.1474609375,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#5a8cdf",
+          "rgb": [
+            90,
+            140,
+            223
+          ],
+          "ratio": 0.10026041666666667,
+          "bucket": "blue"
+        }
+      ],
+      "addedAt": "2026-10-03T03:02:01.238Z",
+      "fileKey": "File:Graffiti in Augsburg, Friedensfest mural 4715.jpg",
+      "kind": "photo",
+      "photographer": "Sillerkiil",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "fffffeffeef8ef8cf8cf8878810000800000",
+      "category": "painting",
+      "subjects": [
+        "graffiti"
+      ]
+    },
+    {
+      "id": "8a67414d-b958-4aa7-9230-664fea1fe764",
+      "title": "Graffiti in Augsburg, Friedensfest mural 4717",
+      "titleEn": "Augsburg, Friedensfest mural 4717",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/8a67414d-b958-4aa7-9230-664fea1fe764.jpg",
+      "thumbUrl": "/stills/8a67414d-b958-4aa7-9230-664fea1fe764.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Graffiti_in_Augsburg,_Friedensfest_mural_4717.jpg",
+      "author": "Sillerkiil",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "buckets": [
+        "blue",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#cbdcef",
+          "rgb": [
+            203,
+            220,
+            239
+          ],
+          "ratio": 0.24034288194444445,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#74746e",
+          "rgb": [
+            116,
+            116,
+            110
+          ],
+          "ratio": 0.22233072916666666,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#333f49",
+          "rgb": [
+            51,
+            63,
+            73
+          ],
+          "ratio": 0.2214626736111111,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#979794",
+          "rgb": [
+            151,
+            151,
+            148
+          ],
+          "ratio": 0.18153211805555555,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#afb9c4",
+          "rgb": [
+            175,
+            185,
+            196
+          ],
+          "ratio": 0.1343315972222222,
+          "bucket": "blue"
+        }
+      ],
+      "addedAt": "2026-10-03T03:05:34.720Z",
+      "fileKey": "File:Graffiti in Augsburg, Friedensfest mural 4717.jpg",
+      "kind": "photo",
+      "photographer": "Sillerkiil",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "f37f83800f76fff7ff7ff1cd4dfc74434400",
+      "category": "painting",
+      "subjects": [
+        "graffiti"
+      ]
+    },
+    {
+      "id": "ae2fd59a-580d-480b-a49e-c9f7d0037984",
+      "title": "Rio de Janeiro tile mural graffiti Jul 2017",
+      "titleEn": "Rio de Janeiro tile mural graffiti Jul 2017",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/ae2fd59a-580d-480b-a49e-c9f7d0037984.jpg",
+      "thumbUrl": "/stills/ae2fd59a-580d-480b-a49e-c9f7d0037984.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Rio_de_Janeiro_tile_mural_graffiti_Jul_2017.png",
+      "author": "Asdfjrjjj",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "buckets": [
+        "yellow",
+        "gray",
+        "blue"
+      ],
+      "palette": [
+        {
+          "hex": "#e1e1d9",
+          "rgb": [
+            225,
+            225,
+            217
+          ],
+          "ratio": 0.3772786458333333,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#5f717f",
+          "rgb": [
+            95,
+            113,
+            127
+          ],
+          "ratio": 0.2561848958333333,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#a3a39b",
+          "rgb": [
+            163,
+            163,
+            155
+          ],
+          "ratio": 0.21766493055555555,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#3d3b38",
+          "rgb": [
+            61,
+            59,
+            56
+          ],
+          "ratio": 0.12098524305555555,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#ad5e34",
+          "rgb": [
+            173,
+            94,
+            52
+          ],
+          "ratio": 0.027886284722222224,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-03T03:06:49.830Z",
+      "fileKey": "File:Rio de Janeiro tile mural graffiti Jul 2017.png",
+      "kind": "photo",
+      "photographer": "Asdfjrjjj",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "0df0ff0bf1bf7dcfc8f08f08fd83c1201003",
+      "category": "painting",
+      "subjects": [
+        "graffiti"
+      ]
+    },
+    {
+      "id": "89d3fbfe-c874-4c53-9911-fb781733b3f0",
+      "title": "Graffiti in Augsburg, Friedensfest mural 4716",
+      "titleEn": "Augsburg, Friedensfest mural 4716",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/89d3fbfe-c874-4c53-9911-fb781733b3f0.jpg",
+      "thumbUrl": "/stills/89d3fbfe-c874-4c53-9911-fb781733b3f0.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Graffiti_in_Augsburg,_Friedensfest_mural_4716.jpg",
+      "author": "Sillerkiil",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "buckets": [
+        "yellow",
+        "black",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#212828",
+          "rgb": [
+            33,
+            40,
+            40
+          ],
+          "ratio": 0.3505859375,
+          "bucket": "black"
+        },
+        {
+          "hex": "#585b41",
+          "rgb": [
+            88,
+            91,
+            65
+          ],
+          "ratio": 0.22591145833333334,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#ddb492",
+          "rgb": [
+            221,
+            180,
+            146
+          ],
+          "ratio": 0.19129774305555555,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#90856b",
+          "rgb": [
+            144,
+            133,
+            107
+          ],
+          "ratio": 0.14680989583333334,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#caa26e",
+          "rgb": [
+            202,
+            162,
+            110
+          ],
+          "ratio": 0.08539496527777778,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-03T03:06:51.588Z",
+      "fileKey": "File:Graffiti in Augsburg, Friedensfest mural 4716.jpg",
+      "kind": "photo",
+      "photographer": "Sillerkiil",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "ffeff8ffcff0ff0ffc1f8020000000000000",
+      "category": "painting",
+      "subjects": [
+        "graffiti"
+      ]
+    },
+    {
+      "id": "24d30c85-5035-48bc-a608-9de22fb0cf59",
+      "title": "Ponferrada - graffiti & murals 24",
+      "titleEn": "Ponferrada graffiti & murals 24",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/24d30c85-5035-48bc-a608-9de22fb0cf59.jpg",
+      "thumbUrl": "/stills/24d30c85-5035-48bc-a608-9de22fb0cf59.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Ponferrada_-_graffiti_%26_murals_24.JPG",
+      "author": "Zarateman",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "buckets": [
+        "orange",
+        "gray",
+        "blue"
+      ],
+      "palette": [
+        {
+          "hex": "#ac9e93",
+          "rgb": [
+            172,
+            158,
+            147
+          ],
+          "ratio": 0.3764105902777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d9c9ba",
+          "rgb": [
+            217,
+            201,
+            186
+          ],
+          "ratio": 0.2621527777777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#6d7079",
+          "rgb": [
+            109,
+            112,
+            121
+          ],
+          "ratio": 0.1613498263888889,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#333138",
+          "rgb": [
+            51,
+            49,
+            56
+          ],
+          "ratio": 0.10199652777777778,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#bac1d2",
+          "rgb": [
+            186,
+            193,
+            210
+          ],
+          "ratio": 0.09809027777777778,
+          "bucket": "blue"
+        }
+      ],
+      "addedAt": "2026-10-03T03:12:22.044Z",
+      "fileKey": "File:Ponferrada - graffiti & murals 24.JPG",
+      "kind": "film",
+      "photographer": "Zarateman",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "ffffdff5ff37f03a000018009007007ff7ec"
     }
   ],
-  "lastIngestDate": "2026-10-02",
+  "lastIngestDate": "2026-10-03",
   "seenFileKeys": [
     "stills:04b85cc4-5a5c-4d95-9d52-460ceefa3ee5.jpg",
     "stills:0509b1d5-b5da-4b3c-8e65-edda97b86985.jpg",
@@ -358021,7 +360446,51 @@
     "File:Metropolitan greek marble funerary lekythos.jpg",
     "File:Fresco of an Offerer wearing a wreath from Herculaneum Augusteum.jpg",
     "File:Hieronymus Bosch - Triptych of Garden of Earthly Delights (detail) - WGA2509.jpg",
-    "File:Fayum mummy portrait (early 2nd century) - British museum, EA63397.jpg"
+    "File:Fayum mummy portrait (early 2nd century) - British museum, EA63397.jpg",
+    "archive:mma_walking_dress_85398",
+    "archive:clevelandart-1940.40-copperplate-printed",
+    "archive:20201220163541188-0001",
+    "archive:clevelandart-1953.489-length-of-silk-damas",
+    "archive:mma_wedding_dress_109195",
+    "archive:clevelandart-1950.144-part-of-a-woman-s-dr",
+    "archive:clevelandart-1954.296-lengths-of-textile",
+    "archive:clevelandart-1954.296.a-length-of-textile",
+    "archive:csfcp_000202",
+    "archive:clevelandart-1948.204-textile",
+    "archive:mma_wedding_dress_84419",
+    "archive:clevelandart-1978.76-silk-textile-with-go",
+    "archive:clevelandart-1953.494-length-of-textile",
+    "archive:dr_navajo-costume-r-h-kern-delt-ps-duvals-lith-steam-press-philada--0380055",
+    "archive:clevelandart-1924.527-the-inferno-accordin",
+    "archive:dr_aspen-special-sheet-viii-topography-u-s-geological-survey-charles-d-w-0942005",
+    "archive:clevelandart-1942.638-portrait-of-the-marq",
+    "archive:clevelandart-1979.16-souvenir-of-an-inter",
+    "archive:clevelandart-1952.541-portrait-of-a-woman",
+    "archive:clevelandart-1947.183.4-armchair-3-of-4",
+    "archive:dr_boonton-morris-co-nj-morristown-morris-co-nj-1872-01104095",
+    "archive:clevelandart-1971.4-portrait-of-leonello",
+    "archive:clevelandart-1964.357.b-altarpiece-with-reli",
+    "archive:dr_tourtelotte-park-mining-district-sheet-geology-sheet-xxi-u-s-geological-0942018",
+    "openverse:7074e80e-669f-4f1c-944a-6562257fa4fb",
+    "archive:clevelandart-1988.146-portrait-of-archduke",
+    "archive:clevelandart-1985.143-portrait-of-a-man",
+    "archive:clevelandart-2009.121-portrait-of-a-young",
+    "archive:dr_union-india-rubber-co-new-york-clothing-druggests-articles-belting-bo-5479098",
+    "archive:clevelandart-1922.142-the-climbers-three-f",
+    "archive:clevelandart-2000.107-portrait-of-mademois",
+    "archive:clevelandart-1969.131-sketch-for-the-four",
+    "File:Painting from tomb of Inisnofruischetef.png",
+    "File:StateLibQld 1 114552 Young American soldier gets his first tattoo, Brisbane, 1943.jpg",
+    "File:20241025 Black Wood Block for Nianhua Printing, ROC Period (1912-1949) 02.jpg",
+    "File:Kerr Stuart N° 1213 of 1914 'Hawk' 3ft gauge, 'Tattoo' class, built for Greaves Bull & Lakin, Harbury, in Kerr Stuart works list by Industrial Locomotive Society (Warwickshire Museums, Geology, Reference C, 3781, img 1004).jpg",
+    "File:1960s Mary Quant minidress, green, purple and white jersey.jpg",
+    "File:Graffiti in Augsburg, Friedensfest mural 4718.jpg",
+    "File:Graffiti in Augsburg, Friedensfest mural 4715.jpg",
+    "File:Graffiti in Augsburg, Friedensfest mural 4717.jpg",
+    "File:Lascaux, replica 01.JPG",
+    "File:Rio de Janeiro tile mural graffiti Jul 2017.png",
+    "File:Graffiti in Augsburg, Friedensfest mural 4716.jpg",
+    "File:Ponferrada - graffiti & murals 24.JPG"
   ],
   "seenContentHashes": [
     "ff8f20c0481cf3cffcf7ce58ffcffcffcd7e",
@@ -362177,6 +364646,36 @@
     "0bf0bb03803807e07e03e83f83f83f01f01f",
     "3c23c238220620620638638678e79e786786",
     "ffffffdffdffdfb010100080058076070076",
-    "0f20220025fa4b263e6fe60e78e7ee7effef"
+    "0f20220025fa4b263e6fe60e78e7ee7effef",
+    "ff9f79c79c39c31c11c01c41c01c21d79d79",
+    "801891801821cf3b8df87f019819d9de3c61",
+    "feff6fc37c17c93c13c13c03e03e03e03e03",
+    "000000060000e07e0fe0ff0ff1ff9ff9ffbf",
+    "828821c618f1820b27928bfebff8208618f9",
+    "7fe7be7fe73e7bc7bc7fe7fe7fe7fe7fe7fe",
+    "7ff77f67f9ffb7f03f03f01f01f81e007005",
+    "801fffff5801801e21ffb801801801ffbfff",
+    "a158a1821925a09bf9a7187980989181d8c1",
+    "ffef9ef9ef0ef8ef0ec06c86c06c06c06ffe",
+    "ffefe2ff2fe2ff2f92e72c0ac1e81e80effe",
+    "0000600600600e01f43f77f8fe1fc1de0df0",
+    "0000000000000000043defbffeeff4f98ff0",
+    "3fc3fcffcffcdb8de89f8800bfc9fc800800",
+    "ffe800ffedfeffcc7c07effeffefffb88000",
+    "f9fe07c73801801801801801801c01c03e07",
+    "ffffbff0fe0fc03c0380b803891003bfbffd",
+    "ffec03c02802812802803803803803803fff",
+    "00000002007007d805865c7fcfbef7f2ffff",
+    "0600600580f01f00ec0e40628fccdc1d205f",
+    "7ff2232233f73ff2032033673ff3ff3ff3fe",
+    "09bcc27ece7c87843f03300b861671e32e04",
+    "0ff0ff47fffff7fc1f06e00103dc0f000000",
+    "f03f03f03f03f03f03f03f03f03f07f07e07",
+    "7f87fc5403401c012312e3ec7f17f37f3793",
+    "fffffeffeef8ef8cf8cf8878810000800000",
+    "f37f83800f76fff7ff7ff1cd4dfc74434400",
+    "0df0ff0bf1bf7dcfc8f08f08fd83c1201003",
+    "ffeff8ffcff0ff0ffc1f8020000000000000",
+    "ffffdff5ff37f03a000018009007007ff7ec"
   ]
 }
