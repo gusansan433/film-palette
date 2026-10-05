@@ -354403,10 +354403,1456 @@
       "kind": "photo",
       "photographer": "Hieronymus Bosch",
       "sourceLabel": "维基共享资源",
-      "contentHash": "000840bccbfeffefdffdffdeb9c800000800"
+      "contentHash": "000840bccbfeffefdffdffdeb9c800000800",
+      "category": "painting",
+      "subjects": []
+    },
+    {
+      "id": "b6041649-0ef3-4994-855e-2685c65b3bb8",
+      "title": "Self-Portrait in Costume",
+      "titleEn": "Self-Portrait in Costume",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/b6041649-0ef3-4994-855e-2685c65b3bb8.jpg",
+      "thumbUrl": "/stills/b6041649-0ef3-4994-855e-2685c65b3bb8.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1921.214-self-portrait-in-cos",
+      "author": "Otto H. Bacher (American, 1856–1909)",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "yellow",
+        "black",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#aca695",
+          "rgb": [
+            172,
+            166,
+            149
+          ],
+          "ratio": 0.3725043402777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#31302a",
+          "rgb": [
+            49,
+            48,
+            42
+          ],
+          "ratio": 0.3334418402777778,
+          "bucket": "black"
+        },
+        {
+          "hex": "#8d8676",
+          "rgb": [
+            141,
+            134,
+            118
+          ],
+          "ratio": 0.1343315972222222,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#615c50",
+          "rgb": [
+            97,
+            92,
+            80
+          ],
+          "ratio": 0.12076822916666667,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#cac4b3",
+          "rgb": [
+            202,
+            196,
+            179
+          ],
+          "ratio": 0.03895399305555555,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-10-05T02:45:54.979Z",
+      "fileKey": "archive:clevelandart-1921.214-self-portrait-in-cos",
+      "kind": "photo",
+      "photographer": "Otto H. Bacher (American, 1856–1909)",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "8008008c09e08e09e0fe1ff1ffdfffffffff",
+      "category": "painting",
+      "people": "one",
+      "subjects": [
+        "portrait",
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "f8ec4a04-2db0-4fd8-9b9a-0c7c26e32def",
+      "title": "Textile Fragment",
+      "titleEn": "Textile Fragment",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/f8ec4a04-2db0-4fd8-9b9a-0c7c26e32def.jpg",
+      "thumbUrl": "/stills/f8ec4a04-2db0-4fd8-9b9a-0c7c26e32def.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1920.787-textile-fragment",
+      "author": "Internet Archive",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "orange",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#a85932",
+          "rgb": [
+            168,
+            89,
+            50
+          ],
+          "ratio": 0.3797743055555556,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#ac693d",
+          "rgb": [
+            172,
+            105,
+            61
+          ],
+          "ratio": 0.2906901041666667,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#b97a4b",
+          "rgb": [
+            185,
+            122,
+            75
+          ],
+          "ratio": 0.2222222222222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#fcf8ef",
+          "rgb": [
+            252,
+            248,
+            239
+          ],
+          "ratio": 0.09212239583333333,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#d3ae90",
+          "rgb": [
+            211,
+            174,
+            144
+          ],
+          "ratio": 0.015190972222222222,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-05T02:45:57.973Z",
+      "fileKey": "archive:clevelandart-1920.787-textile-fragment",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "fff00000000071c01e31e21c000010098030",
+      "category": "photo",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "f8c027c9-fd78-4b83-837f-5ec0a6fe486a",
+      "title": "Textile Fragment",
+      "titleEn": "Textile Fragment",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/f8c027c9-fd78-4b83-837f-5ec0a6fe486a.jpg",
+      "thumbUrl": "/stills/f8c027c9-fd78-4b83-837f-5ec0a6fe486a.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1920.759-textile-fragment",
+      "author": "Internet Archive",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "green",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#69725b",
+          "rgb": [
+            105,
+            114,
+            91
+          ],
+          "ratio": 0.3435329861111111,
+          "bucket": "green"
+        },
+        {
+          "hex": "#7d8469",
+          "rgb": [
+            125,
+            132,
+            105
+          ],
+          "ratio": 0.2788628472222222,
+          "bucket": "green"
+        },
+        {
+          "hex": "#505e48",
+          "rgb": [
+            80,
+            94,
+            72
+          ],
+          "ratio": 0.1509331597222222,
+          "bucket": "green"
+        },
+        {
+          "hex": "#969d7d",
+          "rgb": [
+            150,
+            157,
+            125
+          ],
+          "ratio": 0.14518229166666666,
+          "bucket": "green"
+        },
+        {
+          "hex": "#aeb5ab",
+          "rgb": [
+            174,
+            181,
+            171
+          ],
+          "ratio": 0.08148871527777778,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-10-05T02:45:59.774Z",
+      "fileKey": "archive:clevelandart-1920.759-textile-fragment",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "fffff4fffbe4ffc801a01bc0b80a80800800",
+      "category": "photo",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "28314bcd-4fc8-4c33-84f3-501d93b628cf",
+      "title": "Textile Fragment",
+      "titleEn": "Textile Fragment",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/28314bcd-4fc8-4c33-84f3-501d93b628cf.jpg",
+      "thumbUrl": "/stills/28314bcd-4fc8-4c33-84f3-501d93b628cf.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1949.10-textile-fragment",
+      "author": "Internet Archive",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "orange",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#a0937d",
+          "rgb": [
+            160,
+            147,
+            125
+          ],
+          "ratio": 0.3377821180555556,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#a99b84",
+          "rgb": [
+            169,
+            155,
+            132
+          ],
+          "ratio": 0.3349609375,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#8f836c",
+          "rgb": [
+            143,
+            131,
+            108
+          ],
+          "ratio": 0.1574435763888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#b8bab3",
+          "rgb": [
+            184,
+            186,
+            179
+          ],
+          "ratio": 0.10655381944444445,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#766751",
+          "rgb": [
+            118,
+            103,
+            81
+          ],
+          "ratio": 0.0632595486111111,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-05T02:46:00.743Z",
+      "fileKey": "archive:clevelandart-1949.10-textile-fragment",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "92990d90d88f905929f39b19a0990990d98d",
+      "category": "photo",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "67eba3c8-d7ec-47a8-b86f-fcda46217270",
+      "title": "Fragment of Textile",
+      "titleEn": "Fragment of Textile",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/67eba3c8-d7ec-47a8-b86f-fcda46217270.jpg",
+      "thumbUrl": "/stills/67eba3c8-d7ec-47a8-b86f-fcda46217270.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1953.487-fragment-of-textile",
+      "author": "Internet Archive",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "red",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#b38076",
+          "rgb": [
+            179,
+            128,
+            118
+          ],
+          "ratio": 0.3021918402777778,
+          "bucket": "red"
+        },
+        {
+          "hex": "#a36461",
+          "rgb": [
+            163,
+            100,
+            97
+          ],
+          "ratio": 0.2710503472222222,
+          "bucket": "red"
+        },
+        {
+          "hex": "#c59c8d",
+          "rgb": [
+            197,
+            156,
+            141
+          ],
+          "ratio": 0.1965060763888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#983c49",
+          "rgb": [
+            152,
+            60,
+            73
+          ],
+          "ratio": 0.16102430555555555,
+          "bucket": "red"
+        },
+        {
+          "hex": "#f5eadc",
+          "rgb": [
+            245,
+            234,
+            220
+          ],
+          "ratio": 0.06922743055555555,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-05T02:46:01.740Z",
+      "fileKey": "archive:clevelandart-1953.487-fragment-of-textile",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "a5d87d8009c7b87b83b03b1190183987d8fc",
+      "category": "photo",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "b01d3991-8804-4fb7-86b0-ff0f23b85a5f",
+      "title": "Winter Landscape",
+      "titleEn": "Winter Landscape",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/b01d3991-8804-4fb7-86b0-ff0f23b85a5f.jpg",
+      "thumbUrl": "/stills/b01d3991-8804-4fb7-86b0-ff0f23b85a5f.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-2008.287-winter-landscape",
+      "author": "Jan Griffier (Dutch, 1648–1718)",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "green",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#4f5443",
+          "rgb": [
+            79,
+            84,
+            67
+          ],
+          "ratio": 0.2789713541666667,
+          "bucket": "green"
+        },
+        {
+          "hex": "#34352a",
+          "rgb": [
+            52,
+            53,
+            42
+          ],
+          "ratio": 0.2373046875,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#424638",
+          "rgb": [
+            66,
+            70,
+            56
+          ],
+          "ratio": 0.21809895833333334,
+          "bucket": "green"
+        },
+        {
+          "hex": "#5c624d",
+          "rgb": [
+            92,
+            98,
+            77
+          ],
+          "ratio": 0.2105034722222222,
+          "bucket": "green"
+        },
+        {
+          "hex": "#70745a",
+          "rgb": [
+            112,
+            116,
+            90
+          ],
+          "ratio": 0.055121527777777776,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-10-05T02:46:04.988Z",
+      "fileKey": "archive:clevelandart-2008.287-winter-landscape",
+      "kind": "photo",
+      "photographer": "Jan Griffier (Dutch, 1648–1718)",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "fbcff8ff0ff8fc0f00c000000141fe7fc408",
+      "category": "photo",
+      "people": "none",
+      "subjects": [
+        "landscape"
+      ]
+    },
+    {
+      "id": "93943de1-4b74-42b7-9dbf-d0a0db64e7a8",
+      "title": "Sketch for \"The Oriental Dream\"",
+      "titleEn": "Sketch for \"The Oriental Dream\"",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/93943de1-4b74-42b7-9dbf-d0a0db64e7a8.jpg",
+      "thumbUrl": "/stills/93943de1-4b74-42b7-9dbf-d0a0db64e7a8.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1996.300-sketch-for-the-orien",
+      "author": "Jean Lecomte du Nouÿ (French, 1842–1923)",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "cyan",
+        "yellow",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#234950",
+          "rgb": [
+            35,
+            73,
+            80
+          ],
+          "ratio": 0.2850477430555556,
+          "bucket": "cyan"
+        },
+        {
+          "hex": "#8b866a",
+          "rgb": [
+            139,
+            134,
+            106
+          ],
+          "ratio": 0.2535807291666667,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#65502a",
+          "rgb": [
+            101,
+            80,
+            42
+          ],
+          "ratio": 0.2387152777777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#4d6966",
+          "rgb": [
+            77,
+            105,
+            102
+          ],
+          "ratio": 0.17578125,
+          "bucket": "cyan"
+        },
+        {
+          "hex": "#e4dfd0",
+          "rgb": [
+            228,
+            223,
+            208
+          ],
+          "ratio": 0.046875,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-10-05T02:46:06.105Z",
+      "fileKey": "archive:clevelandart-1996.300-sketch-for-the-orien",
+      "kind": "photo",
+      "photographer": "Jean Lecomte du Nouÿ (French, 1842–1923)",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "fffc00e00f80f80787f87f01801c10dff0ff",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "4d8d62c4-c1ba-4a0d-9ca3-2743efcc23a9",
+      "title": "Residence of Ernst Petersen, Papillion, Nebraska. (with Dewey & Stone furniture and bedding, Omaha, Neb. Philadelphia, Everts & Kirk, 1885)",
+      "titleEn": "Residence of Ernst Petersen, Papillion, Nebraska. (with Dewey & Stone furniture and bedding, Omaha, Neb. Philadelphia, Everts & Kirk, 1885)",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/4d8d62c4-c1ba-4a0d-9ca3-2743efcc23a9.jpg",
+      "thumbUrl": "/stills/4d8d62c4-c1ba-4a0d-9ca3-2743efcc23a9.jpg",
+      "pageUrl": "https://archive.org/details/dr_residence-of-ernst-petersen-papillion-nebraska-with-dewey--stone-furni-2719149",
+      "author": "Everts & Kirk",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/dr_residence-of-ernst-petersen-papillion-nebraska-with-dewey--stone-furni-2719149",
+      "buckets": [
+        "yellow",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#eee3bd",
+          "rgb": [
+            238,
+            227,
+            189
+          ],
+          "ratio": 0.3231336805555556,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#dbd2ae",
+          "rgb": [
+            219,
+            210,
+            174
+          ],
+          "ratio": 0.2001953125,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#998d72",
+          "rgb": [
+            153,
+            141,
+            114
+          ],
+          "ratio": 0.1918402777777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#c1b898",
+          "rgb": [
+            193,
+            184,
+            152
+          ],
+          "ratio": 0.1665581597222222,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#686151",
+          "rgb": [
+            104,
+            97,
+            81
+          ],
+          "ratio": 0.11827256944444445,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-05T02:46:07.976Z",
+      "fileKey": "archive:dr_residence-of-ernst-petersen-papillion-nebraska-with-dewey--stone-furni-2719149",
+      "kind": "photo",
+      "photographer": "Everts & Kirk",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "ffeffeffefe6802802ff2ffef02802802ffe",
+      "category": "photo",
+      "subjects": [
+        "design"
+      ]
+    },
+    {
+      "id": "62441ea2-451d-41dc-a8b2-fdecf76e8484",
+      "title": "The Berry Ranch-Chase and Morris counties, Kan.-D.B. Berry, proprietor. (L.H. Everts & Co., publishers, Philadelphia, 1887)",
+      "titleEn": "The Berry Ranch-Chase and Morris counties, Kan.-D.B. Berry, proprietor. (L.H. Everts & Co., publishers, Philadelphia, 1887)",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/62441ea2-451d-41dc-a8b2-fdecf76e8484.jpg",
+      "thumbUrl": "/stills/62441ea2-451d-41dc-a8b2-fdecf76e8484.jpg",
+      "pageUrl": "https://archive.org/details/dr_the-berry-ranch-chase-and-morris-counties-kan-db-berry-proprietor-l-00844006",
+      "author": "Everts & Co.",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/dr_the-berry-ranch-chase-and-morris-counties-kan-db-berry-proprietor-l-00844006",
+      "buckets": [
+        "yellow",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#9d977e",
+          "rgb": [
+            157,
+            151,
+            126
+          ],
+          "ratio": 0.2826605902777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#beba9e",
+          "rgb": [
+            190,
+            186,
+            158
+          ],
+          "ratio": 0.2610677083333333,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#ded6b4",
+          "rgb": [
+            222,
+            214,
+            180
+          ],
+          "ratio": 0.2099609375,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#787462",
+          "rgb": [
+            120,
+            116,
+            98
+          ],
+          "ratio": 0.18467881944444445,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#533e35",
+          "rgb": [
+            83,
+            62,
+            53
+          ],
+          "ratio": 0.06163194444444445,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-05T02:46:08.931Z",
+      "fileKey": "archive:dr_the-berry-ranch-chase-and-morris-counties-kan-db-berry-proprietor-l-00844006",
+      "kind": "photo",
+      "photographer": "Everts & Co.",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "ffee02c02c02ffe876802ff683e902d02ffe",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "49ce162d-3bd9-4143-9fa6-6e08d199cf09",
+      "title": "(View) Farm Res. of Thomas Schoonover. Residence and Tannery of Frank Piening. Furniture & Undertaking by Wm. Kohues & Co. Res. Warehouse & Packing Room of F.I. Steinberg.",
+      "titleEn": "(View) Farm Res. of Thomas Schoonover. Residence and Tannery of Frank Piening. Furniture & Undertaking by Wm. Kohues & Co. Res. Warehouse & Packing Room of F.I. Steinberg.",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/49ce162d-3bd9-4143-9fa6-6e08d199cf09.jpg",
+      "thumbUrl": "/stills/49ce162d-3bd9-4143-9fa6-6e08d199cf09.jpg",
+      "pageUrl": "https://archive.org/details/dr_view-farm-res-of-thomas-schoonover-residence-and-tannery-of-frank-pieni-2709069",
+      "author": "Howland, H.G.",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/dr_view-farm-res-of-thomas-schoonover-residence-and-tannery-of-frank-pieni-2709069",
+      "buckets": [
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#d7c1a7",
+          "rgb": [
+            215,
+            193,
+            167
+          ],
+          "ratio": 0.3250868055555556,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#b4a38d",
+          "rgb": [
+            180,
+            163,
+            141
+          ],
+          "ratio": 0.2527126736111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#948573",
+          "rgb": [
+            148,
+            133,
+            115
+          ],
+          "ratio": 0.2009548611111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#786b5b",
+          "rgb": [
+            120,
+            107,
+            91
+          ],
+          "ratio": 0.1550564236111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#584e42",
+          "rgb": [
+            88,
+            78,
+            66
+          ],
+          "ratio": 0.0661892361111111,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-05T02:46:09.972Z",
+      "fileKey": "archive:dr_view-farm-res-of-thomas-schoonover-residence-and-tannery-of-frank-pieni-2709069",
+      "kind": "photo",
+      "photographer": "Howland, H.G.",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "ffedfe802800f9ec1a802d02fb2c02802802",
+      "category": "photo",
+      "subjects": [
+        "interior",
+        "design"
+      ]
+    },
+    {
+      "id": "50eda31f-108e-4958-bbc0-e364a1c78ffc",
+      "title": "Portrait of Adelaide Neilson holding a book, version 2",
+      "titleEn": "Portrait of Adelaide Neilson holding a book, version 2",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/50eda31f-108e-4958-bbc0-e364a1c78ffc.jpg",
+      "thumbUrl": "/stills/50eda31f-108e-4958-bbc0-e364a1c78ffc.jpg",
+      "pageUrl": "https://archive.org/details/csfcp_000470",
+      "author": "Bradley and Rulofson",
+      "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "licenseUrl": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "buckets": [
+        "yellow",
+        "red",
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#e2d6b9",
+          "rgb": [
+            226,
+            214,
+            185
+          ],
+          "ratio": 0.3668619791666667,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#b19e85",
+          "rgb": [
+            177,
+            158,
+            133
+          ],
+          "ratio": 0.2490234375,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#250b0a",
+          "rgb": [
+            37,
+            11,
+            10
+          ],
+          "ratio": 0.1437717013888889,
+          "bucket": "red"
+        },
+        {
+          "hex": "#34221f",
+          "rgb": [
+            52,
+            34,
+            31
+          ],
+          "ratio": 0.13878038194444445,
+          "bucket": "red"
+        },
+        {
+          "hex": "#685345",
+          "rgb": [
+            104,
+            83,
+            69
+          ],
+          "ratio": 0.1015625,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-05T02:46:10.986Z",
+      "fileKey": "archive:csfcp_000470",
+      "kind": "photo",
+      "photographer": "Bradley and Rulofson",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "7ff7bf7fb5cf74b76be67443443c43cc3c03",
+      "category": "photo",
+      "people": "one",
+      "subjects": [
+        "portrait"
+      ]
+    },
+    {
+      "id": "f7cb3608-69ee-4ccc-828e-d60c16c9b1a5",
+      "title": "Fort Moultrie as seen from Fort Sumter, February 13th, 1861. T. Seymour, Brevet Capt. U.S.A. Fort Johnson as seen from Fort Sumter ... Morris Island and Cumming's Point as seen from Fort Sumter ... Julius Bien & Co., Lith., N.Y. (1891-1895)",
+      "titleEn": "Fort Moultrie as seen from Fort Sumter, February 13th, 1861. T. Seymour, Brevet Capt. U.S.A. Fort Johnson as seen from Fort Sumter ... Morris Island and Cumming's Point as seen from Fort Sumter ... Julius Bien & Co., Lith., N.Y. (1891-1895)",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/f7cb3608-69ee-4ccc-828e-d60c16c9b1a5.jpg",
+      "thumbUrl": "/stills/f7cb3608-69ee-4ccc-828e-d60c16c9b1a5.jpg",
+      "pageUrl": "https://archive.org/details/dr_fort-moultrie-as-seen-from-fort-sumter-february-13th-1861-t-seymour-br-01104129",
+      "author": "Seymour, Truman",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/dr_fort-moultrie-as-seen-from-fort-sumter-february-13th-1861-t-seymour-br-01104129",
+      "buckets": [
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#ddb884",
+          "rgb": [
+            221,
+            184,
+            132
+          ],
+          "ratio": 0.3796657986111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#eacea1",
+          "rgb": [
+            234,
+            206,
+            161
+          ],
+          "ratio": 0.3783637152777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#b48f61",
+          "rgb": [
+            180,
+            143,
+            97
+          ],
+          "ratio": 0.13270399305555555,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#897f7d",
+          "rgb": [
+            137,
+            127,
+            125
+          ],
+          "ratio": 0.056098090277777776,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#7e5d3c",
+          "rgb": [
+            126,
+            93,
+            60
+          ],
+          "ratio": 0.053168402777777776,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-05T02:46:14.218Z",
+      "fileKey": "archive:dr_fort-moultrie-as-seen-from-fort-sumter-february-13th-1861-t-seymour-br-01104129",
+      "kind": "photo",
+      "photographer": "Seymour, Truman",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "3fffff000f08fff001c00ffffff000fff03c",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "1465d7ed-383e-44a6-8d61-991e3ccd34a5",
+      "title": "Map of a German night aeroplane raid on London, 31st. Oct./1st., Nov., 1917. C. Gris Nez. The German Air Raids on Great Britain 1914-1918. Captain Joseph Morris. From an Official report prepared by the War Office. Reprinted by permission of the Controller, H.M. Stationery Office. Supplement to the \"Air League Bulletin\" inserted by the courtesy of Messrs. Sampson Low.",
+      "titleEn": "Map of a German night aeroplane raid on London, 31st. Oct./1st., Nov., 1917. C. Gris Nez. The German Air Raids on Great Britain 1914-1918. Captain Joseph Morris. From an Official report prepared by the War Office. Reprinted by permission of the Controller, H.M. Stationery Office. Supplement to the \"Air League Bulletin\" inserted by the courtesy of Messrs. Sampson Low.",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/1465d7ed-383e-44a6-8d61-991e3ccd34a5.jpg",
+      "thumbUrl": "/stills/1465d7ed-383e-44a6-8d61-991e3ccd34a5.jpg",
+      "pageUrl": "https://archive.org/details/dr_map-of-a-german-night-aeroplane-raid-on-london-31st-oct1st-nov-1917-11760000",
+      "author": "Morris, Joseph",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/dr_map-of-a-german-night-aeroplane-raid-on-london-31st-oct1st-nov-1917-11760000",
+      "buckets": [
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#f1e5c6",
+          "rgb": [
+            241,
+            229,
+            198
+          ],
+          "ratio": 0.4869791666666667,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#e1d5b9",
+          "rgb": [
+            225,
+            213,
+            185
+          ],
+          "ratio": 0.2172309027777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#cec4aa",
+          "rgb": [
+            206,
+            196,
+            170
+          ],
+          "ratio": 0.16688368055555555,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#b8ad94",
+          "rgb": [
+            184,
+            173,
+            148
+          ],
+          "ratio": 0.09950086805555555,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#878078",
+          "rgb": [
+            135,
+            128,
+            120
+          ],
+          "ratio": 0.029405381944444444,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-10-05T02:46:15.185Z",
+      "fileKey": "archive:dr_map-of-a-german-night-aeroplane-raid-on-london-31st-oct1st-nov-1917-11760000",
+      "kind": "photo",
+      "photographer": "Morris, Joseph",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "0003ef00f00f000c01fe6ff17ff7ff39ffff",
+      "category": "photo",
+      "subjects": [
+        "night"
+      ]
+    },
+    {
+      "id": "8ec8a455-8774-4c50-9f30-8044c35efcce",
+      "title": "Wichita University, of the Reform Church in the U.S. ... (with) Kansas Wholesale Furniture Co. (Kansas Furniture & Carpet Co.) ... (with) Residence of J.A. Wallace ... (with) \"Lyndhurst,\" residence of C.R. Miller ... (all) Wichita, Kansas. (L.H. Everts & Co., publishers, Philadelphia, 1887)",
+      "titleEn": "Wichita University, of the Reform Church in the U.S. ... (with) Kansas Wholesale Furniture Co. (Kansas Furniture & Carpet Co.) ... (with) Residence of J.A. Wallace ... (with) \"Lyndhurst,\" residence of C.R. Miller ... (all) Wichita, Kansas. (L.H. Everts & Co., publishers, Philadelphia, 1887)",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/8ec8a455-8774-4c50-9f30-8044c35efcce.jpg",
+      "thumbUrl": "/stills/8ec8a455-8774-4c50-9f30-8044c35efcce.jpg",
+      "pageUrl": "https://archive.org/details/dr_wichita-university-of-the-reform-church-in-the-us--with-kansas-whol-00824015",
+      "author": "Everts & Co.",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/dr_wichita-university-of-the-reform-church-in-the-us--with-kansas-whol-00824015",
+      "buckets": [
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#e9d8bd",
+          "rgb": [
+            233,
+            216,
+            189
+          ],
+          "ratio": 0.2632378472222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d6c4a8",
+          "rgb": [
+            214,
+            196,
+            168
+          ],
+          "ratio": 0.24034288194444445,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#b09e86",
+          "rgb": [
+            176,
+            158,
+            134
+          ],
+          "ratio": 0.20518663194444445,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#827768",
+          "rgb": [
+            130,
+            119,
+            104
+          ],
+          "ratio": 0.19563802083333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#57433c",
+          "rgb": [
+            87,
+            67,
+            60
+          ],
+          "ratio": 0.09559461805555555,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-05T02:46:25.656Z",
+      "fileKey": "archive:dr_wichita-university-of-the-reform-church-in-the-us--with-kansas-whol-00824015",
+      "kind": "photo",
+      "photographer": "Everts & Co.",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "7ff7ff7636014014017ff7ff7ff645401787",
+      "category": "photo",
+      "subjects": [
+        "architecture",
+        "design"
+      ]
+    },
+    {
+      "id": "86388850-dd15-4476-ab7e-bf090377cbb5",
+      "title": "20241025 Black Wood Block for Nianhua Printing, Ming Dynasty",
+      "titleEn": "20241025 Black Wood Block for Nianhua Printing, Ming Dynasty",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/86388850-dd15-4476-ab7e-bf090377cbb5.jpg",
+      "thumbUrl": "/stills/86388850-dd15-4476-ab7e-bf090377cbb5.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:20241025_Black_Wood_Block_for_Nianhua_Printing,_Ming_Dynasty.jpg",
+      "author": "Windmemories",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "buckets": [
+        "gray",
+        "orange",
+        "blue"
+      ],
+      "palette": [
+        {
+          "hex": "#35373b",
+          "rgb": [
+            53,
+            55,
+            59
+          ],
+          "ratio": 0.3063151041666667,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#eddaca",
+          "rgb": [
+            237,
+            218,
+            202
+          ],
+          "ratio": 0.2153862847222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#545559",
+          "rgb": [
+            84,
+            85,
+            89
+          ],
+          "ratio": 0.1999782986111111,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#1c1e23",
+          "rgb": [
+            28,
+            30,
+            35
+          ],
+          "ratio": 0.19249131944444445,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#928780",
+          "rgb": [
+            146,
+            135,
+            128
+          ],
+          "ratio": 0.08582899305555555,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-10-05T02:50:02.686Z",
+      "fileKey": "File:20241025 Black Wood Block for Nianhua Printing, Ming Dynasty.jpg",
+      "kind": "photo",
+      "photographer": "Windmemories",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "c7fc23c03c03c03c03c03c01c01c03c03c03",
+      "category": "painting",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "93f56fa7-89d8-479a-b7a2-9919e4572040",
+      "title": "Mummy portrait of a man, c. 100-150 CE, Fitzwilliam Museum, Cambridge",
+      "titleEn": "Mummy portrait of a man, c. 100 150 CE, Fitzwilliam Museum, Cambridge",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/93f56fa7-89d8-479a-b7a2-9919e4572040.jpg",
+      "thumbUrl": "/stills/93f56fa7-89d8-479a-b7a2-9919e4572040.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Mummy_portrait_of_a_man,_c._100-150_CE,_Fitzwilliam_Museum,_Cambridge.jpg",
+      "author": "SpeakingArch",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "buckets": [
+        "orange",
+        "brown",
+        "black"
+      ],
+      "palette": [
+        {
+          "hex": "#c3a884",
+          "rgb": [
+            195,
+            168,
+            132
+          ],
+          "ratio": 0.2575954861111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#ddccad",
+          "rgb": [
+            221,
+            204,
+            173
+          ],
+          "ratio": 0.2126736111111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#9d8061",
+          "rgb": [
+            157,
+            128,
+            97
+          ],
+          "ratio": 0.20540364583333334,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#675744",
+          "rgb": [
+            103,
+            87,
+            68
+          ],
+          "ratio": 0.17762586805555555,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#030302",
+          "rgb": [
+            3,
+            3,
+            2
+          ],
+          "ratio": 0.1467013888888889,
+          "bucket": "black"
+        }
+      ],
+      "addedAt": "2026-10-05T02:50:14.685Z",
+      "fileKey": "File:Mummy portrait of a man, c. 100-150 CE, Fitzwilliam Museum, Cambridge.jpg",
+      "kind": "film",
+      "photographer": "SpeakingArch",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "4a65f66f67d67fe7fe6ee60e71e72e7bc6f8",
+      "category": "film",
+      "people": "one",
+      "subjects": [
+        "portrait",
+        "people"
+      ]
+    },
+    {
+      "id": "ae9476d3-40e8-4baa-9a20-3eedf50a9cbd",
+      "title": "Thonet MAK Vienna 2020 14",
+      "titleEn": "Thonet MAK Vienna 2020 14",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/ae9476d3-40e8-4baa-9a20-3eedf50a9cbd.jpg",
+      "thumbUrl": "/stills/ae9476d3-40e8-4baa-9a20-3eedf50a9cbd.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Thonet_MAK_Vienna_2020_14.jpg",
+      "author": "Gryffindor",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "buckets": [
+        "yellow",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#363426",
+          "rgb": [
+            54,
+            52,
+            38
+          ],
+          "ratio": 0.3639322916666667,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#676851",
+          "rgb": [
+            103,
+            104,
+            81
+          ],
+          "ratio": 0.3459201388888889,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#c7bba9",
+          "rgb": [
+            199,
+            187,
+            169
+          ],
+          "ratio": 0.17317708333333334,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#f1e7dd",
+          "rgb": [
+            241,
+            231,
+            221
+          ],
+          "ratio": 0.06890190972222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#a09a85",
+          "rgb": [
+            160,
+            154,
+            133
+          ],
+          "ratio": 0.04806857638888889,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-10-05T02:56:29.631Z",
+      "fileKey": "File:Thonet MAK Vienna 2020 14.jpg",
+      "kind": "photo",
+      "photographer": "Gryffindor",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "ffffffde70e30e000001f251000000000800",
+      "category": "photo",
+      "subjects": [
+        "design"
+      ]
+    },
+    {
+      "id": "940bbadb-c7b5-4e89-9780-c9e9864726ef",
+      "title": "Giolo, tattooed Philippine prince, etching by John Savage, ca. 1692",
+      "titleEn": "Giolo, tattooed Philippine prince, etching by John Savage, ca. 1692",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/940bbadb-c7b5-4e89-9780-c9e9864726ef.jpg",
+      "thumbUrl": "/stills/940bbadb-c7b5-4e89-9780-c9e9864726ef.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Giolo,_tattooed_Philippine_prince,_etching_by_John_Savage,_ca._1692.jpg",
+      "author": "John Savage",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Giolo,_tattooed_Philippine_prince,_etching_by_John_Savage,_ca._1692.jpg",
+      "buckets": [
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#c7b8a5",
+          "rgb": [
+            199,
+            184,
+            165
+          ],
+          "ratio": 0.3489583333333333,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#b2a390",
+          "rgb": [
+            178,
+            163,
+            144
+          ],
+          "ratio": 0.2370876736111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#948676",
+          "rgb": [
+            148,
+            134,
+            118
+          ],
+          "ratio": 0.2052951388888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#716559",
+          "rgb": [
+            113,
+            101,
+            89
+          ],
+          "ratio": 0.1304253472222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#dcd0bf",
+          "rgb": [
+            220,
+            208,
+            191
+          ],
+          "ratio": 0.07823350694444445,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-05T02:57:40.829Z",
+      "fileKey": "File:Giolo, tattooed Philippine prince, etching by John Savage, ca. 1692.jpg",
+      "kind": "film",
+      "photographer": "John Savage",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "f9ff0cf0ff0ff1fe0ce08eb8f800008f8fff"
     }
   ],
-  "lastIngestDate": "2026-10-04",
+  "lastIngestDate": "2026-10-05",
   "seenFileKeys": [
     "stills:04b85cc4-5a5c-4d95-9d52-460ceefa3ee5.jpg",
     "stills:0509b1d5-b5da-4b3c-8e65-edda97b86985.jpg",
@@ -361153,7 +362599,34 @@
     "File:NASA Earth Day Exhibits (NHQ202304200012).jpg",
     "File:The beginnings of art (IA beginningsofart00grosuoft).pdf",
     "File:Iznik pottery, Leighton House, London - 53482005618.jpg",
-    "File:Hieronymus Bosch - The Garden of Earthly Delights - The exterior (shutters).jpg"
+    "File:Hieronymus Bosch - The Garden of Earthly Delights - The exterior (shutters).jpg",
+    "archive:clevelandart-1921.214-self-portrait-in-cos",
+    "archive:mma_embroidery_220183",
+    "archive:clevelandart-1931.445.i-woman-s-costume-cuff",
+    "archive:clevelandart-1920.787-textile-fragment",
+    "archive:cmlpl_000395",
+    "archive:clevelandart-1920.759-textile-fragment",
+    "archive:clevelandart-1949.10-textile-fragment",
+    "archive:clevelandart-1953.487-fragment-of-textile",
+    "openverse:a34690f9-b9c5-4209-abf6-42bac8885736",
+    "archive:clevelandart-2008.287-winter-landscape",
+    "archive:clevelandart-1996.300-sketch-for-the-orien",
+    "archive:dr_view-plate-4-ancient-sculpture-12190586",
+    "archive:dr_residence-of-ernst-petersen-papillion-nebraska-with-dewey--stone-furni-2719149",
+    "archive:dr_the-berry-ranch-chase-and-morris-counties-kan-db-berry-proprietor-l-00844006",
+    "archive:dr_view-farm-res-of-thomas-schoonover-residence-and-tannery-of-frank-pieni-2709069",
+    "archive:csfcp_000470",
+    "archive:dr_fort-moultrie-as-seen-from-fort-sumter-february-13th-1861-t-seymour-br-01104129",
+    "archive:dr_map-of-a-german-night-aeroplane-raid-on-london-31st-oct1st-nov-1917-11760000",
+    "archive:dr_planche-32-thbes-memnonium-1234567-dtails-de-chars-sculpts-sur-l-10404141",
+    "archive:dr_wichita-university-of-the-reform-church-in-the-us--with-kansas-whol-00824015",
+    "File:Theatrical costume MET CI46.9.73ef B.jpg",
+    "File:20241025 Black Wood Block for Nianhua Printing, Ming Dynasty.jpg",
+    "File:Brooklyn Museum - Charm - 14.jpg",
+    "File:Terra Cotta Army, China (PIA26394).jpg",
+    "File:Mummy portrait of a man, c. 100-150 CE, Fitzwilliam Museum, Cambridge.jpg",
+    "File:Thonet MAK Vienna 2020 14.jpg",
+    "File:Giolo, tattooed Philippine prince, etching by John Savage, ca. 1692.jpg"
   ],
   "seenContentHashes": [
     "ff8f20c0481cf3cffcf7ce58ffcffcffcd7e",
@@ -365347,6 +366820,24 @@
     "fffffffffffec00dbe000000000000000000",
     "0187fc7de9cf10f20cf29f668408108b8e18",
     "0100300f81fc3fe3fe3fe3fa3fe1ec070000",
-    "000840bccbfeffefdffdffdeb9c800000800"
+    "000840bccbfeffefdffdffdeb9c800000800",
+    "8008008c09e08e09e0fe1ff1ffdfffffffff",
+    "fff00000000071c01e31e21c000010098030",
+    "fffff4fffbe4ffc801a01bc0b80a80800800",
+    "92990d90d88f905929f39b19a0990990d98d",
+    "a5d87d8009c7b87b83b03b1190183987d8fc",
+    "fbcff8ff0ff8fc0f00c000000141fe7fc408",
+    "fffc00e00f80f80787f87f01801c10dff0ff",
+    "ffeffeffefe6802802ff2ffef02802802ffe",
+    "ffee02c02c02ffe876802ff683e902d02ffe",
+    "ffedfe802800f9ec1a802d02fb2c02802802",
+    "7ff7bf7fb5cf74b76be67443443c43cc3c03",
+    "3fffff000f08fff001c00ffffff000fff03c",
+    "0003ef00f00f000c01fe6ff17ff7ff39ffff",
+    "7ff7ff7636014014017ff7ff7ff645401787",
+    "c7fc23c03c03c03c03c03c01c01c03c03c03",
+    "4a65f66f67d67fe7fe6ee60e71e72e7bc6f8",
+    "ffffffde70e30e000001f251000000000800",
+    "f9ff0cf0ff0ff1fe0ce08eb8f800008f8fff"
   ]
 }
