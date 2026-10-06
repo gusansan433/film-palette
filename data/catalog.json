@@ -355849,10 +355849,330 @@
       "kind": "film",
       "photographer": "John Savage",
       "sourceLabel": "维基共享资源",
-      "contentHash": "f9ff0cf0ff0ff1fe0ce08eb8f800008f8fff"
+      "contentHash": "f9ff0cf0ff0ff1fe0ce08eb8f800008f8fff",
+      "category": "film",
+      "subjects": [
+        "people"
+      ]
+    },
+    {
+      "id": "bd5f8393-9f73-485b-8a77-59ffc07ace20",
+      "title": "Millais's illustrations, a collection of drawings on wood",
+      "titleEn": "Millais's illustrations, a collection of drawings on wood",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/bd5f8393-9f73-485b-8a77-59ffc07ace20.jpg",
+      "thumbUrl": "/stills/bd5f8393-9f73-485b-8a77-59ffc07ace20.jpg",
+      "pageUrl": "https://archive.org/details/1865-millais-illustrations_202511",
+      "author": "Millais, John Everett, Sir, 1829-1896",
+      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "buckets": [
+        "green"
+      ],
+      "palette": [
+        {
+          "hex": "#033e04",
+          "rgb": [
+            3,
+            62,
+            4
+          ],
+          "ratio": 0.4609375,
+          "bucket": "green"
+        },
+        {
+          "hex": "#074709",
+          "rgb": [
+            7,
+            71,
+            9
+          ],
+          "ratio": 0.3601345486111111,
+          "bucket": "green"
+        },
+        {
+          "hex": "#41541c",
+          "rgb": [
+            65,
+            84,
+            28
+          ],
+          "ratio": 0.0769314236111111,
+          "bucket": "green"
+        },
+        {
+          "hex": "#0b2a05",
+          "rgb": [
+            11,
+            42,
+            5
+          ],
+          "ratio": 0.07183159722222222,
+          "bucket": "green"
+        },
+        {
+          "hex": "#7b8f47",
+          "rgb": [
+            123,
+            143,
+            71
+          ],
+          "ratio": 0.030164930555555556,
+          "bucket": "green"
+        }
+      ],
+      "addedAt": "2026-10-06T03:35:51.735Z",
+      "fileKey": "archive:1865-millais-illustrations_202511",
+      "kind": "photo",
+      "photographer": "John Everett Millais",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "00d09d00d1f81fc0fd1f91f80790c8004009",
+      "category": "painting",
+      "subjects": []
+    },
+    {
+      "id": "ccaad859-bd1b-4bb0-a4d8-dbe8f160f83f",
+      "title": "Blue and white vase-like pottery",
+      "titleEn": "Blue and white vase like pottery",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/ccaad859-bd1b-4bb0-a4d8-dbe8f160f83f.jpg",
+      "thumbUrl": "/stills/ccaad859-bd1b-4bb0-a4d8-dbe8f160f83f.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Blue_and_white_vase-like_pottery.jpg",
+      "author": "Urbourbo",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "buckets": [
+        "brown",
+        "gray",
+        "yellow",
+        "blue"
+      ],
+      "palette": [
+        {
+          "hex": "#2d190c",
+          "rgb": [
+            45,
+            25,
+            12
+          ],
+          "ratio": 0.3314887152777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#8d9a9f",
+          "rgb": [
+            141,
+            154,
+            159
+          ],
+          "ratio": 0.19661458333333334,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#d7dac8",
+          "rgb": [
+            215,
+            218,
+            200
+          ],
+          "ratio": 0.1820746527777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#334c7e",
+          "rgb": [
+            51,
+            76,
+            126
+          ],
+          "ratio": 0.17643229166666666,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#6f654b",
+          "rgb": [
+            111,
+            101,
+            75
+          ],
+          "ratio": 0.11338975694444445,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-06T03:39:06.533Z",
+      "fileKey": "File:Blue and white vase-like pottery.jpg",
+      "kind": "film",
+      "photographer": "Urbourbo",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "00000061c7fe7fe3fe3fc7f86fc23c018018",
+      "category": "film",
+      "subjects": [
+        "people"
+      ]
+    },
+    {
+      "id": "3988faa4-6b6d-498f-848b-3a114f618056",
+      "title": "Ball gown",
+      "titleEn": "Ball gown MET 49.3.26ab S",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/3988faa4-6b6d-498f-848b-3a114f618056.jpg",
+      "thumbUrl": "/stills/3988faa4-6b6d-498f-848b-3a114f618056.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Ball_gown_MET_49.3.26ab_S.jpeg",
+      "author": "Jacques Doucet",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "buckets": [
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#d8c3ae",
+          "rgb": [
+            216,
+            195,
+            174
+          ],
+          "ratio": 0.4684244791666667,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#dba37a",
+          "rgb": [
+            219,
+            163,
+            122
+          ],
+          "ratio": 0.3008897569444444,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#baab9a",
+          "rgb": [
+            186,
+            171,
+            154
+          ],
+          "ratio": 0.1701388888888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#f4e6d1",
+          "rgb": [
+            244,
+            230,
+            209
+          ],
+          "ratio": 0.03211805555555555,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#8e5539",
+          "rgb": [
+            142,
+            85,
+            57
+          ],
+          "ratio": 0.028428819444444444,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-06T03:39:12.904Z",
+      "fileKey": "File:Ball gown MET 49.3.26ab S.jpeg",
+      "kind": "film",
+      "photographer": "Jacques Doucet",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "43f43f6ff6df6ef6e77b70d70f20a0040040",
+      "category": "film",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "ba25b1c3-1157-4460-804b-ea9f45713908",
+      "title": "LOS NOBLES DE BONAMPAK",
+      "titleEn": "LOS NOBLES DE BONAMPAK",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/ba25b1c3-1157-4460-804b-ea9f45713908.jpg",
+      "thumbUrl": "/stills/ba25b1c3-1157-4460-804b-ea9f45713908.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:LOS_NOBLES_DE_BONAMPAK.jpg",
+      "author": "BIOLOGO JORGE AYALA",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "buckets": [
+        "red",
+        "blue",
+        "pink"
+      ],
+      "palette": [
+        {
+          "hex": "#d38a85",
+          "rgb": [
+            211,
+            138,
+            133
+          ],
+          "ratio": 0.2542317708333333,
+          "bucket": "red"
+        },
+        {
+          "hex": "#a4cae5",
+          "rgb": [
+            164,
+            202,
+            229
+          ],
+          "ratio": 0.21516927083333334,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#759bc3",
+          "rgb": [
+            117,
+            155,
+            195
+          ],
+          "ratio": 0.1937934027777778,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#eac8bf",
+          "rgb": [
+            234,
+            200,
+            191
+          ],
+          "ratio": 0.17881944444444445,
+          "bucket": "red"
+        },
+        {
+          "hex": "#895d77",
+          "rgb": [
+            137,
+            93,
+            119
+          ],
+          "ratio": 0.1579861111111111,
+          "bucket": "pink"
+        }
+      ],
+      "addedAt": "2026-10-06T04:01:00.162Z",
+      "fileKey": "File:LOS NOBLES DE BONAMPAK.jpg",
+      "kind": "film",
+      "photographer": "BIOLOGO JORGE AYALA",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "ff0ff8ff8ff97e8de0ce87e07e8fe0f20c00"
     }
   ],
-  "lastIngestDate": "2026-10-05",
+  "lastIngestDate": "2026-10-06",
   "seenFileKeys": [
     "stills:04b85cc4-5a5c-4d95-9d52-460ceefa3ee5.jpg",
     "stills:0509b1d5-b5da-4b3c-8e65-edda97b86985.jpg",
@@ -362626,7 +362946,13 @@
     "File:Terra Cotta Army, China (PIA26394).jpg",
     "File:Mummy portrait of a man, c. 100-150 CE, Fitzwilliam Museum, Cambridge.jpg",
     "File:Thonet MAK Vienna 2020 14.jpg",
-    "File:Giolo, tattooed Philippine prince, etching by John Savage, ca. 1692.jpg"
+    "File:Giolo, tattooed Philippine prince, etching by John Savage, ca. 1692.jpg",
+    "archive:1865-millais-illustrations_202511",
+    "File:PSM V39 D514 Japanese showing tattoo.jpg",
+    "File:Blue and white vase-like pottery.jpg",
+    "File:Ball gown MET 49.3.26ab S.jpeg",
+    "File:1922 Paul Poiret coat, beaded and embroidered silk velvet with fur 04.jpg",
+    "File:LOS NOBLES DE BONAMPAK.jpg"
   ],
   "seenContentHashes": [
     "ff8f20c0481cf3cffcf7ce58ffcffcffcd7e",
@@ -366838,6 +367164,10 @@
     "c7fc23c03c03c03c03c03c01c01c03c03c03",
     "4a65f66f67d67fe7fe6ee60e71e72e7bc6f8",
     "ffffffde70e30e000001f251000000000800",
-    "f9ff0cf0ff0ff1fe0ce08eb8f800008f8fff"
+    "f9ff0cf0ff0ff1fe0ce08eb8f800008f8fff",
+    "00d09d00d1f81fc0fd1f91f80790c8004009",
+    "00000061c7fe7fe3fe3fc7f86fc23c018018",
+    "43f43f6ff6df6ef6e77b70d70f20a0040040",
+    "ff0ff8ff8ff97e8de0ce87e07e8fe0f20c00"
   ]
 }
