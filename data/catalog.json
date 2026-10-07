@@ -356169,10 +356169,328 @@
       "kind": "film",
       "photographer": "BIOLOGO JORGE AYALA",
       "sourceLabel": "维基共享资源",
-      "contentHash": "ff0ff8ff8ff97e8de0ce87e07e8fe0f20c00"
+      "contentHash": "ff0ff8ff8ff97e8de0ce87e07e8fe0f20c00",
+      "category": "film",
+      "subjects": [
+        "ancient"
+      ]
+    },
+    {
+      "id": "fae14586-747e-4836-8325-a27354a96017",
+      "title": "Arthur Atkins; extracts from the letters with notes on painting, and landscape: written during the period of his work as a painter in the last two years of his life.. 1896-1898.",
+      "titleEn": "Arthur Atkins; extracts from the letters with notes on painting, and landscape: written during the period of his work as a painter in the last two years of his life.. 1896-1898.",
+      "titleZh": "",
+      "director": "",
+      "source": "loc",
+      "imageUrl": "/stills/fae14586-747e-4836-8325-a27354a96017.jpg",
+      "thumbUrl": "/stills/fae14586-747e-4836-8325-a27354a96017.jpg",
+      "pageUrl": "https://www.loc.gov/item/09000603/",
+      "author": "Library of Congress",
+      "license": "No known restrictions / public domain",
+      "licenseUrl": "https://www.loc.gov/item/09000603/",
+      "buckets": [
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#dcc7af",
+          "rgb": [
+            220,
+            199,
+            175
+          ],
+          "ratio": 0.3539496527777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#ddcbb6",
+          "rgb": [
+            221,
+            203,
+            182
+          ],
+          "ratio": 0.3146701388888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d1bfa5",
+          "rgb": [
+            209,
+            191,
+            165
+          ],
+          "ratio": 0.20225694444444445,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#c0ae97",
+          "rgb": [
+            192,
+            174,
+            151
+          ],
+          "ratio": 0.0915798611111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#9d7c6c",
+          "rgb": [
+            157,
+            124,
+            108
+          ],
+          "ratio": 0.037543402777777776,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-07T03:05:16.259Z",
+      "fileKey": "loc:http://www.loc.gov/item/09000603/",
+      "kind": "photo",
+      "photographer": "Library of Congress",
+      "sourceLabel": "美国国会图书馆",
+      "contentHash": "00703f1ff1ff1ff1ff1ff1ff1ff1ff03f007",
+      "category": "painting",
+      "people": "two",
+      "subjects": [
+        "landscape"
+      ]
+    },
+    {
+      "id": "5772a678-2ba9-4191-b7cb-a263cc3310cb",
+      "title": "'La glu' (Dans 'La glu')",
+      "titleEn": "'La glu' (Dans 'La glu')",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/5772a678-2ba9-4191-b7cb-a263cc3310cb.jpg",
+      "thumbUrl": "/stills/5772a678-2ba9-4191-b7cb-a263cc3310cb.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/10052876/la-glu-dans-la-glu-1898-henri-toulouse-lautrec",
+      "author": "rawpixel",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#f3daae",
+          "rgb": [
+            243,
+            218,
+            174
+          ],
+          "ratio": 0.2922092013888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#f8e0b5",
+          "rgb": [
+            248,
+            224,
+            181
+          ],
+          "ratio": 0.2877604166666667,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#e9cfa5",
+          "rgb": [
+            233,
+            207,
+            165
+          ],
+          "ratio": 0.1847873263888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#fae4bc",
+          "rgb": [
+            250,
+            228,
+            188
+          ],
+          "ratio": 0.1799045138888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d0b791",
+          "rgb": [
+            208,
+            183,
+            145
+          ],
+          "ratio": 0.055338541666666664,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-07T03:05:22.436Z",
+      "fileKey": "openverse:2a35de30-557c-49f2-9135-55be0ca23bfb",
+      "kind": "photo",
+      "photographer": "rawpixel",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "f8f9878038078438c08f3ff7bffffffff9ff",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "d60c990c-586a-45d1-befd-d819be15a52b",
+      "title": "Japanese postman. Image from book of 1902",
+      "titleEn": "Japanese postman. Image from book of 1902",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/d60c990c-586a-45d1-befd-d819be15a52b.jpg",
+      "thumbUrl": "/stills/d60c990c-586a-45d1-befd-d819be15a52b.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Japanese_postman._Image_from_book_of_1902.jpg",
+      "author": "Unknown author Unknown author",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Japanese_postman._Image_from_book_of_1902.jpg",
+      "buckets": [
+        "green",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#4b5543",
+          "rgb": [
+            75,
+            85,
+            67
+          ],
+          "ratio": 0.4077690972222222,
+          "bucket": "green"
+        },
+        {
+          "hex": "#636b57",
+          "rgb": [
+            99,
+            107,
+            87
+          ],
+          "ratio": 0.2162543402777778,
+          "bucket": "green"
+        },
+        {
+          "hex": "#374231",
+          "rgb": [
+            55,
+            66,
+            49
+          ],
+          "ratio": 0.1801215277777778,
+          "bucket": "green"
+        },
+        {
+          "hex": "#1d271c",
+          "rgb": [
+            29,
+            39,
+            28
+          ],
+          "ratio": 0.1032986111111111,
+          "bucket": "green"
+        },
+        {
+          "hex": "#a3a68c",
+          "rgb": [
+            163,
+            166,
+            140
+          ],
+          "ratio": 0.0925564236111111,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-10-07T03:09:03.023Z",
+      "fileKey": "File:Japanese postman. Image from book of 1902.jpg",
+      "kind": "film",
+      "photographer": "Unknown author Unknown author",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "1f01f82fc3fc7fc7dc0c01e0330220060bfc",
+      "category": "film",
+      "subjects": [
+        "people"
+      ]
+    },
+    {
+      "id": "117359b5-8d94-411b-a6e1-63d283a7b54f",
+      "title": "Hieronymus Bosch - Triptych of Garden of Earthly Delights (detail) - WGA2525",
+      "titleEn": "Hieronymus Bosch Triptych of Garden of Earthly Delights (detail) WGA2525",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/117359b5-8d94-411b-a6e1-63d283a7b54f.jpg",
+      "thumbUrl": "/stills/117359b5-8d94-411b-a6e1-63d283a7b54f.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Hieronymus_Bosch_-_Triptych_of_Garden_of_Earthly_Delights_(detail)_-_WGA2525.jpg",
+      "author": "Wikimedia Commons",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Hieronymus_Bosch_-_Triptych_of_Garden_of_Earthly_Delights_(detail)_-_WGA2525.jpg",
+      "buckets": [
+        "brown",
+        "black",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#090a0a",
+          "rgb": [
+            9,
+            10,
+            10
+          ],
+          "ratio": 0.3297526041666667,
+          "bucket": "black"
+        },
+        {
+          "hex": "#231d19",
+          "rgb": [
+            35,
+            29,
+            25
+          ],
+          "ratio": 0.24131944444444445,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#503b2f",
+          "rgb": [
+            80,
+            59,
+            47
+          ],
+          "ratio": 0.16221788194444445,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#cdc0a2",
+          "rgb": [
+            205,
+            192,
+            162
+          ],
+          "ratio": 0.14192708333333334,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#897059",
+          "rgb": [
+            137,
+            112,
+            89
+          ],
+          "ratio": 0.1247829861111111,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-07T03:15:10.072Z",
+      "fileKey": "File:Hieronymus Bosch - Triptych of Garden of Earthly Delights (detail) - WGA2525.jpg",
+      "kind": "photo",
+      "photographer": "Hieronymus Bosch",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "8000000007c07b063007c1f8a72bf70d28b0"
     }
   ],
-  "lastIngestDate": "2026-10-06",
+  "lastIngestDate": "2026-10-07",
   "seenFileKeys": [
     "stills:04b85cc4-5a5c-4d95-9d52-460ceefa3ee5.jpg",
     "stills:0509b1d5-b5da-4b3c-8e65-edda97b86985.jpg",
@@ -362952,7 +363270,12 @@
     "File:Blue and white vase-like pottery.jpg",
     "File:Ball gown MET 49.3.26ab S.jpeg",
     "File:1922 Paul Poiret coat, beaded and embroidered silk velvet with fur 04.jpg",
-    "File:LOS NOBLES DE BONAMPAK.jpg"
+    "File:LOS NOBLES DE BONAMPAK.jpg",
+    "loc:http://www.loc.gov/item/09000603/",
+    "loc:http://www.loc.gov/item/08004174/",
+    "openverse:2a35de30-557c-49f2-9135-55be0ca23bfb",
+    "File:Japanese postman. Image from book of 1902.jpg",
+    "File:Hieronymus Bosch - Triptych of Garden of Earthly Delights (detail) - WGA2525.jpg"
   ],
   "seenContentHashes": [
     "ff8f20c0481cf3cffcf7ce58ffcffcffcd7e",
@@ -367168,6 +367491,10 @@
     "00d09d00d1f81fc0fd1f91f80790c8004009",
     "00000061c7fe7fe3fe3fc7f86fc23c018018",
     "43f43f6ff6df6ef6e77b70d70f20a0040040",
-    "ff0ff8ff8ff97e8de0ce87e07e8fe0f20c00"
+    "ff0ff8ff8ff97e8de0ce87e07e8fe0f20c00",
+    "00703f1ff1ff1ff1ff1ff1ff1ff1ff03f007",
+    "f8f9878038078438c08f3ff7bffffffff9ff",
+    "1f01f82fc3fc7fc7dc0c01e0330220060bfc",
+    "8000000007c07b063007c1f8a72bf70d28b0"
   ]
 }
