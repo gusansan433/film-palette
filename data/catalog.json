@@ -356487,10 +356487,4137 @@
       "kind": "photo",
       "photographer": "Hieronymus Bosch",
       "sourceLabel": "维基共享资源",
-      "contentHash": "8000000007c07b063007c1f8a72bf70d28b0"
+      "contentHash": "8000000007c07b063007c1f8a72bf70d28b0",
+      "category": "painting",
+      "subjects": [
+        "nature"
+      ]
+    },
+    {
+      "id": "1408f128-a96c-468e-8a0f-02ff61c901df",
+      "title": "Carte des limites de l'ancienne terre du Morvan. A. Poiret sculp. (A Paris, Chez Mme. veuve Agasse, Imprimeur-Libraire, rue des Poitevins, no. 6. M.DCCCXXVII)",
+      "titleEn": "Carte des limites de l'ancienne terre du Morvan. A. Poiret sculp. (A Paris, Chez Mme. veuve Agasse, Imprimeur-Libraire, rue des Poitevins, no. 6. M.DCCCXXVII)",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/1408f128-a96c-468e-8a0f-02ff61c901df.jpg",
+      "thumbUrl": "/stills/1408f128-a96c-468e-8a0f-02ff61c901df.jpg",
+      "pageUrl": "https://archive.org/details/dr_carte-des-limites-de-lancienne-terre-du-morvan-a-poiret-sculp-a-paris-1801024",
+      "author": "Bory de Saint-Vincent, M. (Jean Baptiste GeneviFve Marcellin), 1778-1846",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/dr_carte-des-limites-de-lancienne-terre-du-morvan-a-poiret-sculp-a-paris-1801024",
+      "buckets": [
+        "orange",
+        "yellow",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#e7dbc2",
+          "rgb": [
+            231,
+            219,
+            194
+          ],
+          "ratio": 0.2769097222222222,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#cdbfa6",
+          "rgb": [
+            205,
+            191,
+            166
+          ],
+          "ratio": 0.2488064236111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#b4a68e",
+          "rgb": [
+            180,
+            166,
+            142
+          ],
+          "ratio": 0.2309027777777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#9d8d74",
+          "rgb": [
+            157,
+            141,
+            116
+          ],
+          "ratio": 0.1310763888888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#77685d",
+          "rgb": [
+            119,
+            104,
+            93
+          ],
+          "ratio": 0.1123046875,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-08T03:19:48.420Z",
+      "fileKey": "archive:dr_carte-des-limites-de-lancienne-terre-du-morvan-a-poiret-sculp-a-paris-1801024",
+      "kind": "photo",
+      "photographer": "Bory de Saint-Vincent, M. (Jean Baptiste GeneviFve Marcellin), 1778-1846",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "000fff01481c80e81800080380780fffffff",
+      "category": "photo",
+      "subjects": [
+        "city"
+      ]
+    },
+    {
+      "id": "62a3ae13-81ec-41e6-bb3f-ea0ea9cdb581",
+      "title": "Afternoon dress",
+      "titleEn": "Afternoon dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/62a3ae13-81ec-41e6-bb3f-ea0ea9cdb581.jpg",
+      "thumbUrl": "/stills/62a3ae13-81ec-41e6-bb3f-ea0ea9cdb581.jpg",
+      "pageUrl": "https://archive.org/details/mma_afternoon_dress_107612",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_afternoon_dress_107612",
+      "buckets": [
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#9e815a",
+          "rgb": [
+            158,
+            129,
+            90
+          ],
+          "ratio": 0.2799479166666667,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#886b46",
+          "rgb": [
+            136,
+            107,
+            70
+          ],
+          "ratio": 0.2740885416666667,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#664c2e",
+          "rgb": [
+            102,
+            76,
+            46
+          ],
+          "ratio": 0.1984592013888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#342310",
+          "rgb": [
+            52,
+            35,
+            16
+          ],
+          "ratio": 0.15625,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#b69f79",
+          "rgb": [
+            182,
+            159,
+            121
+          ],
+          "ratio": 0.09125434027777778,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-08T03:19:49.602Z",
+      "fileKey": "archive:mma_afternoon_dress_107612",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "8479a79f70c70c71cf45fe6be67e43e43c03",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "6dd59cbb-5db3-42c3-85ed-67937bf529ed",
+      "title": "Textile Fragment",
+      "titleEn": "Textile Fragment",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/6dd59cbb-5db3-42c3-85ed-67937bf529ed.jpg",
+      "thumbUrl": "/stills/6dd59cbb-5db3-42c3-85ed-67937bf529ed.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1920.1804.b-textile-fragment",
+      "author": "Internet Archive",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "yellow",
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#82805e",
+          "rgb": [
+            130,
+            128,
+            94
+          ],
+          "ratio": 0.3434244791666667,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#958966",
+          "rgb": [
+            149,
+            137,
+            102
+          ],
+          "ratio": 0.2758246527777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#ad9975",
+          "rgb": [
+            173,
+            153,
+            117
+          ],
+          "ratio": 0.16590711805555555,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#836f4a",
+          "rgb": [
+            131,
+            111,
+            74
+          ],
+          "ratio": 0.12348090277777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#f7f6f4",
+          "rgb": [
+            247,
+            246,
+            244
+          ],
+          "ratio": 0.09136284722222222,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-10-08T03:19:51.258Z",
+      "fileKey": "archive:clevelandart-1920.1804.b-textile-fragment",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "800a01ba3ba5b8198180180180d819801800",
+      "category": "photo",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "4b2dcba7-7558-42ee-a7b8-cb58913c52f1",
+      "title": "Silk Textile",
+      "titleEn": "Silk Textile",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/4b2dcba7-7558-42ee-a7b8-cb58913c52f1.jpg",
+      "thumbUrl": "/stills/4b2dcba7-7558-42ee-a7b8-cb58913c52f1.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1986.179-silk-textile",
+      "author": "Louis Majorelle (French, 1859–1926)",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "black"
+      ],
+      "palette": [
+        {
+          "hex": "#776831",
+          "rgb": [
+            119,
+            104,
+            49
+          ],
+          "ratio": 0.3229166666666667,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#695e25",
+          "rgb": [
+            105,
+            94,
+            37
+          ],
+          "ratio": 0.3037109375,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#8e783a",
+          "rgb": [
+            142,
+            120,
+            58
+          ],
+          "ratio": 0.20735677083333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#060b09",
+          "rgb": [
+            6,
+            11,
+            9
+          ],
+          "ratio": 0.0915798611111111,
+          "bucket": "black"
+        },
+        {
+          "hex": "#58501b",
+          "rgb": [
+            88,
+            80,
+            27
+          ],
+          "ratio": 0.0744357638888889,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-10-08T03:19:54.229Z",
+      "fileKey": "archive:clevelandart-1986.179-silk-textile",
+      "kind": "photo",
+      "photographer": "Louis Majorelle (French, 1859–1926)",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "1fe02c1fe1fe5b67fe37e7fe7fe7fe7fe36c",
+      "category": "photo",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "31e53e75-552e-49a7-8597-8a21a1c1af11",
+      "title": "Afternoon dress",
+      "titleEn": "Afternoon dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/31e53e75-552e-49a7-8597-8a21a1c1af11.jpg",
+      "thumbUrl": "/stills/31e53e75-552e-49a7-8597-8a21a1c1af11.jpg",
+      "pageUrl": "https://archive.org/details/mma_afternoon_dress_159345",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_afternoon_dress_159345",
+      "buckets": [
+        "gray",
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#5c5c5d",
+          "rgb": [
+            92,
+            92,
+            93
+          ],
+          "ratio": 0.3153211805555556,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#7b7a7c",
+          "rgb": [
+            123,
+            122,
+            124
+          ],
+          "ratio": 0.3083767361111111,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#b5835b",
+          "rgb": [
+            181,
+            131,
+            91
+          ],
+          "ratio": 0.14832899305555555,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#895431",
+          "rgb": [
+            137,
+            84,
+            49
+          ],
+          "ratio": 0.13834635416666666,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#52301b",
+          "rgb": [
+            82,
+            48,
+            27
+          ],
+          "ratio": 0.0896267361111111,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-08T03:19:55.116Z",
+      "fileKey": "archive:mma_afternoon_dress_159345",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "00801c01c03c1e77c7fe3fe3fc7fc7fc3d81",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "f91f0695-a125-49e6-a2bf-38e70fcd14d0",
+      "title": "Paris dress",
+      "titleEn": "Paris dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/f91f0695-a125-49e6-a2bf-38e70fcd14d0.jpg",
+      "thumbUrl": "/stills/f91f0695-a125-49e6-a2bf-38e70fcd14d0.jpg",
+      "pageUrl": "https://archive.org/details/LMG00043",
+      "author": "Mutlow, Henry",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "buckets": [
+        "yellow",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#f7e3b4",
+          "rgb": [
+            247,
+            227,
+            180
+          ],
+          "ratio": 0.3637152777777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#e9d7ae",
+          "rgb": [
+            233,
+            215,
+            174
+          ],
+          "ratio": 0.23763020833333334,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#d6c7a1",
+          "rgb": [
+            214,
+            199,
+            161
+          ],
+          "ratio": 0.17936197916666666,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#b6a788",
+          "rgb": [
+            182,
+            167,
+            136
+          ],
+          "ratio": 0.1247829861111111,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#857a68",
+          "rgb": [
+            133,
+            122,
+            104
+          ],
+          "ratio": 0.0945095486111111,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-08T03:19:56.606Z",
+      "fileKey": "archive:LMG00043",
+      "kind": "photo",
+      "photographer": "Mutlow, Henry",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "f9ff93f87fbff39f39b33827e27e27e65801",
+      "category": "photo",
+      "subjects": [
+        "city",
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "c62e337c-9cc3-4a39-b2b7-61ab9b647ced",
+      "title": "Textile Fragment",
+      "titleEn": "Textile Fragment",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/c62e337c-9cc3-4a39-b2b7-61ab9b647ced.jpg",
+      "thumbUrl": "/stills/c62e337c-9cc3-4a39-b2b7-61ab9b647ced.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1920.772-textile-fragment",
+      "author": "Internet Archive",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "orange",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#a9805f",
+          "rgb": [
+            169,
+            128,
+            95
+          ],
+          "ratio": 0.2647569444444444,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#7a523c",
+          "rgb": [
+            122,
+            82,
+            60
+          ],
+          "ratio": 0.2600911458333333,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#93694d",
+          "rgb": [
+            147,
+            105,
+            77
+          ],
+          "ratio": 0.1877170138888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#b1b1ab",
+          "rgb": [
+            177,
+            177,
+            171
+          ],
+          "ratio": 0.1791449652777778,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#be9576",
+          "rgb": [
+            190,
+            149,
+            118
+          ],
+          "ratio": 0.10828993055555555,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-08T03:19:57.635Z",
+      "fileKey": "archive:clevelandart-1920.772-textile-fragment",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "c09801801c13c9feffe1fc1dc01801801801",
+      "category": "photo",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "0f7abd17-d26b-48f7-bfe1-b3d91386ae73",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/0f7abd17-d26b-48f7-bfe1-b3d91386ae73.jpg",
+      "thumbUrl": "/stills/0f7abd17-d26b-48f7-bfe1-b3d91386ae73.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_84331",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_84331",
+      "buckets": [
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#d3ccbd",
+          "rgb": [
+            211,
+            204,
+            189
+          ],
+          "ratio": 0.3551432291666667,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#c9c2b0",
+          "rgb": [
+            201,
+            194,
+            176
+          ],
+          "ratio": 0.2290581597222222,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#dbd5c7",
+          "rgb": [
+            219,
+            213,
+            199
+          ],
+          "ratio": 0.2097439236111111,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#b9b09c",
+          "rgb": [
+            185,
+            176,
+            156
+          ],
+          "ratio": 0.1391059027777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#a09379",
+          "rgb": [
+            160,
+            147,
+            121
+          ],
+          "ratio": 0.06694878472222222,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-08T03:19:59.152Z",
+      "fileKey": "archive:mma_dress_84331",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "f9ff8ff8ffcffe7ff3fe1fe0f60c60c00e00",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "979c5441-881f-4f23-ae1b-d75fd470f5fe",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/979c5441-881f-4f23-ae1b-d75fd470f5fe.jpg",
+      "thumbUrl": "/stills/979c5441-881f-4f23-ae1b-d75fd470f5fe.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_102930",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_102930",
+      "buckets": [
+        "red",
+        "yellow",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#f1f1ec",
+          "rgb": [
+            241,
+            241,
+            236
+          ],
+          "ratio": 0.3488498263888889,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#8b0d0d",
+          "rgb": [
+            139,
+            13,
+            13
+          ],
+          "ratio": 0.2937282986111111,
+          "bucket": "red"
+        },
+        {
+          "hex": "#a7231f",
+          "rgb": [
+            167,
+            35,
+            31
+          ],
+          "ratio": 0.1564670138888889,
+          "bucket": "red"
+        },
+        {
+          "hex": "#caab83",
+          "rgb": [
+            202,
+            171,
+            131
+          ],
+          "ratio": 0.11924913194444445,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#b16049",
+          "rgb": [
+            177,
+            96,
+            73
+          ],
+          "ratio": 0.08170572916666667,
+          "bucket": "red"
+        }
+      ],
+      "addedAt": "2026-10-08T03:20:01.305Z",
+      "fileKey": "archive:mma_dress_102930",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "f0fe07c03903b09b0de04e03c03c03c01c01",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "0cb2c8b0-1b48-4000-a702-ff55e4787c6d",
+      "title": "The Military Costume of Turkey, London: Thomas M'Lean, 1818. 4° (362 x 254mm). Additional aquatint title,",
+      "titleEn": "The Military Costume of Turkey, London: Thomas M'Lean, 1818. 4° (362 x 254mm). Additional aquatint title,",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/0cb2c8b0-1b48-4000-a702-ff55e4787c6d.jpg",
+      "thumbUrl": "/stills/0cb2c8b0-1b48-4000-a702-ff55e4787c6d.jpg",
+      "pageUrl": "https://archive.org/details/17475876698888bsb-11121724-0009",
+      "author": "Thomas M'Lean",
+      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "buckets": [
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#e8cda1",
+          "rgb": [
+            232,
+            205,
+            161
+          ],
+          "ratio": 0.3798828125,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#3b2514",
+          "rgb": [
+            59,
+            37,
+            20
+          ],
+          "ratio": 0.1941189236111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#d2b588",
+          "rgb": [
+            210,
+            181,
+            136
+          ],
+          "ratio": 0.1830512152777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#735538",
+          "rgb": [
+            115,
+            85,
+            56
+          ],
+          "ratio": 0.1312934027777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#a18662",
+          "rgb": [
+            161,
+            134,
+            98
+          ],
+          "ratio": 0.11165364583333333,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-08T03:20:02.253Z",
+      "fileKey": "archive:17475876698888bsb-11121724-0009",
+      "kind": "photo",
+      "photographer": "Thomas M'Lean",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "ffffffffff1fe07c07807803003801801fff",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "0aeaf097-9133-469a-960f-6ffaa8bae4f8",
+      "title": "Paris dress. Cap-bonnet trimmed with amaranthus crepe",
+      "titleEn": "Paris dress. Cap-bonnet trimmed with amaranthus crepe",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/0aeaf097-9133-469a-960f-6ffaa8bae4f8.jpg",
+      "thumbUrl": "/stills/0aeaf097-9133-469a-960f-6ffaa8bae4f8.jpg",
+      "pageUrl": "https://archive.org/details/LMG00042",
+      "author": "Mutlow, Henry",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "buckets": [
+        "yellow",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#f8f0c7",
+          "rgb": [
+            248,
+            240,
+            199
+          ],
+          "ratio": 0.3041449652777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#68645e",
+          "rgb": [
+            104,
+            100,
+            94
+          ],
+          "ratio": 0.2388237847222222,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#fcf9d1",
+          "rgb": [
+            252,
+            249,
+            209
+          ],
+          "ratio": 0.23665364583333334,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#ddd4b5",
+          "rgb": [
+            221,
+            212,
+            181
+          ],
+          "ratio": 0.11219618055555555,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#b9af95",
+          "rgb": [
+            185,
+            175,
+            149
+          ],
+          "ratio": 0.1081814236111111,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-10-08T03:20:03.386Z",
+      "fileKey": "archive:LMG00042",
+      "kind": "photo",
+      "photographer": "Mutlow, Henry",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "fcffc7fc7fc7fc7ec7e07e07f0fd0fd0f801",
+      "category": "photo",
+      "subjects": [
+        "city",
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "983611bf-fa8a-4dc4-9bd1-b72f33412b29",
+      "title": "Dräkt, engelsk. En sittande kvinna i helfigur. Engelsk Costume.",
+      "titleEn": "Dräkt, engelsk. En sittande kvinna i helfigur. Engelsk Costume.",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/983611bf-fa8a-4dc4-9bd1-b72f33412b29.jpg",
+      "thumbUrl": "/stills/983611bf-fa8a-4dc4-9bd1-b72f33412b29.jpg",
+      "pageUrl": "https://archive.org/details/arkivkopia.se-aboaka-1151",
+      "author": "Åbo Akademis bildsamlingar",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/arkivkopia.se-aboaka-1151",
+      "buckets": [
+        "orange",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#e9dabd",
+          "rgb": [
+            233,
+            218,
+            189
+          ],
+          "ratio": 0.6032986111111112,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d4c5a5",
+          "rgb": [
+            212,
+            197,
+            165
+          ],
+          "ratio": 0.1577690972222222,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#a89b7e",
+          "rgb": [
+            168,
+            155,
+            126
+          ],
+          "ratio": 0.1318359375,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#71654a",
+          "rgb": [
+            113,
+            101,
+            74
+          ],
+          "ratio": 0.06998697916666667,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#efedea",
+          "rgb": [
+            239,
+            237,
+            234
+          ],
+          "ratio": 0.037109375,
+          "bucket": "white"
+        }
+      ],
+      "addedAt": "2026-10-08T03:20:04.421Z",
+      "fileKey": "archive:arkivkopia.se-aboaka-1151",
+      "kind": "photo",
+      "photographer": "Åbo Akademis bildsamlingar",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "ffff9ff9ff9ff0ff07f0ff07e03e03e03e07",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "f347dd1b-d2c1-44b4-b1b6-6592da7165d2",
+      "title": "Paris dress",
+      "titleEn": "Paris dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/f347dd1b-d2c1-44b4-b1b6-6592da7165d2.jpg",
+      "thumbUrl": "/stills/f347dd1b-d2c1-44b4-b1b6-6592da7165d2.jpg",
+      "pageUrl": "https://archive.org/details/LMG00046",
+      "author": "Mutlow, Henry",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "buckets": [
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#f2e2b7",
+          "rgb": [
+            242,
+            226,
+            183
+          ],
+          "ratio": 0.3298611111111111,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#f9ebc0",
+          "rgb": [
+            249,
+            235,
+            192
+          ],
+          "ratio": 0.3071831597222222,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#ded1ae",
+          "rgb": [
+            222,
+            209,
+            174
+          ],
+          "ratio": 0.1711154513888889,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#c2ba9c",
+          "rgb": [
+            194,
+            186,
+            156
+          ],
+          "ratio": 0.1332465277777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#a19985",
+          "rgb": [
+            161,
+            153,
+            133
+          ],
+          "ratio": 0.05859375,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-10-08T03:20:05.355Z",
+      "fileKey": "archive:LMG00046",
+      "kind": "photo",
+      "photographer": "Mutlow, Henry",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "66f44f44f6675675677277177177333b9039",
+      "category": "photo",
+      "subjects": [
+        "city",
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "7dd78f47-4f9e-4e79-ba2b-bfe33dc2df91",
+      "title": "Dinner dress",
+      "titleEn": "Dinner dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/7dd78f47-4f9e-4e79-ba2b-bfe33dc2df91.jpg",
+      "thumbUrl": "/stills/7dd78f47-4f9e-4e79-ba2b-bfe33dc2df91.jpg",
+      "pageUrl": "https://archive.org/details/mma_dinner_dress_107589",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dinner_dress_107589",
+      "buckets": [
+        "black",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#151510",
+          "rgb": [
+            21,
+            21,
+            16
+          ],
+          "ratio": 0.3475477430555556,
+          "bucket": "black"
+        },
+        {
+          "hex": "#1f1e18",
+          "rgb": [
+            31,
+            30,
+            24
+          ],
+          "ratio": 0.2849392361111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#2d2b26",
+          "rgb": [
+            45,
+            43,
+            38
+          ],
+          "ratio": 0.16590711805555555,
+          "bucket": "black"
+        },
+        {
+          "hex": "#0d0d08",
+          "rgb": [
+            13,
+            13,
+            8
+          ],
+          "ratio": 0.15440538194444445,
+          "bucket": "black"
+        },
+        {
+          "hex": "#46423c",
+          "rgb": [
+            70,
+            66,
+            60
+          ],
+          "ratio": 0.047200520833333336,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-10-08T03:20:07.256Z",
+      "fileKey": "archive:mma_dinner_dress_107589",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "6466ce6e970070177a7007407003dc3ce3fe",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "46031805-78e7-4209-a39c-3625f103af8a",
+      "title": "Overdoor Painting",
+      "titleEn": "Overdoor Painting",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/46031805-78e7-4209-a39c-3625f103af8a.jpg",
+      "thumbUrl": "/stills/46031805-78e7-4209-a39c-3625f103af8a.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1942.2.15-overdoor-painting",
+      "author": "Pierre Rousseau (French, 1751–1829)",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "orange",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#d9ae75",
+          "rgb": [
+            217,
+            174,
+            117
+          ],
+          "ratio": 0.3059895833333333,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#ceb994",
+          "rgb": [
+            206,
+            185,
+            148
+          ],
+          "ratio": 0.20865885416666666,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d8cbad",
+          "rgb": [
+            216,
+            203,
+            173
+          ],
+          "ratio": 0.20692274305555555,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#c49b67",
+          "rgb": [
+            196,
+            155,
+            103
+          ],
+          "ratio": 0.1997612847222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#a17746",
+          "rgb": [
+            161,
+            119,
+            70
+          ],
+          "ratio": 0.07866753472222222,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-08T03:20:08.108Z",
+      "fileKey": "archive:clevelandart-1942.2.15-overdoor-painting",
+      "kind": "photo",
+      "photographer": "Pierre Rousseau (French, 1751–1829)",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "fff4dfe7fa3fe9f29f21921c29b2187b8000",
+      "category": "painting",
+      "subjects": []
+    },
+    {
+      "id": "622de522-82d3-43f9-b8fc-1e4ceeaf8f6e",
+      "title": "(Cours de la Charente avec ses oscillations depuis Ballan jusqu'a Cuchet). A. Poiret sculp. (A Paris, Chez Mme. veuve Agasse, Imprimeur-Libraire, rue des Poitevins, no. 6. M.DCCCXXVII)",
+      "titleEn": "(Cours de la Charente avec ses oscillations depuis Ballan jusqu'a Cuchet). A. Poiret sculp. (A Paris, Chez Mme. veuve Agasse, Imprimeur-Libraire, rue des Poitevins, no. 6. M.DCCCXXVII)",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/622de522-82d3-43f9-b8fc-1e4ceeaf8f6e.jpg",
+      "thumbUrl": "/stills/622de522-82d3-43f9-b8fc-1e4ceeaf8f6e.jpg",
+      "pageUrl": "https://archive.org/details/dr_cours-de-la-charente-avec-ses-oscillations-depuis-ballan-jusqua-cuchet-1801016",
+      "author": "Bory de Saint-Vincent, M. (Jean Baptiste GeneviFve Marcellin), 1778-1846",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/dr_cours-de-la-charente-avec-ses-oscillations-depuis-ballan-jusqua-cuchet-1801016",
+      "buckets": [
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#eadec8",
+          "rgb": [
+            234,
+            222,
+            200
+          ],
+          "ratio": 0.4093967013888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d1c1a7",
+          "rgb": [
+            209,
+            193,
+            167
+          ],
+          "ratio": 0.2056206597222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#837465",
+          "rgb": [
+            131,
+            116,
+            101
+          ],
+          "ratio": 0.1840277777777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#aa9981",
+          "rgb": [
+            170,
+            153,
+            129
+          ],
+          "ratio": 0.1382378472222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#63533c",
+          "rgb": [
+            99,
+            83,
+            60
+          ],
+          "ratio": 0.0627170138888889,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-08T03:20:09.641Z",
+      "fileKey": "archive:dr_cours-de-la-charente-avec-ses-oscillations-depuis-ballan-jusqua-cuchet-1801016",
+      "kind": "photo",
+      "photographer": "Bory de Saint-Vincent, M. (Jean Baptiste GeneviFve Marcellin), 1778-1846",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "000fbff1f13f33f63f69f71f03f007030fff",
+      "category": "photo",
+      "subjects": [
+        "city"
+      ]
+    },
+    {
+      "id": "50c89eb3-87c3-41c6-a278-dd1b0a45bf33",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/50c89eb3-87c3-41c6-a278-dd1b0a45bf33.jpg",
+      "thumbUrl": "/stills/50c89eb3-87c3-41c6-a278-dd1b0a45bf33.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_103525",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_103525",
+      "buckets": [
+        "red",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#f9f7f5",
+          "rgb": [
+            249,
+            247,
+            245
+          ],
+          "ratio": 0.3525390625,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#873a2c",
+          "rgb": [
+            135,
+            58,
+            44
+          ],
+          "ratio": 0.24739583333333334,
+          "bucket": "red"
+        },
+        {
+          "hex": "#ae3b2d",
+          "rgb": [
+            174,
+            59,
+            45
+          ],
+          "ratio": 0.1884765625,
+          "bucket": "red"
+        },
+        {
+          "hex": "#682e22",
+          "rgb": [
+            104,
+            46,
+            34
+          ],
+          "ratio": 0.1372612847222222,
+          "bucket": "red"
+        },
+        {
+          "hex": "#1a0e0b",
+          "rgb": [
+            26,
+            14,
+            11
+          ],
+          "ratio": 0.07432725694444445,
+          "bucket": "black"
+        }
+      ],
+      "addedAt": "2026-10-08T03:20:10.575Z",
+      "fileKey": "archive:mma_dress_103525",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "f8fe03c03c01c01c01e07e03c03801801e03",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "4c720ccb-bb38-46d8-a83d-a6e05a548c42",
+      "title": "Reproduction of the \"Grandstand\" fresco",
+      "titleEn": "Reproduction of the \"Grandstand\" fresco",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/4c720ccb-bb38-46d8-a83d-a6e05a548c42.jpg",
+      "thumbUrl": "/stills/4c720ccb-bb38-46d8-a83d-a6e05a548c42.jpg",
+      "pageUrl": "https://archive.org/details/mma_reproduction_of_the_grandstand_fresco_258104",
+      "author": "Emile Gilliéron",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_reproduction_of_the_grandstand_fresco_258104",
+      "buckets": [
+        "gray",
+        "orange",
+        "red"
+      ],
+      "palette": [
+        {
+          "hex": "#adafb2",
+          "rgb": [
+            173,
+            175,
+            178
+          ],
+          "ratio": 0.4460720486111111,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#e8d0b5",
+          "rgb": [
+            232,
+            208,
+            181
+          ],
+          "ratio": 0.1605902777777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#cf765a",
+          "rgb": [
+            207,
+            118,
+            90
+          ],
+          "ratio": 0.15494791666666666,
+          "bucket": "red"
+        },
+        {
+          "hex": "#dbb082",
+          "rgb": [
+            219,
+            176,
+            130
+          ],
+          "ratio": 0.1252170138888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#ba4f41",
+          "rgb": [
+            186,
+            79,
+            65
+          ],
+          "ratio": 0.11317274305555555,
+          "bucket": "red"
+        }
+      ],
+      "addedAt": "2026-10-08T03:20:11.466Z",
+      "fileKey": "archive:mma_reproduction_of_the_grandstand_fresco_258104",
+      "kind": "photo",
+      "photographer": "Emile Gilliéron",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "fffe66000e00f1f40c40cfffffffffffffff",
+      "category": "painting",
+      "subjects": [
+        "ancient"
+      ]
+    },
+    {
+      "id": "86aa5eba-bc2f-4a0b-84f4-2f6b59375d7c",
+      "title": "Paris dress",
+      "titleEn": "Paris dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/86aa5eba-bc2f-4a0b-84f4-2f6b59375d7c.jpg",
+      "thumbUrl": "/stills/86aa5eba-bc2f-4a0b-84f4-2f6b59375d7c.jpg",
+      "pageUrl": "https://archive.org/details/LMG00058",
+      "author": "Mutlow, Henry",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "buckets": [
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#fcf8ca",
+          "rgb": [
+            252,
+            248,
+            202
+          ],
+          "ratio": 0.2934027777777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#faefc2",
+          "rgb": [
+            250,
+            239,
+            194
+          ],
+          "ratio": 0.2909071180555556,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#c7c3ae",
+          "rgb": [
+            199,
+            195,
+            174
+          ],
+          "ratio": 0.17371961805555555,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#efe2bb",
+          "rgb": [
+            239,
+            226,
+            187
+          ],
+          "ratio": 0.16297743055555555,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#918d7e",
+          "rgb": [
+            145,
+            141,
+            126
+          ],
+          "ratio": 0.07899305555555555,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-10-08T03:20:13.432Z",
+      "fileKey": "archive:LMG00058",
+      "kind": "photo",
+      "photographer": "Mutlow, Henry",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "f8ff8ff8ff87f8ff87f87f8ff07f07e0f801",
+      "category": "photo",
+      "subjects": [
+        "city",
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "370423b2-e4c3-4549-b103-aa3ddb2081c4",
+      "title": "Catalogue de l'exposition de gravures anciennes et modernes. 4 juillet 1881",
+      "titleEn": "Catalogue de l'exposition de gravures anciennes et modernes. 4 juillet 1881",
+      "titleZh": "",
+      "director": "",
+      "source": "loc",
+      "imageUrl": "/stills/370423b2-e4c3-4549-b103-aa3ddb2081c4.jpg",
+      "thumbUrl": "/stills/370423b2-e4c3-4549-b103-aa3ddb2081c4.jpg",
+      "pageUrl": "https://www.loc.gov/item/42049262/",
+      "author": "Library of Congress",
+      "license": "No known restrictions / public domain",
+      "licenseUrl": "https://www.loc.gov/item/42049262/",
+      "buckets": [
+        "brown",
+        "orange",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#856545",
+          "rgb": [
+            133,
+            101,
+            69
+          ],
+          "ratio": 0.4161241319444444,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#ae9669",
+          "rgb": [
+            174,
+            150,
+            105
+          ],
+          "ratio": 0.2518446180555556,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#caba96",
+          "rgb": [
+            202,
+            186,
+            150
+          ],
+          "ratio": 0.22569444444444445,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#3e3932",
+          "rgb": [
+            62,
+            57,
+            50
+          ],
+          "ratio": 0.058051215277777776,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#6c7580",
+          "rgb": [
+            108,
+            117,
+            128
+          ],
+          "ratio": 0.048285590277777776,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-10-08T03:20:15.962Z",
+      "fileKey": "loc:http://www.loc.gov/item/42049262/",
+      "kind": "photo",
+      "photographer": "Library of Congress",
+      "sourceLabel": "美国国会图书馆",
+      "contentHash": "c06c46c06c86d26c06c06c06c06c06c06ffe",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "cee0e0a1-3749-4f78-a1e3-fc12274d6d2b",
+      "title": "Length of Textile",
+      "titleEn": "Length of Textile",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/cee0e0a1-3749-4f78-a1e3-fc12274d6d2b.jpg",
+      "thumbUrl": "/stills/cee0e0a1-3749-4f78-a1e3-fc12274d6d2b.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1953.488-length-of-textile",
+      "author": "Internet Archive",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "gray",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#6b655a",
+          "rgb": [
+            107,
+            101,
+            90
+          ],
+          "ratio": 0.2516276041666667,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#827e74",
+          "rgb": [
+            130,
+            126,
+            116
+          ],
+          "ratio": 0.22645399305555555,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#544c44",
+          "rgb": [
+            84,
+            76,
+            68
+          ],
+          "ratio": 0.2150607638888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#9d9a90",
+          "rgb": [
+            157,
+            154,
+            144
+          ],
+          "ratio": 0.2021484375,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#b4b4aa",
+          "rgb": [
+            180,
+            180,
+            170
+          ],
+          "ratio": 0.1047092013888889,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-10-08T03:20:16.925Z",
+      "fileKey": "archive:clevelandart-1953.488-length-of-textile",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "c71e63b6f8f8860861fffcd1891c63e67f04",
+      "category": "photo",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "495fe55d-6e11-4ee0-a945-9f88ca576807",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/495fe55d-6e11-4ee0-a945-9f88ca576807.jpg",
+      "thumbUrl": "/stills/495fe55d-6e11-4ee0-a945-9f88ca576807.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_108070",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_108070",
+      "buckets": [
+        "yellow",
+        "gray",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#a5a18f",
+          "rgb": [
+            165,
+            161,
+            143
+          ],
+          "ratio": 0.388671875,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#898573",
+          "rgb": [
+            137,
+            133,
+            115
+          ],
+          "ratio": 0.2914496527777778,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#6c6857",
+          "rgb": [
+            108,
+            104,
+            87
+          ],
+          "ratio": 0.18836805555555555,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#414135",
+          "rgb": [
+            65,
+            65,
+            53
+          ],
+          "ratio": 0.0832248263888889,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#e4d8ba",
+          "rgb": [
+            228,
+            216,
+            186
+          ],
+          "ratio": 0.048285590277777776,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-10-08T03:20:17.929Z",
+      "fileKey": "archive:mma_dress_108070",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "f20f3c73c73c37c7ec6fc0606207fc77c7fc",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "91e577c7-1516-4dec-bf54-03605c9efbd1",
+      "title": "Paris dress",
+      "titleEn": "Paris dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/91e577c7-1516-4dec-bf54-03605c9efbd1.jpg",
+      "thumbUrl": "/stills/91e577c7-1516-4dec-bf54-03605c9efbd1.jpg",
+      "pageUrl": "https://archive.org/details/LMG00040",
+      "author": "Mutlow, Henry",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "buckets": [
+        "yellow",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#f5e8bd",
+          "rgb": [
+            245,
+            232,
+            189
+          ],
+          "ratio": 0.375,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#e1d7b3",
+          "rgb": [
+            225,
+            215,
+            179
+          ],
+          "ratio": 0.21375868055555555,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#867c6d",
+          "rgb": [
+            134,
+            124,
+            109
+          ],
+          "ratio": 0.15690104166666666,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#c9c0a2",
+          "rgb": [
+            201,
+            192,
+            162
+          ],
+          "ratio": 0.1333550347222222,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#aa9e84",
+          "rgb": [
+            170,
+            158,
+            132
+          ],
+          "ratio": 0.12098524305555555,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-10-08T03:20:19.770Z",
+      "fileKey": "archive:LMG00040",
+      "kind": "photo",
+      "photographer": "Mutlow, Henry",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "f35f03f03f6ff6fe6fe6fe67e47e47843859",
+      "category": "photo",
+      "subjects": [
+        "city",
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "b1943a60-d90b-4e13-90d0-60d6235001a3",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/b1943a60-d90b-4e13-90d0-60d6235001a3.jpg",
+      "thumbUrl": "/stills/b1943a60-d90b-4e13-90d0-60d6235001a3.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_174761",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_174761",
+      "buckets": [
+        "gray",
+        "red",
+        "black"
+      ],
+      "palette": [
+        {
+          "hex": "#a3a4a1",
+          "rgb": [
+            163,
+            164,
+            161
+          ],
+          "ratio": 0.4395616319444444,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#241d1c",
+          "rgb": [
+            36,
+            29,
+            28
+          ],
+          "ratio": 0.2756076388888889,
+          "bucket": "red"
+        },
+        {
+          "hex": "#332a28",
+          "rgb": [
+            51,
+            42,
+            40
+          ],
+          "ratio": 0.1525607638888889,
+          "bucket": "red"
+        },
+        {
+          "hex": "#141010",
+          "rgb": [
+            20,
+            16,
+            16
+          ],
+          "ratio": 0.11197916666666667,
+          "bucket": "black"
+        },
+        {
+          "hex": "#6b6966",
+          "rgb": [
+            107,
+            105,
+            102
+          ],
+          "ratio": 0.020290798611111112,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-10-08T03:20:20.729Z",
+      "fileKey": "archive:mma_dress_174761",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "ffff0fe07c03801a04e07e07c03c03c03c07",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "9840eeb1-ab47-4656-a9bc-571ed7928d07",
+      "title": "Paris dress. Handkerchief shawl and apron. Straw hat with the edge turned up",
+      "titleEn": "Paris dress. Handkerchief shawl and apron. Straw hat with the edge turned up",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/9840eeb1-ab47-4656-a9bc-571ed7928d07.jpg",
+      "thumbUrl": "/stills/9840eeb1-ab47-4656-a9bc-571ed7928d07.jpg",
+      "pageUrl": "https://archive.org/details/LMG00039",
+      "author": "Mutlow, Henry",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "buckets": [
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#faedc1",
+          "rgb": [
+            250,
+            237,
+            193
+          ],
+          "ratio": 0.3126085069444444,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#b9b299",
+          "rgb": [
+            185,
+            178,
+            153
+          ],
+          "ratio": 0.2275390625,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#f0e2b9",
+          "rgb": [
+            240,
+            226,
+            185
+          ],
+          "ratio": 0.1970486111111111,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#d3cbae",
+          "rgb": [
+            211,
+            203,
+            174
+          ],
+          "ratio": 0.1845703125,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#947d50",
+          "rgb": [
+            148,
+            125,
+            80
+          ],
+          "ratio": 0.07823350694444445,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-08T03:20:22.318Z",
+      "fileKey": "archive:LMG00039",
+      "kind": "photo",
+      "photographer": "Mutlow, Henry",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "39f39f1bf1bf1df19f01f01f00f10f12f107",
+      "category": "photo",
+      "subjects": [
+        "city",
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "5a794d8d-6196-47ee-965e-f7ee7db2223f",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/5a794d8d-6196-47ee-965e-f7ee7db2223f.jpg",
+      "thumbUrl": "/stills/5a794d8d-6196-47ee-965e-f7ee7db2223f.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_90845",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_90845",
+      "buckets": [
+        "brown",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#e0ddd3",
+          "rgb": [
+            224,
+            221,
+            211
+          ],
+          "ratio": 0.3816189236111111,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#231f17",
+          "rgb": [
+            35,
+            31,
+            23
+          ],
+          "ratio": 0.2956814236111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#494131",
+          "rgb": [
+            73,
+            65,
+            49
+          ],
+          "ratio": 0.21006944444444445,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#7c725d",
+          "rgb": [
+            124,
+            114,
+            93
+          ],
+          "ratio": 0.08648003472222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#beb8ab",
+          "rgb": [
+            190,
+            184,
+            171
+          ],
+          "ratio": 0.026150173611111112,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-10-08T03:20:24.094Z",
+      "fileKey": "archive:mma_dress_90845",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "f0ff07f07e57e07e03c03c01801801801801",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "f203d60c-f828-431f-8740-1e2a2c69626b",
+      "title": "Textile Fragment",
+      "titleEn": "Textile Fragment",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/f203d60c-f828-431f-8740-1e2a2c69626b.jpg",
+      "thumbUrl": "/stills/f203d60c-f828-431f-8740-1e2a2c69626b.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1920.1605-textile-fragment",
+      "author": "Internet Archive",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#8b5d29",
+          "rgb": [
+            139,
+            93,
+            41
+          ],
+          "ratio": 0.2688802083333333,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#fdf9f4",
+          "rgb": [
+            253,
+            249,
+            244
+          ],
+          "ratio": 0.2312282986111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#ab8656",
+          "rgb": [
+            171,
+            134,
+            86
+          ],
+          "ratio": 0.2119140625,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#997241",
+          "rgb": [
+            153,
+            114,
+            65
+          ],
+          "ratio": 0.17122395833333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#bc9a6c",
+          "rgb": [
+            188,
+            154,
+            108
+          ],
+          "ratio": 0.11675347222222222,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-08T03:20:25.791Z",
+      "fileKey": "archive:clevelandart-1920.1605-textile-fragment",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "80fc07c03c01c01c01c01c01c01801c01c01",
+      "category": "photo",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "993a50f1-b671-4713-a1db-718509cf46f2",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/993a50f1-b671-4713-a1db-718509cf46f2.jpg",
+      "thumbUrl": "/stills/993a50f1-b671-4713-a1db-718509cf46f2.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_103571",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_103571",
+      "buckets": [
+        "orange",
+        "yellow",
+        "black",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#eeece5",
+          "rgb": [
+            238,
+            236,
+            229
+          ],
+          "ratio": 0.3461371527777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#a78751",
+          "rgb": [
+            167,
+            135,
+            81
+          ],
+          "ratio": 0.2878689236111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#2c2a27",
+          "rgb": [
+            44,
+            42,
+            39
+          ],
+          "ratio": 0.1325954861111111,
+          "bucket": "black"
+        },
+        {
+          "hex": "#685539",
+          "rgb": [
+            104,
+            85,
+            57
+          ],
+          "ratio": 0.12315538194444445,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#b79968",
+          "rgb": [
+            183,
+            153,
+            104
+          ],
+          "ratio": 0.11024305555555555,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-08T03:20:26.742Z",
+      "fileKey": "archive:mma_dress_103571",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "f77c21c01c03f4fe03c01809008000803f8f",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "0df77b83-ac8d-4347-b752-4214f07b2f4d",
+      "title": "Paris dress",
+      "titleEn": "Paris dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/0df77b83-ac8d-4347-b752-4214f07b2f4d.jpg",
+      "thumbUrl": "/stills/0df77b83-ac8d-4347-b752-4214f07b2f4d.jpg",
+      "pageUrl": "https://archive.org/details/LMG00051",
+      "author": "Mutlow, Henry",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "buckets": [
+        "yellow",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#f6e6b8",
+          "rgb": [
+            246,
+            230,
+            184
+          ],
+          "ratio": 0.4233940972222222,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#e7d8ae",
+          "rgb": [
+            231,
+            216,
+            174
+          ],
+          "ratio": 0.23307291666666666,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#c3b899",
+          "rgb": [
+            195,
+            184,
+            153
+          ],
+          "ratio": 0.13487413194444445,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#a09680",
+          "rgb": [
+            160,
+            150,
+            128
+          ],
+          "ratio": 0.125,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#766f61",
+          "rgb": [
+            118,
+            111,
+            97
+          ],
+          "ratio": 0.08365885416666667,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-10-08T03:20:27.662Z",
+      "fileKey": "archive:LMG00051",
+      "kind": "photo",
+      "photographer": "Mutlow, Henry",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "cb999999d909f8dfbdb95b85b0590d929909",
+      "category": "photo",
+      "subjects": [
+        "city",
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "ceb44e88-03da-4abc-9801-f881870553d8",
+      "title": "1918 07 Télémaque Mardirosi Tutundjian De Vartavan In A Japanese Gentleman's Costume Yokohama ( Japan) Vartavan Archive",
+      "titleEn": "1918 07 Télémaque Mardirosi Tutundjian De Vartavan In A Japanese Gentleman's Costume Yokohama ( Japan) Vartavan Archive",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/ceb44e88-03da-4abc-9801-f881870553d8.jpg",
+      "thumbUrl": "/stills/ceb44e88-03da-4abc-9801-f881870553d8.jpg",
+      "pageUrl": "https://archive.org/details/1918-07-telemaque-mardirosi-tutundjian-de-vartavan-in-a-japanese-gentlemans-cost",
+      "author": "Christian Tutundjian de Vartavan",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/1918-07-telemaque-mardirosi-tutundjian-de-vartavan-in-a-japanese-gentlemans-cost",
+      "buckets": [
+        "orange",
+        "brown",
+        "green",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#f8cf82",
+          "rgb": [
+            248,
+            207,
+            130
+          ],
+          "ratio": 0.4614800347222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#564c2e",
+          "rgb": [
+            86,
+            76,
+            46
+          ],
+          "ratio": 0.22102864583333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#817047",
+          "rgb": [
+            129,
+            112,
+            71
+          ],
+          "ratio": 0.12532552083333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#1f2519",
+          "rgb": [
+            31,
+            37,
+            25
+          ],
+          "ratio": 0.1003689236111111,
+          "bucket": "green"
+        },
+        {
+          "hex": "#ab9565",
+          "rgb": [
+            171,
+            149,
+            101
+          ],
+          "ratio": 0.091796875,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-10-08T03:20:44.092Z",
+      "fileKey": "archive:1918-07-telemaque-mardirosi-tutundjian-de-vartavan-in-a-japanese-gentlemans-cost",
+      "kind": "photo",
+      "photographer": "Christian Tutundjian de Vartavan",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "c07c07c07c03c03c07c03c03e07e07ffffff",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "b0a0670b-a3ed-45a6-8331-fceab53ac96c",
+      "title": "Afternoon dress",
+      "titleEn": "Afternoon dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/b0a0670b-a3ed-45a6-8331-fceab53ac96c.jpg",
+      "thumbUrl": "/stills/b0a0670b-a3ed-45a6-8331-fceab53ac96c.jpg",
+      "pageUrl": "https://archive.org/details/mma_afternoon_dress_108193",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_afternoon_dress_108193",
+      "buckets": [
+        "yellow",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#aaa087",
+          "rgb": [
+            170,
+            160,
+            135
+          ],
+          "ratio": 0.2613932291666667,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#cdc5b2",
+          "rgb": [
+            205,
+            197,
+            178
+          ],
+          "ratio": 0.2527126736111111,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#bdb59f",
+          "rgb": [
+            189,
+            181,
+            159
+          ],
+          "ratio": 0.24891493055555555,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#897a5d",
+          "rgb": [
+            137,
+            122,
+            93
+          ],
+          "ratio": 0.1384548611111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#d4cdbc",
+          "rgb": [
+            212,
+            205,
+            188
+          ],
+          "ratio": 0.09852430555555555,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-10-08T03:20:45.039Z",
+      "fileKey": "archive:mma_afternoon_dress_108193",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "be1bc0fc0f90fc2fc26867ae34e79e3be3fe",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "34ce636b-cb09-430d-94e1-bea5c9563b82",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/34ce636b-cb09-430d-94e1-bea5c9563b82.jpg",
+      "thumbUrl": "/stills/34ce636b-cb09-430d-94e1-bea5c9563b82.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_173973",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_173973",
+      "buckets": [
+        "gray",
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#c4c2c1",
+          "rgb": [
+            196,
+            194,
+            193
+          ],
+          "ratio": 0.3703342013888889,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#a88345",
+          "rgb": [
+            168,
+            131,
+            69
+          ],
+          "ratio": 0.2837456597222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#b79657",
+          "rgb": [
+            183,
+            150,
+            87
+          ],
+          "ratio": 0.2774522569444444,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#845f2d",
+          "rgb": [
+            132,
+            95,
+            45
+          ],
+          "ratio": 0.050347222222222224,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#bbae9a",
+          "rgb": [
+            187,
+            174,
+            154
+          ],
+          "ratio": 0.018120659722222224,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-08T03:20:46.190Z",
+      "fileKey": "archive:mma_dress_173973",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "d03d03d03c03c03e03e03e03e03e07e07e07",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "53363aae-3f11-46cb-adf7-be4af32dadfe",
+      "title": "Egúngún Masquerade Dance Costume",
+      "titleEn": "Egúngún Masquerade Dance Costume",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/53363aae-3f11-46cb-adf7-be4af32dadfe.jpg",
+      "thumbUrl": "/stills/53363aae-3f11-46cb-adf7-be4af32dadfe.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1976.187-costume",
+      "author": "Internet Archive",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "orange",
+        "white"
+      ],
+      "palette": [
+        {
+          "hex": "#d8d8d5",
+          "rgb": [
+            216,
+            216,
+            213
+          ],
+          "ratio": 0.3089192708333333,
+          "bucket": "white"
+        },
+        {
+          "hex": "#755443",
+          "rgb": [
+            117,
+            84,
+            67
+          ],
+          "ratio": 0.20052083333333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#c9c3bc",
+          "rgb": [
+            201,
+            195,
+            188
+          ],
+          "ratio": 0.20030381944444445,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#3f2b22",
+          "rgb": [
+            63,
+            43,
+            34
+          ],
+          "ratio": 0.15907118055555555,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#a68770",
+          "rgb": [
+            166,
+            135,
+            112
+          ],
+          "ratio": 0.13118489583333334,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-08T03:20:47.772Z",
+      "fileKey": "archive:clevelandart-1976.187-costume",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "e03e03e03e03e03e03e67e07e0fe0ff07f0f",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "76df6f20-2f6c-4436-83a2-b6b3daf1e6b1",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/76df6f20-2f6c-4436-83a2-b6b3daf1e6b1.jpg",
+      "thumbUrl": "/stills/76df6f20-2f6c-4436-83a2-b6b3daf1e6b1.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_91020",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_91020",
+      "buckets": [
+        "brown",
+        "yellow",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#292a20",
+          "rgb": [
+            41,
+            42,
+            32
+          ],
+          "ratio": 0.2686631944444444,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#7f735b",
+          "rgb": [
+            127,
+            115,
+            91
+          ],
+          "ratio": 0.22493489583333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#9d8f74",
+          "rgb": [
+            157,
+            143,
+            116
+          ],
+          "ratio": 0.2041015625,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#595240",
+          "rgb": [
+            89,
+            82,
+            64
+          ],
+          "ratio": 0.1968315972222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#bbae93",
+          "rgb": [
+            187,
+            174,
+            147
+          ],
+          "ratio": 0.10546875,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-10-08T03:20:48.714Z",
+      "fileKey": "archive:mma_dress_91020",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "1dcb9c99cb9c99cb9cb9c39c39e39e08c000",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "d8f8267f-1d24-4bcb-a3d1-8cfe0d6600d0",
+      "title": "Textile Fragment",
+      "titleEn": "Textile Fragment",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/d8f8267f-1d24-4bcb-a3d1-8cfe0d6600d0.jpg",
+      "thumbUrl": "/stills/d8f8267f-1d24-4bcb-a3d1-8cfe0d6600d0.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1940.475-textile-fragment",
+      "author": "Internet Archive",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#8a7767",
+          "rgb": [
+            138,
+            119,
+            103
+          ],
+          "ratio": 0.2919921875,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#5e4437",
+          "rgb": [
+            94,
+            68,
+            55
+          ],
+          "ratio": 0.2595486111111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#a69787",
+          "rgb": [
+            166,
+            151,
+            135
+          ],
+          "ratio": 0.1890190972222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#c3b6a9",
+          "rgb": [
+            195,
+            182,
+            169
+          ],
+          "ratio": 0.1572265625,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#ded1c5",
+          "rgb": [
+            222,
+            209,
+            197
+          ],
+          "ratio": 0.10221354166666667,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-08T03:20:53.806Z",
+      "fileKey": "archive:clevelandart-1940.475-textile-fragment",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "fff71e70e60e8e18e1ef970e70e70e8f1060",
+      "category": "photo",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "2c8de6ba-581f-40c4-b9f9-f7c451463958",
+      "title": "Textile Fragment",
+      "titleEn": "Textile Fragment",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/2c8de6ba-581f-40c4-b9f9-f7c451463958.jpg",
+      "thumbUrl": "/stills/2c8de6ba-581f-40c4-b9f9-f7c451463958.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1940.477-textile-fragment",
+      "author": "Internet Archive",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "orange",
+        "red",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#f3ede9",
+          "rgb": [
+            243,
+            237,
+            233
+          ],
+          "ratio": 0.3556857638888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#502a24",
+          "rgb": [
+            80,
+            42,
+            36
+          ],
+          "ratio": 0.2593315972222222,
+          "bucket": "red"
+        },
+        {
+          "hex": "#eee9e4",
+          "rgb": [
+            238,
+            233,
+            228
+          ],
+          "ratio": 0.1911892361111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#846456",
+          "rgb": [
+            132,
+            100,
+            86
+          ],
+          "ratio": 0.1574435763888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#b49a8e",
+          "rgb": [
+            180,
+            154,
+            142
+          ],
+          "ratio": 0.03634982638888889,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-08T03:20:54.691Z",
+      "fileKey": "archive:clevelandart-1940.477-textile-fragment",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "f81f01e03c03807807807c0fe0ff0ff9ffff",
+      "category": "photo",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "20840a55-1943-47f9-a7ed-9cee5c7ae66b",
+      "title": "Portrait of General Sir Charles Grey, later 1st Earl Grey",
+      "titleEn": "Portrait of General Sir Charles Grey, later 1st Earl Grey",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/20840a55-1943-47f9-a7ed-9cee5c7ae66b.jpg",
+      "thumbUrl": "/stills/20840a55-1943-47f9-a7ed-9cee5c7ae66b.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1949.550-portrait-of-general",
+      "author": "Henry Bone (British, 1755–1834)",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "gray",
+        "red",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#211d19",
+          "rgb": [
+            33,
+            29,
+            25
+          ],
+          "ratio": 0.4388020833333333,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#cac8c9",
+          "rgb": [
+            202,
+            200,
+            201
+          ],
+          "ratio": 0.2623697916666667,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#6a231d",
+          "rgb": [
+            106,
+            35,
+            29
+          ],
+          "ratio": 0.10579427083333333,
+          "bucket": "red"
+        },
+        {
+          "hex": "#534338",
+          "rgb": [
+            83,
+            67,
+            56
+          ],
+          "ratio": 0.09754774305555555,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#918073",
+          "rgb": [
+            145,
+            128,
+            115
+          ],
+          "ratio": 0.0954861111111111,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-08T03:20:55.642Z",
+      "fileKey": "archive:clevelandart-1949.550-portrait-of-general",
+      "kind": "photo",
+      "photographer": "Henry Bone (British, 1755–1834)",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "fdfe07ce38f18e1840860860820801801c03",
+      "category": "photo",
+      "people": "one",
+      "subjects": [
+        "portrait"
+      ]
+    },
+    {
+      "id": "9b13ef70-ff18-446f-b4de-83cbc780bc9f",
+      "title": "Aerial photograph of downtown Atlanta, Georgia, taken in October 2017",
+      "titleEn": "Aerial photograph of downtown Atlanta, Georgia, taken in October 2017",
+      "titleZh": "",
+      "director": "",
+      "source": "loc",
+      "imageUrl": "/stills/9b13ef70-ff18-446f-b4de-83cbc780bc9f.jpg",
+      "thumbUrl": "/stills/9b13ef70-ff18-446f-b4de-83cbc780bc9f.jpg",
+      "pageUrl": "https://www.loc.gov/item/2017883433/",
+      "author": "Library of Congress",
+      "license": "No known restrictions / public domain",
+      "licenseUrl": "https://www.loc.gov/item/2017883433/",
+      "buckets": [
+        "gray",
+        "blue"
+      ],
+      "palette": [
+        {
+          "hex": "#56565f",
+          "rgb": [
+            86,
+            86,
+            95
+          ],
+          "ratio": 0.2201605902777778,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#849ab6",
+          "rgb": [
+            132,
+            154,
+            182
+          ],
+          "ratio": 0.2055121527777778,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#5675ac",
+          "rgb": [
+            86,
+            117,
+            172
+          ],
+          "ratio": 0.1987847222222222,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#78787f",
+          "rgb": [
+            120,
+            120,
+            127
+          ],
+          "ratio": 0.1986762152777778,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#303037",
+          "rgb": [
+            48,
+            48,
+            55
+          ],
+          "ratio": 0.17686631944444445,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-10-08T03:20:58.511Z",
+      "fileKey": "loc:http://www.loc.gov/item/2017883433/",
+      "kind": "photo",
+      "photographer": "Library of Congress",
+      "sourceLabel": "美国国会图书馆",
+      "contentHash": "fc0ffffffffffff00001c0ec140400c83002",
+      "category": "photo",
+      "subjects": [
+        "landscape"
+      ]
+    },
+    {
+      "id": "d33d1829-19f6-45ce-b558-ef694a517658",
+      "title": "Ruota dove si vede la grandezza de i Giorni e della notti Tutto L'ano. Libro Quarto.",
+      "titleEn": "Ruota dove si vede la grandezza de i Giorni e della notti Tutto L'ano. Libro Quarto.",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/d33d1829-19f6-45ce-b558-ef694a517658.jpg",
+      "thumbUrl": "/stills/d33d1829-19f6-45ce-b558-ef694a517658.jpg",
+      "pageUrl": "https://archive.org/details/dr_ruota-dove-si-vede-la-grandezza-de-i-giorni-e-della-notti-tutto-lano-libr-10130076",
+      "author": "Monte (Monti), Urbano, 1544-1613",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/dr_ruota-dove-si-vede-la-grandezza-de-i-giorni-e-della-notti-tutto-lano-libr-10130076",
+      "buckets": [
+        "yellow",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#f0e7d5",
+          "rgb": [
+            240,
+            231,
+            213
+          ],
+          "ratio": 0.3442925347222222,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#9a9473",
+          "rgb": [
+            154,
+            148,
+            115
+          ],
+          "ratio": 0.2065972222222222,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#b7b08d",
+          "rgb": [
+            183,
+            176,
+            141
+          ],
+          "ratio": 0.16015625,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#ded6c1",
+          "rgb": [
+            222,
+            214,
+            193
+          ],
+          "ratio": 0.1447482638888889,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#79745d",
+          "rgb": [
+            121,
+            116,
+            93
+          ],
+          "ratio": 0.14420572916666666,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-08T03:20:59.367Z",
+      "fileKey": "archive:dr_ruota-dove-si-vede-la-grandezza-de-i-giorni-e-della-notti-tutto-lano-libr-10130076",
+      "kind": "photo",
+      "photographer": "Monte (Monti), Urbano, 1544-1613",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "000ffff1fe07c03c03c03c03c03e07f0ff9f",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "9f88a8f4-9be9-4fba-8272-a680f53eff22",
+      "title": "Sideboard",
+      "titleEn": "Sideboard",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/9f88a8f4-9be9-4fba-8272-a680f53eff22.jpg",
+      "thumbUrl": "/stills/9f88a8f4-9be9-4fba-8272-a680f53eff22.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-2000.72.1-sideboard",
+      "author": "Duncan Phyfe and Son (American, 1768–1854)",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "gray",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#3b2d24",
+          "rgb": [
+            59,
+            45,
+            36
+          ],
+          "ratio": 0.3045789930555556,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#9b9898",
+          "rgb": [
+            155,
+            152,
+            152
+          ],
+          "ratio": 0.2592230902777778,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#7b7777",
+          "rgb": [
+            123,
+            119,
+            119
+          ],
+          "ratio": 0.1882595486111111,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#54504e",
+          "rgb": [
+            84,
+            80,
+            78
+          ],
+          "ratio": 0.14854600694444445,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#bab7b5",
+          "rgb": [
+            186,
+            183,
+            181
+          ],
+          "ratio": 0.0993923611111111,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-10-08T03:21:03.073Z",
+      "fileKey": "archive:clevelandart-2000.72.1-sideboard",
+      "kind": "photo",
+      "photographer": "Duncan Phyfe and Son (American, 1768–1854)",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "0000407ff0000007fe7fe7fe3fc0007fefff",
+      "category": "photo",
+      "subjects": [
+        "design"
+      ]
+    },
+    {
+      "id": "700d430a-8524-4fe6-b693-5479d44fba91",
+      "title": "Pompeii. Published under the superintendence of the Society for the Diffusion of Useful Knowledge. Drawn by W.B. Clarke, arch. Engraved by T.E. Nicholson. Published by Baldwin & Cradock, 47 Paternoster Row, July 1, 1832. (London: Chapman & Hall, 1844)",
+      "titleEn": "Pompeii. Published under the superintendence of the Society for the Diffusion of Useful Knowledge. Drawn by W.B. Clarke, arch. Engraved by T.E. Nicholson. Published by Baldwin & Cradock, 47 Paternoster Row, July 1, 1832. (London: Chapman & Hall, 1844)",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/700d430a-8524-4fe6-b693-5479d44fba91.jpg",
+      "thumbUrl": "/stills/700d430a-8524-4fe6-b693-5479d44fba91.jpg",
+      "pageUrl": "https://archive.org/details/dr_pompeii-published-under-the-superintendence-of-the-society-for-the-diffusi-00544010",
+      "author": "Society for the Diffusion of Useful Knowledge (Great Britain)",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/dr_pompeii-published-under-the-superintendence-of-the-society-for-the-diffusi-00544010",
+      "buckets": [
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#f1eed7",
+          "rgb": [
+            241,
+            238,
+            215
+          ],
+          "ratio": 0.2894965277777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#eae4ca",
+          "rgb": [
+            234,
+            228,
+            202
+          ],
+          "ratio": 0.2721354166666667,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#dbd2b8",
+          "rgb": [
+            219,
+            210,
+            184
+          ],
+          "ratio": 0.2202690972222222,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#baac90",
+          "rgb": [
+            186,
+            172,
+            144
+          ],
+          "ratio": 0.13953993055555555,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#726453",
+          "rgb": [
+            114,
+            100,
+            83
+          ],
+          "ratio": 0.07855902777777778,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-08T03:21:03.940Z",
+      "fileKey": "archive:dr_pompeii-published-under-the-superintendence-of-the-society-for-the-diffusi-00544010",
+      "kind": "photo",
+      "photographer": "Society for the Diffusion of Useful Knowledge (Great Britain)",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "000ffffc77d7ff7ff7ffb7fb7ffffe000000",
+      "category": "photo",
+      "subjects": [
+        "ancient"
+      ]
+    },
+    {
+      "id": "a6b4d9ef-05fb-4f6e-90ef-6551bc953b08",
+      "title": "Still Life",
+      "titleEn": "Still Life",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/a6b4d9ef-05fb-4f6e-90ef-6551bc953b08.jpg",
+      "thumbUrl": "/stills/a6b4d9ef-05fb-4f6e-90ef-6551bc953b08.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1926.1664-still-life",
+      "author": "Preston Dickinson (American, 1891–1930)",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "yellow",
+        "green"
+      ],
+      "palette": [
+        {
+          "hex": "#746c54",
+          "rgb": [
+            116,
+            108,
+            84
+          ],
+          "ratio": 0.2651909722222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#5b5340",
+          "rgb": [
+            91,
+            83,
+            64
+          ],
+          "ratio": 0.22819010416666666,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#b4b191",
+          "rgb": [
+            180,
+            177,
+            145
+          ],
+          "ratio": 0.17686631944444445,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#181e1a",
+          "rgb": [
+            24,
+            30,
+            26
+          ],
+          "ratio": 0.17469618055555555,
+          "bucket": "green"
+        },
+        {
+          "hex": "#353328",
+          "rgb": [
+            53,
+            51,
+            40
+          ],
+          "ratio": 0.1550564236111111,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-08T03:21:40.367Z",
+      "fileKey": "archive:clevelandart-1926.1664-still-life",
+      "kind": "photo",
+      "photographer": "Preston Dickinson (American, 1891–1930)",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "f80f80fb08fd07e826c07c06c0cd11c00d3f",
+      "category": "photo",
+      "people": "none",
+      "subjects": [
+        "still-life"
+      ]
+    },
+    {
+      "id": "68acaa85-8f5c-4671-8e27-0e341fad1c2c",
+      "title": "Arrangement in Flesh Colour and Black: Portrait of Theodore Duret",
+      "titleEn": "Arrangement in Flesh Colour and Black: Portrait of Theodore Duret",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/68acaa85-8f5c-4671-8e27-0e341fad1c2c.jpg",
+      "thumbUrl": "/stills/68acaa85-8f5c-4671-8e27-0e341fad1c2c.jpg",
+      "pageUrl": "https://archive.org/details/mma_arrangement_in_flesh_colour_and_black_portrait_of_theodore_duret_13211",
+      "author": "James McNeill Whistler",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_arrangement_in_flesh_colour_and_black_portrait_of_theodore_duret_13211",
+      "buckets": [
+        "orange",
+        "yellow",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#948569",
+          "rgb": [
+            148,
+            133,
+            105
+          ],
+          "ratio": 0.3062065972222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#22231c",
+          "rgb": [
+            34,
+            35,
+            28
+          ],
+          "ratio": 0.2618272569444444,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#625741",
+          "rgb": [
+            98,
+            87,
+            65
+          ],
+          "ratio": 0.24989149305555555,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#b8a688",
+          "rgb": [
+            184,
+            166,
+            136
+          ],
+          "ratio": 0.16004774305555555,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#060404",
+          "rgb": [
+            6,
+            4,
+            4
+          ],
+          "ratio": 0.022026909722222224,
+          "bucket": "black"
+        }
+      ],
+      "addedAt": "2026-10-08T03:21:42.725Z",
+      "fileKey": "archive:mma_arrangement_in_flesh_colour_and_black_portrait_of_theodore_duret_13211",
+      "kind": "photo",
+      "photographer": "James McNeill Whistler",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "ec7e47e3fe03c21c30e38c38c38c38f3cf1c",
+      "category": "photo",
+      "people": "one",
+      "subjects": [
+        "portrait"
+      ]
+    },
+    {
+      "id": "5c0a7def-42f3-4891-a6e1-0b3308f39334",
+      "title": "Osawatomie, Miami County. (with) White City ... (with) Delavan ... (with) Milton ... (with) Kelso ... (with) Parkerville ... (with) Skiddy ... (all) Morris Co. (L.H. Everts & Co., publishers, Phila., Pa., 1887)",
+      "titleEn": "Osawatomie, Miami County. (with) White City ... (with) Delavan ... (with) Milton ... (with) Kelso ... (with) Parkerville ... (with) Skiddy ... (all) Morris Co. (L.H. Everts & Co., publishers, Phila., Pa., 1887)",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/5c0a7def-42f3-4891-a6e1-0b3308f39334.jpg",
+      "thumbUrl": "/stills/5c0a7def-42f3-4891-a6e1-0b3308f39334.jpg",
+      "pageUrl": "https://archive.org/details/dr_osawatomie-miami-county-with-white-city--with-delavan--with-m-00834047",
+      "author": "Everts & Co.",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/dr_osawatomie-miami-county-with-white-city--with-delavan--with-m-00834047",
+      "buckets": [
+        "yellow",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#d9cdb1",
+          "rgb": [
+            217,
+            205,
+            177
+          ],
+          "ratio": 0.3038194444444444,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#e4dac1",
+          "rgb": [
+            228,
+            218,
+            193
+          ],
+          "ratio": 0.2760416666666667,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#c7b5a2",
+          "rgb": [
+            199,
+            181,
+            162
+          ],
+          "ratio": 0.2326388888888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#ab977a",
+          "rgb": [
+            171,
+            151,
+            122
+          ],
+          "ratio": 0.1418185763888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#663e32",
+          "rgb": [
+            102,
+            62,
+            50
+          ],
+          "ratio": 0.04568142361111111,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-08T03:21:50.932Z",
+      "fileKey": "archive:dr_osawatomie-miami-county-with-white-city--with-delavan--with-m-00834047",
+      "kind": "photo",
+      "photographer": "Everts & Co.",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "7fc78c78c78c7fc7fc73c7fc7fc7ec47cffc",
+      "category": "photo",
+      "subjects": [
+        "city"
+      ]
+    },
+    {
+      "id": "ae7c09b9-1d3b-4af4-812d-a0ab07f85908",
+      "title": "Portrait of Thomas Hobbes",
+      "titleEn": "Portrait of Thomas Hobbes",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/ae7c09b9-1d3b-4af4-812d-a0ab07f85908.jpg",
+      "thumbUrl": "/stills/ae7c09b9-1d3b-4af4-812d-a0ab07f85908.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1949.548-portrait-of-thomas-h",
+      "author": "Samuel Cooper (British, 1608/09–1672)",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "gray",
+        "brown",
+        "yellow",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#333a31",
+          "rgb": [
+            51,
+            58,
+            49
+          ],
+          "ratio": 0.3072916666666667,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#bbb8b6",
+          "rgb": [
+            187,
+            184,
+            182
+          ],
+          "ratio": 0.2928602430555556,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#716655",
+          "rgb": [
+            113,
+            102,
+            85
+          ],
+          "ratio": 0.13639322916666666,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#d5d1c1",
+          "rgb": [
+            213,
+            209,
+            193
+          ],
+          "ratio": 0.1343315972222222,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#a39583",
+          "rgb": [
+            163,
+            149,
+            131
+          ],
+          "ratio": 0.1291232638888889,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-08T03:22:12.777Z",
+      "fileKey": "archive:clevelandart-1949.548-portrait-of-thomas-h",
+      "kind": "photo",
+      "photographer": "Samuel Cooper (British, 1608/09–1672)",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "f9ff07c038718700600600e03e03fcbffbfd",
+      "category": "photo",
+      "people": "one",
+      "subjects": [
+        "portrait"
+      ]
+    },
+    {
+      "id": "09f64246-f38b-48c5-95c2-d4cab024a0d6",
+      "title": "Dwight, Morris Co., Kansas. (with) Wilsey, Morris Co. (with) Dunlap, Morris Co. (L.H. Everts & Co., publishers, Phila., Pa., 1887)",
+      "titleEn": "Dwight, Morris Co., Kansas. (with) Wilsey, Morris Co. (with) Dunlap, Morris Co. (L.H. Everts & Co., publishers, Phila., Pa., 1887)",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/09f64246-f38b-48c5-95c2-d4cab024a0d6.jpg",
+      "thumbUrl": "/stills/09f64246-f38b-48c5-95c2-d4cab024a0d6.jpg",
+      "pageUrl": "https://archive.org/details/dr_dwight-morris-co-kansas-with-wilsey-morris-co-with-dunlap-morris-00834049",
+      "author": "Everts & Co.",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/dr_dwight-morris-co-kansas-with-wilsey-morris-co-with-dunlap-morris-00834049",
+      "buckets": [
+        "yellow",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#e4dbbd",
+          "rgb": [
+            228,
+            219,
+            189
+          ],
+          "ratio": 0.4875217013888889,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#d7cca1",
+          "rgb": [
+            215,
+            204,
+            161
+          ],
+          "ratio": 0.2331814236111111,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#b19b7a",
+          "rgb": [
+            177,
+            155,
+            122
+          ],
+          "ratio": 0.14344618055555555,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#c3b9a7",
+          "rgb": [
+            195,
+            185,
+            167
+          ],
+          "ratio": 0.11393229166666667,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#50191a",
+          "rgb": [
+            80,
+            25,
+            26
+          ],
+          "ratio": 0.021918402777777776,
+          "bucket": "red"
+        }
+      ],
+      "addedAt": "2026-10-08T03:22:13.779Z",
+      "fileKey": "archive:dr_dwight-morris-co-kansas-with-wilsey-morris-co-with-dunlap-morris-00834049",
+      "kind": "photo",
+      "photographer": "Everts & Co.",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "3ff3e33233333ff3ff3ff3df33f3ff3ff3fe",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "bd84f1be-2f03-4410-9524-455de21fa6fa",
+      "title": "(Ten advertisements (stationery, lithographers' stock, envelopes, cards, paper, silks, ribbons, laces, feathers, millinery goods, suspenders, ladies' skirt springs, pepsin, hosiery, gloves, furniture, dugs, dyes, window glass, ivory, confectioners, segars Printed by Henry B. Ashmead, George Street above Eleventh, Philadelphia.",
+      "titleEn": "(Ten advertisements (stationery, lithographers' stock, envelopes, cards, paper, silks, ribbons, laces, feathers, millinery goods, suspenders, ladies' skirt springs, pepsin, hosiery, gloves, furniture, dugs, dyes, window glass, ivory, confectioners, segars Printed by Henry B. Ashmead, George Street above Eleventh, Philadelphia.",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/bd84f1be-2f03-4410-9524-455de21fa6fa.jpg",
+      "thumbUrl": "/stills/bd84f1be-2f03-4410-9524-455de21fa6fa.jpg",
+      "pageUrl": "https://archive.org/details/dr_ten-advertisements-stationery-lithographers-stock-envelopes-cards-pa-5479081",
+      "author": "Colton, G.W.",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/dr_ten-advertisements-stationery-lithographers-stock-envelopes-cards-pa-5479081",
+      "buckets": [
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#d5bf9a",
+          "rgb": [
+            213,
+            191,
+            154
+          ],
+          "ratio": 0.3597005208333333,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#ebd5ae",
+          "rgb": [
+            235,
+            213,
+            174
+          ],
+          "ratio": 0.3411458333333333,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#c0ac8a",
+          "rgb": [
+            192,
+            172,
+            138
+          ],
+          "ratio": 0.1306423611111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#a4957c",
+          "rgb": [
+            164,
+            149,
+            124
+          ],
+          "ratio": 0.09602864583333333,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#8b7656",
+          "rgb": [
+            139,
+            118,
+            86
+          ],
+          "ratio": 0.0724826388888889,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-08T03:22:15.323Z",
+      "fileKey": "archive:dr_ten-advertisements-stationery-lithographers-stock-envelopes-cards-pa-5479081",
+      "kind": "photo",
+      "photographer": "Colton, G.W.",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "3ff36f2e32f72733f723b36b2232733e3000",
+      "category": "photo",
+      "subjects": [
+        "city",
+        "design"
+      ]
+    },
+    {
+      "id": "efa5b629-ee26-40b9-bffb-406f08ce691d",
+      "title": "(Covers to) Geological Diagrams. (On cover). London, Published by James Reynolds 174 Strand. Drawn and engraved by John Emslie.",
+      "titleEn": "(Covers to) Geological Diagrams. (On cover). London, Published by James Reynolds 174 Strand. Drawn and engraved by John Emslie.",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/efa5b629-ee26-40b9-bffb-406f08ce691d.jpg",
+      "thumbUrl": "/stills/efa5b629-ee26-40b9-bffb-406f08ce691d.jpg",
+      "pageUrl": "https://archive.org/details/dr_covers-to-geological-diagrams-on-cover-london-published-by-james-rey-0848001",
+      "author": "Reynolds, James",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/dr_covers-to-geological-diagrams-on-cover-london-published-by-james-rey-0848001",
+      "buckets": [
+        "red",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#a02b30",
+          "rgb": [
+            160,
+            43,
+            48
+          ],
+          "ratio": 0.3899739583333333,
+          "bucket": "red"
+        },
+        {
+          "hex": "#98262b",
+          "rgb": [
+            152,
+            38,
+            43
+          ],
+          "ratio": 0.3670789930555556,
+          "bucket": "red"
+        },
+        {
+          "hex": "#938b8c",
+          "rgb": [
+            147,
+            139,
+            140
+          ],
+          "ratio": 0.1111111111111111,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#83272b",
+          "rgb": [
+            131,
+            39,
+            43
+          ],
+          "ratio": 0.0812717013888889,
+          "bucket": "red"
+        },
+        {
+          "hex": "#824745",
+          "rgb": [
+            130,
+            71,
+            69
+          ],
+          "ratio": 0.05056423611111111,
+          "bucket": "red"
+        }
+      ],
+      "addedAt": "2026-10-08T03:22:22.164Z",
+      "fileKey": "archive:dr_covers-to-geological-diagrams-on-cover-london-published-by-james-rey-0848001",
+      "kind": "photo",
+      "photographer": "Reynolds, James",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "fff020020020e23f23f23e23022020020028",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "66de5e62-8e9b-4eb2-9744-d74b4d325d28",
+      "title": "十二花神春牛图",
+      "titleEn": "十二花神春牛图",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/66de5e62-8e9b-4eb2-9744-d74b4d325d28.jpg",
+      "thumbUrl": "/stills/66de5e62-8e9b-4eb2-9744-d74b4d325d28.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:%E5%8D%81%E4%BA%8C%E8%8A%B1%E7%A5%9E%E6%98%A5%E7%89%9B%E5%9B%BE.png",
+      "author": "Unknown author Unknown author",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:%E5%8D%81%E4%BA%8C%E8%8A%B1%E7%A5%9E%E6%98%A5%E7%89%9B%E5%9B%BE.png",
+      "buckets": [
+        "yellow",
+        "purple",
+        "gray",
+        "orange",
+        "red"
+      ],
+      "palette": [
+        {
+          "hex": "#f9ebbc",
+          "rgb": [
+            249,
+            235,
+            188
+          ],
+          "ratio": 0.2523871527777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#433b4c",
+          "rgb": [
+            67,
+            59,
+            76
+          ],
+          "ratio": 0.2355685763888889,
+          "bucket": "purple"
+        },
+        {
+          "hex": "#968d7f",
+          "rgb": [
+            150,
+            141,
+            127
+          ],
+          "ratio": 0.19140625,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#d8c39f",
+          "rgb": [
+            216,
+            195,
+            159
+          ],
+          "ratio": 0.1771918402777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#cb314e",
+          "rgb": [
+            203,
+            49,
+            78
+          ],
+          "ratio": 0.14344618055555555,
+          "bucket": "red"
+        }
+      ],
+      "addedAt": "2026-10-08T03:26:14.500Z",
+      "fileKey": "File:十二花神春牛图.png",
+      "kind": "film",
+      "photographer": "Unknown author Unknown author",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "803fdbf5fc03c070003c899800a58bdabfff",
+      "category": "film",
+      "subjects": [
+        "people"
+      ]
+    },
+    {
+      "id": "14bb25f9-98b8-4d2a-b01b-0b2b916916ab",
+      "title": "Terracotta warriors (27004)",
+      "titleEn": "Terracotta warriors (27004)",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/14bb25f9-98b8-4d2a-b01b-0b2b916916ab.jpg",
+      "thumbUrl": "/stills/14bb25f9-98b8-4d2a-b01b-0b2b916916ab.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Terracotta_warriors_(27004).jpg",
+      "author": "Ideophagous",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "buckets": [
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#c3a994",
+          "rgb": [
+            195,
+            169,
+            148
+          ],
+          "ratio": 0.3187934027777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#776757",
+          "rgb": [
+            119,
+            103,
+            87
+          ],
+          "ratio": 0.2143012152777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#564739",
+          "rgb": [
+            86,
+            71,
+            57
+          ],
+          "ratio": 0.17860243055555555,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#9d8b79",
+          "rgb": [
+            157,
+            139,
+            121
+          ],
+          "ratio": 0.1763237847222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#37271d",
+          "rgb": [
+            55,
+            39,
+            29
+          ],
+          "ratio": 0.11197916666666667,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-08T03:31:22.609Z",
+      "fileKey": "File:Terracotta warriors (27004).jpg",
+      "kind": "film",
+      "photographer": "Terracotta warriors",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "0000000008008637f9fa8e0cf08fffffffff",
+      "category": "film",
+      "subjects": [
+        "people"
+      ]
+    },
+    {
+      "id": "4629d106-fc70-4d21-a4a9-601b72f5af04",
+      "title": "C1925 green satin dress with attached painted velvet wrap by Paul Poiret, Paris. 02",
+      "titleEn": "C1925 green satin dress with attached painted velvet wrap by Paul Poiret, Paris. 02",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/4629d106-fc70-4d21-a4a9-601b72f5af04.jpg",
+      "thumbUrl": "/stills/4629d106-fc70-4d21-a4a9-601b72f5af04.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:C1925_green_satin_dress_with_attached_painted_velvet_wrap_by_Paul_Poiret,_Paris._02.jpg",
+      "author": "Photographer for the Rhode Island School of Design Museum of Art",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "buckets": [
+        "white",
+        "green",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#e3e3e3",
+          "rgb": [
+            227,
+            227,
+            227
+          ],
+          "ratio": 0.3897569444444444,
+          "bucket": "white"
+        },
+        {
+          "hex": "#d3d3d3",
+          "rgb": [
+            211,
+            211,
+            211
+          ],
+          "ratio": 0.2294921875,
+          "bucket": "white"
+        },
+        {
+          "hex": "#384823",
+          "rgb": [
+            56,
+            72,
+            35
+          ],
+          "ratio": 0.17078993055555555,
+          "bucket": "green"
+        },
+        {
+          "hex": "#b97021",
+          "rgb": [
+            185,
+            112,
+            33
+          ],
+          "ratio": 0.11480034722222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#5da775",
+          "rgb": [
+            93,
+            167,
+            117
+          ],
+          "ratio": 0.09516059027777778,
+          "bucket": "green"
+        }
+      ],
+      "addedAt": "2026-10-08T03:38:03.945Z",
+      "fileKey": "File:C1925 green satin dress with attached painted velvet wrap by Paul Poiret, Paris. 02.jpg",
+      "kind": "film",
+      "photographer": "Photographer for the Rhode Island School of Design Museum of Art",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "f0fe0fe0fe07e07e03e0ff0ff0ff0ff0ff0f"
     }
   ],
-  "lastIngestDate": "2026-10-07",
+  "lastIngestDate": "2026-10-08",
   "seenFileKeys": [
     "stills:04b85cc4-5a5c-4d95-9d52-460ceefa3ee5.jpg",
     "stills:0509b1d5-b5da-4b3c-8e65-edda97b86985.jpg",
@@ -363275,7 +367402,119 @@
     "loc:http://www.loc.gov/item/08004174/",
     "openverse:2a35de30-557c-49f2-9135-55be0ca23bfb",
     "File:Japanese postman. Image from book of 1902.jpg",
-    "File:Hieronymus Bosch - Triptych of Garden of Earthly Delights (detail) - WGA2525.jpg"
+    "File:Hieronymus Bosch - Triptych of Garden of Earthly Delights (detail) - WGA2525.jpg",
+    "archive:dr_carte-des-limites-de-lancienne-terre-du-morvan-a-poiret-sculp-a-paris-1801024",
+    "archive:mma_afternoon_dress_107612",
+    "archive:mma_dress_174715",
+    "archive:clevelandart-1920.1804.b-textile-fragment",
+    "archive:clevelandart-1986.179-silk-textile",
+    "archive:mma_afternoon_dress_159345",
+    "archive:LMG00043",
+    "archive:clevelandart-1920.772-textile-fragment",
+    "archive:clevelandart-1953.306-length-of-textile",
+    "archive:mma_dress_84331",
+    "archive:mma_dress_102930",
+    "archive:17475876698888bsb-11121724-0009",
+    "archive:LMG00042",
+    "archive:arkivkopia.se-aboaka-1151",
+    "archive:LMG00046",
+    "archive:LMG00060",
+    "archive:mma_dinner_dress_107589",
+    "archive:clevelandart-1942.2.15-overdoor-painting",
+    "archive:clevelandart-1924.64-little-velvet-dress",
+    "archive:dr_cours-de-la-charente-avec-ses-oscillations-depuis-ballan-jusqua-cuchet-1801016",
+    "archive:mma_dress_103525",
+    "archive:mma_reproduction_of_the_grandstand_fresco_258104",
+    "archive:LMG00058",
+    "archive:calavc_004243",
+    "archive:mma_dress_84314",
+    "loc:http://www.loc.gov/item/42049262/",
+    "archive:clevelandart-1953.488-length-of-textile",
+    "archive:mma_dress_108070",
+    "archive:mma_dress_174754",
+    "archive:LMG00040",
+    "archive:mma_dress_174761",
+    "archive:mma_afternoon_dress_175610",
+    "archive:LMG00039",
+    "archive:clevelandart-1952.557-lengths-of-textile",
+    "archive:mma_dress_90845",
+    "archive:clevelandart-1933.417.a-woman-in-a-blue-dres",
+    "archive:clevelandart-1920.1605-textile-fragment",
+    "archive:mma_dress_103571",
+    "archive:LMG00051",
+    "archive:1918-07-telemaque-mardirosi-tutundjian-de-vartavan-in-a-japanese-gentlemans-cost",
+    "archive:mma_afternoon_dress_108193",
+    "archive:mma_dress_173973",
+    "archive:fresco-sodoma",
+    "archive:clevelandart-1976.187-costume",
+    "archive:mma_dress_91020",
+    "archive:mma_dress_82324",
+    "archive:ddr-ajah-6-575",
+    "archive:clevelandart-1935.110-white-linen-textile",
+    "archive:clevelandart-1940.475-textile-fragment",
+    "archive:clevelandart-1940.477-textile-fragment",
+    "archive:clevelandart-1949.550-portrait-of-general",
+    "archive:cvicl_000513",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1920-07-30",
+    "loc:http://www.loc.gov/item/2017883433/",
+    "archive:dr_ruota-dove-si-vede-la-grandezza-de-i-giorni-e-della-notti-tutto-lano-libr-10130076",
+    "loc:http://www.loc.gov/item/2017883443/",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1936-09-02",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1947-10-22",
+    "archive:clevelandart-2000.72.1-sideboard",
+    "archive:dr_pompeii-published-under-the-superintendence-of-the-society-for-the-diffusi-00544010",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1937-05-08",
+    "loc:http://www.loc.gov/item/2017883448/",
+    "loc:http://www.loc.gov/item/2017883445/",
+    "archive:dr_planche-59-antino-12-vue-et-dtails-de-la-colonne-dalexandre-svre-3-10404333",
+    "loc:http://www.loc.gov/item/2017883444/",
+    "archive:stampe-storiche-142",
+    "archive:calajhs_000593",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1980-06-10",
+    "loc:http://www.loc.gov/item/2017883450/",
+    "archive:PC000673",
+    "loc:http://www.loc.gov/item/2017883447/",
+    "loc:http://www.loc.gov/item/2017883441/",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1937-05-17",
+    "archive:dr_florida-canal--morris-canal-n-j--union-canal-pa--schuylkill-navigatio-0979006",
+    "loc:http://www.loc.gov/item/2017883451/",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1998-11-05",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1937-04-18",
+    "archive:clevelandart-1926.1664-still-life",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1937-03-23",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1956-02-29",
+    "archive:mma_arrangement_in_flesh_colour_and_black_portrait_of_theodore_duret_13211",
+    "loc:http://www.loc.gov/item/2017883440/",
+    "loc:http://www.loc.gov/item/2017883431/",
+    "archive:clevelandart-1944.92-portrait-of-a-woman",
+    "archive:dr_osawatomie-miami-county-with-white-city--with-delavan--with-m-00834047",
+    "loc:http://www.loc.gov/item/2017883471/",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_2014-10-09",
+    "archive:dr_view-plate-6-ancient-sculpture-12190588",
+    "loc:http://www.loc.gov/item/2003690513/",
+    "loc:http://www.loc.gov/item/2016652093/",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1936-12-07",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_2014-11-17",
+    "archive:clevelandart-3919.1920-portrait-of-a-woman",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1925-11-17",
+    "archive:clevelandart-2010.5-portrait-of-a-man-ho",
+    "archive:clevelandart-1949.548-portrait-of-thomas-h",
+    "archive:dr_dwight-morris-co-kansas-with-wilsey-morris-co-with-dunlap-morris-00834049",
+    "archive:dr_planche-37-abydus-1-plan-gnral-des-environs-2345-plans-et-profils-de-10404311",
+    "archive:dr_ten-advertisements-stationery-lithographers-stock-envelopes-cards-pa-5479081",
+    "loc:http://www.loc.gov/item/2017883432/",
+    "archive:img1838brandonlo00unse",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1937-02-10",
+    "archive:clevelandart-1943.649-portrait-of-a-woman",
+    "archive:dr_planche-19-le-de-phil-12-bas-reliefs-de-ldifice-ruin-de-louest-3-10404029",
+    "archive:dr_view-plate-3-ancient-sculpture-12190585",
+    "archive:dr_covers-to-geological-diagrams-on-cover-london-published-by-james-rey-0848001",
+    "loc:http://www.loc.gov/item/2017883446/",
+    "File:Banner painting depicting the legend of Ajatashatru of Magadha, detail from a mural depicting a scene of the Buddha being adored by devotees, Kizil Caves, ca.600–650.jpg",
+    "File:Dunhuang Tang mural shieldbearers.jpg",
+    "File:十二花神春牛图.png",
+    "File:Terracotta warriors (27004).jpg",
+    "File:C1925 green satin dress with attached painted velvet wrap by Paul Poiret, Paris. 02.jpg"
   ],
   "seenContentHashes": [
     "ff8f20c0481cf3cffcf7ce58ffcffcffcd7e",
@@ -367495,6 +371734,57 @@
     "00703f1ff1ff1ff1ff1ff1ff1ff1ff03f007",
     "f8f9878038078438c08f3ff7bffffffff9ff",
     "1f01f82fc3fc7fc7dc0c01e0330220060bfc",
-    "8000000007c07b063007c1f8a72bf70d28b0"
+    "8000000007c07b063007c1f8a72bf70d28b0",
+    "000fff01481c80e81800080380780fffffff",
+    "8479a79f70c70c71cf45fe6be67e43e43c03",
+    "800a01ba3ba5b8198180180180d819801800",
+    "1fe02c1fe1fe5b67fe37e7fe7fe7fe7fe36c",
+    "00801c01c03c1e77c7fe3fe3fc7fc7fc3d81",
+    "f9ff93f87fbff39f39b33827e27e27e65801",
+    "c09801801c13c9feffe1fc1dc01801801801",
+    "f9ff8ff8ffcffe7ff3fe1fe0f60c60c00e00",
+    "f0fe07c03903b09b0de04e03c03c03c01c01",
+    "ffffffffff1fe07c07807803003801801fff",
+    "fcffc7fc7fc7fc7ec7e07e07f0fd0fd0f801",
+    "ffff9ff9ff9ff0ff07f0ff07e03e03e03e07",
+    "66f44f44f6675675677277177177333b9039",
+    "6466ce6e970070177a7007407003dc3ce3fe",
+    "fff4dfe7fa3fe9f29f21921c29b2187b8000",
+    "000fbff1f13f33f63f69f71f03f007030fff",
+    "f8fe03c03c01c01c01e07e03c03801801e03",
+    "fffe66000e00f1f40c40cfffffffffffffff",
+    "f8ff8ff8ff87f8ff87f87f8ff07f07e0f801",
+    "c06c46c06c86d26c06c06c06c06c06c06ffe",
+    "c71e63b6f8f8860861fffcd1891c63e67f04",
+    "f20f3c73c73c37c7ec6fc0606207fc77c7fc",
+    "f35f03f03f6ff6fe6fe6fe67e47e47843859",
+    "ffff0fe07c03801a04e07e07c03c03c03c07",
+    "39f39f1bf1bf1df19f01f01f00f10f12f107",
+    "f0ff07f07e57e07e03c03c01801801801801",
+    "80fc07c03c01c01c01c01c01c01801c01c01",
+    "f77c21c01c03f4fe03c01809008000803f8f",
+    "cb999999d909f8dfbdb95b85b0590d929909",
+    "c07c07c07c03c03c07c03c03e07e07ffffff",
+    "be1bc0fc0f90fc2fc26867ae34e79e3be3fe",
+    "d03d03d03c03c03e03e03e03e03e07e07e07",
+    "e03e03e03e03e03e03e67e07e0fe0ff07f0f",
+    "1dcb9c99cb9c99cb9cb9c39c39e39e08c000",
+    "fff71e70e60e8e18e1ef970e70e70e8f1060",
+    "f81f01e03c03807807807c0fe0ff0ff9ffff",
+    "fdfe07ce38f18e1840860860820801801c03",
+    "fc0ffffffffffff00001c0ec140400c83002",
+    "000ffff1fe07c03c03c03c03c03e07f0ff9f",
+    "0000407ff0000007fe7fe7fe3fc0007fefff",
+    "000ffffc77d7ff7ff7ffb7fb7ffffe000000",
+    "f80f80fb08fd07e826c07c06c0cd11c00d3f",
+    "ec7e47e3fe03c21c30e38c38c38c38f3cf1c",
+    "7fc78c78c78c7fc7fc73c7fc7fc7ec47cffc",
+    "f9ff07c038718700600600e03e03fcbffbfd",
+    "3ff3e33233333ff3ff3ff3df33f3ff3ff3fe",
+    "3ff36f2e32f72733f723b36b2232733e3000",
+    "fff020020020e23f23f23e23022020020028",
+    "803fdbf5fc03c070003c899800a58bdabfff",
+    "0000000008008637f9fa8e0cf08fffffffff",
+    "f0fe0fe0fe07e07e03e0ff0ff0ff0ff0ff0f"
   ]
 }
