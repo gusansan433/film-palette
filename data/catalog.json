@@ -360614,10 +360614,1796 @@
       "kind": "film",
       "photographer": "Photographer for the Rhode Island School of Design Museum of Art",
       "sourceLabel": "维基共享资源",
-      "contentHash": "f0fe0fe0fe07e07e03e0ff0ff0ff0ff0ff0f"
+      "contentHash": "f0fe0fe0fe07e07e03e0ff0ff0ff0ff0ff0f",
+      "category": "film",
+      "subjects": [
+        "city",
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "45da53fd-76bf-47ef-9571-12c9d43430bc",
+      "title": "Textile Fragment",
+      "titleEn": "Textile Fragment",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/45da53fd-76bf-47ef-9571-12c9d43430bc.jpg",
+      "thumbUrl": "/stills/45da53fd-76bf-47ef-9571-12c9d43430bc.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1920.1748-textile-fragment",
+      "author": "Internet Archive",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "black",
+        "green",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#242b26",
+          "rgb": [
+            36,
+            43,
+            38
+          ],
+          "ratio": 0.31640625,
+          "bucket": "black"
+        },
+        {
+          "hex": "#564e37",
+          "rgb": [
+            86,
+            78,
+            55
+          ],
+          "ratio": 0.2087673611111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#202218",
+          "rgb": [
+            32,
+            34,
+            24
+          ],
+          "ratio": 0.18815104166666666,
+          "bucket": "green"
+        },
+        {
+          "hex": "#7e7459",
+          "rgb": [
+            126,
+            116,
+            89
+          ],
+          "ratio": 0.18272569444444445,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#f2f1ed",
+          "rgb": [
+            242,
+            241,
+            237
+          ],
+          "ratio": 0.10394965277777778,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-10-09T03:28:30.174Z",
+      "fileKey": "archive:clevelandart-1920.1748-textile-fragment",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "fff0003201b6b32b0260466c26c04c000fb6",
+      "category": "photo",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "35d4a3e7-2c33-4862-a728-a1d0aed8e5ea",
+      "title": "Textile Fragment",
+      "titleEn": "Textile Fragment",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/35d4a3e7-2c33-4862-a728-a1d0aed8e5ea.jpg",
+      "thumbUrl": "/stills/35d4a3e7-2c33-4862-a728-a1d0aed8e5ea.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1920.1594.b-textile-fragment",
+      "author": "Internet Archive",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "yellow",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#7e7249",
+          "rgb": [
+            126,
+            114,
+            73
+          ],
+          "ratio": 0.2964409722222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#645f37",
+          "rgb": [
+            100,
+            95,
+            55
+          ],
+          "ratio": 0.2696397569444444,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#9a8f65",
+          "rgb": [
+            154,
+            143,
+            101
+          ],
+          "ratio": 0.19401041666666666,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#4d4f2a",
+          "rgb": [
+            77,
+            79,
+            42
+          ],
+          "ratio": 0.16981336805555555,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#f7f4ef",
+          "rgb": [
+            247,
+            244,
+            239
+          ],
+          "ratio": 0.0700954861111111,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-09T03:28:31.687Z",
+      "fileKey": "archive:clevelandart-1920.1594.b-textile-fragment",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "887801b01a01831a83a01b01b81b29b01901",
+      "category": "photo",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "109c82b0-069d-4cd1-b3a8-407ac3ea4a4d",
+      "title": "Evening dress",
+      "titleEn": "Evening dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/109c82b0-069d-4cd1-b3a8-407ac3ea4a4d.jpg",
+      "thumbUrl": "/stills/109c82b0-069d-4cd1-b3a8-407ac3ea4a4d.jpg",
+      "pageUrl": "https://archive.org/details/mma_evening_dress_107058",
+      "author": "Emile Pingat",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_evening_dress_107058",
+      "buckets": [
+        "yellow",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#d1b477",
+          "rgb": [
+            209,
+            180,
+            119
+          ],
+          "ratio": 0.2970920138888889,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#dbc28d",
+          "rgb": [
+            219,
+            194,
+            141
+          ],
+          "ratio": 0.2556423611111111,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#c8a45c",
+          "rgb": [
+            200,
+            164,
+            92
+          ],
+          "ratio": 0.2240668402777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#b28a41",
+          "rgb": [
+            178,
+            138,
+            65
+          ],
+          "ratio": 0.16417100694444445,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#845d23",
+          "rgb": [
+            132,
+            93,
+            35
+          ],
+          "ratio": 0.059027777777777776,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-09T03:28:32.512Z",
+      "fileKey": "archive:mma_evening_dress_107058",
+      "kind": "photo",
+      "photographer": "Emile Pingat",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "04304dc4ffffefffffffffffdff101000000",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "a255ece3-dc2c-4370-a999-cd08d65d2c47",
+      "title": "Reproduction of a fresco with a Griffin",
+      "titleEn": "Reproduction of a fresco with a Griffin",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/a255ece3-dc2c-4370-a999-cd08d65d2c47.jpg",
+      "thumbUrl": "/stills/a255ece3-dc2c-4370-a999-cd08d65d2c47.jpg",
+      "pageUrl": "https://archive.org/details/mma_reproduction_of_a_fresco_with_a_griffin_258113",
+      "author": "Emile Gilliéron",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_reproduction_of_a_fresco_with_a_griffin_258113",
+      "buckets": [
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#d5ae6c",
+          "rgb": [
+            213,
+            174,
+            108
+          ],
+          "ratio": 0.4259982638888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#c94b15",
+          "rgb": [
+            201,
+            75,
+            21
+          ],
+          "ratio": 0.2969835069444444,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#ca874a",
+          "rgb": [
+            202,
+            135,
+            74
+          ],
+          "ratio": 0.1838107638888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#ccbd9e",
+          "rgb": [
+            204,
+            189,
+            158
+          ],
+          "ratio": 0.07573784722222222,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#3d3a34",
+          "rgb": [
+            61,
+            58,
+            52
+          ],
+          "ratio": 0.017469618055555556,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-10-09T03:28:33.448Z",
+      "fileKey": "archive:mma_reproduction_of_a_fresco_with_a_griffin_258113",
+      "kind": "photo",
+      "photographer": "Emile Gilliéron",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "000000000000c7ffff03f02cffcffffff0f0",
+      "category": "painting",
+      "subjects": [
+        "ancient"
+      ]
+    },
+    {
+      "id": "9f115022-d536-4c5c-8339-1880e1ef3cde",
+      "title": "Textile Fragment",
+      "titleEn": "Textile Fragment",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/9f115022-d536-4c5c-8339-1880e1ef3cde.jpg",
+      "thumbUrl": "/stills/9f115022-d536-4c5c-8339-1880e1ef3cde.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1920.1674-textile-fragment",
+      "author": "Internet Archive",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "green",
+        "yellow",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#5a643f",
+          "rgb": [
+            90,
+            100,
+            63
+          ],
+          "ratio": 0.2523871527777778,
+          "bucket": "green"
+        },
+        {
+          "hex": "#737249",
+          "rgb": [
+            115,
+            114,
+            73
+          ],
+          "ratio": 0.24891493055555555,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#4c5a36",
+          "rgb": [
+            76,
+            90,
+            54
+          ],
+          "ratio": 0.2133246527777778,
+          "bucket": "green"
+        },
+        {
+          "hex": "#898158",
+          "rgb": [
+            137,
+            129,
+            88
+          ],
+          "ratio": 0.20692274305555555,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#eeede5",
+          "rgb": [
+            238,
+            237,
+            229
+          ],
+          "ratio": 0.07845052083333333,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-10-09T03:28:34.309Z",
+      "fileKey": "archive:clevelandart-1920.1674-textile-fragment",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "fff800800800800910820a09a01800820a00",
+      "category": "photo",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "63f95fdd-61c9-4186-94a1-f7f635839945",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/63f95fdd-61c9-4186-94a1-f7f635839945.jpg",
+      "thumbUrl": "/stills/63f95fdd-61c9-4186-94a1-f7f635839945.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_106987",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_106987",
+      "buckets": [
+        "orange",
+        "brown",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#c2bcb1",
+          "rgb": [
+            194,
+            188,
+            177
+          ],
+          "ratio": 0.4067925347222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#dbd5cb",
+          "rgb": [
+            219,
+            213,
+            203
+          ],
+          "ratio": 0.20540364583333334,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#aca293",
+          "rgb": [
+            172,
+            162,
+            147
+          ],
+          "ratio": 0.1724175347222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#837969",
+          "rgb": [
+            131,
+            121,
+            105
+          ],
+          "ratio": 0.1312934027777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#4e4842",
+          "rgb": [
+            78,
+            72,
+            66
+          ],
+          "ratio": 0.08409288194444445,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-10-09T03:28:35.153Z",
+      "fileKey": "archive:mma_dress_106987",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "ffffffcffe7fd9fd1fc0fc07c07c43cc0800",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "4ac11f4c-1ec2-49cf-8950-4cbdb5c22de7",
+      "title": "Evening dress",
+      "titleEn": "Evening dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/4ac11f4c-1ec2-49cf-8950-4cbdb5c22de7.jpg",
+      "thumbUrl": "/stills/4ac11f4c-1ec2-49cf-8950-4cbdb5c22de7.jpg",
+      "pageUrl": "https://archive.org/details/mma_evening_dress_82146",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_evening_dress_82146",
+      "buckets": [
+        "gray",
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#afaaa4",
+          "rgb": [
+            175,
+            170,
+            164
+          ],
+          "ratio": 0.3004557291666667,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#c9c6c2",
+          "rgb": [
+            201,
+            198,
+            194
+          ],
+          "ratio": 0.2913411458333333,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#45281c",
+          "rgb": [
+            69,
+            40,
+            28
+          ],
+          "ratio": 0.15071614583333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#7b4f3c",
+          "rgb": [
+            123,
+            79,
+            60
+          ],
+          "ratio": 0.1440972222222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#a7846e",
+          "rgb": [
+            167,
+            132,
+            110
+          ],
+          "ratio": 0.11338975694444445,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-09T03:28:36.060Z",
+      "fileKey": "archive:mma_evening_dress_82146",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "fbef1ff1ff8ffcffe7f27e07e03c01c01c01",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "d7fcb780-cbeb-4130-99ef-b352040c1e5c",
+      "title": "Textile Fragment",
+      "titleEn": "Textile Fragment",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/d7fcb780-cbeb-4130-99ef-b352040c1e5c.jpg",
+      "thumbUrl": "/stills/d7fcb780-cbeb-4130-99ef-b352040c1e5c.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1920.1561-textile-fragment",
+      "author": "Internet Archive",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "gray",
+        "blue",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#1d2026",
+          "rgb": [
+            29,
+            32,
+            38
+          ],
+          "ratio": 0.3375651041666667,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#8a8370",
+          "rgb": [
+            138,
+            131,
+            112
+          ],
+          "ratio": 0.3079427083333333,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#5f5d54",
+          "rgb": [
+            95,
+            93,
+            84
+          ],
+          "ratio": 0.13953993055555555,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#b7b6af",
+          "rgb": [
+            183,
+            182,
+            175
+          ],
+          "ratio": 0.1199001736111111,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#3a3a37",
+          "rgb": [
+            58,
+            58,
+            55
+          ],
+          "ratio": 0.09505208333333333,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-10-09T03:28:36.994Z",
+      "fileKey": "archive:clevelandart-1920.1561-textile-fragment",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "e218019ddbfd805801c63911b99911800913",
+      "category": "photo",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "9ca47025-102c-4f43-b795-7614d233d994",
+      "title": "Morning dress",
+      "titleEn": "Morning dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/9ca47025-102c-4f43-b795-7614d233d994.jpg",
+      "thumbUrl": "/stills/9ca47025-102c-4f43-b795-7614d233d994.jpg",
+      "pageUrl": "https://archive.org/details/mma_morning_dress_107969",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_morning_dress_107969",
+      "buckets": [
+        "yellow",
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#ebe0c5",
+          "rgb": [
+            235,
+            224,
+            197
+          ],
+          "ratio": 0.3541666666666667,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#e0cfac",
+          "rgb": [
+            224,
+            207,
+            172
+          ],
+          "ratio": 0.2699652777777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#b5753f",
+          "rgb": [
+            181,
+            117,
+            63
+          ],
+          "ratio": 0.1587456597222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#7d3211",
+          "rgb": [
+            125,
+            50,
+            17
+          ],
+          "ratio": 0.11675347222222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d1ab78",
+          "rgb": [
+            209,
+            171,
+            120
+          ],
+          "ratio": 0.1003689236111111,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-09T03:28:55.241Z",
+      "fileKey": "archive:mma_morning_dress_107969",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "ffffeff28f8fe07c05c07e0980d01f000fff",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "8087e925-1f84-40f6-8e70-bb40ced8bcf1",
+      "title": "Wedding dress",
+      "titleEn": "Wedding dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/8087e925-1f84-40f6-8e70-bb40ced8bcf1.jpg",
+      "thumbUrl": "/stills/8087e925-1f84-40f6-8e70-bb40ced8bcf1.jpg",
+      "pageUrl": "https://archive.org/details/mma_wedding_dress_84508",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_wedding_dress_84508",
+      "buckets": [
+        "gray",
+        "white",
+        "yellow",
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#c8cbc8",
+          "rgb": [
+            200,
+            203,
+            200
+          ],
+          "ratio": 0.2771267361111111,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#d1d7d5",
+          "rgb": [
+            209,
+            215,
+            213
+          ],
+          "ratio": 0.2746310763888889,
+          "bucket": "white"
+        },
+        {
+          "hex": "#c9c0a2",
+          "rgb": [
+            201,
+            192,
+            162
+          ],
+          "ratio": 0.16373697916666666,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#b59963",
+          "rgb": [
+            181,
+            153,
+            99
+          ],
+          "ratio": 0.1430121527777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#7e5c2f",
+          "rgb": [
+            126,
+            92,
+            47
+          ],
+          "ratio": 0.14149305555555555,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-09T03:28:57.149Z",
+      "fileKey": "archive:mma_wedding_dress_84508",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "ffbffaffbff9ff1ff0fe0ff0ff0f00c00d00",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "318a441c-c973-411a-abfa-677e9329a171",
+      "title": "Textile Fragment",
+      "titleEn": "Textile Fragment",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/318a441c-c973-411a-abfa-677e9329a171.jpg",
+      "thumbUrl": "/stills/318a441c-c973-411a-abfa-677e9329a171.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1920.1497-textile-fragment",
+      "author": "Internet Archive",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "orange",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#9a723d",
+          "rgb": [
+            154,
+            114,
+            61
+          ],
+          "ratio": 0.4303385416666667,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#ab854d",
+          "rgb": [
+            171,
+            133,
+            77
+          ],
+          "ratio": 0.2657335069444444,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#fdfdfc",
+          "rgb": [
+            253,
+            253,
+            252
+          ],
+          "ratio": 0.1821831597222222,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#79613f",
+          "rgb": [
+            121,
+            97,
+            63
+          ],
+          "ratio": 0.10731336805555555,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#d3c7b2",
+          "rgb": [
+            211,
+            199,
+            178
+          ],
+          "ratio": 0.014431423611111112,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-09T03:28:58.001Z",
+      "fileKey": "archive:clevelandart-1920.1497-textile-fragment",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "f80f00e00c00c01c01800800801801801c01",
+      "category": "photo",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "c39b0290-e990-466c-ad34-be69c243dbf2",
+      "title": "Brocade Textile",
+      "titleEn": "Brocade Textile",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/c39b0290-e990-466c-ad34-be69c243dbf2.jpg",
+      "thumbUrl": "/stills/c39b0290-e990-466c-ad34-be69c243dbf2.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1918.208-brocade-textile",
+      "author": "Internet Archive",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "orange",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#8b7366",
+          "rgb": [
+            139,
+            115,
+            102
+          ],
+          "ratio": 0.341796875,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#816b5e",
+          "rgb": [
+            129,
+            107,
+            94
+          ],
+          "ratio": 0.23893229166666666,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#927b6e",
+          "rgb": [
+            146,
+            123,
+            110
+          ],
+          "ratio": 0.2309027777777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#9da19c",
+          "rgb": [
+            157,
+            161,
+            156
+          ],
+          "ratio": 0.11317274305555555,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#735f53",
+          "rgb": [
+            115,
+            95,
+            83
+          ],
+          "ratio": 0.0751953125,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-09T03:28:59.439Z",
+      "fileKey": "archive:clevelandart-1918.208-brocade-textile",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "801801801b01b91b01e01e1f83d8fd8fdbf1",
+      "category": "photo",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "c9f8be4c-00d4-470c-9fbb-3ee70634b327",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/c9f8be4c-00d4-470c-9fbb-3ee70634b327.jpg",
+      "thumbUrl": "/stills/c9f8be4c-00d4-470c-9fbb-3ee70634b327.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_106065",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_106065",
+      "buckets": [
+        "white",
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#f5f6f4",
+          "rgb": [
+            245,
+            246,
+            244
+          ],
+          "ratio": 0.4235026041666667,
+          "bucket": "white"
+        },
+        {
+          "hex": "#8e7755",
+          "rgb": [
+            142,
+            119,
+            85
+          ],
+          "ratio": 0.2490234375,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#a48d68",
+          "rgb": [
+            164,
+            141,
+            104
+          ],
+          "ratio": 0.16243489583333334,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#745f44",
+          "rgb": [
+            116,
+            95,
+            68
+          ],
+          "ratio": 0.12727864583333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#4e4231",
+          "rgb": [
+            78,
+            66,
+            49
+          ],
+          "ratio": 0.037760416666666664,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-09T03:29:00.711Z",
+      "fileKey": "archive:mma_dress_106065",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "feff07c03801304f06f07f03e03e01c01e03",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "b50a0e3c-89d3-45f2-8908-ea14ba15c15f",
+      "title": "Textile Fragment",
+      "titleEn": "Textile Fragment",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/b50a0e3c-89d3-45f2-8908-ea14ba15c15f.jpg",
+      "thumbUrl": "/stills/b50a0e3c-89d3-45f2-8908-ea14ba15c15f.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1920.1594.a-textile-fragment",
+      "author": "Internet Archive",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "yellow",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#80642d",
+          "rgb": [
+            128,
+            100,
+            45
+          ],
+          "ratio": 0.2541232638888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#8d7841",
+          "rgb": [
+            141,
+            120,
+            65
+          ],
+          "ratio": 0.2392578125,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#a49256",
+          "rgb": [
+            164,
+            146,
+            86
+          ],
+          "ratio": 0.2048611111111111,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#5e5d2f",
+          "rgb": [
+            94,
+            93,
+            47
+          ],
+          "ratio": 0.16959635416666666,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#525224",
+          "rgb": [
+            82,
+            82,
+            36
+          ],
+          "ratio": 0.13216145833333334,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-10-09T03:29:06.395Z",
+      "fileKey": "archive:clevelandart-1920.1594.a-textile-fragment",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "2522660800060b8c9d494bfbf0e7df7fff8f",
+      "category": "photo",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "9ff17d78-d67c-4353-91c4-237f12303a49",
+      "title": "Textile Fragment of Painted Linen",
+      "titleEn": "Textile Fragment of Painted Linen",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/9ff17d78-d67c-4353-91c4-237f12303a49.jpg",
+      "thumbUrl": "/stills/9ff17d78-d67c-4353-91c4-237f12303a49.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1935.112-textile-fragment-of",
+      "author": "Internet Archive",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "orange",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#d1c5af",
+          "rgb": [
+            209,
+            197,
+            175
+          ],
+          "ratio": 0.3599175347222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d8cdb7",
+          "rgb": [
+            216,
+            205,
+            183
+          ],
+          "ratio": 0.2533637152777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#ada598",
+          "rgb": [
+            173,
+            165,
+            152
+          ],
+          "ratio": 0.1611328125,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#c3b7a2",
+          "rgb": [
+            195,
+            183,
+            162
+          ],
+          "ratio": 0.14366319444444445,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#968a7a",
+          "rgb": [
+            150,
+            138,
+            122
+          ],
+          "ratio": 0.08192274305555555,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-09T03:29:07.794Z",
+      "fileKey": "archive:clevelandart-1935.112-textile-fragment-of",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "4ccdc4d85cc4cec1fcc5ceccf8fc8c4ce0d8",
+      "category": "photo",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "3b8d7fc1-d578-40e7-8aa4-4c364cdf92f0",
+      "title": "Wedding dress",
+      "titleEn": "Wedding dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/3b8d7fc1-d578-40e7-8aa4-4c364cdf92f0.jpg",
+      "thumbUrl": "/stills/3b8d7fc1-d578-40e7-8aa4-4c364cdf92f0.jpg",
+      "pageUrl": "https://archive.org/details/mma_wedding_dress_107718",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_wedding_dress_107718",
+      "buckets": [
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#b9b29f",
+          "rgb": [
+            185,
+            178,
+            159
+          ],
+          "ratio": 0.3387586805555556,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#b5a684",
+          "rgb": [
+            181,
+            166,
+            132
+          ],
+          "ratio": 0.24891493055555555,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#ad9e7a",
+          "rgb": [
+            173,
+            158,
+            122
+          ],
+          "ratio": 0.20572916666666666,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#beaf8b",
+          "rgb": [
+            190,
+            175,
+            139
+          ],
+          "ratio": 0.1457248263888889,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#a2926c",
+          "rgb": [
+            162,
+            146,
+            108
+          ],
+          "ratio": 0.060872395833333336,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-10-09T03:29:08.848Z",
+      "fileKey": "archive:mma_wedding_dress_107718",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "ce0c01f81c03c03cc3ce3cfbcf3cc3c03e17",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "486e86dd-7f70-4dc0-b21c-1fe02d61d270",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/486e86dd-7f70-4dc0-b21c-1fe02d61d270.jpg",
+      "thumbUrl": "/stills/486e86dd-7f70-4dc0-b21c-1fe02d61d270.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_99989",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_99989",
+      "buckets": [
+        "brown",
+        "gray",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#d1ced4",
+          "rgb": [
+            209,
+            206,
+            212
+          ],
+          "ratio": 0.3344184027777778,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#946033",
+          "rgb": [
+            148,
+            96,
+            51
+          ],
+          "ratio": 0.2348090277777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#ba8a55",
+          "rgb": [
+            186,
+            138,
+            85
+          ],
+          "ratio": 0.18055555555555555,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#5c2d17",
+          "rgb": [
+            92,
+            45,
+            23
+          ],
+          "ratio": 0.15299479166666666,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#deb884",
+          "rgb": [
+            222,
+            184,
+            132
+          ],
+          "ratio": 0.09722222222222222,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-09T03:29:09.744Z",
+      "fileKey": "archive:mma_dress_99989",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "e2feb7ef7e1fe17e07c03803803801801801",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "52b5be9c-5a94-4fde-9c76-11d3db8d8f89",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/52b5be9c-5a94-4fde-9c76-11d3db8d8f89.jpg",
+      "thumbUrl": "/stills/52b5be9c-5a94-4fde-9c76-11d3db8d8f89.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_84521",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_84521",
+      "buckets": [
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#e4dcca",
+          "rgb": [
+            228,
+            220,
+            202
+          ],
+          "ratio": 0.3360460069444444,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#939060",
+          "rgb": [
+            147,
+            144,
+            96
+          ],
+          "ratio": 0.2094184027777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#b7b384",
+          "rgb": [
+            183,
+            179,
+            132
+          ],
+          "ratio": 0.1957465277777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#655f36",
+          "rgb": [
+            101,
+            95,
+            54
+          ],
+          "ratio": 0.1478949652777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#d3ceab",
+          "rgb": [
+            211,
+            206,
+            171
+          ],
+          "ratio": 0.11089409722222222,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-10-09T03:29:10.602Z",
+      "fileKey": "archive:mma_dress_84521",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "f7ffbff1fe4fe07c0fc03c05801c00800800",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "252bc993-94bd-4168-8db2-5c4b7192ffba",
+      "title": "Wedding dress",
+      "titleEn": "Wedding dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/252bc993-94bd-4168-8db2-5c4b7192ffba.jpg",
+      "thumbUrl": "/stills/252bc993-94bd-4168-8db2-5c4b7192ffba.jpg",
+      "pageUrl": "https://archive.org/details/mma_wedding_dress_102317",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_wedding_dress_102317",
+      "buckets": [
+        "yellow",
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#c6b591",
+          "rgb": [
+            198,
+            181,
+            145
+          ],
+          "ratio": 0.2728949652777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#d0c2a8",
+          "rgb": [
+            208,
+            194,
+            168
+          ],
+          "ratio": 0.2687717013888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#b99957",
+          "rgb": [
+            185,
+            153,
+            87
+          ],
+          "ratio": 0.1694878472222222,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#d8cbb1",
+          "rgb": [
+            216,
+            203,
+            177
+          ],
+          "ratio": 0.158203125,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#88662c",
+          "rgb": [
+            136,
+            102,
+            44
+          ],
+          "ratio": 0.1306423611111111,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-09T03:29:27.694Z",
+      "fileKey": "archive:mma_wedding_dress_102317",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "fffffff67f01c01cf10f30fb863803c03e0f",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "fa518c12-4d9b-4bc8-9546-80da36fca3d3",
+      "title": "STS-105 crew in a group portrait in the ISS U.S. Laboratory/Destiny, pinwheel shape",
+      "titleEn": "STS-105 crew in a group portrait in the ISS U.S. Laboratory/Destiny, pinwheel shape",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/fa518c12-4d9b-4bc8-9546-80da36fca3d3.jpg",
+      "thumbUrl": "/stills/fa518c12-4d9b-4bc8-9546-80da36fca3d3.jpg",
+      "pageUrl": "https://archive.org/details/sts105-717-060",
+      "author": "NASA",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/sts105-717-060",
+      "buckets": [
+        "blue",
+        "gray",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#191c24",
+          "rgb": [
+            25,
+            28,
+            36
+          ],
+          "ratio": 0.4657118055555556,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#474e56",
+          "rgb": [
+            71,
+            78,
+            86
+          ],
+          "ratio": 0.17664930555555555,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#93867f",
+          "rgb": [
+            147,
+            134,
+            127
+          ],
+          "ratio": 0.1605902777777778,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#ddd8d5",
+          "rgb": [
+            221,
+            216,
+            213
+          ],
+          "ratio": 0.12272135416666667,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#a3442f",
+          "rgb": [
+            163,
+            68,
+            47
+          ],
+          "ratio": 0.07432725694444445,
+          "bucket": "red"
+        }
+      ],
+      "addedAt": "2026-10-09T03:29:29.295Z",
+      "fileKey": "archive:sts105-717-060",
+      "kind": "photo",
+      "photographer": "NASA",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "c00c10c60ce0df8dfccf8cb8038030030860",
+      "category": "photo",
+      "people": "crowd",
+      "subjects": [
+        "portrait"
+      ]
+    },
+    {
+      "id": "a23c7a91-be83-4cd9-8778-421d7d29aad1",
+      "title": "The Chinese terracotta Army General with Horse",
+      "titleEn": "The Chinese terracotta Army General with Horse",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/a23c7a91-be83-4cd9-8778-421d7d29aad1.jpg",
+      "thumbUrl": "/stills/a23c7a91-be83-4cd9-8778-421d7d29aad1.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:The_Chinese_terracotta_Army_General_with_Horse.jpg",
+      "author": "Ralbahitha",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "buckets": [
+        "gray",
+        "black"
+      ],
+      "palette": [
+        {
+          "hex": "#403837",
+          "rgb": [
+            64,
+            56,
+            55
+          ],
+          "ratio": 0.3064236111111111,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#64615e",
+          "rgb": [
+            100,
+            97,
+            94
+          ],
+          "ratio": 0.2578125,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#1b1817",
+          "rgb": [
+            27,
+            24,
+            23
+          ],
+          "ratio": 0.24674479166666666,
+          "bucket": "black"
+        },
+        {
+          "hex": "#9d968e",
+          "rgb": [
+            157,
+            150,
+            142
+          ],
+          "ratio": 0.1303168402777778,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#f0f2f2",
+          "rgb": [
+            240,
+            242,
+            242
+          ],
+          "ratio": 0.05870225694444445,
+          "bucket": "white"
+        }
+      ],
+      "addedAt": "2026-10-09T03:33:02.173Z",
+      "fileKey": "File:The Chinese terracotta Army General with Horse.jpg",
+      "kind": "film",
+      "photographer": "Ralbahitha",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "be7be3ae7887800c00c20c10c11c31831c33",
+      "category": "film",
+      "subjects": [
+        "people"
+      ]
+    },
+    {
+      "id": "70bc0e50-a064-4d4d-ab8a-01d2ca3a08b0",
+      "title": "Yungang Grottoes, Cave 11, West Wall",
+      "titleEn": "Yungang Grottoes, Cave 11, West Wall",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/70bc0e50-a064-4d4d-ab8a-01d2ca3a08b0.jpg",
+      "thumbUrl": "/stills/70bc0e50-a064-4d4d-ab8a-01d2ca3a08b0.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Yungang_Grottoes,_Cave_11,_West_Wall.jpg",
+      "author": "Anonymous. The postcard set was published in Keijo(Today Seoul) in 1939.",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Yungang_Grottoes,_Cave_11,_West_Wall.jpg",
+      "buckets": [
+        "blue",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#748694",
+          "rgb": [
+            116,
+            134,
+            148
+          ],
+          "ratio": 0.2530381944444444,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#566979",
+          "rgb": [
+            86,
+            105,
+            121
+          ],
+          "ratio": 0.2508680555555556,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#313f4d",
+          "rgb": [
+            49,
+            63,
+            77
+          ],
+          "ratio": 0.19173177083333334,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#dbd8d3",
+          "rgb": [
+            219,
+            216,
+            211
+          ],
+          "ratio": 0.1740451388888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#96a5ae",
+          "rgb": [
+            150,
+            165,
+            174
+          ],
+          "ratio": 0.1303168402777778,
+          "bucket": "blue"
+        }
+      ],
+      "addedAt": "2026-10-09T03:33:13.673Z",
+      "fileKey": "File:Yungang Grottoes, Cave 11, West Wall.jpg",
+      "kind": "film",
+      "photographer": "Anonymous. The postcard set was published in Keijo(Today Seoul) in 1939.",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "81fa1f80380380380380380380380f807ad3"
     }
   ],
-  "lastIngestDate": "2026-10-08",
+  "lastIngestDate": "2026-10-09",
   "seenFileKeys": [
     "stills:04b85cc4-5a5c-4d95-9d52-460ceefa3ee5.jpg",
     "stills:0509b1d5-b5da-4b3c-8e65-edda97b86985.jpg",
@@ -367514,7 +369300,43 @@
     "File:Dunhuang Tang mural shieldbearers.jpg",
     "File:十二花神春牛图.png",
     "File:Terracotta warriors (27004).jpg",
-    "File:C1925 green satin dress with attached painted velvet wrap by Paul Poiret, Paris. 02.jpg"
+    "File:C1925 green satin dress with attached painted velvet wrap by Paul Poiret, Paris. 02.jpg",
+    "archive:clevelandart-1920.1748-textile-fragment",
+    "archive:mma_wedding_dress_159224",
+    "archive:clevelandart-1920.1594.b-textile-fragment",
+    "archive:mma_evening_dress_107058",
+    "archive:mma_reproduction_of_a_fresco_with_a_griffin_258113",
+    "archive:clevelandart-1920.1674-textile-fragment",
+    "archive:mma_dress_106987",
+    "archive:mma_evening_dress_82146",
+    "archive:clevelandart-1920.1561-textile-fragment",
+    "archive:mma_morning_dress_85322",
+    "archive:mma_dress_106892",
+    "archive:mma_morning_dress_107969",
+    "archive:mma_dress_83350",
+    "archive:mma_afternoon_dress_173566",
+    "archive:mma_wedding_dress_84508",
+    "archive:clevelandart-1920.1497-textile-fragment",
+    "archive:mma_dress_98224",
+    "archive:clevelandart-1918.208-brocade-textile",
+    "archive:mma_dress_106065",
+    "archive:clevelandart-1920.1540-textile-fragment",
+    "archive:clevelandart-1920.1594.a-textile-fragment",
+    "archive:mma_evening_dress_82157",
+    "archive:clevelandart-1935.112-textile-fragment-of",
+    "archive:mma_wedding_dress_107718",
+    "archive:mma_dress_99989",
+    "archive:mma_dress_84521",
+    "archive:mma_wedding_dress_102317",
+    "archive:mma_evening_dress_86867",
+    "archive:sts105-717-060",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_2011-12-05",
+    "archive:brooklynmuseum-o1593-portrait-of-leroy-ireland",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1999-01-09",
+    "File:Thonet-Modell 225-a.jpg",
+    "File:The Chinese terracotta Army General with Horse.jpg",
+    "File:Fresco from Pompeii - Terentius Neo and his wife 5.jpg",
+    "File:Yungang Grottoes, Cave 11, West Wall.jpg"
   ],
   "seenContentHashes": [
     "ff8f20c0481cf3cffcf7ce58ffcffcffcd7e",
@@ -371785,6 +373607,28 @@
     "fff020020020e23f23f23e23022020020028",
     "803fdbf5fc03c070003c899800a58bdabfff",
     "0000000008008637f9fa8e0cf08fffffffff",
-    "f0fe0fe0fe07e07e03e0ff0ff0ff0ff0ff0f"
+    "f0fe0fe0fe07e07e03e0ff0ff0ff0ff0ff0f",
+    "fff0003201b6b32b0260466c26c04c000fb6",
+    "887801b01a01831a83a01b01b81b29b01901",
+    "04304dc4ffffefffffffffffdff101000000",
+    "000000000000c7ffff03f02cffcffffff0f0",
+    "fff800800800800910820a09a01800820a00",
+    "ffffffcffe7fd9fd1fc0fc07c07c43cc0800",
+    "fbef1ff1ff8ffcffe7f27e07e03c01c01c01",
+    "e218019ddbfd805801c63911b99911800913",
+    "ffffeff28f8fe07c05c07e0980d01f000fff",
+    "ffbffaffbff9ff1ff0fe0ff0ff0f00c00d00",
+    "f80f00e00c00c01c01800800801801801c01",
+    "801801801b01b91b01e01e1f83d8fd8fdbf1",
+    "feff07c03801304f06f07f03e03e01c01e03",
+    "2522660800060b8c9d494bfbf0e7df7fff8f",
+    "4ccdc4d85cc4cec1fcc5ceccf8fc8c4ce0d8",
+    "ce0c01f81c03c03cc3ce3cfbcf3cc3c03e17",
+    "e2feb7ef7e1fe17e07c03803803801801801",
+    "f7ffbff1fe4fe07c0fc03c05801c00800800",
+    "fffffff67f01c01cf10f30fb863803c03e0f",
+    "c00c10c60ce0df8dfccf8cb8038030030860",
+    "be7be3ae7887800c00c20c10c11c31831c33",
+    "81fa1f80380380380380380380380f807ad3"
   ]
 }
