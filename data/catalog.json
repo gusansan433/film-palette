@@ -363777,10 +363777,899 @@
       "kind": "photo",
       "photographer": "Unknown author Unknown author",
       "sourceLabel": "维基共享资源",
-      "contentHash": "ff8e61e44cc2ccb9d991933d27b770ff07d0"
+      "contentHash": "ff8e61e44cc2ccb9d991933d27b770ff07d0",
+      "category": "painting",
+      "subjects": [
+        "ancient"
+      ]
+    },
+    {
+      "id": "1307bda2-88f6-4f20-a5ca-ec127ff74a0b",
+      "title": "Overdoor Painting and Double-Leaf Doors",
+      "titleEn": "Overdoor Painting and Double-Leaf Doors",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/1307bda2-88f6-4f20-a5ca-ec127ff74a0b.jpg",
+      "thumbUrl": "/stills/1307bda2-88f6-4f20-a5ca-ec127ff74a0b.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1944.466-overdoor-painting-an",
+      "author": "Pierre Rousseau (French, 1751–1829)",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "orange",
+        "brown",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#b4894d",
+          "rgb": [
+            180,
+            137,
+            77
+          ],
+          "ratio": 0.31640625,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#ba9a65",
+          "rgb": [
+            186,
+            154,
+            101
+          ],
+          "ratio": 0.2306857638888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#c1ad82",
+          "rgb": [
+            193,
+            173,
+            130
+          ],
+          "ratio": 0.22157118055555555,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#8e6630",
+          "rgb": [
+            142,
+            102,
+            48
+          ],
+          "ratio": 0.1792534722222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#332d1f",
+          "rgb": [
+            51,
+            45,
+            31
+          ],
+          "ratio": 0.052083333333333336,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-11T02:36:18.382Z",
+      "fileKey": "archive:clevelandart-1944.466-overdoor-painting-an",
+      "kind": "photo",
+      "photographer": "Pierre Rousseau (French, 1751–1829)",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "0003f7f77ffeb7ff73b76f7437c36c000000",
+      "category": "painting",
+      "subjects": []
+    },
+    {
+      "id": "833a012e-5d25-4458-8fb6-def7dc0723db",
+      "title": "Portrait of a Woman in a Blue Dress",
+      "titleEn": "Portrait of a Woman in a Blue Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/833a012e-5d25-4458-8fb6-def7dc0723db.jpg",
+      "thumbUrl": "/stills/833a012e-5d25-4458-8fb6-def7dc0723db.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1943.650-portrait-of-a-woman",
+      "author": "André Pujos (French, 1738–1788)",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#605c49",
+          "rgb": [
+            96,
+            92,
+            73
+          ],
+          "ratio": 0.3251953125,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#a2a19a",
+          "rgb": [
+            162,
+            161,
+            154
+          ],
+          "ratio": 0.2713758680555556,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#908560",
+          "rgb": [
+            144,
+            133,
+            96
+          ],
+          "ratio": 0.17513020833333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#28241a",
+          "rgb": [
+            40,
+            36,
+            26
+          ],
+          "ratio": 0.1640625,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#d2c9a8",
+          "rgb": [
+            210,
+            201,
+            168
+          ],
+          "ratio": 0.0642361111111111,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-10-11T02:36:19.459Z",
+      "fileKey": "archive:clevelandart-1943.650-portrait-of-a-woman",
+      "kind": "photo",
+      "photographer": "André Pujos (French, 1738–1788)",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "fdfe07c63965a62860ce29f2a0690ccf8c01",
+      "category": "photo",
+      "people": "one",
+      "subjects": [
+        "portrait",
+        "people",
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "fca0b357-0ad6-4585-ac34-a7d03eac9cde",
+      "title": "Portrait of a Woman, possibly Elizabeth Boothby",
+      "titleEn": "Portrait of a Woman, possibly Elizabeth Boothby",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/fca0b357-0ad6-4585-ac34-a7d03eac9cde.jpg",
+      "thumbUrl": "/stills/fca0b357-0ad6-4585-ac34-a7d03eac9cde.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1973.185-portrait-of-a-woman",
+      "author": "Cornelis Jonson (called Jonson van Ceulen) (British, 1593–1661)",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "yellow",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#26261d",
+          "rgb": [
+            38,
+            38,
+            29
+          ],
+          "ratio": 0.37890625,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#392f21",
+          "rgb": [
+            57,
+            47,
+            33
+          ],
+          "ratio": 0.2251519097222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#766756",
+          "rgb": [
+            118,
+            103,
+            86
+          ],
+          "ratio": 0.1353081597222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#524133",
+          "rgb": [
+            82,
+            65,
+            51
+          ],
+          "ratio": 0.13053385416666666,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#a29378",
+          "rgb": [
+            162,
+            147,
+            120
+          ],
+          "ratio": 0.1300998263888889,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-11T02:36:22.190Z",
+      "fileKey": "archive:clevelandart-1973.185-portrait-of-a-woman",
+      "kind": "photo",
+      "photographer": "Cornelis Jonson (called Jonson van Ceulen) (British, 1593–1661)",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "0000000700701701f00f00f81f83f8378078",
+      "category": "photo",
+      "people": "one",
+      "subjects": [
+        "portrait",
+        "people"
+      ]
+    },
+    {
+      "id": "2f871e9d-2abc-4c0a-9e59-c59d42ce3f53",
+      "title": "Armchair (part of a set)",
+      "titleEn": "Armchair (part of a set)",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/2f871e9d-2abc-4c0a-9e59-c59d42ce3f53.jpg",
+      "thumbUrl": "/stills/2f871e9d-2abc-4c0a-9e59-c59d42ce3f53.jpg",
+      "pageUrl": "https://archive.org/details/mma_armchair_part_of_a_set_209097",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_armchair_part_of_a_set_209097",
+      "buckets": [
+        "brown",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#614f3e",
+          "rgb": [
+            97,
+            79,
+            62
+          ],
+          "ratio": 0.2887369791666667,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#bdbdbb",
+          "rgb": [
+            189,
+            189,
+            187
+          ],
+          "ratio": 0.23253038194444445,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#766a5e",
+          "rgb": [
+            118,
+            106,
+            94
+          ],
+          "ratio": 0.1923828125,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#473325",
+          "rgb": [
+            71,
+            51,
+            37
+          ],
+          "ratio": 0.16004774305555555,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#9b9791",
+          "rgb": [
+            155,
+            151,
+            145
+          ],
+          "ratio": 0.12630208333333334,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-10-11T02:36:25.505Z",
+      "fileKey": "archive:mma_armchair_part_of_a_set_209097",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "ffffffff7ffdf83003803203003001000000",
+      "category": "photo",
+      "subjects": [
+        "design"
+      ]
+    },
+    {
+      "id": "e9c60d1c-aec8-45e9-b7fd-fd47af70d92f",
+      "title": "Armchair (one of a pair)",
+      "titleEn": "Armchair (one of a pair)",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/e9c60d1c-aec8-45e9-b7fd-fd47af70d92f.jpg",
+      "thumbUrl": "/stills/e9c60d1c-aec8-45e9-b7fd-fd47af70d92f.jpg",
+      "pageUrl": "https://archive.org/details/mma_armchair_one_of_a_pair_236103",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_armchair_one_of_a_pair_236103",
+      "buckets": [
+        "gray",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#5e5750",
+          "rgb": [
+            94,
+            87,
+            80
+          ],
+          "ratio": 0.21788194444444445,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#717170",
+          "rgb": [
+            113,
+            113,
+            112
+          ],
+          "ratio": 0.21354166666666666,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#543828",
+          "rgb": [
+            84,
+            56,
+            40
+          ],
+          "ratio": 0.1987847222222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#2e2118",
+          "rgb": [
+            46,
+            33,
+            24
+          ],
+          "ratio": 0.1906467013888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#2f3636",
+          "rgb": [
+            47,
+            54,
+            54
+          ],
+          "ratio": 0.1791449652777778,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-10-11T02:36:26.699Z",
+      "fileKey": "archive:mma_armchair_one_of_a_pair_236103",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "f9ff07f07f07e07f07ffff07300000000000",
+      "category": "photo",
+      "people": "two",
+      "subjects": [
+        "design"
+      ]
+    },
+    {
+      "id": "0c9a9615-b447-41ec-b1ea-f44042ef1984",
+      "title": "Armchair",
+      "titleEn": "Armchair",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/0c9a9615-b447-41ec-b1ea-f44042ef1984.jpg",
+      "thumbUrl": "/stills/0c9a9615-b447-41ec-b1ea-f44042ef1984.jpg",
+      "pageUrl": "https://archive.org/details/mma_armchair_186",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_armchair_186",
+      "buckets": [
+        "white",
+        "brown",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#dadcdf",
+          "rgb": [
+            218,
+            220,
+            223
+          ],
+          "ratio": 0.4283854166666667,
+          "bucket": "white"
+        },
+        {
+          "hex": "#e7e8eb",
+          "rgb": [
+            231,
+            232,
+            235
+          ],
+          "ratio": 0.1931423611111111,
+          "bucket": "white"
+        },
+        {
+          "hex": "#462a22",
+          "rgb": [
+            70,
+            42,
+            34
+          ],
+          "ratio": 0.14756944444444445,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#c4c2c4",
+          "rgb": [
+            196,
+            194,
+            196
+          ],
+          "ratio": 0.14420572916666666,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#897262",
+          "rgb": [
+            137,
+            114,
+            98
+          ],
+          "ratio": 0.0866970486111111,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-11T02:36:27.611Z",
+      "fileKey": "archive:mma_armchair_186",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "f8ff9ff9fed7c03e67c03c03c03c03cf3cfb",
+      "category": "photo",
+      "subjects": [
+        "design"
+      ]
+    },
+    {
+      "id": "2cc78a03-5bab-4c10-8d6b-884408db5864",
+      "title": "Armchair",
+      "titleEn": "Armchair",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/2cc78a03-5bab-4c10-8d6b-884408db5864.jpg",
+      "thumbUrl": "/stills/2cc78a03-5bab-4c10-8d6b-884408db5864.jpg",
+      "pageUrl": "https://archive.org/details/mma_armchair_182",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_armchair_182",
+      "buckets": [
+        "blue",
+        "red"
+      ],
+      "palette": [
+        {
+          "hex": "#dedfeb",
+          "rgb": [
+            222,
+            223,
+            235
+          ],
+          "ratio": 0.4345703125,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#e4e6f1",
+          "rgb": [
+            228,
+            230,
+            241
+          ],
+          "ratio": 0.2546657986111111,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#5d2227",
+          "rgb": [
+            93,
+            34,
+            39
+          ],
+          "ratio": 0.15234375,
+          "bucket": "red"
+        },
+        {
+          "hex": "#a74d59",
+          "rgb": [
+            167,
+            77,
+            89
+          ],
+          "ratio": 0.1120876736111111,
+          "bucket": "red"
+        },
+        {
+          "hex": "#bc9da8",
+          "rgb": [
+            188,
+            157,
+            168
+          ],
+          "ratio": 0.046332465277777776,
+          "bucket": "pink"
+        }
+      ],
+      "addedAt": "2026-10-11T02:36:44.317Z",
+      "fileKey": "archive:mma_armchair_182",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "f0fe97f9fe17909d0bc03c03e03e73efbefb",
+      "category": "photo",
+      "subjects": [
+        "design"
+      ]
+    },
+    {
+      "id": "60bc3b2c-d189-48cc-8a14-8f1b3bd81960",
+      "title": "Young Woman Knitting",
+      "titleEn": "Young Woman Knitting",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/60bc3b2c-d189-48cc-8a14-8f1b3bd81960.jpg",
+      "thumbUrl": "/stills/60bc3b2c-d189-48cc-8a14-8f1b3bd81960.jpg",
+      "pageUrl": "https://www.metmuseum.org/art/collection/search/437159",
+      "author": "Berthe Morisot",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "orange",
+        "green",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#c4b59f",
+          "rgb": [
+            196,
+            181,
+            159
+          ],
+          "ratio": 0.2912326388888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#b19e7d",
+          "rgb": [
+            177,
+            158,
+            125
+          ],
+          "ratio": 0.2545572916666667,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#677e59",
+          "rgb": [
+            103,
+            126,
+            89
+          ],
+          "ratio": 0.19346788194444445,
+          "bucket": "green"
+        },
+        {
+          "hex": "#948962",
+          "rgb": [
+            148,
+            137,
+            98
+          ],
+          "ratio": 0.17708333333333334,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#485837",
+          "rgb": [
+            72,
+            88,
+            55
+          ],
+          "ratio": 0.08365885416666667,
+          "bucket": "green"
+        }
+      ],
+      "addedAt": "2026-10-11T02:36:46.151Z",
+      "fileKey": "openverse:51139557-f7bf-41de-abaf-d7497f367d3c",
+      "kind": "photo",
+      "photographer": "Berthe Morisot",
+      "sourceLabel": "Met Museum",
+      "contentHash": "00d0000010c30c71df1ff1fffffdcffffffd",
+      "category": "photo",
+      "subjects": [
+        "people"
+      ]
+    },
+    {
+      "id": "685dc0af-a601-4204-8cf8-5535dd9e8e52",
+      "title": "20241025 Red Wood Block for Nianhua Printing, ROC Period (1912-1949) 02",
+      "titleEn": "20241025 Red Wood Block for Nianhua Printing, ROC Period (1912 1949) 02",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/685dc0af-a601-4204-8cf8-5535dd9e8e52.jpg",
+      "thumbUrl": "/stills/685dc0af-a601-4204-8cf8-5535dd9e8e52.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:20241025_Red_Wood_Block_for_Nianhua_Printing,_ROC_Period_(1912-1949)_02.jpg",
+      "author": "Windmemories",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "buckets": [
+        "red",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#ebe1d8",
+          "rgb": [
+            235,
+            225,
+            216
+          ],
+          "ratio": 0.2641059027777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#ec846d",
+          "rgb": [
+            236,
+            132,
+            109
+          ],
+          "ratio": 0.2543402777777778,
+          "bucket": "red"
+        },
+        {
+          "hex": "#d1634e",
+          "rgb": [
+            209,
+            99,
+            78
+          ],
+          "ratio": 0.2426215277777778,
+          "bucket": "red"
+        },
+        {
+          "hex": "#9e483a",
+          "rgb": [
+            158,
+            72,
+            58
+          ],
+          "ratio": 0.1960720486111111,
+          "bucket": "red"
+        },
+        {
+          "hex": "#3e120c",
+          "rgb": [
+            62,
+            18,
+            12
+          ],
+          "ratio": 0.04286024305555555,
+          "bucket": "red"
+        }
+      ],
+      "addedAt": "2026-10-11T02:40:02.625Z",
+      "fileKey": "File:20241025 Red Wood Block for Nianhua Printing, ROC Period (1912-1949) 02.jpg",
+      "kind": "photo",
+      "photographer": "Windmemories",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "80380382380380380b803803805801801fff",
+      "category": "painting",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "3f77c232-db2f-48bc-bd18-8e6209712714",
+      "title": "Hieronymus Bosch - Triptych of Garden of Earthly Delights (detail) - WGA2522",
+      "titleEn": "Hieronymus Bosch Triptych of Garden of Earthly Delights (detail) WGA2522",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/3f77c232-db2f-48bc-bd18-8e6209712714.jpg",
+      "thumbUrl": "/stills/3f77c232-db2f-48bc-bd18-8e6209712714.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Hieronymus_Bosch_-_Triptych_of_Garden_of_Earthly_Delights_(detail)_-_WGA2522.jpg",
+      "author": "Wikimedia Commons",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Hieronymus_Bosch_-_Triptych_of_Garden_of_Earthly_Delights_(detail)_-_WGA2522.jpg",
+      "buckets": [
+        "brown",
+        "yellow",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#ad854e",
+          "rgb": [
+            173,
+            133,
+            78
+          ],
+          "ratio": 0.2801649305555556,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#7f6344",
+          "rgb": [
+            127,
+            99,
+            68
+          ],
+          "ratio": 0.2569444444444444,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#d3d3c2",
+          "rgb": [
+            211,
+            211,
+            194
+          ],
+          "ratio": 0.1745876736111111,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#3d362b",
+          "rgb": [
+            61,
+            54,
+            43
+          ],
+          "ratio": 0.16417100694444445,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#b3b2a0",
+          "rgb": [
+            179,
+            178,
+            160
+          ],
+          "ratio": 0.12413194444444445,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-10-11T02:40:08.361Z",
+      "fileKey": "File:Hieronymus Bosch - Triptych of Garden of Earthly Delights (detail) - WGA2522.jpg",
+      "kind": "photo",
+      "photographer": "Hieronymus Bosch",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "ffff7ff3bc70c2020030210f02f768040060",
+      "category": "painting",
+      "subjects": [
+        "nature"
+      ]
+    },
+    {
+      "id": "a12b4854-40a7-43cc-895d-c8fd7b3951d7",
+      "title": "Painting from Ajanta Caves, possibly Satavahana Period, circa 1st century BCE to 2nd century CE",
+      "titleEn": "Painting from Ajanta Caves, possibly Satavahana Period, circa 1st century BCE to 2nd century CE",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/a12b4854-40a7-43cc-895d-c8fd7b3951d7.jpg",
+      "thumbUrl": "/stills/a12b4854-40a7-43cc-895d-c8fd7b3951d7.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Painting_from_Ajanta_Caves,_possibly_Satavahana_Period,_circa_1st_century_BCE_to_2nd_century_CE.jpg",
+      "author": "SpeakingArch",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "buckets": [
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#654a1a",
+          "rgb": [
+            101,
+            74,
+            26
+          ],
+          "ratio": 0.2703993055555556,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#463014",
+          "rgb": [
+            70,
+            48,
+            20
+          ],
+          "ratio": 0.2649739583333333,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#806325",
+          "rgb": [
+            128,
+            99,
+            37
+          ],
+          "ratio": 0.2292751736111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#a07d2b",
+          "rgb": [
+            160,
+            125,
+            43
+          ],
+          "ratio": 0.166015625,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#bc9a45",
+          "rgb": [
+            188,
+            154,
+            69
+          ],
+          "ratio": 0.0693359375,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-10-11T02:40:14.061Z",
+      "fileKey": "File:Painting from Ajanta Caves, possibly Satavahana Period, circa 1st century BCE to 2nd century CE.jpg",
+      "kind": "photo",
+      "photographer": "SpeakingArch",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "ffffffffe3ff1fb0f907902e108018004003"
     }
   ],
-  "lastIngestDate": "2026-10-10",
+  "lastIngestDate": "2026-10-11",
   "seenFileKeys": [
     "stills:04b85cc4-5a5c-4d95-9d52-460ceefa3ee5.jpg",
     "stills:0509b1d5-b5da-4b3c-8e65-edda97b86985.jpg",
@@ -370775,7 +371664,35 @@
     "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1918-05-05",
     "File:The Painter Tutuka (\"Citrakara Tutukasya\") Cave of the Painters, Kizil Caves, circa 500 CE.jpg",
     "File:Roman fresco depicting Partridge and Pomegranates House of the Stags Herculaneum.jpg",
-    "File:Dunhuang Zhang Yichao departure 01.jpg"
+    "File:Dunhuang Zhang Yichao departure 01.jpg",
+    "archive:mma_legs_and_costume_of_a_javanese_dancer_from_sketchbook_of_javanese_dancers_1848",
+    "archive:C1403CN023",
+    "archive:clevelandart-1944.466-overdoor-painting-an",
+    "archive:clevelandart-1943.650-portrait-of-a-woman",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1939-01-16",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1938-12-13",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1939-03-02",
+    "archive:clevelandart-1973.185-portrait-of-a-woman",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1939-02-19",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1939-03-30",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1937-08-05",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1937-06-12",
+    "archive:mma_armchair_part_of_a_set_209097",
+    "archive:mma_armchair_one_of_a_pair_236103",
+    "archive:mma_armchair_186",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1937-08-11",
+    "archive:mma_banisterback_armchair_147",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1938-12-23",
+    "archive:clevelandart-1960.56-statue-of-amenemhat",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1938-08-13",
+    "archive:mma_armchair_182",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1937-08-23",
+    "openverse:51139557-f7bf-41de-abaf-d7497f367d3c",
+    "archive:mma_armchair_one_of_a_set_of_six_231909",
+    "File:20241025 Black Wood Block for Nianhua Printing, ROC Period (1912-1949) 03.jpg",
+    "File:20241025 Red Wood Block for Nianhua Printing, ROC Period (1912-1949) 02.jpg",
+    "File:Hieronymus Bosch - Triptych of Garden of Earthly Delights (detail) - WGA2522.jpg",
+    "File:Painting from Ajanta Caves, possibly Satavahana Period, circa 1st century BCE to 2nd century CE.jpg"
   ],
   "seenContentHashes": [
     "ff8f20c0481cf3cffcf7ce58ffcffcffcd7e",
@@ -375085,6 +376002,17 @@
     "bfdb7fb6fb7da1f90f901801801981a41f81",
     "1f87f87f87d80df42ef247207702101e0000",
     "ffdbf0bf0be4becbc19c79cf9df11c000800",
-    "ff8e61e44cc2ccb9d991933d27b770ff07d0"
+    "ff8e61e44cc2ccb9d991933d27b770ff07d0",
+    "0003f7f77ffeb7ff73b76f7437c36c000000",
+    "fdfe07c63965a62860ce29f2a0690ccf8c01",
+    "0000000700701701f00f00f81f83f8378078",
+    "ffffffff7ffdf83003803203003001000000",
+    "f9ff07f07f07e07f07ffff07300000000000",
+    "f8ff9ff9fed7c03e67c03c03c03c03cf3cfb",
+    "f0fe97f9fe17909d0bc03c03e03e73efbefb",
+    "00d0000010c30c71df1ff1fffffdcffffffd",
+    "80380382380380380b803803805801801fff",
+    "ffff7ff3bc70c2020030210f02f768040060",
+    "ffffffffe3ff1fb0f907902e108018004003"
   ]
 }
