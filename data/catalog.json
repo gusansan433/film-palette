@@ -364666,10 +364666,1219 @@
       "kind": "photo",
       "photographer": "SpeakingArch",
       "sourceLabel": "维基共享资源",
-      "contentHash": "ffffffffe3ff1fb0f907902e108018004003"
+      "contentHash": "ffffffffe3ff1fb0f907902e108018004003",
+      "category": "painting",
+      "subjects": [
+        "ancient"
+      ]
+    },
+    {
+      "id": "9ce7554e-3751-4872-8044-fe7282c73ead",
+      "title": "[Young Girl in Checked Dress with Roses, Sicily, Italy]",
+      "titleEn": "[Young Girl in Checked Dress with Roses, Sicily, Italy]",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/9ce7554e-3751-4872-8044-fe7282c73ead.jpg",
+      "thumbUrl": "/stills/9ce7554e-3751-4872-8044-fe7282c73ead.jpg",
+      "pageUrl": "https://archive.org/details/mma_young_girl_in_checked_dress_with_roses_sicily_italy_263862",
+      "author": "Wilhelm von Gloeden",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_young_girl_in_checked_dress_with_roses_sicily_italy_263862",
+      "buckets": [
+        "orange",
+        "brown",
+        "red"
+      ],
+      "palette": [
+        {
+          "hex": "#b6a894",
+          "rgb": [
+            182,
+            168,
+            148
+          ],
+          "ratio": 0.2345920138888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#e5d8bf",
+          "rgb": [
+            229,
+            216,
+            191
+          ],
+          "ratio": 0.2095269097222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#918274",
+          "rgb": [
+            145,
+            130,
+            116
+          ],
+          "ratio": 0.2023654513888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#68574e",
+          "rgb": [
+            104,
+            87,
+            78
+          ],
+          "ratio": 0.1810980902777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#422e2c",
+          "rgb": [
+            66,
+            46,
+            44
+          ],
+          "ratio": 0.1724175347222222,
+          "bucket": "red"
+        }
+      ],
+      "addedAt": "2026-10-12T02:56:38.960Z",
+      "fileKey": "archive:mma_young_girl_in_checked_dress_with_roses_sicily_italy_263862",
+      "kind": "photo",
+      "photographer": "Wilhelm von Gloeden",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "19891c81f81c98f37fb7fd9fc73f1900d01a",
+      "category": "photo",
+      "subjects": [
+        "people",
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "d463568a-3af2-48c4-8bcb-12746e47f74a",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/d463568a-3af2-48c4-8bcb-12746e47f74a.jpg",
+      "thumbUrl": "/stills/d463568a-3af2-48c4-8bcb-12746e47f74a.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_81573",
+      "author": "Madame Dellac",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_81573",
+      "buckets": [
+        "black",
+        "brown",
+        "red",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#130303",
+          "rgb": [
+            19,
+            3,
+            3
+          ],
+          "ratio": 0.3154296875,
+          "bucket": "black"
+        },
+        {
+          "hex": "#240605",
+          "rgb": [
+            36,
+            6,
+            5
+          ],
+          "ratio": 0.21766493055555555,
+          "bucket": "red"
+        },
+        {
+          "hex": "#c9ad90",
+          "rgb": [
+            201,
+            173,
+            144
+          ],
+          "ratio": 0.20811631944444445,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#8f674b",
+          "rgb": [
+            143,
+            103,
+            75
+          ],
+          "ratio": 0.1560329861111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#4f281b",
+          "rgb": [
+            79,
+            40,
+            27
+          ],
+          "ratio": 0.1027560763888889,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-12T02:56:40.814Z",
+      "fileKey": "archive:mma_dress_81573",
+      "kind": "photo",
+      "photographer": "Madame Dellac",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "fc318f000e70e76e144d81867affce30e000",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "e28f2a3f-08a8-4b85-b631-de52ffe38081",
+      "title": "Paul Lafond and Alphonse Cherfils Examining a Painting",
+      "titleEn": "Paul Lafond and Alphonse Cherfils Examining a Painting",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/e28f2a3f-08a8-4b85-b631-de52ffe38081.jpg",
+      "thumbUrl": "/stills/e28f2a3f-08a8-4b85-b631-de52ffe38081.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1958.25-paul-lafond-and-alph",
+      "author": "Edgar Degas (French, 1834–1917)",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "black",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#13110c",
+          "rgb": [
+            19,
+            17,
+            12
+          ],
+          "ratio": 0.2683376736111111,
+          "bucket": "black"
+        },
+        {
+          "hex": "#090a0b",
+          "rgb": [
+            9,
+            10,
+            11
+          ],
+          "ratio": 0.2501085069444444,
+          "bucket": "black"
+        },
+        {
+          "hex": "#1f1b0c",
+          "rgb": [
+            31,
+            27,
+            12
+          ],
+          "ratio": 0.2160373263888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#66522d",
+          "rgb": [
+            102,
+            82,
+            45
+          ],
+          "ratio": 0.17784288194444445,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#382d16",
+          "rgb": [
+            56,
+            45,
+            22
+          ],
+          "ratio": 0.0876736111111111,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-12T02:56:41.642Z",
+      "fileKey": "archive:clevelandart-1958.25-paul-lafond-and-alph",
+      "kind": "photo",
+      "photographer": "Edgar Degas",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "effccfe7fbcf08300100100000e00e000000",
+      "category": "painting",
+      "subjects": []
+    },
+    {
+      "id": "66ba0a51-bbe6-406d-a735-eeb30fae1062",
+      "title": "[Plaster Casts of Bodies, Pompeii]",
+      "titleEn": "[Plaster Casts of Bodies, Pompeii]",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/66ba0a51-bbe6-406d-a735-eeb30fae1062.jpg",
+      "thumbUrl": "/stills/66ba0a51-bbe6-406d-a735-eeb30fae1062.jpg",
+      "pageUrl": "https://archive.org/details/mma_plaster_casts_of_bodies_pompeii_299472",
+      "author": "Giorgio Sommer",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_plaster_casts_of_bodies_pompeii_299472",
+      "buckets": [
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#33211c",
+          "rgb": [
+            51,
+            33,
+            28
+          ],
+          "ratio": 0.458984375,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#5a463d",
+          "rgb": [
+            90,
+            70,
+            61
+          ],
+          "ratio": 0.1997612847222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#bba78c",
+          "rgb": [
+            187,
+            167,
+            140
+          ],
+          "ratio": 0.14171006944444445,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d2bfa2",
+          "rgb": [
+            210,
+            191,
+            162
+          ],
+          "ratio": 0.1382378472222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#94806d",
+          "rgb": [
+            148,
+            128,
+            109
+          ],
+          "ratio": 0.06130642361111111,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-12T02:56:51.971Z",
+      "fileKey": "archive:mma_plaster_casts_of_bodies_pompeii_299472",
+      "kind": "photo",
+      "photographer": "Giorgio Sommer",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "0000000007987f6300fc0fff83d800800fff",
+      "category": "photo",
+      "subjects": [
+        "ancient"
+      ]
+    },
+    {
+      "id": "c09c98da-ce00-454c-8b8f-b75cbb96513c",
+      "title": "Morris Co., Kansas. (with) Council Grove, Morris Co. L.H. Everts & Co., publishers, Phila., Pa. (1887)",
+      "titleEn": "Morris Co., Kansas. (with) Council Grove, Morris Co. L.H. Everts & Co., publishers, Phila., Pa. (1887)",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/c09c98da-ce00-454c-8b8f-b75cbb96513c.jpg",
+      "thumbUrl": "/stills/c09c98da-ce00-454c-8b8f-b75cbb96513c.jpg",
+      "pageUrl": "https://archive.org/details/dr_morris-co-kansas-with-council-grove-morris-co-lh-everts--co-pub-00834048",
+      "author": "Everts & Co.",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/dr_morris-co-kansas-with-council-grove-morris-co-lh-everts--co-pub-00834048",
+      "buckets": [
+        "yellow",
+        "red"
+      ],
+      "palette": [
+        {
+          "hex": "#e3ddc4",
+          "rgb": [
+            227,
+            221,
+            196
+          ],
+          "ratio": 0.365234375,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#dbd2a9",
+          "rgb": [
+            219,
+            210,
+            169
+          ],
+          "ratio": 0.2045355902777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#c6c6ae",
+          "rgb": [
+            198,
+            198,
+            174
+          ],
+          "ratio": 0.19325086805555555,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#d9b0b0",
+          "rgb": [
+            217,
+            176,
+            176
+          ],
+          "ratio": 0.15907118055555555,
+          "bucket": "red"
+        },
+        {
+          "hex": "#9d938e",
+          "rgb": [
+            157,
+            147,
+            142
+          ],
+          "ratio": 0.0779079861111111,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-10-12T02:56:52.816Z",
+      "fileKey": "archive:dr_morris-co-kansas-with-council-grove-morris-co-lh-everts--co-pub-00834048",
+      "kind": "photo",
+      "photographer": "Everts & Co.",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "000ffd27d23d77ee3c80c80ec0ecfefcf000",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "a4ef3476-27c0-4156-8bc6-5d1b19978865",
+      "title": "Portrait of Robert Levrac-Tournières",
+      "titleEn": "Portrait of Robert Levrac-Tournières",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/a4ef3476-27c0-4156-8bc6-5d1b19978865.jpg",
+      "thumbUrl": "/stills/a4ef3476-27c0-4156-8bc6-5d1b19978865.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1943.652-portrait-of-robert-l",
+      "author": "Internet Archive",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "orange",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#373029",
+          "rgb": [
+            55,
+            48,
+            41
+          ],
+          "ratio": 0.2878689236111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#594a39",
+          "rgb": [
+            89,
+            74,
+            57
+          ],
+          "ratio": 0.22916666666666666,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#7c684d",
+          "rgb": [
+            124,
+            104,
+            77
+          ],
+          "ratio": 0.2273220486111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#a08b6b",
+          "rgb": [
+            160,
+            139,
+            107
+          ],
+          "ratio": 0.1460503472222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#bbb7b5",
+          "rgb": [
+            187,
+            183,
+            181
+          ],
+          "ratio": 0.1095920138888889,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-10-12T02:56:54.325Z",
+      "fileKey": "archive:clevelandart-1943.652-portrait-of-robert-l",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "80190da07e63c03c03803807a07f0ffffffe",
+      "category": "photo",
+      "people": "one",
+      "subjects": [
+        "portrait"
+      ]
+    },
+    {
+      "id": "6c66282a-2ae7-4324-96a9-02ab796d709c",
+      "title": "Residence of Joseph Shattuck, Concord St., Nashua, N.H. (drawn by) Whinnery. The McLane Mills, post office furniture manufactured. Hon. John McLane, proprietor. Milford, N.H. Drawn by Whinnery. D.H. Hurd & Co., Boston, Mass. (1892)",
+      "titleEn": "Residence of Joseph Shattuck, Concord St., Nashua, N.H. (drawn by) Whinnery. The McLane Mills, post office furniture manufactured. Hon. John McLane, proprietor. Milford, N.H. Drawn by Whinnery. D.H. Hurd & Co., Boston, Mass. (1892)",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/6c66282a-2ae7-4324-96a9-02ab796d709c.jpg",
+      "thumbUrl": "/stills/6c66282a-2ae7-4324-96a9-02ab796d709c.jpg",
+      "pageUrl": "https://archive.org/details/dr_residence-of-joseph-shattuck-concord-st-nashua-nh-drawn-by-whinnery-2023089",
+      "author": "D.H. Hurd & Co.",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/dr_residence-of-joseph-shattuck-concord-st-nashua-nh-drawn-by-whinnery-2023089",
+      "buckets": [
+        "yellow",
+        "gray",
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#eadfc6",
+          "rgb": [
+            234,
+            223,
+            198
+          ],
+          "ratio": 0.2913411458333333,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#cac2ae",
+          "rgb": [
+            202,
+            194,
+            174
+          ],
+          "ratio": 0.2123480902777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#91897d",
+          "rgb": [
+            145,
+            137,
+            125
+          ],
+          "ratio": 0.1890190972222222,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#b6a084",
+          "rgb": [
+            182,
+            160,
+            132
+          ],
+          "ratio": 0.158203125,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#645a4d",
+          "rgb": [
+            100,
+            90,
+            77
+          ],
+          "ratio": 0.14908854166666666,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-12T02:56:56.796Z",
+      "fileKey": "archive:dr_residence-of-joseph-shattuck-concord-st-nashua-nh-drawn-by-whinnery-2023089",
+      "kind": "photo",
+      "photographer": "D.H. Hurd & Co.",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "fc683ef1e806802f3effeffeb06806806ffe",
+      "category": "photo",
+      "subjects": [
+        "design"
+      ]
+    },
+    {
+      "id": "cd731c28-33b4-4eba-8910-50becd36906a",
+      "title": "Morris.",
+      "titleEn": "Morris.",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/cd731c28-33b4-4eba-8910-50becd36906a.jpg",
+      "thumbUrl": "/stills/cd731c28-33b4-4eba-8910-50becd36906a.jpg",
+      "pageUrl": "https://archive.org/details/dr_morris-4974020",
+      "author": "Caldwell, Joseph A.",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/dr_morris-4974020",
+      "buckets": [
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#dfbeaa",
+          "rgb": [
+            223,
+            190,
+            170
+          ],
+          "ratio": 0.3353949652777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#c8a694",
+          "rgb": [
+            200,
+            166,
+            148
+          ],
+          "ratio": 0.2854817708333333,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#efdec5",
+          "rgb": [
+            239,
+            222,
+            197
+          ],
+          "ratio": 0.2740885416666667,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#9e8a7b",
+          "rgb": [
+            158,
+            138,
+            123
+          ],
+          "ratio": 0.08203125,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#1d150f",
+          "rgb": [
+            29,
+            21,
+            15
+          ],
+          "ratio": 0.023003472222222224,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-12T02:56:57.653Z",
+      "fileKey": "archive:dr_morris-4974020",
+      "kind": "photo",
+      "photographer": "Caldwell, Joseph A.",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "000fffc03f91021001001001803c03ffbffb",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "4696061e-8445-4ef3-a45a-0c434abd969a",
+      "title": "Portrait of Joséphine de Beauharnais, Empress of the French",
+      "titleEn": "Portrait of Joséphine de Beauharnais, Empress of the French",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/4696061e-8445-4ef3-a45a-0c434abd969a.jpg",
+      "thumbUrl": "/stills/4696061e-8445-4ef3-a45a-0c434abd969a.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1940.1218-portrait-of-josephin",
+      "author": "Daniel Saint (French, 1778–1847)",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "black",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#3b3830",
+          "rgb": [
+            59,
+            56,
+            48
+          ],
+          "ratio": 0.2613932291666667,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#a0894e",
+          "rgb": [
+            160,
+            137,
+            78
+          ],
+          "ratio": 0.23936631944444445,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#7f6a3b",
+          "rgb": [
+            127,
+            106,
+            59
+          ],
+          "ratio": 0.2065972222222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#242428",
+          "rgb": [
+            36,
+            36,
+            40
+          ],
+          "ratio": 0.1773003472222222,
+          "bucket": "black"
+        },
+        {
+          "hex": "#c1b18b",
+          "rgb": [
+            193,
+            177,
+            139
+          ],
+          "ratio": 0.11534288194444445,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-10-12T02:56:58.600Z",
+      "fileKey": "archive:clevelandart-1940.1218-portrait-of-josephin",
+      "kind": "photo",
+      "photographer": "Daniel Saint (French, 1778–1847)",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "0607fe30e2466466626623f63fe7fe7fe3fe",
+      "category": "photo",
+      "people": "one",
+      "subjects": [
+        "portrait"
+      ]
+    },
+    {
+      "id": "07594092-7d02-4a8e-8ae5-98edbef185c3",
+      "title": "Landscape with a Church by a Torrent",
+      "titleEn": "Landscape with a Church by a Torrent",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/07594092-7d02-4a8e-8ae5-98edbef185c3.jpg",
+      "thumbUrl": "/stills/07594092-7d02-4a8e-8ae5-98edbef185c3.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1962.256-landscape-with-a-chu",
+      "author": "Jacob van Ruisdael (Dutch, 1628/29–1682)",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#231c11",
+          "rgb": [
+            35,
+            28,
+            17
+          ],
+          "ratio": 0.4015842013888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#413722",
+          "rgb": [
+            65,
+            55,
+            34
+          ],
+          "ratio": 0.1978081597222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#5f5c4b",
+          "rgb": [
+            95,
+            92,
+            75
+          ],
+          "ratio": 0.17903645833333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#91a097",
+          "rgb": [
+            145,
+            160,
+            151
+          ],
+          "ratio": 0.14127604166666666,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#808271",
+          "rgb": [
+            128,
+            130,
+            113
+          ],
+          "ratio": 0.0802951388888889,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-10-12T02:56:59.442Z",
+      "fileKey": "archive:clevelandart-1962.256-landscape-with-a-chu",
+      "kind": "photo",
+      "photographer": "Jacob van Ruisdael (Dutch, 1628/29–1682)",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "ffffffbff1ff1f61f0330000000000000000",
+      "category": "photo",
+      "people": "none",
+      "subjects": [
+        "landscape",
+        "architecture"
+      ]
+    },
+    {
+      "id": "83a5d9a9-2844-4dad-8b91-65c92dc72d0c",
+      "title": "(Covers to) Map of Pennsylvania, constructed from the county surveys authorized by the State; and other original documents by John Melish. Engraved by B. Tanner. Corrected and improved to 1826. Entered ... 7th day of June 1822, by John Melish ... Pennsylvania. Published by B. Tanner, Engraver, No. 74 South Eighth Street Philadelphia ... (illustration) Drawn by F. Kearny. Engraved by B. Tanner.",
+      "titleEn": "(Covers to) Map of Pennsylvania, constructed from the county surveys authorized by the State; and other original documents by John Melish. Engraved by B. Tanner. Corrected and improved to 1826. Entered ... 7th day of June 1822, by John Melish ... Pennsylvania. Published by B. Tanner, Engraver, No. 74 South Eighth Street Philadelphia ... (illustration) Drawn by F. Kearny. Engraved by B. Tanner.",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/83a5d9a9-2844-4dad-8b91-65c92dc72d0c.jpg",
+      "thumbUrl": "/stills/83a5d9a9-2844-4dad-8b91-65c92dc72d0c.jpg",
+      "pageUrl": "https://archive.org/details/dr_covers-to-map-of-pennsylvania-constructed-from-the-county-surveys-author-00374037",
+      "author": "Melish, John",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/dr_covers-to-map-of-pennsylvania-constructed-from-the-county-surveys-author-00374037",
+      "buckets": [
+        "brown",
+        "gray",
+        "red"
+      ],
+      "palette": [
+        {
+          "hex": "#402715",
+          "rgb": [
+            64,
+            39,
+            21
+          ],
+          "ratio": 0.3028428819444444,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#646456",
+          "rgb": [
+            100,
+            100,
+            86
+          ],
+          "ratio": 0.22330729166666666,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#a3754e",
+          "rgb": [
+            163,
+            117,
+            78
+          ],
+          "ratio": 0.18174913194444445,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#b4adb3",
+          "rgb": [
+            180,
+            173,
+            179
+          ],
+          "ratio": 0.1547309027777778,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#81120f",
+          "rgb": [
+            129,
+            18,
+            15
+          ],
+          "ratio": 0.13736979166666666,
+          "bucket": "red"
+        }
+      ],
+      "addedAt": "2026-10-12T02:57:00.342Z",
+      "fileKey": "archive:dr_covers-to-map-of-pennsylvania-constructed-from-the-county-surveys-author-00374037",
+      "kind": "photo",
+      "photographer": "Melish, John",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "800800801800800ffffffb9ff9ff9ff9ff9f",
+      "category": "photo",
+      "subjects": [
+        "city"
+      ]
+    },
+    {
+      "id": "f68a7291-57c9-4d0c-8598-61cba2c0212d",
+      "title": "Military map of Suffolk and vicinity for Brig. Gen. E.L. Viele. Surveyed and drawn by Oscar Soederquist ... (with) Plan of Fort Esperanza, Tex. (with) Map of Morris Island and the adjacent creeks. From U.S. Coast Survey 1823-4. Sand hills from a survey 6th June 1862 ... indorsement (sic) of Gen. G.T. Beauregard ... (with) Proposed secondary line of defense on the peninsula between Ashepoo and Combahee Rivers, S.C., November 4, 1863 ... letter from Brig. Gen. W.S. Walker ... ... Julius Bien & Co., Lith., N.Y. (1891-1895)",
+      "titleEn": "Military map of Suffolk and vicinity for Brig. Gen. E.L. Viele. Surveyed and drawn by Oscar Soederquist ... (with) Plan of Fort Esperanza, Tex. (with) Map of Morris Island and the adjacent creeks. From U.S. Coast Survey 1823-4. Sand hills from a survey 6th June 1862 ... indorsement (sic) of Gen. G.T. Beauregard ... (with) Proposed secondary line of defense on the peninsula between Ashepoo and Combahee Rivers, S.C., November 4, 1863 ... letter from Brig. Gen. W.S. Walker ... ... Julius Bien & Co., Lith., N.Y. (1891-1895)",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/f68a7291-57c9-4d0c-8598-61cba2c0212d.jpg",
+      "thumbUrl": "/stills/f68a7291-57c9-4d0c-8598-61cba2c0212d.jpg",
+      "pageUrl": "https://archive.org/details/dr_military-map-of-suffolk-and-vicinity-for-brig-gen-el-viele-surveyed-an-01104154",
+      "author": "Soederquist, Oscar",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/dr_military-map-of-suffolk-and-vicinity-for-brig-gen-el-viele-surveyed-an-01104154",
+      "buckets": [
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#dad6b8",
+          "rgb": [
+            218,
+            214,
+            184
+          ],
+          "ratio": 0.2611762152777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#c8c3a7",
+          "rgb": [
+            200,
+            195,
+            167
+          ],
+          "ratio": 0.2547743055555556,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#e8e2c4",
+          "rgb": [
+            232,
+            226,
+            196
+          ],
+          "ratio": 0.2392578125,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#f2ecd2",
+          "rgb": [
+            242,
+            236,
+            210
+          ],
+          "ratio": 0.1814236111111111,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#847b7a",
+          "rgb": [
+            132,
+            123,
+            122
+          ],
+          "ratio": 0.06336805555555555,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-10-12T02:57:01.788Z",
+      "fileKey": "archive:dr_military-map-of-suffolk-and-vicinity-for-brig-gen-el-viele-surveyed-an-01104154",
+      "kind": "photo",
+      "photographer": "Soederquist, Oscar",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "000ffeffeffcfdcfbad3640ce0fe07f47000",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "d7b90f35-ea8e-4980-b50a-5f16d0534ac3",
+      "title": "Kilburn and Gates. Cottage furniture manufactory, Burlington, Vt. Packard del. (Published by H.W. Burgett & Co. 36 Vesey Street, New-York. 1876. Entered ... 1876 by H.W. Burgett & Co. ... Washington D.C. Engraved & printed by J.B. Beers & Co. 36 Vesey St. N.Y.)",
+      "titleEn": "Kilburn and Gates. Cottage furniture manufactory, Burlington, Vt. Packard del. (Published by H.W. Burgett & Co. 36 Vesey Street, New-York. 1876. Entered ... 1876 by H.W. Burgett & Co. ... Washington D.C. Engraved & printed by J.B. Beers & Co. 36 Vesey St. N.Y.)",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/d7b90f35-ea8e-4980-b50a-5f16d0534ac3.jpg",
+      "thumbUrl": "/stills/d7b90f35-ea8e-4980-b50a-5f16d0534ac3.jpg",
+      "pageUrl": "https://archive.org/details/dr_kilburn-and-gates-cottage-furniture-manufactory-burlington-vt-packard-d-00764088",
+      "author": "Beers, J.B. & Co.",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/dr_kilburn-and-gates-cottage-furniture-manufactory-burlington-vt-packard-d-00764088",
+      "buckets": [
+        "orange",
+        "yellow",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#e7d9b8",
+          "rgb": [
+            231,
+            217,
+            184
+          ],
+          "ratio": 0.3394097222222222,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#958365",
+          "rgb": [
+            149,
+            131,
+            101
+          ],
+          "ratio": 0.203125,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#b3a183",
+          "rgb": [
+            179,
+            161,
+            131
+          ],
+          "ratio": 0.17957899305555555,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#6d5e47",
+          "rgb": [
+            109,
+            94,
+            71
+          ],
+          "ratio": 0.1391059027777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#d5c29c",
+          "rgb": [
+            213,
+            194,
+            156
+          ],
+          "ratio": 0.13878038194444445,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-12T02:57:03.193Z",
+      "fileKey": "archive:dr_kilburn-and-gates-cottage-furniture-manufactory-burlington-vt-packard-d-00764088",
+      "kind": "photo",
+      "photographer": "Beers, J.B. & Co.",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "f7fff1ffcffffff3ff000000000000001fbf",
+      "category": "photo",
+      "subjects": [
+        "city",
+        "design"
+      ]
+    },
+    {
+      "id": "f3873d80-2631-4080-a476-298eb265319c",
+      "title": "1922 Paul Poiret coat, beaded and embroidered silk velvet with fur 01",
+      "titleEn": "1922 Paul Poiret coat, beaded and embroidered silk velvet with fur 01",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/f3873d80-2631-4080-a476-298eb265319c.jpg",
+      "thumbUrl": "/stills/f3873d80-2631-4080-a476-298eb265319c.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:1922_Paul_Poiret_coat,_beaded_and_embroidered_silk_velvet_with_fur_01.jpg",
+      "author": "Photographer for the Rhode Island School of Design Museum of Art",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "buckets": [
+        "brown",
+        "gray",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#2e2014",
+          "rgb": [
+            46,
+            32,
+            20
+          ],
+          "ratio": 0.2873263888888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#a6a5a4",
+          "rgb": [
+            166,
+            165,
+            164
+          ],
+          "ratio": 0.2189670138888889,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#998d81",
+          "rgb": [
+            153,
+            141,
+            129
+          ],
+          "ratio": 0.2140842013888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#bebebf",
+          "rgb": [
+            190,
+            190,
+            191
+          ],
+          "ratio": 0.1691623263888889,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#795d40",
+          "rgb": [
+            121,
+            93,
+            64
+          ],
+          "ratio": 0.11046006944444445,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-12T03:01:06.591Z",
+      "fileKey": "File:1922 Paul Poiret coat, beaded and embroidered silk velvet with fur 01.jpg",
+      "kind": "film",
+      "photographer": "Photographer for the Rhode Island School of Design Museum of Art",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "fafeb7e03e03fb7f0fe07e07e07e07e07e07",
+      "category": "film",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "4419fe42-80de-4d20-bdf0-987233e3af0c",
+      "title": "Mural Avolokitesvara",
+      "titleEn": "Mural Avolokitesvara",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/4419fe42-80de-4d20-bdf0-987233e3af0c.jpg",
+      "thumbUrl": "/stills/4419fe42-80de-4d20-bdf0-987233e3af0c.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Mural_Avolokitesvara.jpg",
+      "author": "unknown ancient Buddhist artist(s)",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Mural_Avolokitesvara.jpg",
+      "buckets": [
+        "yellow",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#9e9275",
+          "rgb": [
+            158,
+            146,
+            117
+          ],
+          "ratio": 0.2668185763888889,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#7f7258",
+          "rgb": [
+            127,
+            114,
+            88
+          ],
+          "ratio": 0.2625868055555556,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#bcaa82",
+          "rgb": [
+            188,
+            170,
+            130
+          ],
+          "ratio": 0.18359375,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#4b4236",
+          "rgb": [
+            75,
+            66,
+            54
+          ],
+          "ratio": 0.1784939236111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#c0b498",
+          "rgb": [
+            192,
+            180,
+            152
+          ],
+          "ratio": 0.10850694444444445,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-10-12T03:02:24.078Z",
+      "fileKey": "File:Mural Avolokitesvara.jpg",
+      "kind": "photo",
+      "photographer": "unknown ancient Buddhist artist(s)",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "807467ce7cef8fe8fefff3df3de346002004"
     }
   ],
-  "lastIngestDate": "2026-10-11",
+  "lastIngestDate": "2026-10-12",
   "seenFileKeys": [
     "stills:04b85cc4-5a5c-4d95-9d52-460ceefa3ee5.jpg",
     "stills:0509b1d5-b5da-4b3c-8e65-edda97b86985.jpg",
@@ -371692,7 +372901,31 @@
     "File:20241025 Black Wood Block for Nianhua Printing, ROC Period (1912-1949) 03.jpg",
     "File:20241025 Red Wood Block for Nianhua Printing, ROC Period (1912-1949) 02.jpg",
     "File:Hieronymus Bosch - Triptych of Garden of Earthly Delights (detail) - WGA2522.jpg",
-    "File:Painting from Ajanta Caves, possibly Satavahana Period, circa 1st century BCE to 2nd century CE.jpg"
+    "File:Painting from Ajanta Caves, possibly Satavahana Period, circa 1st century BCE to 2nd century CE.jpg",
+    "archive:clevelandart-1940.38-woodblock-printed-te",
+    "archive:mma_young_girl_in_checked_dress_with_roses_sicily_italy_263862",
+    "archive:45000033238-output.o-0303",
+    "archive:mma_dress_81573",
+    "archive:clevelandart-1958.25-paul-lafond-and-alph",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1929-06-12",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1928-09-06",
+    "archive:mma_plaster_casts_of_bodies_pompeii_299472",
+    "archive:dr_morris-co-kansas-with-council-grove-morris-co-lh-everts--co-pub-00834048",
+    "archive:img1124_202006",
+    "archive:clevelandart-1943.652-portrait-of-robert-l",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1930-05-09",
+    "archive:dr_map-of-puget-sound-and-surroundings-washington-territory-compiled-from-of-0256002",
+    "archive:dr_residence-of-joseph-shattuck-concord-st-nashua-nh-drawn-by-whinnery-2023089",
+    "archive:dr_morris-4974020",
+    "archive:clevelandart-1940.1218-portrait-of-josephin",
+    "archive:clevelandart-1962.256-landscape-with-a-chu",
+    "archive:dr_covers-to-map-of-pennsylvania-constructed-from-the-county-surveys-author-00374037",
+    "archive:dr_military-map-of-suffolk-and-vicinity-for-brig-gen-el-viele-surveyed-an-01104154",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1921-07-09",
+    "archive:dr_kilburn-and-gates-cottage-furniture-manufactory-burlington-vt-packard-d-00764088",
+    "File:Yungang Grottoes, 1907 (5).jpg",
+    "File:1922 Paul Poiret coat, beaded and embroidered silk velvet with fur 01.jpg",
+    "File:Mural Avolokitesvara.jpg"
   ],
   "seenContentHashes": [
     "ff8f20c0481cf3cffcf7ce58ffcffcffcd7e",
@@ -376013,6 +377246,21 @@
     "00d0000010c30c71df1ff1fffffdcffffffd",
     "80380382380380380b803803805801801fff",
     "ffff7ff3bc70c2020030210f02f768040060",
-    "ffffffffe3ff1fb0f907902e108018004003"
+    "ffffffffe3ff1fb0f907902e108018004003",
+    "19891c81f81c98f37fb7fd9fc73f1900d01a",
+    "fc318f000e70e76e144d81867affce30e000",
+    "effccfe7fbcf08300100100000e00e000000",
+    "0000000007987f6300fc0fff83d800800fff",
+    "000ffd27d23d77ee3c80c80ec0ecfefcf000",
+    "80190da07e63c03c03803807a07f0ffffffe",
+    "fc683ef1e806802f3effeffeb06806806ffe",
+    "000fffc03f91021001001001803c03ffbffb",
+    "0607fe30e2466466626623f63fe7fe7fe3fe",
+    "ffffffbff1ff1f61f0330000000000000000",
+    "800800801800800ffffffb9ff9ff9ff9ff9f",
+    "000ffeffeffcfdcfbad3640ce0fe07f47000",
+    "f7fff1ffcffffff3ff000000000000001fbf",
+    "fafeb7e03e03fb7f0fe07e07e07e07e07e07",
+    "807467ce7cef8fe8fefff3df3de346002004"
   ]
 }
