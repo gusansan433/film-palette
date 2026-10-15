@@ -370980,10 +370980,1228 @@
       "kind": "film",
       "photographer": "Kanaka's Paradise Life from Honolulu, Hawaii",
       "sourceLabel": "维基共享资源",
-      "contentHash": "7ee3ee3e73ef3e11815a0d00b00b01f18ffc"
+      "contentHash": "7ee3ee3e73ef3e11815a0d00b00b01f18ffc",
+      "category": "film",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "ea361668-f981-4d35-8719-84b652a7a8cc",
+      "title": "Length of Textile",
+      "titleEn": "Length of Textile",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/ea361668-f981-4d35-8719-84b652a7a8cc.jpg",
+      "thumbUrl": "/stills/ea361668-f981-4d35-8719-84b652a7a8cc.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1954.311-length-of-textile",
+      "author": "Internet Archive",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#c7a997",
+          "rgb": [
+            199,
+            169,
+            151
+          ],
+          "ratio": 0.4600694444444444,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#ab9281",
+          "rgb": [
+            171,
+            146,
+            129
+          ],
+          "ratio": 0.1909722222222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d9bcab",
+          "rgb": [
+            217,
+            188,
+            171
+          ],
+          "ratio": 0.15516493055555555,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#8a7363",
+          "rgb": [
+            138,
+            115,
+            99
+          ],
+          "ratio": 0.140625,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#f2e9dc",
+          "rgb": [
+            242,
+            233,
+            220
+          ],
+          "ratio": 0.053168402777777776,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-15T02:15:17.236Z",
+      "fileKey": "archive:clevelandart-1954.311-length-of-textile",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "a11a13eb7a9f88f8a7897ebfebfa19a11a93",
+      "category": "photo",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "40f438aa-8feb-4bf2-9a93-f581bdbbf04d",
+      "title": "Textile Fragment",
+      "titleEn": "Textile Fragment",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/40f438aa-8feb-4bf2-9a93-f581bdbbf04d.jpg",
+      "thumbUrl": "/stills/40f438aa-8feb-4bf2-9a93-f581bdbbf04d.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1940.365-textile-fragment",
+      "author": "Internet Archive",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#bb9c7d",
+          "rgb": [
+            187,
+            156,
+            125
+          ],
+          "ratio": 0.3614366319444444,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#a6896b",
+          "rgb": [
+            166,
+            137,
+            107
+          ],
+          "ratio": 0.2466362847222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#caac8d",
+          "rgb": [
+            202,
+            172,
+            141
+          ],
+          "ratio": 0.20572916666666666,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#766449",
+          "rgb": [
+            118,
+            100,
+            73
+          ],
+          "ratio": 0.10210503472222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#e2d8cc",
+          "rgb": [
+            226,
+            216,
+            204
+          ],
+          "ratio": 0.08409288194444445,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-15T02:15:19.608Z",
+      "fileKey": "archive:clevelandart-1940.365-textile-fragment",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "bdd9dda77b779dcb54a73b5c9ccb73a719cd",
+      "category": "photo",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "4da806ba-6188-43a6-80b4-c02f02cce454",
+      "title": "Pair of short dress sleeves",
+      "titleEn": "Pair of short dress sleeves",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/4da806ba-6188-43a6-80b4-c02f02cce454.jpg",
+      "thumbUrl": "/stills/4da806ba-6188-43a6-80b4-c02f02cce454.jpg",
+      "pageUrl": "https://archive.org/details/mma_pair_of_short_dress_sleeves_229038",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_pair_of_short_dress_sleeves_229038",
+      "buckets": [
+        "orange",
+        "white",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#d7d4d0",
+          "rgb": [
+            215,
+            212,
+            208
+          ],
+          "ratio": 0.4239366319444444,
+          "bucket": "white"
+        },
+        {
+          "hex": "#8e8069",
+          "rgb": [
+            142,
+            128,
+            105
+          ],
+          "ratio": 0.1650390625,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#c7c0b5",
+          "rgb": [
+            199,
+            192,
+            181
+          ],
+          "ratio": 0.1496310763888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#5d5745",
+          "rgb": [
+            93,
+            87,
+            69
+          ],
+          "ratio": 0.1310763888888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#ada598",
+          "rgb": [
+            173,
+            165,
+            152
+          ],
+          "ratio": 0.1303168402777778,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-15T02:15:20.453Z",
+      "fileKey": "archive:mma_pair_of_short_dress_sleeves_229038",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "fffdffe3fc0fc03c23c46e16c06c0280281e",
+      "category": "photo",
+      "people": "two",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "5e146251-7386-4efb-93cb-8f34e3219a3d",
+      "title": "Portrait of a Man",
+      "titleEn": "Portrait of a Man",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/5e146251-7386-4efb-93cb-8f34e3219a3d.jpg",
+      "thumbUrl": "/stills/5e146251-7386-4efb-93cb-8f34e3219a3d.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1942.1150-portrait-of-a-man",
+      "author": "Nicholas Hilliard (English, c. 1547–1619)",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "white",
+        "blue",
+        "brown",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#e2e2e2",
+          "rgb": [
+            226,
+            226,
+            226
+          ],
+          "ratio": 0.2731119791666667,
+          "bucket": "white"
+        },
+        {
+          "hex": "#203656",
+          "rgb": [
+            32,
+            54,
+            86
+          ],
+          "ratio": 0.2711588541666667,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#706859",
+          "rgb": [
+            112,
+            104,
+            89
+          ],
+          "ratio": 0.17762586805555555,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#d8d7d5",
+          "rgb": [
+            216,
+            215,
+            213
+          ],
+          "ratio": 0.166015625,
+          "bucket": "white"
+        },
+        {
+          "hex": "#ada490",
+          "rgb": [
+            173,
+            164,
+            144
+          ],
+          "ratio": 0.1120876736111111,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-10-15T02:15:29.591Z",
+      "fileKey": "archive:clevelandart-1942.1150-portrait-of-a-man",
+      "kind": "photo",
+      "photographer": "Nicholas Hilliard (English, c. 1547–1619)",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "ffff8fe07c03cc3cc18418e1ce3c03e03e07",
+      "category": "photo",
+      "people": "one",
+      "subjects": [
+        "portrait",
+        "people"
+      ]
+    },
+    {
+      "id": "78c6d082-fd8d-4091-9ae6-8b47ea20b7b0",
+      "title": "Portrait of a Man",
+      "titleEn": "Portrait of a Man",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/78c6d082-fd8d-4091-9ae6-8b47ea20b7b0.jpg",
+      "thumbUrl": "/stills/78c6d082-fd8d-4091-9ae6-8b47ea20b7b0.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1921.87-portrait-of-a-man",
+      "author": "William Lockwood (American, 1834–1847)",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "gray",
+        "brown",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#b8b6b0",
+          "rgb": [
+            184,
+            182,
+            176
+          ],
+          "ratio": 0.4307725694444444,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#7a725a",
+          "rgb": [
+            122,
+            114,
+            90
+          ],
+          "ratio": 0.1899956597222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#3a3833",
+          "rgb": [
+            58,
+            56,
+            51
+          ],
+          "ratio": 0.18880208333333334,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#9f9781",
+          "rgb": [
+            159,
+            151,
+            129
+          ],
+          "ratio": 0.15440538194444445,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#e4d3bc",
+          "rgb": [
+            228,
+            211,
+            188
+          ],
+          "ratio": 0.03602430555555555,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-15T02:15:31.482Z",
+      "fileKey": "archive:clevelandart-1921.87-portrait-of-a-man",
+      "kind": "photo",
+      "photographer": "William Lockwood (American, 1834–1847)",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "ffff2fe07c6fc6f87f81fc0fc03c03c13e17",
+      "category": "photo",
+      "people": "one",
+      "subjects": [
+        "portrait",
+        "people"
+      ]
+    },
+    {
+      "id": "cc87a56f-1551-4f79-be96-6d33559d334f",
+      "title": "Landscape",
+      "titleEn": "Landscape",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/cc87a56f-1551-4f79-be96-6d33559d334f.jpg",
+      "thumbUrl": "/stills/cc87a56f-1551-4f79-be96-6d33559d334f.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1929.464-landscape",
+      "author": "George Inness (American, 1825–1894)",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#453f27",
+          "rgb": [
+            69,
+            63,
+            39
+          ],
+          "ratio": 0.2708333333333333,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#282716",
+          "rgb": [
+            40,
+            39,
+            22
+          ],
+          "ratio": 0.2565104166666667,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#615032",
+          "rgb": [
+            97,
+            80,
+            50
+          ],
+          "ratio": 0.1958550347222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#7d6f4f",
+          "rgb": [
+            125,
+            111,
+            79
+          ],
+          "ratio": 0.19466145833333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#b29c70",
+          "rgb": [
+            178,
+            156,
+            112
+          ],
+          "ratio": 0.08213975694444445,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-10-15T02:15:34.956Z",
+      "fileKey": "archive:clevelandart-1929.464-landscape",
+      "kind": "photo",
+      "photographer": "George Inness (American, 1825–1894)",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "fc0fe0fffe3fe3fe3de0ff00000000000000",
+      "category": "photo",
+      "people": "none",
+      "subjects": [
+        "landscape"
+      ]
+    },
+    {
+      "id": "2dbcd44d-f442-4fc0-a517-a0134aa4323e",
+      "title": "Portrait of Pope Sixtus IV della Rovere",
+      "titleEn": "Portrait of Pope Sixtus IV della Rovere",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/2dbcd44d-f442-4fc0-a517-a0134aa4323e.jpg",
+      "thumbUrl": "/stills/2dbcd44d-f442-4fc0-a517-a0134aa4323e.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1916.815-portrait-of-pope-six",
+      "author": "Pedro Berruguete (Castilian, c. 1445/1450-1503)",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "yellow",
+        "green"
+      ],
+      "palette": [
+        {
+          "hex": "#50381e",
+          "rgb": [
+            80,
+            56,
+            30
+          ],
+          "ratio": 0.3056640625,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#674c2a",
+          "rgb": [
+            103,
+            76,
+            42
+          ],
+          "ratio": 0.2607421875,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#ae9c61",
+          "rgb": [
+            174,
+            156,
+            97
+          ],
+          "ratio": 0.1665581597222222,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#778157",
+          "rgb": [
+            119,
+            129,
+            87
+          ],
+          "ratio": 0.15614149305555555,
+          "bucket": "green"
+        },
+        {
+          "hex": "#8d6e3f",
+          "rgb": [
+            141,
+            110,
+            63
+          ],
+          "ratio": 0.11089409722222222,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-15T02:15:43.228Z",
+      "fileKey": "archive:clevelandart-1916.815-portrait-of-pope-six",
+      "kind": "photo",
+      "photographer": "Pedro Berruguete (Castilian, c. 1445/1450-1503)",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "fe7fe7f83f01060060060000600de0df03f0",
+      "category": "photo",
+      "people": "one",
+      "subjects": [
+        "portrait"
+      ]
+    },
+    {
+      "id": "28fe3d2b-1fa6-440d-85ed-41474736e15f",
+      "title": "Altarpiece with Relics - Angel, lower left",
+      "titleEn": "Altarpiece with Relics - Angel, lower left",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/28fe3d2b-1fa6-440d-85ed-41474736e15f.jpg",
+      "thumbUrl": "/stills/28fe3d2b-1fa6-440d-85ed-41474736e15f.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1964.357.g-altarpiece-with-reli",
+      "author": "Joseph Matthias Götz (German, 1696–1760)",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "gray",
+        "black",
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#4e4c48",
+          "rgb": [
+            78,
+            76,
+            72
+          ],
+          "ratio": 0.2727864583333333,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#252525",
+          "rgb": [
+            37,
+            37,
+            37
+          ],
+          "ratio": 0.2593315972222222,
+          "bucket": "black"
+        },
+        {
+          "hex": "#373533",
+          "rgb": [
+            55,
+            53,
+            51
+          ],
+          "ratio": 0.22667100694444445,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#7f623a",
+          "rgb": [
+            127,
+            98,
+            58
+          ],
+          "ratio": 0.1603732638888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#b79b6a",
+          "rgb": [
+            183,
+            155,
+            106
+          ],
+          "ratio": 0.0808376736111111,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-15T02:15:45.484Z",
+      "fileKey": "archive:clevelandart-1964.357.g-altarpiece-with-reli",
+      "kind": "photo",
+      "photographer": "Joseph Matthias Götz (German, 1696–1760)",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "0000000f00f407c0fc0cc3f83f87f0fcffff",
+      "category": "painting",
+      "subjects": []
+    },
+    {
+      "id": "2a438385-d267-4374-bb9d-bf35ccba9840",
+      "title": "Architectural Sculpture Fragment",
+      "titleEn": "Architectural Sculpture Fragment",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/2a438385-d267-4374-bb9d-bf35ccba9840.jpg",
+      "thumbUrl": "/stills/2a438385-d267-4374-bb9d-bf35ccba9840.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1996.401-architectural-sculpt",
+      "author": "Internet Archive",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "gray",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#413933",
+          "rgb": [
+            65,
+            57,
+            51
+          ],
+          "ratio": 0.2686631944444444,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#8a8787",
+          "rgb": [
+            138,
+            135,
+            135
+          ],
+          "ratio": 0.2654079861111111,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#6d584a",
+          "rgb": [
+            109,
+            88,
+            74
+          ],
+          "ratio": 0.2140842013888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#a27658",
+          "rgb": [
+            162,
+            118,
+            88
+          ],
+          "ratio": 0.2041015625,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#1b100b",
+          "rgb": [
+            27,
+            16,
+            11
+          ],
+          "ratio": 0.04774305555555555,
+          "bucket": "black"
+        }
+      ],
+      "addedAt": "2026-10-15T02:15:47.437Z",
+      "fileKey": "archive:clevelandart-1996.401-architectural-sculpt",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "0000003f0018ce4ff6fffff7c07df3c07f1f",
+      "category": "photo",
+      "subjects": [
+        "sculpture"
+      ]
+    },
+    {
+      "id": "6a7c367c-5674-4201-ad39-94cf9004ef02",
+      "title": "Portrait of King Charles II of England",
+      "titleEn": "Portrait of King Charles II of England",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/6a7c367c-5674-4201-ad39-94cf9004ef02.jpg",
+      "thumbUrl": "/stills/6a7c367c-5674-4201-ad39-94cf9004ef02.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1959.38-portrait-of-king-cha",
+      "author": "Philippe de Champaigne (French, 1602–1674)",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "black"
+      ],
+      "palette": [
+        {
+          "hex": "#312c22",
+          "rgb": [
+            49,
+            44,
+            34
+          ],
+          "ratio": 0.2839626736111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#453b2f",
+          "rgb": [
+            69,
+            59,
+            47
+          ],
+          "ratio": 0.2600911458333333,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#23221d",
+          "rgb": [
+            35,
+            34,
+            29
+          ],
+          "ratio": 0.23567708333333334,
+          "bucket": "black"
+        },
+        {
+          "hex": "#5f564d",
+          "rgb": [
+            95,
+            86,
+            77
+          ],
+          "ratio": 0.17078993055555555,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#a39686",
+          "rgb": [
+            163,
+            150,
+            134
+          ],
+          "ratio": 0.049479166666666664,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-15T02:15:48.831Z",
+      "fileKey": "archive:clevelandart-1959.38-portrait-of-king-cha",
+      "kind": "photo",
+      "photographer": "Philippe de Champaigne (French, 1602–1674)",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "8048b48b0430430805e01e02e3af10f9cf8e",
+      "category": "photo",
+      "people": "one",
+      "subjects": [
+        "portrait"
+      ]
+    },
+    {
+      "id": "6b947cbb-f12f-45f9-92f5-48619cba7465",
+      "title": "20260625 Blue-and-white porcelain figurine of the God of Longevity",
+      "titleEn": "20260625 Blue and white porcelain figurine of the God of Longevity",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/6b947cbb-f12f-45f9-92f5-48619cba7465.jpg",
+      "thumbUrl": "/stills/6b947cbb-f12f-45f9-92f5-48619cba7465.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:20260625_Blue-and-white_porcelain_figurine_of_the_God_of_Longevity.jpg",
+      "author": "Windmemories",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "buckets": [
+        "gray",
+        "black"
+      ],
+      "palette": [
+        {
+          "hex": "#151410",
+          "rgb": [
+            21,
+            20,
+            16
+          ],
+          "ratio": 0.4608289930555556,
+          "bucket": "black"
+        },
+        {
+          "hex": "#5d5d5c",
+          "rgb": [
+            93,
+            93,
+            92
+          ],
+          "ratio": 0.17643229166666666,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#373533",
+          "rgb": [
+            55,
+            53,
+            51
+          ],
+          "ratio": 0.1455078125,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#c6c6c6",
+          "rgb": [
+            198,
+            198,
+            198
+          ],
+          "ratio": 0.11165364583333333,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#919394",
+          "rgb": [
+            145,
+            147,
+            148
+          ],
+          "ratio": 0.10557725694444445,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-10-15T02:19:06.382Z",
+      "fileKey": "File:20260625 Blue-and-white porcelain figurine of the God of Longevity.jpg",
+      "kind": "film",
+      "photographer": "Windmemories",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "0700300318fb8f91f81f81f80f01b01f01f8",
+      "category": "film",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "e4bfceb4-bc4a-4878-a977-ccac4a640df7",
+      "title": "Sabouroff head",
+      "titleEn": "Sabouroff head",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/e4bfceb4-bc4a-4878-a977-ccac4a640df7.jpg",
+      "thumbUrl": "/stills/e4bfceb4-bc4a-4878-a977-ccac4a640df7.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Sabouroff_head.jpg",
+      "author": "Wuselig",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "buckets": [
+        "gray",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#a5a0a6",
+          "rgb": [
+            165,
+            160,
+            166
+          ],
+          "ratio": 0.2652994791666667,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#514a3a",
+          "rgb": [
+            81,
+            74,
+            58
+          ],
+          "ratio": 0.23838975694444445,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#bcb6bb",
+          "rgb": [
+            188,
+            182,
+            187
+          ],
+          "ratio": 0.21082899305555555,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#827c7d",
+          "rgb": [
+            130,
+            124,
+            125
+          ],
+          "ratio": 0.19401041666666666,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#ccc6d0",
+          "rgb": [
+            204,
+            198,
+            208
+          ],
+          "ratio": 0.09147135416666667,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-10-15T02:19:07.732Z",
+      "fileKey": "File:Sabouroff head.jpg",
+      "kind": "film",
+      "photographer": "Wuselig",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "fffafd9d93fc3fc3fc3f81f81fc3383901c0",
+      "category": "film",
+      "subjects": [
+        "people"
+      ]
+    },
+    {
+      "id": "fef2583e-223a-420f-be9e-538e595bc7ed",
+      "title": "20251026 Blue-and-white Porcelain Bottle with Cloud and Dragon Design",
+      "titleEn": "20251026 Blue and white Porcelain Bottle with Cloud and Dragon Design",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/fef2583e-223a-420f-be9e-538e595bc7ed.jpg",
+      "thumbUrl": "/stills/fef2583e-223a-420f-be9e-538e595bc7ed.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:20251026_Blue-and-white_Porcelain_Bottle_with_Cloud_and_Dragon_Design.jpg",
+      "author": "Windmemories",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "buckets": [
+        "orange",
+        "gray",
+        "blue"
+      ],
+      "palette": [
+        {
+          "hex": "#a79283",
+          "rgb": [
+            167,
+            146,
+            131
+          ],
+          "ratio": 0.6344401041666666,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#c7c4c3",
+          "rgb": [
+            199,
+            196,
+            195
+          ],
+          "ratio": 0.1745876736111111,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#7e8291",
+          "rgb": [
+            126,
+            130,
+            145
+          ],
+          "ratio": 0.06770833333333333,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#54596f",
+          "rgb": [
+            84,
+            89,
+            111
+          ],
+          "ratio": 0.06684027777777778,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#2d303c",
+          "rgb": [
+            45,
+            48,
+            60
+          ],
+          "ratio": 0.05642361111111111,
+          "bucket": "blue"
+        }
+      ],
+      "addedAt": "2026-10-15T02:19:13.827Z",
+      "fileKey": "File:20251026 Blue-and-white Porcelain Bottle with Cloud and Dragon Design.jpg",
+      "kind": "film",
+      "photographer": "Windmemories",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "00809c09e11f13fecfecfdfecefce7c27e0f",
+      "category": "film",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "28e08356-78a5-4482-8e2b-b82b958bd300",
+      "title": "(Above) sBed-byed (Gopaka), holding a book;",
+      "titleEn": "a Tibetan thangka",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/28e08356-78a5-4482-8e2b-b82b958bd300.jpg",
+      "thumbUrl": "/stills/28e08356-78a5-4482-8e2b-b82b958bd300.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Gopaka,_holding_a_book_in_a_Tibetan_thangka.jpg",
+      "author": "Wikimedia Commons",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "buckets": [
+        "orange",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#d68b65",
+          "rgb": [
+            214,
+            139,
+            101
+          ],
+          "ratio": 0.3602430555555556,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#b99f7a",
+          "rgb": [
+            185,
+            159,
+            122
+          ],
+          "ratio": 0.21473524305555555,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#9b8d6e",
+          "rgb": [
+            155,
+            141,
+            110
+          ],
+          "ratio": 0.21180555555555555,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#e4be8f",
+          "rgb": [
+            228,
+            190,
+            143
+          ],
+          "ratio": 0.13346354166666666,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#82745c",
+          "rgb": [
+            130,
+            116,
+            92
+          ],
+          "ratio": 0.07975260416666667,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-15T02:19:20.240Z",
+      "fileKey": "File:Gopaka, holding a book in a Tibetan thangka.jpg",
+      "kind": "film",
+      "photographer": "Wikimedia Commons",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "9f91b8fb8000be08b80581f8398030010013",
+      "category": "film",
+      "subjects": [
+        "people"
+      ]
+    },
+    {
+      "id": "82f46233-cbe6-4b29-a9d9-26def973488f",
+      "title": "The Mentor v10n01 The Lure of the South Seas 1922-02.Crowell (Darwin-IA)",
+      "titleEn": "The Mentor v10n01 The Lure of the South Seas 1922 02.Crowell (Darwin IA)",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/82f46233-cbe6-4b29-a9d9-26def973488f.jpg",
+      "thumbUrl": "/stills/82f46233-cbe6-4b29-a9d9-26def973488f.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:The_Mentor_v10n01_The_Lure_of_the_South_Seas_1922-02.Crowell_(Darwin-IA).djvu",
+      "author": "Wikimedia Commons",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:The_Mentor_v10n01_The_Lure_of_the_South_Seas_1922-02.Crowell_(Darwin-IA).djvu",
+      "buckets": [
+        "yellow",
+        "brown",
+        "blue",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#716946",
+          "rgb": [
+            113,
+            105,
+            70
+          ],
+          "ratio": 0.2524956597222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#1d2235",
+          "rgb": [
+            29,
+            34,
+            53
+          ],
+          "ratio": 0.2429470486111111,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#cdccc8",
+          "rgb": [
+            205,
+            204,
+            200
+          ],
+          "ratio": 0.2082248263888889,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#f7f4ee",
+          "rgb": [
+            247,
+            244,
+            238
+          ],
+          "ratio": 0.1531032986111111,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#a29b85",
+          "rgb": [
+            162,
+            155,
+            133
+          ],
+          "ratio": 0.14322916666666666,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-10-15T02:25:13.763Z",
+      "fileKey": "File:The Mentor v10n01 The Lure of the South Seas 1922-02.Crowell (Darwin-IA).djvu",
+      "kind": "film",
+      "photographer": "Wikimedia Commons",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "9058018f0bf0bf0bf1bfc80ca00bfcbfcbfc"
     }
   ],
-  "lastIngestDate": "2026-10-14",
+  "lastIngestDate": "2026-10-15",
   "seenFileKeys": [
     "stills:04b85cc4-5a5c-4d95-9d52-460ceefa3ee5.jpg",
     "stills:0509b1d5-b5da-4b3c-8e65-edda97b86985.jpg",
@@ -378132,7 +379350,71 @@
     "File:20260625 Jingdezhen blue-and-white porcelain jar with interwining lotuses.jpg",
     "File:20241025 Blue and White Porcelain Kundika, Kangxi Reign of Qing Dynasty.jpg",
     "File:Madeleine Vionnet evening gown in ombré silk chiffon crepe, c1932 02.jpg",
-    "File:Yunjin Kim.jpg"
+    "File:Yunjin Kim.jpg",
+    "archive:clevelandart-1954.311-length-of-textile",
+    "archive:45000033238-output.o-0041",
+    "archive:clevelandart-1936.743-bobbin-and-embroider",
+    "archive:clevelandart-1940.365-textile-fragment",
+    "archive:mma_pair_of_short_dress_sleeves_229038",
+    "archive:clevelandart-2000.166.n-the-temptation-of-sa",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1999-09-01",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_2000-05-23",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1998-06-25",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1996-02-13",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1999-05-11",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1997-11-27",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1995-08-29",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_2001-10-28",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_2008-02-27",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1999-11-22",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1994-06-10",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_2002-07-07",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1999-08-10",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_2003-01-14",
+    "archive:clevelandart-1942.1150-portrait-of-a-man",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1997-09-20",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1999-02-13",
+    "archive:clevelandart-1921.87-portrait-of-a-man",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1999-12-17",
+    "archive:clevelandart-1940.1213-pair-of-portrait-min",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1997-10-24",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_2008-03-03",
+    "archive:clevelandart-1929.464-landscape",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_2003-06-30",
+    "archive:clevelandart-1929.877-mary-cassatt-at-the",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_2005-09-11",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_2004-03-05",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1999-02-01",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_2002-04-02",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1998-10-30",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1999-03-29",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1998-08-13",
+    "archive:clevelandart-1942.645-portrait-of-the-ladi",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_2001-01-15",
+    "archive:clevelandart-1916.815-portrait-of-pope-six",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_2001-09-04",
+    "archive:clevelandart-1946.70-portrait-of-a-man",
+    "archive:clevelandart-1964.357.g-altarpiece-with-reli",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1998-10-18",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_2001-12-06",
+    "archive:clevelandart-1996.401-architectural-sculpt",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1999-11-16",
+    "archive:clevelandart-1959.38-portrait-of-king-cha",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1994-02-15",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1999-06-01",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_2004-05-17",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1996-01-03",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1994-02-13",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1998-08-20",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_2007-03-13",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1997-11-15",
+    "File:20260625 Blue-and-white porcelain figurine of the God of Longevity.jpg",
+    "File:Sabouroff head.jpg",
+    "File:20251026 Blue-and-white Porcelain Bottle with Cloud and Dragon Design.jpg",
+    "File:Gopaka, holding a book in a Tibetan thangka.jpg",
+    "File:Aerial photograph of the Danube.jpg",
+    "File:Hieronymus Bosch - The Garden of Earthly Delights - The Earthly Paradise (Garden of Eden) (cropped).jpg",
+    "File:The Mentor v10n01 The Lure of the South Seas 1922-02.Crowell (Darwin-IA).djvu"
   ],
   "seenContentHashes": [
     "ff8f20c0481cf3cffcf7ce58ffcffcffcd7e",
@@ -382531,6 +383813,21 @@
     "e07cf39fd9fd9fd9f9c01c03c73e07c03d01",
     "0000c01f83fc3fe2fc406e07e07c3fc07c0f",
     "11031ff1ff1fe1ff1dbff8c7c07c07c07c0f",
-    "7ee3ee3e73ef3e11815a0d00b00b01f18ffc"
+    "7ee3ee3e73ef3e11815a0d00b00b01f18ffc",
+    "a11a13eb7a9f88f8a7897ebfebfa19a11a93",
+    "bdd9dda77b779dcb54a73b5c9ccb73a719cd",
+    "fffdffe3fc0fc03c23c46e16c06c0280281e",
+    "ffff8fe07c03cc3cc18418e1ce3c03e03e07",
+    "ffff2fe07c6fc6f87f81fc0fc03c03c13e17",
+    "fc0fe0fffe3fe3fe3de0ff00000000000000",
+    "fe7fe7f83f01060060060000600de0df03f0",
+    "0000000f00f407c0fc0cc3f83f87f0fcffff",
+    "0000003f0018ce4ff6fffff7c07df3c07f1f",
+    "8048b48b0430430805e01e02e3af10f9cf8e",
+    "0700300318fb8f91f81f81f80f01b01f01f8",
+    "fffafd9d93fc3fc3fc3f81f81fc3383901c0",
+    "00809c09e11f13fecfecfdfecefce7c27e0f",
+    "9f91b8fb8000be08b80581f8398030010013",
+    "9058018f0bf0bf0bf1bfc80ca00bfcbfcbfc"
   ]
 }
