@@ -372198,10 +372198,1957 @@
       "kind": "film",
       "photographer": "Wikimedia Commons",
       "sourceLabel": "维基共享资源",
-      "contentHash": "9058018f0bf0bf0bf1bfc80ca00bfcbfcbfc"
+      "contentHash": "9058018f0bf0bf0bf1bfc80ca00bfcbfcbfc",
+      "category": "film",
+      "subjects": [
+        "people"
+      ]
+    },
+    {
+      "id": "a999f082-1bc8-4a6b-8288-ed351a641214",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/a999f082-1bc8-4a6b-8288-ed351a641214.jpg",
+      "thumbUrl": "/stills/a999f082-1bc8-4a6b-8288-ed351a641214.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_90872",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_90872",
+      "buckets": [
+        "white",
+        "brown",
+        "orange",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#f1f1ee",
+          "rgb": [
+            241,
+            241,
+            238
+          ],
+          "ratio": 0.3353949652777778,
+          "bucket": "white"
+        },
+        {
+          "hex": "#a98a53",
+          "rgb": [
+            169,
+            138,
+            83
+          ],
+          "ratio": 0.2099609375,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#785a2d",
+          "rgb": [
+            120,
+            90,
+            45
+          ],
+          "ratio": 0.1986762152777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#dbdad2",
+          "rgb": [
+            219,
+            218,
+            210
+          ],
+          "ratio": 0.1312934027777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#32200f",
+          "rgb": [
+            50,
+            32,
+            15
+          ],
+          "ratio": 0.12467447916666667,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-16T02:07:45.434Z",
+      "fileKey": "archive:mma_dress_90872",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "e07e1fe1fe0fe0fe0fe07e07e07e03c03c03",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "c032d41e-d242-4560-b74f-9735e0757ea0",
+      "title": "Interior with Young Woman in Walking Costume",
+      "titleEn": "Interior with Young Woman in Walking Costume",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/c032d41e-d242-4560-b74f-9735e0757ea0.jpg",
+      "thumbUrl": "/stills/c032d41e-d242-4560-b74f-9735e0757ea0.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-2009.571-interior-with-young",
+      "author": "Eugen Kirchner (German, 1865–1938)",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#7f7464",
+          "rgb": [
+            127,
+            116,
+            100
+          ],
+          "ratio": 0.3435329861111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#eedeca",
+          "rgb": [
+            238,
+            222,
+            202
+          ],
+          "ratio": 0.2357855902777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#b3a591",
+          "rgb": [
+            179,
+            165,
+            145
+          ],
+          "ratio": 0.1703559027777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#f6e8d4",
+          "rgb": [
+            246,
+            232,
+            212
+          ],
+          "ratio": 0.14029947916666666,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#cebfaa",
+          "rgb": [
+            206,
+            191,
+            170
+          ],
+          "ratio": 0.11002604166666667,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-16T02:07:46.405Z",
+      "fileKey": "archive:clevelandart-2009.571-interior-with-young",
+      "kind": "photo",
+      "photographer": "Eugen Kirchner (German, 1865–1938)",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "8018018f98798398198398b98f9fffffffdf",
+      "category": "photo",
+      "people": "none",
+      "subjects": [
+        "interior",
+        "people",
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "5839284e-24eb-41d0-985d-36b0cb68567e",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/5839284e-24eb-41d0-985d-36b0cb68567e.jpg",
+      "thumbUrl": "/stills/5839284e-24eb-41d0-985d-36b0cb68567e.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_103000",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_103000",
+      "buckets": [
+        "yellow",
+        "blue"
+      ],
+      "palette": [
+        {
+          "hex": "#151a1d",
+          "rgb": [
+            21,
+            26,
+            29
+          ],
+          "ratio": 0.3649088541666667,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#d9d2b1",
+          "rgb": [
+            217,
+            210,
+            177
+          ],
+          "ratio": 0.2659505208333333,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#eae4c7",
+          "rgb": [
+            234,
+            228,
+            199
+          ],
+          "ratio": 0.2624782986111111,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#bdb293",
+          "rgb": [
+            189,
+            178,
+            147
+          ],
+          "ratio": 0.07367621527777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#48413b",
+          "rgb": [
+            72,
+            65,
+            59
+          ],
+          "ratio": 0.03298611111111111,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-10-16T02:07:49.888Z",
+      "fileKey": "archive:mma_dress_103000",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "00038c1f81f81f81f87fcffcffeffe7fe000",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "7fd7e770-3196-46f0-b54b-d35694272c14",
+      "title": "Dräkt, engelsk. En stående kvinna i helfigur. Engelsk Costume.",
+      "titleEn": "Dräkt, engelsk. En stående kvinna i helfigur. Engelsk Costume.",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/7fd7e770-3196-46f0-b54b-d35694272c14.jpg",
+      "thumbUrl": "/stills/7fd7e770-3196-46f0-b54b-d35694272c14.jpg",
+      "pageUrl": "https://archive.org/details/arkivkopia.se-aboaka-1164",
+      "author": "Åbo Akademis bildsamlingar",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/arkivkopia.se-aboaka-1164",
+      "buckets": [
+        "yellow",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#e7d7b5",
+          "rgb": [
+            231,
+            215,
+            181
+          ],
+          "ratio": 0.7455512152777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#c1b08a",
+          "rgb": [
+            193,
+            176,
+            138
+          ],
+          "ratio": 0.11827256944444445,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#563a23",
+          "rgb": [
+            86,
+            58,
+            35
+          ],
+          "ratio": 0.052734375,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#968159",
+          "rgb": [
+            150,
+            129,
+            89
+          ],
+          "ratio": 0.051323784722222224,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#f0efed",
+          "rgb": [
+            240,
+            239,
+            237
+          ],
+          "ratio": 0.03211805555555555,
+          "bucket": "white"
+        }
+      ],
+      "addedAt": "2026-10-16T02:07:51.830Z",
+      "fileKey": "archive:arkivkopia.se-aboaka-1164",
+      "kind": "photo",
+      "photographer": "Åbo Akademis bildsamlingar",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "ffff9ff9ff8ff0ff07f0ff0ff07f87e07e07",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "6c1dc71a-fed4-49df-9a8f-bc63b291b53d",
+      "title": "Dressing Gown",
+      "titleEn": "Dressing Gown",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/6c1dc71a-fed4-49df-9a8f-bc63b291b53d.jpg",
+      "thumbUrl": "/stills/6c1dc71a-fed4-49df-9a8f-bc63b291b53d.jpg",
+      "pageUrl": "https://archive.org/details/mma_dressing_gown_174753",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dressing_gown_174753",
+      "buckets": [
+        "brown",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#796343",
+          "rgb": [
+            121,
+            99,
+            67
+          ],
+          "ratio": 0.302734375,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#a2a29c",
+          "rgb": [
+            162,
+            162,
+            156
+          ],
+          "ratio": 0.267578125,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#aeafad",
+          "rgb": [
+            174,
+            175,
+            173
+          ],
+          "ratio": 0.17252604166666666,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#5e4a2e",
+          "rgb": [
+            94,
+            74,
+            46
+          ],
+          "ratio": 0.16688368055555555,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#947f5b",
+          "rgb": [
+            148,
+            127,
+            91
+          ],
+          "ratio": 0.09027777777777778,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-16T02:07:52.722Z",
+      "fileKey": "archive:mma_dressing_gown_174753",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "c03d03d0bc03c03e07e07e07e07e07e03c03",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "e8a64088-3988-418a-9d3d-ec9baf3cc6e7",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/e8a64088-3988-418a-9d3d-ec9baf3cc6e7.jpg",
+      "thumbUrl": "/stills/e8a64088-3988-418a-9d3d-ec9baf3cc6e7.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_103653",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_103653",
+      "buckets": [
+        "yellow",
+        "black"
+      ],
+      "palette": [
+        {
+          "hex": "#dcd0a6",
+          "rgb": [
+            220,
+            208,
+            166
+          ],
+          "ratio": 0.3428819444444444,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#e9e0b8",
+          "rgb": [
+            233,
+            224,
+            184
+          ],
+          "ratio": 0.3076171875,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#111417",
+          "rgb": [
+            17,
+            20,
+            23
+          ],
+          "ratio": 0.24891493055555555,
+          "bucket": "black"
+        },
+        {
+          "hex": "#c6b58d",
+          "rgb": [
+            198,
+            181,
+            141
+          ],
+          "ratio": 0.08745659722222222,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#715e4d",
+          "rgb": [
+            113,
+            94,
+            77
+          ],
+          "ratio": 0.013129340277777778,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-16T02:07:53.624Z",
+      "fileKey": "archive:mma_dress_103653",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "1041fc1fc1fc3fc3fe3fe7fe7fe7fe7fe7fe",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "c6c16c3a-288f-4429-82b2-8aa834c6442b",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/c6c16c3a-288f-4429-82b2-8aa834c6442b.jpg",
+      "thumbUrl": "/stills/c6c16c3a-288f-4429-82b2-8aa834c6442b.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_102929",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_102929",
+      "buckets": [
+        "brown",
+        "orange",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#817051",
+          "rgb": [
+            129,
+            112,
+            81
+          ],
+          "ratio": 0.3184678819444444,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#9d8b69",
+          "rgb": [
+            157,
+            139,
+            105
+          ],
+          "ratio": 0.23719618055555555,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#ecede4",
+          "rgb": [
+            236,
+            237,
+            228
+          ],
+          "ratio": 0.22862413194444445,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#614d34",
+          "rgb": [
+            97,
+            77,
+            52
+          ],
+          "ratio": 0.1919487847222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#bdbfb2",
+          "rgb": [
+            189,
+            191,
+            178
+          ],
+          "ratio": 0.023763020833333332,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-10-16T02:07:54.435Z",
+      "fileKey": "archive:mma_dress_102929",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "fffe27c07c03801805000000000000000fff",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "dbc119d0-7918-4e97-8a2a-3c38c58751b8",
+      "title": "Dräkt, fransk. En stående kvinna i helfigur. Fransk Costume.",
+      "titleEn": "Dräkt, fransk. En stående kvinna i helfigur. Fransk Costume.",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/dbc119d0-7918-4e97-8a2a-3c38c58751b8.jpg",
+      "thumbUrl": "/stills/dbc119d0-7918-4e97-8a2a-3c38c58751b8.jpg",
+      "pageUrl": "https://archive.org/details/arkivkopia.se-aboaka-1157",
+      "author": "Åbo Akademis bildsamlingar",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/arkivkopia.se-aboaka-1157",
+      "buckets": [
+        "orange",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#ebdab9",
+          "rgb": [
+            235,
+            218,
+            185
+          ],
+          "ratio": 0.5703125,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#e5d1ad",
+          "rgb": [
+            229,
+            209,
+            173
+          ],
+          "ratio": 0.1980251736111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#c9ba96",
+          "rgb": [
+            201,
+            186,
+            150
+          ],
+          "ratio": 0.1379123263888889,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#9a8a6c",
+          "rgb": [
+            154,
+            138,
+            108
+          ],
+          "ratio": 0.06803385416666667,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#f1f1f0",
+          "rgb": [
+            241,
+            241,
+            240
+          ],
+          "ratio": 0.025716145833333332,
+          "bucket": "white"
+        }
+      ],
+      "addedAt": "2026-10-16T02:07:55.269Z",
+      "fileKey": "archive:arkivkopia.se-aboaka-1157",
+      "kind": "photo",
+      "photographer": "Åbo Akademis bildsamlingar",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "e9ff9ff9ff0ff8ff8ff8ff8ff0ff8fe03e07",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "3f1060a4-8dc6-48fa-929d-71eeca6879f9",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/3f1060a4-8dc6-48fa-929d-71eeca6879f9.jpg",
+      "thumbUrl": "/stills/3f1060a4-8dc6-48fa-929d-71eeca6879f9.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_102967",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_102967",
+      "buckets": [
+        "yellow",
+        "black"
+      ],
+      "palette": [
+        {
+          "hex": "#1d1b1b",
+          "rgb": [
+            29,
+            27,
+            27
+          ],
+          "ratio": 0.3876953125,
+          "bucket": "black"
+        },
+        {
+          "hex": "#eadec1",
+          "rgb": [
+            234,
+            222,
+            193
+          ],
+          "ratio": 0.2412109375,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#daccad",
+          "rgb": [
+            218,
+            204,
+            173
+          ],
+          "ratio": 0.2183159722222222,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#c4b696",
+          "rgb": [
+            196,
+            182,
+            150
+          ],
+          "ratio": 0.12662760416666666,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#827462",
+          "rgb": [
+            130,
+            116,
+            98
+          ],
+          "ratio": 0.026150173611111112,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-16T02:08:00.603Z",
+      "fileKey": "archive:mma_dress_102967",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "0003103f03f03f83fc7fc7feffeffe7fc1e0",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "4e889b0c-eb0e-44d4-8bd7-c06bf7805db8",
+      "title": "Evening dress",
+      "titleEn": "Evening dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/4e889b0c-eb0e-44d4-8bd7-c06bf7805db8.jpg",
+      "thumbUrl": "/stills/4e889b0c-eb0e-44d4-8bd7-c06bf7805db8.jpg",
+      "pageUrl": "https://archive.org/details/mma_evening_dress_173924",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_evening_dress_173924",
+      "buckets": [
+        "orange",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#c1ad8e",
+          "rgb": [
+            193,
+            173,
+            142
+          ],
+          "ratio": 0.3241102430555556,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#aba59e",
+          "rgb": [
+            171,
+            165,
+            158
+          ],
+          "ratio": 0.2876519097222222,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#ad9772",
+          "rgb": [
+            173,
+            151,
+            114
+          ],
+          "ratio": 0.2043185763888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#a59d94",
+          "rgb": [
+            165,
+            157,
+            148
+          ],
+          "ratio": 0.10904947916666667,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#e8d4b7",
+          "rgb": [
+            232,
+            212,
+            183
+          ],
+          "ratio": 0.07486979166666667,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-16T02:08:02.390Z",
+      "fileKey": "archive:mma_evening_dress_173924",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "1fc3fc3fe3ee3fe3fe374384200200000000",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "2e7fedb0-ba0f-4a47-b1ba-b928e9a67657",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/2e7fedb0-ba0f-4a47-b1ba-b928e9a67657.jpg",
+      "thumbUrl": "/stills/2e7fedb0-ba0f-4a47-b1ba-b928e9a67657.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_103038",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_103038",
+      "buckets": [
+        "red",
+        "orange",
+        "black"
+      ],
+      "palette": [
+        {
+          "hex": "#fbfaf9",
+          "rgb": [
+            251,
+            250,
+            249
+          ],
+          "ratio": 0.3299696180555556,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#0d0c09",
+          "rgb": [
+            13,
+            12,
+            9
+          ],
+          "ratio": 0.2336154513888889,
+          "bucket": "black"
+        },
+        {
+          "hex": "#642a25",
+          "rgb": [
+            100,
+            42,
+            37
+          ],
+          "ratio": 0.1968315972222222,
+          "bucket": "red"
+        },
+        {
+          "hex": "#331b16",
+          "rgb": [
+            51,
+            27,
+            22
+          ],
+          "ratio": 0.13856336805555555,
+          "bucket": "red"
+        },
+        {
+          "hex": "#9c4a45",
+          "rgb": [
+            156,
+            74,
+            69
+          ],
+          "ratio": 0.10101996527777778,
+          "bucket": "red"
+        }
+      ],
+      "addedAt": "2026-10-16T02:08:03.894Z",
+      "fileKey": "archive:mma_dress_103038",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "f0fe07c0190d90d805e03e03c01c03c03c03",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "c8c27a4a-149f-4547-ac59-18f1ef9e37e1",
+      "title": "View along the Via del Corso of the Palazzo dell'Accademia, established by Louis XIV, King of France for French students of Painting, Sculpture and Architecture..., from Vedute di Roma (Views of Rome), part I",
+      "titleEn": "View along the Via del Corso of the Palazzo dell'Accademia, established by Louis XIV, King of France for French students of Painting, Sculpture and Architecture..., from Vedute di Roma (Views of Rome), part I",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/c8c27a4a-149f-4547-ac59-18f1ef9e37e1.jpg",
+      "thumbUrl": "/stills/c8c27a4a-149f-4547-ac59-18f1ef9e37e1.jpg",
+      "pageUrl": "https://archive.org/details/mma_view_along_the_via_del_corso_of_the_palazzo_dellaccademia_established_by_l_360443",
+      "author": "Giovanni Battista Piranesi",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_view_along_the_via_del_corso_of_the_palazzo_dellaccademia_established_by_l_360443",
+      "buckets": [
+        "yellow",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#868174",
+          "rgb": [
+            134,
+            129,
+            116
+          ],
+          "ratio": 0.2336154513888889,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#676258",
+          "rgb": [
+            103,
+            98,
+            88
+          ],
+          "ratio": 0.2312282986111111,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#a8a294",
+          "rgb": [
+            168,
+            162,
+            148
+          ],
+          "ratio": 0.2202690972222222,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#cfc9b9",
+          "rgb": [
+            207,
+            201,
+            185
+          ],
+          "ratio": 0.20692274305555555,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#ece7d5",
+          "rgb": [
+            236,
+            231,
+            213
+          ],
+          "ratio": 0.10796440972222222,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-10-16T02:08:05.038Z",
+      "fileKey": "archive:mma_view_along_the_via_del_corso_of_the_palazzo_dellaccademia_established_by_l_360443",
+      "kind": "photo",
+      "photographer": "Giovanni Battista Piranesi",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "f87fc1fccf88f01f08e00c01800000000fff",
+      "category": "painting",
+      "people": "none",
+      "subjects": [
+        "architecture",
+        "sculpture"
+      ]
+    },
+    {
+      "id": "6313849c-6f96-4fdc-b40d-89417b923488",
+      "title": "Portrait of Frederick V, Elector Palatine, King of Bohemia",
+      "titleEn": "Portrait of Frederick V, Elector Palatine, King of Bohemia",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/6313849c-6f96-4fdc-b40d-89417b923488.jpg",
+      "thumbUrl": "/stills/6313849c-6f96-4fdc-b40d-89417b923488.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1942.1145-portrait-of-frederic",
+      "author": "John Hoskins (British, c. 1590–1665)",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "gray",
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#c9cacd",
+          "rgb": [
+            201,
+            202,
+            205
+          ],
+          "ratio": 0.3567708333333333,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#796454",
+          "rgb": [
+            121,
+            100,
+            84
+          ],
+          "ratio": 0.2097439236111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#37322d",
+          "rgb": [
+            55,
+            50,
+            45
+          ],
+          "ratio": 0.18912760416666666,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#504b4a",
+          "rgb": [
+            80,
+            75,
+            74
+          ],
+          "ratio": 0.1496310763888889,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#a89e92",
+          "rgb": [
+            168,
+            158,
+            146
+          ],
+          "ratio": 0.0947265625,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-16T02:08:08.794Z",
+      "fileKey": "archive:clevelandart-1942.1145-portrait-of-frederic",
+      "kind": "photo",
+      "photographer": "John Hoskins (British, c. 1590–1665)",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "f8ff07e03c03d31c31861861cf1c21c01e03",
+      "category": "photo",
+      "people": "one",
+      "subjects": [
+        "portrait"
+      ]
+    },
+    {
+      "id": "72c7df59-b5c7-4faf-8b7f-b0602865d8a7",
+      "title": "Four Boats Grandcamp (Quatre bateaux",
+      "titleEn": "Four Boats Grandcamp (Quatre bateaux",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/72c7df59-b5c7-4faf-8b7f-b0602865d8a7.jpg",
+      "thumbUrl": "/stills/72c7df59-b5c7-4faf-8b7f-b0602865d8a7.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/2034833/four-boats-grandcamp",
+      "author": "barnesfoundation",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "orange",
+        "white",
+        "cyan"
+      ],
+      "palette": [
+        {
+          "hex": "#dbc1a2",
+          "rgb": [
+            219,
+            193,
+            162
+          ],
+          "ratio": 0.3169487847222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#dcddd9",
+          "rgb": [
+            220,
+            221,
+            217
+          ],
+          "ratio": 0.3001302083333333,
+          "bucket": "white"
+        },
+        {
+          "hex": "#cda783",
+          "rgb": [
+            205,
+            167,
+            131
+          ],
+          "ratio": 0.19932725694444445,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#b4c1c4",
+          "rgb": [
+            180,
+            193,
+            196
+          ],
+          "ratio": 0.14192708333333334,
+          "bucket": "cyan"
+        },
+        {
+          "hex": "#525171",
+          "rgb": [
+            82,
+            81,
+            113
+          ],
+          "ratio": 0.041666666666666664,
+          "bucket": "blue"
+        }
+      ],
+      "addedAt": "2026-10-16T02:08:10.578Z",
+      "fileKey": "openverse:df04f714-d797-461a-a3ae-770f79a90273",
+      "kind": "photo",
+      "photographer": "barnesfoundation",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "ffffffcff043000000fff7d92ef6ef31d008",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "73a9ac8b-2f03-409e-9af1-564009f92c0c",
+      "title": "Shields for Pediments, in Chippendale Drawings, Vol. I",
+      "titleEn": "Shields for Pediments, in Chippendale Drawings, Vol. I",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/73a9ac8b-2f03-409e-9af1-564009f92c0c.jpg",
+      "thumbUrl": "/stills/73a9ac8b-2f03-409e-9af1-564009f92c0c.jpg",
+      "pageUrl": "https://archive.org/details/mma_shields_for_pediments_in_chippendale_drawings_vol_i_390542",
+      "author": "Thomas Chippendale",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_shields_for_pediments_in_chippendale_drawings_vol_i_390542",
+      "buckets": [
+        "yellow",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#d2c8af",
+          "rgb": [
+            210,
+            200,
+            175
+          ],
+          "ratio": 0.330078125,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#c8bda2",
+          "rgb": [
+            200,
+            189,
+            162
+          ],
+          "ratio": 0.3206380208333333,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#b2a891",
+          "rgb": [
+            178,
+            168,
+            145
+          ],
+          "ratio": 0.15907118055555555,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#8f8879",
+          "rgb": [
+            143,
+            136,
+            121
+          ],
+          "ratio": 0.11903211805555555,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#424966",
+          "rgb": [
+            66,
+            73,
+            102
+          ],
+          "ratio": 0.07118055555555555,
+          "bucket": "blue"
+        }
+      ],
+      "addedAt": "2026-10-16T02:08:11.465Z",
+      "fileKey": "archive:mma_shields_for_pediments_in_chippendale_drawings_vol_i_390542",
+      "kind": "photo",
+      "photographer": "Thomas Chippendale",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "000ffffff0f906466c66e6640f19fbf1f000",
+      "category": "photo",
+      "subjects": [
+        "design"
+      ]
+    },
+    {
+      "id": "818cffad-c6ce-4121-ac1c-62e2da03198b",
+      "title": "Madame Edouard Manet (Suzanne Leenhoff, 1829–1906)",
+      "titleEn": "Madame Edouard Manet (Suzanne Leenhoff, 1829–1906)",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/818cffad-c6ce-4121-ac1c-62e2da03198b.jpg",
+      "thumbUrl": "/stills/818cffad-c6ce-4121-ac1c-62e2da03198b.jpg",
+      "pageUrl": "https://www.metmuseum.org/art/collection/search/436957",
+      "author": "Edouard Manet",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "orange",
+        "black"
+      ],
+      "palette": [
+        {
+          "hex": "#786f59",
+          "rgb": [
+            120,
+            111,
+            89
+          ],
+          "ratio": 0.3956163194444444,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#96876b",
+          "rgb": [
+            150,
+            135,
+            107
+          ],
+          "ratio": 0.2503255208333333,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#615a49",
+          "rgb": [
+            97,
+            90,
+            73
+          ],
+          "ratio": 0.2228732638888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#0a0908",
+          "rgb": [
+            10,
+            9,
+            8
+          ],
+          "ratio": 0.08550347222222222,
+          "bucket": "black"
+        },
+        {
+          "hex": "#393229",
+          "rgb": [
+            57,
+            50,
+            41
+          ],
+          "ratio": 0.04568142361111111,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-16T02:08:12.947Z",
+      "fileKey": "openverse:968432a9-ef2b-417a-b440-32a62496df5b",
+      "kind": "photo",
+      "photographer": "Édouard Manet",
+      "sourceLabel": "Met Museum",
+      "contentHash": "40e45e4fe6fe65e46e06617a13a0fe2fe7fe",
+      "category": "painting",
+      "subjects": []
+    },
+    {
+      "id": "0e178f8e-1f5b-4562-984c-12b4562361a6",
+      "title": "Portrait of Pope Paul II Barbo (obverse) and (reverse)",
+      "titleEn": "Portrait of Pope Paul II Barbo (obverse) and (reverse)",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/0e178f8e-1f5b-4562-984c-12b4562361a6.jpg",
+      "thumbUrl": "/stills/0e178f8e-1f5b-4562-984c-12b4562361a6.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1984.16-portrait-of-pope-pau",
+      "author": "Cristoforo di Geremia (Italian, active 1456–76)",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#534a3b",
+          "rgb": [
+            83,
+            74,
+            59
+          ],
+          "ratio": 0.2874348958333333,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#332d21",
+          "rgb": [
+            51,
+            45,
+            33
+          ],
+          "ratio": 0.2182074652777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#b4b3ab",
+          "rgb": [
+            180,
+            179,
+            171
+          ],
+          "ratio": 0.2121310763888889,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#a4a59b",
+          "rgb": [
+            164,
+            165,
+            155
+          ],
+          "ratio": 0.18294270833333334,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#777062",
+          "rgb": [
+            119,
+            112,
+            98
+          ],
+          "ratio": 0.09928385416666667,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-10-16T02:08:13.883Z",
+      "fileKey": "archive:clevelandart-1984.16-portrait-of-pope-pau",
+      "kind": "photo",
+      "photographer": "Cristoforo di Geremia (Italian, active 1456–76)",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "f0fe07c1380380180180181180bc07e0ffff",
+      "category": "photo",
+      "people": "one",
+      "subjects": [
+        "portrait"
+      ]
+    },
+    {
+      "id": "b81eadb0-c04e-46d5-a9be-e0ebd4db4344",
+      "title": "Literary remains of Albrecht Dürer,",
+      "titleEn": "Literary remains of Albrecht Dürer,",
+      "titleZh": "",
+      "director": "",
+      "source": "loc",
+      "imageUrl": "/stills/b81eadb0-c04e-46d5-a9be-e0ebd4db4344.jpg",
+      "thumbUrl": "/stills/b81eadb0-c04e-46d5-a9be-e0ebd4db4344.jpg",
+      "pageUrl": "https://www.loc.gov/item/10034220/",
+      "author": "Library of Congress",
+      "license": "No known restrictions / public domain",
+      "licenseUrl": "https://www.loc.gov/item/10034220/",
+      "buckets": [
+        "brown",
+        "black"
+      ],
+      "palette": [
+        {
+          "hex": "#2f2a26",
+          "rgb": [
+            47,
+            42,
+            38
+          ],
+          "ratio": 0.2886284722222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#3a332f",
+          "rgb": [
+            58,
+            51,
+            47
+          ],
+          "ratio": 0.23470052083333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#211f1d",
+          "rgb": [
+            33,
+            31,
+            29
+          ],
+          "ratio": 0.1892361111111111,
+          "bucket": "black"
+        },
+        {
+          "hex": "#090a09",
+          "rgb": [
+            9,
+            10,
+            9
+          ],
+          "ratio": 0.1439887152777778,
+          "bucket": "black"
+        },
+        {
+          "hex": "#463e39",
+          "rgb": [
+            70,
+            62,
+            57
+          ],
+          "ratio": 0.14344618055555555,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-16T02:08:14.679Z",
+      "fileKey": "loc:http://www.loc.gov/item/10034220/",
+      "kind": "photo",
+      "photographer": "Albrecht Dürer",
+      "sourceLabel": "美国国会图书馆",
+      "contentHash": "3fc3f83f83fc3f83f03f03fc3fc3f43f03f0",
+      "category": "painting",
+      "subjects": []
+    },
+    {
+      "id": "cd788fff-f389-4974-ad49-8f869a9be3a8",
+      "title": "Mantle for a Statue of the Virgin with Lotus Blossoms and Medallions",
+      "titleEn": "Mantle for a Statue of the Virgin with Lotus Blossoms and Medallions",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/cd788fff-f389-4974-ad49-8f869a9be3a8.jpg",
+      "thumbUrl": "/stills/cd788fff-f389-4974-ad49-8f869a9be3a8.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1939.40-mantle-for-a-statue",
+      "author": "Internet Archive",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "gray",
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#b6ac9c",
+          "rgb": [
+            182,
+            172,
+            156
+          ],
+          "ratio": 0.2889539930555556,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#625d52",
+          "rgb": [
+            98,
+            93,
+            82
+          ],
+          "ratio": 0.22374131944444445,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#45433e",
+          "rgb": [
+            69,
+            67,
+            62
+          ],
+          "ratio": 0.20670572916666666,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#827864",
+          "rgb": [
+            130,
+            120,
+            100
+          ],
+          "ratio": 0.16829427083333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#9e9179",
+          "rgb": [
+            158,
+            145,
+            121
+          ],
+          "ratio": 0.1123046875,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-16T02:08:15.492Z",
+      "fileKey": "archive:clevelandart-1939.40-mantle-for-a-statue",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "fffef7c07801040420000180012110c03e1f",
+      "category": "photo",
+      "subjects": [
+        "sculpture"
+      ]
+    },
+    {
+      "id": "20ba1f17-e2e1-4a8c-9dc4-9dc625aab2e1",
+      "title": "Portrait of Benjamin Franklin",
+      "titleEn": "Portrait of Benjamin Franklin",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/20ba1f17-e2e1-4a8c-9dc4-9dc625aab2e1.jpg",
+      "thumbUrl": "/stills/20ba1f17-e2e1-4a8c-9dc4-9dc625aab2e1.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1940.578-portrait-of-benjamin",
+      "author": "Giovanni Battista Nini (Italian, 1717–1786)",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "orange",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#23201c",
+          "rgb": [
+            35,
+            32,
+            28
+          ],
+          "ratio": 0.2580295138888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#5b4431",
+          "rgb": [
+            91,
+            68,
+            49
+          ],
+          "ratio": 0.23697916666666666,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#7e5f46",
+          "rgb": [
+            126,
+            95,
+            70
+          ],
+          "ratio": 0.2136501736111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#968871",
+          "rgb": [
+            150,
+            136,
+            113
+          ],
+          "ratio": 0.17198350694444445,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d1bb85",
+          "rgb": [
+            209,
+            187,
+            133
+          ],
+          "ratio": 0.1193576388888889,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-10-16T02:08:16.311Z",
+      "fileKey": "archive:clevelandart-1940.578-portrait-of-benjamin",
+      "kind": "photo",
+      "photographer": "Giovanni Battista Nini (Italian, 1717–1786)",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "0001e03f86eccc6c1ec3ec37c07f0fff99f1",
+      "category": "photo",
+      "people": "one",
+      "subjects": [
+        "portrait"
+      ]
+    },
+    {
+      "id": "911275e9-59fd-4793-97b1-697d33ca1962",
+      "title": "Portrait of an Officer",
+      "titleEn": "Portrait of an Officer",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/911275e9-59fd-4793-97b1-697d33ca1962.jpg",
+      "thumbUrl": "/stills/911275e9-59fd-4793-97b1-697d33ca1962.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1942.1157-portrait-of-an-offic",
+      "author": "John I Smart (British, 1741–1811)",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "orange",
+        "gray",
+        "red",
+        "black"
+      ],
+      "palette": [
+        {
+          "hex": "#bbb9bc",
+          "rgb": [
+            187,
+            185,
+            188
+          ],
+          "ratio": 0.3121744791666667,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#8e8274",
+          "rgb": [
+            142,
+            130,
+            116
+          ],
+          "ratio": 0.2689887152777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#ad9f96",
+          "rgb": [
+            173,
+            159,
+            150
+          ],
+          "ratio": 0.1794704861111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#904b42",
+          "rgb": [
+            144,
+            75,
+            66
+          ],
+          "ratio": 0.1322699652777778,
+          "bucket": "red"
+        },
+        {
+          "hex": "#302c28",
+          "rgb": [
+            48,
+            44,
+            40
+          ],
+          "ratio": 0.10709635416666667,
+          "bucket": "black"
+        }
+      ],
+      "addedAt": "2026-10-16T02:08:17.711Z",
+      "fileKey": "archive:clevelandart-1942.1157-portrait-of-an-offic",
+      "kind": "photo",
+      "photographer": "John I Smart (British, 1741–1811)",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "f8fe67cf3df1fe1f61f24e34c10c1dc09c0b",
+      "category": "photo",
+      "people": "one",
+      "subjects": [
+        "portrait"
+      ]
+    },
+    {
+      "id": "97479bc0-ce90-42e2-bf00-42c0f3856b40",
+      "title": "Medal of Corot",
+      "titleEn": "Medal of Corot",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/97479bc0-ce90-42e2-bf00-42c0f3856b40.jpg",
+      "thumbUrl": "/stills/97479bc0-ce90-42e2-bf00-42c0f3856b40.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1983.157-medal-of-corot",
+      "author": "Adolphe-Victor Geoffroy-Dechaume (French, 1816–1892)",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "gray",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#715337",
+          "rgb": [
+            113,
+            83,
+            55
+          ],
+          "ratio": 0.3221571180555556,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#40362f",
+          "rgb": [
+            64,
+            54,
+            47
+          ],
+          "ratio": 0.2230902777777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#898988",
+          "rgb": [
+            137,
+            137,
+            136
+          ],
+          "ratio": 0.2080078125,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#95764e",
+          "rgb": [
+            149,
+            118,
+            78
+          ],
+          "ratio": 0.1576605902777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#c6a673",
+          "rgb": [
+            198,
+            166,
+            115
+          ],
+          "ratio": 0.0890842013888889,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-16T02:08:20.287Z",
+      "fileKey": "archive:clevelandart-1983.157-medal-of-corot",
+      "kind": "photo",
+      "photographer": "Adolphe-Victor Geoffroy-Dechaume (French, 1816–1892)",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "0000807fc20c8f29d39f39f38e3a0b803fff",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "767f13cb-961f-4451-ad3b-bf0af8b63332",
+      "title": "Portraits of a woman, 100-130 CE, painted in tempera on wood, Fayum, Ashmolean Museum",
+      "titleEn": "tempera on wood, Fayum, Ashmolean Museum",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/767f13cb-961f-4451-ad3b-bf0af8b63332.jpg",
+      "thumbUrl": "/stills/767f13cb-961f-4451-ad3b-bf0af8b63332.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Portraits_of_a_woman,_100-130_CE,_painted_in_tempera_on_wood,_Fayum,_Ashmolean_Museum.jpg",
+      "author": "SpeakingArch",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "buckets": [
+        "black",
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#020202",
+          "rgb": [
+            2,
+            2,
+            2
+          ],
+          "ratio": 0.5220269097222222,
+          "bucket": "black"
+        },
+        {
+          "hex": "#b6855a",
+          "rgb": [
+            182,
+            133,
+            90
+          ],
+          "ratio": 0.1677517361111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#995a28",
+          "rgb": [
+            153,
+            90,
+            40
+          ],
+          "ratio": 0.16731770833333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#573925",
+          "rgb": [
+            87,
+            57,
+            37
+          ],
+          "ratio": 0.07389322916666667,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#746251",
+          "rgb": [
+            116,
+            98,
+            81
+          ],
+          "ratio": 0.06901041666666667,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-16T02:12:02.952Z",
+      "fileKey": "File:Portraits of a woman, 100-130 CE, painted in tempera on wood, Fayum, Ashmolean Museum.jpg",
+      "kind": "photo",
+      "photographer": "SpeakingArch",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "3f83f03f83f03f01f01f01f01f01f01f01f0",
+      "category": "painting",
+      "people": "one",
+      "subjects": [
+        "people",
+        "ancient"
+      ]
+    },
+    {
+      "id": "41094869-3c13-433f-9868-9b70233c9c18",
+      "title": "Lascaux 025",
+      "titleEn": "Lascaux 025",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/41094869-3c13-433f-9868-9b70233c9c18.jpg",
+      "thumbUrl": "/stills/41094869-3c13-433f-9868-9b70233c9c18.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Lascaux_025.jpg",
+      "author": "JoJan",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "buckets": [
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#2c1b09",
+          "rgb": [
+            44,
+            27,
+            9
+          ],
+          "ratio": 0.3506944444444444,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#53330c",
+          "rgb": [
+            83,
+            51,
+            12
+          ],
+          "ratio": 0.2888454861111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#6e5220",
+          "rgb": [
+            110,
+            82,
+            32
+          ],
+          "ratio": 0.17415364583333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#885219",
+          "rgb": [
+            136,
+            82,
+            25
+          ],
+          "ratio": 0.10492621527777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#a17c41",
+          "rgb": [
+            161,
+            124,
+            65
+          ],
+          "ratio": 0.08138020833333333,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-16T02:13:49.881Z",
+      "fileKey": "File:Lascaux 025.jpg",
+      "kind": "film",
+      "photographer": "JoJan",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "ffeffee00c0000000080001c09f1df3fffff"
     }
   ],
-  "lastIngestDate": "2026-10-15",
+  "lastIngestDate": "2026-10-16",
   "seenFileKeys": [
     "stills:04b85cc4-5a5c-4d95-9d52-460ceefa3ee5.jpg",
     "stills:0509b1d5-b5da-4b3c-8e65-edda97b86985.jpg",
@@ -379414,7 +381361,47 @@
     "File:Gopaka, holding a book in a Tibetan thangka.jpg",
     "File:Aerial photograph of the Danube.jpg",
     "File:Hieronymus Bosch - The Garden of Earthly Delights - The Earthly Paradise (Garden of Eden) (cropped).jpg",
-    "File:The Mentor v10n01 The Lure of the South Seas 1922-02.Crowell (Darwin-IA).djvu"
+    "File:The Mentor v10n01 The Lure of the South Seas 1922-02.Crowell (Darwin-IA).djvu",
+    "archive:mma_dress_90872",
+    "archive:clevelandart-2009.571-interior-with-young",
+    "archive:cmlpl_000542",
+    "archive:clevelandart-1921.215-self-portrait-in-cos",
+    "archive:mma_dress_103000",
+    "archive:arkivkopia.se-aboaka-1164",
+    "archive:mma_dressing_gown_174753",
+    "archive:mma_dress_103653",
+    "archive:mma_dress_102929",
+    "archive:arkivkopia.se-aboaka-1157",
+    "archive:mma_textile_158404",
+    "archive:mma_textile_173340",
+    "archive:clevelandart-1931.445.m-woman-s-costume-broo",
+    "archive:clevelandart-1976.188-costume",
+    "archive:mma_dress_102967",
+    "archive:mma_dress_107977",
+    "archive:mma_evening_dress_173924",
+    "archive:clevelandart-1942.977-histoire-du-costume",
+    "archive:mma_dress_103038",
+    "archive:mma_view_along_the_via_del_corso_of_the_palazzo_dellaccademia_established_by_l_360443",
+    "loc:http://www.loc.gov/item/11020968/",
+    "archive:mma_sideboard_table_7498",
+    "archive:clevelandart-1942.1145-portrait-of-frederic",
+    "openverse:df04f714-d797-461a-a3ae-770f79a90273",
+    "archive:mma_shields_for_pediments_in_chippendale_drawings_vol_i_390542",
+    "openverse:968432a9-ef2b-417a-b440-32a62496df5b",
+    "archive:clevelandart-1984.16-portrait-of-pope-pau",
+    "loc:http://www.loc.gov/item/10034220/",
+    "archive:clevelandart-1939.40-mantle-for-a-statue",
+    "archive:clevelandart-1940.578-portrait-of-benjamin",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1939-04-28",
+    "archive:clevelandart-1942.1157-portrait-of-an-offic",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1940-03-07",
+    "loc:http://www.loc.gov/item/03016535/",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1939-11-07",
+    "archive:clevelandart-1983.157-medal-of-corot",
+    "File:Kusakabe Kimbei 88 Post Runner.JPG",
+    "File:Portraits of a woman, 100-130 CE, painted in tempera on wood, Fayum, Ashmolean Museum.jpg",
+    "File:Aerial landscape (AM 82363-1).jpg",
+    "File:Lascaux 025.jpg"
   ],
   "seenContentHashes": [
     "ff8f20c0481cf3cffcf7ce58ffcffcffcd7e",
@@ -383828,6 +385815,30 @@
     "fffafd9d93fc3fc3fc3f81f81fc3383901c0",
     "00809c09e11f13fecfecfdfecefce7c27e0f",
     "9f91b8fb8000be08b80581f8398030010013",
-    "9058018f0bf0bf0bf1bfc80ca00bfcbfcbfc"
+    "9058018f0bf0bf0bf1bfc80ca00bfcbfcbfc",
+    "e07e1fe1fe0fe0fe0fe07e07e07e03c03c03",
+    "8018018f98798398198398b98f9fffffffdf",
+    "00038c1f81f81f81f87fcffcffeffe7fe000",
+    "ffff9ff9ff8ff0ff07f0ff0ff07f87e07e07",
+    "c03d03d0bc03c03e07e07e07e07e07e03c03",
+    "1041fc1fc1fc3fc3fe3fe7fe7fe7fe7fe7fe",
+    "fffe27c07c03801805000000000000000fff",
+    "e9ff9ff9ff0ff8ff8ff8ff8ff0ff8fe03e07",
+    "0003103f03f03f83fc7fc7feffeffe7fc1e0",
+    "1fc3fc3fe3ee3fe3fe374384200200000000",
+    "f0fe07c0190d90d805e03e03c01c03c03c03",
+    "f87fc1fccf88f01f08e00c01800000000fff",
+    "f8ff07e03c03d31c31861861cf1c21c01e03",
+    "ffffffcff043000000fff7d92ef6ef31d008",
+    "000ffffff0f906466c66e6640f19fbf1f000",
+    "40e45e4fe6fe65e46e06617a13a0fe2fe7fe",
+    "f0fe07c1380380180180181180bc07e0ffff",
+    "3fc3f83f83fc3f83f03f03fc3fc3f43f03f0",
+    "fffef7c07801040420000180012110c03e1f",
+    "0001e03f86eccc6c1ec3ec37c07f0fff99f1",
+    "f8fe67cf3df1fe1f61f24e34c10c1dc09c0b",
+    "0000807fc20c8f29d39f39f38e3a0b803fff",
+    "3f83f03f83f03f01f01f01f01f01f01f01f0",
+    "ffeffee00c0000000080001c09f1df3fffff"
   ]
 }
