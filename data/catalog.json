@@ -374145,10 +374145,1452 @@
       "kind": "film",
       "photographer": "JoJan",
       "sourceLabel": "维基共享资源",
-      "contentHash": "ffeffee00c0000000080001c09f1df3fffff"
+      "contentHash": "ffeffee00c0000000080001c09f1df3fffff",
+      "category": "film",
+      "subjects": [
+        "ancient"
+      ]
+    },
+    {
+      "id": "f60ab816-cd39-4526-a2d5-f8ea4744d724",
+      "title": "Textile Fragments",
+      "titleEn": "Textile Fragments",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/f60ab816-cd39-4526-a2d5-f8ea4744d724.jpg",
+      "thumbUrl": "/stills/f60ab816-cd39-4526-a2d5-f8ea4744d724.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1920.1594-textile-fragments",
+      "author": "Internet Archive",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "yellow",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#93804a",
+          "rgb": [
+            147,
+            128,
+            74
+          ],
+          "ratio": 0.2881944444444444,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#7a6f3c",
+          "rgb": [
+            122,
+            111,
+            60
+          ],
+          "ratio": 0.20713975694444445,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#fafaf2",
+          "rgb": [
+            250,
+            250,
+            242
+          ],
+          "ratio": 0.18912760416666666,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#a39868",
+          "rgb": [
+            163,
+            152,
+            104
+          ],
+          "ratio": 0.17643229166666666,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#625f2f",
+          "rgb": [
+            98,
+            95,
+            47
+          ],
+          "ratio": 0.1391059027777778,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-10-17T02:21:38.475Z",
+      "fileKey": "archive:clevelandart-1920.1594-textile-fragments",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "83f83f83083083083083083083086083083f",
+      "category": "photo",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "7212a71c-1849-4969-bbbe-1d7cafb6bcdd",
+      "title": "Wedding dress",
+      "titleEn": "Wedding dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/7212a71c-1849-4969-bbbe-1d7cafb6bcdd.jpg",
+      "thumbUrl": "/stills/7212a71c-1849-4969-bbbe-1d7cafb6bcdd.jpg",
+      "pageUrl": "https://archive.org/details/mma_wedding_dress_84318",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_wedding_dress_84318",
+      "buckets": [
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#beaf96",
+          "rgb": [
+            190,
+            175,
+            150
+          ],
+          "ratio": 0.3031684027777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#bcad93",
+          "rgb": [
+            188,
+            173,
+            147
+          ],
+          "ratio": 0.2596571180555556,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#b9aa90",
+          "rgb": [
+            185,
+            170,
+            144
+          ],
+          "ratio": 0.19694010416666666,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#c1b29a",
+          "rgb": [
+            193,
+            178,
+            154
+          ],
+          "ratio": 0.18619791666666666,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#b5a589",
+          "rgb": [
+            181,
+            165,
+            137
+          ],
+          "ratio": 0.054036458333333336,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-17T02:21:39.432Z",
+      "fileKey": "archive:mma_wedding_dress_84318",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "fff7ff7ffffffbfc5ec1e738678000000000",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "d958ed40-4e60-497d-894b-275187915acf",
+      "title": "Length of Textile",
+      "titleEn": "Length of Textile",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/d958ed40-4e60-497d-894b-275187915acf.jpg",
+      "thumbUrl": "/stills/d958ed40-4e60-497d-894b-275187915acf.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1954.313-length-of-textile",
+      "author": "Internet Archive",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "orange",
+        "red"
+      ],
+      "palette": [
+        {
+          "hex": "#c0b3a2",
+          "rgb": [
+            192,
+            179,
+            162
+          ],
+          "ratio": 0.3567708333333333,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d67c78",
+          "rgb": [
+            214,
+            124,
+            120
+          ],
+          "ratio": 0.3277994791666667,
+          "bucket": "red"
+        },
+        {
+          "hex": "#ada292",
+          "rgb": [
+            173,
+            162,
+            146
+          ],
+          "ratio": 0.15592447916666666,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#ca9188",
+          "rgb": [
+            202,
+            145,
+            136
+          ],
+          "ratio": 0.1362847222222222,
+          "bucket": "red"
+        },
+        {
+          "hex": "#877f6d",
+          "rgb": [
+            135,
+            127,
+            109
+          ],
+          "ratio": 0.023220486111111112,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-17T02:21:40.831Z",
+      "fileKey": "archive:clevelandart-1954.313-length-of-textile",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "820820928921820d21d27da3d27dafdafdbf",
+      "category": "photo",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "1759b08f-c7ce-40dd-8666-1240ee92cf4c",
+      "title": "Textile Fragment",
+      "titleEn": "Textile Fragment",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/1759b08f-c7ce-40dd-8666-1240ee92cf4c.jpg",
+      "thumbUrl": "/stills/1759b08f-c7ce-40dd-8666-1240ee92cf4c.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1940.478-textile-fragment",
+      "author": "Internet Archive",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "orange",
+        "brown",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#e2d5c7",
+          "rgb": [
+            226,
+            213,
+            199
+          ],
+          "ratio": 0.3213975694444444,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#5d5e51",
+          "rgb": [
+            93,
+            94,
+            81
+          ],
+          "ratio": 0.2518446180555556,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#867a68",
+          "rgb": [
+            134,
+            122,
+            104
+          ],
+          "ratio": 0.2064887152777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#b09f8a",
+          "rgb": [
+            176,
+            159,
+            138
+          ],
+          "ratio": 0.1521267361111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#483327",
+          "rgb": [
+            72,
+            51,
+            39
+          ],
+          "ratio": 0.0681423611111111,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-17T02:21:41.786Z",
+      "fileKey": "archive:clevelandart-1940.478-textile-fragment",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "d03903803803803d03e03e03e03e07e0ff07",
+      "category": "photo",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "61cbf752-52d8-4795-b8b7-da5987a7f403",
+      "title": "Length of Textile",
+      "titleEn": "Length of Textile",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/61cbf752-52d8-4795-b8b7-da5987a7f403.jpg",
+      "thumbUrl": "/stills/61cbf752-52d8-4795-b8b7-da5987a7f403.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1953.311.a-length-of-textile",
+      "author": "Internet Archive",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "orange",
+        "red",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#e5a28f",
+          "rgb": [
+            229,
+            162,
+            143
+          ],
+          "ratio": 0.3834635416666667,
+          "bucket": "red"
+        },
+        {
+          "hex": "#ebb19d",
+          "rgb": [
+            235,
+            177,
+            157
+          ],
+          "ratio": 0.3146701388888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#ac8775",
+          "rgb": [
+            172,
+            135,
+            117
+          ],
+          "ratio": 0.12391493055555555,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#6e5f51",
+          "rgb": [
+            110,
+            95,
+            81
+          ],
+          "ratio": 0.10894097222222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#dfd8cf",
+          "rgb": [
+            223,
+            216,
+            207
+          ],
+          "ratio": 0.06901041666666667,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-17T02:21:44.250Z",
+      "fileKey": "archive:clevelandart-1953.311.a-length-of-textile",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "8c38e379efbcf38e39e71ed339fbcf9c78e7",
+      "category": "photo",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "ba0b0da9-fc12-4a87-9466-09180a7d46a4",
+      "title": "Textile Fragment",
+      "titleEn": "Textile Fragment",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/ba0b0da9-fc12-4a87-9466-09180a7d46a4.jpg",
+      "thumbUrl": "/stills/ba0b0da9-fc12-4a87-9466-09180a7d46a4.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1920.1939-textile-fragment",
+      "author": "Internet Archive",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#a16e3a",
+          "rgb": [
+            161,
+            110,
+            58
+          ],
+          "ratio": 0.3783637152777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#af834f",
+          "rgb": [
+            175,
+            131,
+            79
+          ],
+          "ratio": 0.3513454861111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#c29b69",
+          "rgb": [
+            194,
+            155,
+            105
+          ],
+          "ratio": 0.1685112847222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#fbf6f0",
+          "rgb": [
+            251,
+            246,
+            240
+          ],
+          "ratio": 0.05381944444444445,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#934724",
+          "rgb": [
+            147,
+            71,
+            36
+          ],
+          "ratio": 0.04796006944444445,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-17T02:21:46.892Z",
+      "fileKey": "archive:clevelandart-1920.1939-textile-fragment",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "80080080080082092480eedcb3cb3d81cfff",
+      "category": "photo",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "88dc2726-a860-4211-abf2-7730a70af682",
+      "title": "Length of Textile",
+      "titleEn": "Length of Textile",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/88dc2726-a860-4211-abf2-7730a70af682.jpg",
+      "thumbUrl": "/stills/88dc2726-a860-4211-abf2-7730a70af682.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1952.549-length-of-textile",
+      "author": "Internet Archive",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "yellow",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#a49878",
+          "rgb": [
+            164,
+            152,
+            120
+          ],
+          "ratio": 0.3244357638888889,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#968c77",
+          "rgb": [
+            150,
+            140,
+            119
+          ],
+          "ratio": 0.3213975694444444,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#aea285",
+          "rgb": [
+            174,
+            162,
+            133
+          ],
+          "ratio": 0.17154947916666666,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#877e67",
+          "rgb": [
+            135,
+            126,
+            103
+          ],
+          "ratio": 0.1213107638888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#a9a9a5",
+          "rgb": [
+            169,
+            169,
+            165
+          ],
+          "ratio": 0.06130642361111111,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-10-17T02:21:48.237Z",
+      "fileKey": "archive:clevelandart-1952.549-length-of-textile",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "af7afffdfe3fa2f80fe07a06a07a9f024803",
+      "category": "photo",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "5fd49711-d39c-4a70-a753-3258cc009d47",
+      "title": "Textile Fragment",
+      "titleEn": "Textile Fragment",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/5fd49711-d39c-4a70-a753-3258cc009d47.jpg",
+      "thumbUrl": "/stills/5fd49711-d39c-4a70-a753-3258cc009d47.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1920.773-textile-fragment",
+      "author": "Internet Archive",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#787d4b",
+          "rgb": [
+            120,
+            125,
+            75
+          ],
+          "ratio": 0.3322482638888889,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#968f59",
+          "rgb": [
+            150,
+            143,
+            89
+          ],
+          "ratio": 0.2765842013888889,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#b2a76d",
+          "rgb": [
+            178,
+            167,
+            109
+          ],
+          "ratio": 0.2754991319444444,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#fcfcfa",
+          "rgb": [
+            252,
+            252,
+            250
+          ],
+          "ratio": 0.09125434027777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#d6d1b7",
+          "rgb": [
+            214,
+            209,
+            183
+          ],
+          "ratio": 0.0244140625,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-10-17T02:21:49.778Z",
+      "fileKey": "archive:clevelandart-1920.773-textile-fragment",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "810800900fc0fc0b8082480088080080080c",
+      "category": "photo",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "c9c239fe-18c7-423d-b719-d52d9fc1cf30",
+      "title": "Portrait of Adelaide Neilson and Mrs. Judah as Nurse",
+      "titleEn": "Portrait of Adelaide Neilson and Mrs. Judah as Nurse",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/c9c239fe-18c7-423d-b719-d52d9fc1cf30.jpg",
+      "thumbUrl": "/stills/c9c239fe-18c7-423d-b719-d52d9fc1cf30.jpg",
+      "pageUrl": "https://archive.org/details/csfcp_000469",
+      "author": "Unknown",
+      "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "licenseUrl": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "buckets": [
+        "orange",
+        "brown",
+        "red"
+      ],
+      "palette": [
+        {
+          "hex": "#baa485",
+          "rgb": [
+            186,
+            164,
+            133
+          ],
+          "ratio": 0.2711588541666667,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#4b372d",
+          "rgb": [
+            75,
+            55,
+            45
+          ],
+          "ratio": 0.2632378472222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#dac7a3",
+          "rgb": [
+            218,
+            199,
+            163
+          ],
+          "ratio": 0.2035590277777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#7c6854",
+          "rgb": [
+            124,
+            104,
+            84
+          ],
+          "ratio": 0.1657986111111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#281f20",
+          "rgb": [
+            40,
+            31,
+            32
+          ],
+          "ratio": 0.09624565972222222,
+          "bucket": "red"
+        }
+      ],
+      "addedAt": "2026-10-17T02:21:50.737Z",
+      "fileKey": "archive:csfcp_000469",
+      "kind": "photo",
+      "photographer": "Unknown",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "fff77f67f47f1713713f93dd25d204000401",
+      "category": "photo",
+      "people": "one",
+      "subjects": [
+        "portrait"
+      ]
+    },
+    {
+      "id": "02df7107-658c-4f9f-bfb1-65afce3b4b88",
+      "title": "Rank Badge with Single Crane Motif",
+      "titleEn": "Rank Badge with Single Crane Motif",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/02df7107-658c-4f9f-bfb1-65afce3b4b88.jpg",
+      "thumbUrl": "/stills/02df7107-658c-4f9f-bfb1-65afce3b4b88.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-2019.78.2-rank-badge-with-sing",
+      "author": "Internet Archive",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "gray",
+        "yellow",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#36342f",
+          "rgb": [
+            54,
+            52,
+            47
+          ],
+          "ratio": 0.3905164930555556,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#5d4f3f",
+          "rgb": [
+            93,
+            79,
+            63
+          ],
+          "ratio": 0.21864149305555555,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#7c6b54",
+          "rgb": [
+            124,
+            107,
+            84
+          ],
+          "ratio": 0.18055555555555555,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#c9ba9b",
+          "rgb": [
+            201,
+            186,
+            155
+          ],
+          "ratio": 0.11859809027777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#a08c72",
+          "rgb": [
+            160,
+            140,
+            114
+          ],
+          "ratio": 0.09168836805555555,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-17T02:21:52.271Z",
+      "fileKey": "archive:clevelandart-2019.78.2-rank-badge-with-sing",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "fffa00e9cec0bccbfcbf8a36f0eb9eb8e800",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "e9af2d6f-3fd2-480c-861f-f512d4e3028f",
+      "title": "Furniture Hardware",
+      "titleEn": "Furniture Hardware",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/e9af2d6f-3fd2-480c-861f-f512d4e3028f.jpg",
+      "thumbUrl": "/stills/e9af2d6f-3fd2-480c-861f-f512d4e3028f.jpg",
+      "pageUrl": "https://archive.org/details/mma_furniture_hardware_5236",
+      "author": "Henry Kellam Hancock",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_furniture_hardware_5236",
+      "buckets": [
+        "cyan",
+        "yellow",
+        "green"
+      ],
+      "palette": [
+        {
+          "hex": "#8fb4ae",
+          "rgb": [
+            143,
+            180,
+            174
+          ],
+          "ratio": 0.3245442708333333,
+          "bucket": "cyan"
+        },
+        {
+          "hex": "#a0c1bc",
+          "rgb": [
+            160,
+            193,
+            188
+          ],
+          "ratio": 0.2913411458333333,
+          "bucket": "cyan"
+        },
+        {
+          "hex": "#444620",
+          "rgb": [
+            68,
+            70,
+            32
+          ],
+          "ratio": 0.1603732638888889,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#817f46",
+          "rgb": [
+            129,
+            127,
+            70
+          ],
+          "ratio": 0.1333550347222222,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#8aa18b",
+          "rgb": [
+            138,
+            161,
+            139
+          ],
+          "ratio": 0.09038628472222222,
+          "bucket": "green"
+        }
+      ],
+      "addedAt": "2026-10-17T02:21:53.111Z",
+      "fileKey": "archive:mma_furniture_hardware_5236",
+      "kind": "photo",
+      "photographer": "Henry Kellam Hancock",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "fff7c6ceecc67c77c6ee67c7ec74464c67c6",
+      "category": "photo",
+      "subjects": [
+        "design"
+      ]
+    },
+    {
+      "id": "fe8877d5-b0b8-4a6c-87df-16c39b1bc255",
+      "title": "The Streetwalker",
+      "titleEn": "The Streetwalker",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/fe8877d5-b0b8-4a6c-87df-16c39b1bc255.jpg",
+      "thumbUrl": "/stills/fe8877d5-b0b8-4a6c-87df-16c39b1bc255.jpg",
+      "pageUrl": "https://www.metmuseum.org/art/collection/search/438016",
+      "author": "Henri de Toulouse-Lautrec",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "orange",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#9e8a70",
+          "rgb": [
+            158,
+            138,
+            112
+          ],
+          "ratio": 0.3226996527777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#7c776b",
+          "rgb": [
+            124,
+            119,
+            107
+          ],
+          "ratio": 0.2173394097222222,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#535e5d",
+          "rgb": [
+            83,
+            94,
+            93
+          ],
+          "ratio": 0.17784288194444445,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#b29d84",
+          "rgb": [
+            178,
+            157,
+            132
+          ],
+          "ratio": 0.146484375,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#ddcaa7",
+          "rgb": [
+            221,
+            202,
+            167
+          ],
+          "ratio": 0.13563368055555555,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-17T02:21:54.751Z",
+      "fileKey": "openverse:12761d57-cb03-4abc-9032-c964e5cd3a82",
+      "kind": "photo",
+      "photographer": "Henri de Toulouse-Lautrec",
+      "sourceLabel": "Met Museum",
+      "contentHash": "80f8078498498ed86f8cf9f5be5aa1881809",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "66ca22c9-96e5-46c7-a64f-fc648c485c9a",
+      "title": "Edith Crane with flowers as \"Trilby\"",
+      "titleEn": "Edith Crane with flowers as \"Trilby\"",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/66ca22c9-96e5-46c7-a64f-fc648c485c9a.jpg",
+      "thumbUrl": "/stills/66ca22c9-96e5-46c7-a64f-fc648c485c9a.jpg",
+      "pageUrl": "https://archive.org/details/csfcp_000173",
+      "author": "Morrison, W. M. (William McKenzie), 1857-1927",
+      "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "licenseUrl": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "buckets": [
+        "brown",
+        "orange",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#87725b",
+          "rgb": [
+            135,
+            114,
+            91
+          ],
+          "ratio": 0.2524956597222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#a99373",
+          "rgb": [
+            169,
+            147,
+            115
+          ],
+          "ratio": 0.2490234375,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#5b4638",
+          "rgb": [
+            91,
+            70,
+            56
+          ],
+          "ratio": 0.17838541666666666,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#2a221d",
+          "rgb": [
+            42,
+            34,
+            29
+          ],
+          "ratio": 0.17740885416666666,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#c8b58d",
+          "rgb": [
+            200,
+            181,
+            141
+          ],
+          "ratio": 0.14268663194444445,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-10-17T02:21:57.043Z",
+      "fileKey": "archive:csfcp_000173",
+      "kind": "photo",
+      "photographer": "Morrison, W. M. (William McKenzie), 1857-1927",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "7ce72e7be03a07e03e03603203247e03e7fe",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "7c3c3ae3-2ac3-477b-a0e5-8b05d9dbc589",
+      "title": "Chinese Bed, in Chippendale Drawings, Vol. I",
+      "titleEn": "Chinese Bed, in Chippendale Drawings, Vol. I",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/7c3c3ae3-2ac3-477b-a0e5-8b05d9dbc589.jpg",
+      "thumbUrl": "/stills/7c3c3ae3-2ac3-477b-a0e5-8b05d9dbc589.jpg",
+      "pageUrl": "https://archive.org/details/mma_chinese_bed_in_chippendale_drawings_vol_i_390511",
+      "author": "Thomas Chippendale",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_chinese_bed_in_chippendale_drawings_vol_i_390511",
+      "buckets": [
+        "yellow",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#e5dbbf",
+          "rgb": [
+            229,
+            219,
+            191
+          ],
+          "ratio": 0.5146484375,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#d3caac",
+          "rgb": [
+            211,
+            202,
+            172
+          ],
+          "ratio": 0.1713324652777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#b2ac94",
+          "rgb": [
+            178,
+            172,
+            148
+          ],
+          "ratio": 0.14583333333333334,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#888472",
+          "rgb": [
+            136,
+            132,
+            114
+          ],
+          "ratio": 0.1316189236111111,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#37465b",
+          "rgb": [
+            55,
+            70,
+            91
+          ],
+          "ratio": 0.036566840277777776,
+          "bucket": "blue"
+        }
+      ],
+      "addedAt": "2026-10-17T02:21:58.290Z",
+      "fileKey": "archive:mma_chinese_bed_in_chippendale_drawings_vol_i_390511",
+      "kind": "photo",
+      "photographer": "Thomas Chippendale",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "000ffdff9fe0fe0fe0fe1fe0fe0fe3fe0000",
+      "category": "photo",
+      "subjects": [
+        "design"
+      ]
+    },
+    {
+      "id": "00ece01f-baac-4a5c-8cf8-8884997be56e",
+      "title": "Pier Glass Frames, in Chippendale Drawings, Vol. I",
+      "titleEn": "Pier Glass Frames, in Chippendale Drawings, Vol. I",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/00ece01f-baac-4a5c-8cf8-8884997be56e.jpg",
+      "thumbUrl": "/stills/00ece01f-baac-4a5c-8cf8-8884997be56e.jpg",
+      "pageUrl": "https://archive.org/details/mma_pier_glass_frames_in_chippendale_drawings_vol_i_390536",
+      "author": "Thomas Chippendale",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_pier_glass_frames_in_chippendale_drawings_vol_i_390536",
+      "buckets": [
+        "orange",
+        "yellow",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#d7c9ae",
+          "rgb": [
+            215,
+            201,
+            174
+          ],
+          "ratio": 0.4033203125,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#cdc0a3",
+          "rgb": [
+            205,
+            192,
+            163
+          ],
+          "ratio": 0.23893229166666666,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#898171",
+          "rgb": [
+            137,
+            129,
+            113
+          ],
+          "ratio": 0.14908854166666666,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#afa58e",
+          "rgb": [
+            175,
+            165,
+            142
+          ],
+          "ratio": 0.14192708333333334,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#414862",
+          "rgb": [
+            65,
+            72,
+            98
+          ],
+          "ratio": 0.06673177083333333,
+          "bucket": "blue"
+        }
+      ],
+      "addedAt": "2026-10-17T02:21:59.255Z",
+      "fileKey": "archive:mma_pier_glass_frames_in_chippendale_drawings_vol_i_390536",
+      "kind": "photo",
+      "photographer": "Thomas Chippendale",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "7e77e17e16796794e007807807b4f94f87f9",
+      "category": "photo",
+      "subjects": [
+        "design"
+      ]
+    },
+    {
+      "id": "47cf2aa2-cadb-49d5-a26b-f913ebd6e395",
+      "title": "French Commode Table, from Chippendale Drawings, Vol. II",
+      "titleEn": "French Commode Table, from Chippendale Drawings, Vol. II",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/47cf2aa2-cadb-49d5-a26b-f913ebd6e395.jpg",
+      "thumbUrl": "/stills/47cf2aa2-cadb-49d5-a26b-f913ebd6e395.jpg",
+      "pageUrl": "https://archive.org/details/mma_french_commode_table_from_chippendale_drawings_vol_ii_390629",
+      "author": "Thomas Chippendale",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_french_commode_table_from_chippendale_drawings_vol_ii_390629",
+      "buckets": [
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#e0d7c0",
+          "rgb": [
+            224,
+            215,
+            192
+          ],
+          "ratio": 0.5112847222222222,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#d7ceb5",
+          "rgb": [
+            215,
+            206,
+            181
+          ],
+          "ratio": 0.2542317708333333,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#b4ae9b",
+          "rgb": [
+            180,
+            174,
+            155
+          ],
+          "ratio": 0.09309895833333333,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#39486c",
+          "rgb": [
+            57,
+            72,
+            108
+          ],
+          "ratio": 0.07356770833333333,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#8a8678",
+          "rgb": [
+            138,
+            134,
+            120
+          ],
+          "ratio": 0.06781684027777778,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-10-17T02:22:00.186Z",
+      "fileKey": "archive:mma_french_commode_table_from_chippendale_drawings_vol_ii_390629",
+      "kind": "photo",
+      "photographer": "Thomas Chippendale",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "000ffffffffffc0f80f80f8ef83fbffff000",
+      "category": "photo",
+      "subjects": [
+        "design"
+      ]
+    },
+    {
+      "id": "75a72484-c9d4-43a3-a53d-5c4d43fd6741",
+      "title": "Hanging Shelves, from Chippendale Drawings, Vol. II",
+      "titleEn": "Hanging Shelves, from Chippendale Drawings, Vol. II",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/75a72484-c9d4-43a3-a53d-5c4d43fd6741.jpg",
+      "thumbUrl": "/stills/75a72484-c9d4-43a3-a53d-5c4d43fd6741.jpg",
+      "pageUrl": "https://archive.org/details/mma_hanging_shelves_from_chippendale_drawings_vol_ii_390667",
+      "author": "Thomas Chippendale",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_hanging_shelves_from_chippendale_drawings_vol_ii_390667",
+      "buckets": [
+        "yellow",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#e2dac4",
+          "rgb": [
+            226,
+            218,
+            196
+          ],
+          "ratio": 0.5179036458333334,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#d6ccb2",
+          "rgb": [
+            214,
+            204,
+            178
+          ],
+          "ratio": 0.2511935763888889,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#b7b09c",
+          "rgb": [
+            183,
+            176,
+            156
+          ],
+          "ratio": 0.10557725694444445,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#8a8677",
+          "rgb": [
+            138,
+            134,
+            119
+          ],
+          "ratio": 0.09027777777777778,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#3b4763",
+          "rgb": [
+            59,
+            71,
+            99
+          ],
+          "ratio": 0.03504774305555555,
+          "bucket": "blue"
+        }
+      ],
+      "addedAt": "2026-10-17T02:22:01.327Z",
+      "fileKey": "archive:mma_hanging_shelves_from_chippendale_drawings_vol_ii_390667",
+      "kind": "photo",
+      "photographer": "Thomas Chippendale",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "000fffffb9f19e14ff67f07f660060fff000",
+      "category": "photo",
+      "subjects": [
+        "design"
+      ]
+    },
+    {
+      "id": "dda0c1f9-beb1-41e6-a6a9-3e8bdbdd7128",
+      "title": "20241025 Blue and White Porcelain Jar with Interlocking Lotus Design, Ming Dynasty",
+      "titleEn": "20241025 Blue and White Porcelain Jar with Interlocking Lotus Design, Ming Dynasty",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/dda0c1f9-beb1-41e6-a6a9-3e8bdbdd7128.jpg",
+      "thumbUrl": "/stills/dda0c1f9-beb1-41e6-a6a9-3e8bdbdd7128.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:20241025_Blue_and_White_Porcelain_Jar_with_Interlocking_Lotus_Design,_Ming_Dynasty.jpg",
+      "author": "Windmemories",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "buckets": [
+        "orange",
+        "blue",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#c4b3a5",
+          "rgb": [
+            196,
+            179,
+            165
+          ],
+          "ratio": 0.2825520833333333,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#eedecb",
+          "rgb": [
+            238,
+            222,
+            203
+          ],
+          "ratio": 0.2770182291666667,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#5a6882",
+          "rgb": [
+            90,
+            104,
+            130
+          ],
+          "ratio": 0.1664496527777778,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#8d919a",
+          "rgb": [
+            141,
+            145,
+            154
+          ],
+          "ratio": 0.16493055555555555,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#253d66",
+          "rgb": [
+            37,
+            61,
+            102
+          ],
+          "ratio": 0.10904947916666667,
+          "bucket": "blue"
+        }
+      ],
+      "addedAt": "2026-10-17T02:26:01.082Z",
+      "fileKey": "File:20241025 Blue and White Porcelain Jar with Interlocking Lotus Design, Ming Dynasty.jpg",
+      "kind": "film",
+      "photographer": "Windmemories",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "f07fc7febf83e01e01c01c01c03e01e07e07"
     }
   ],
-  "lastIngestDate": "2026-10-16",
+  "lastIngestDate": "2026-10-17",
   "seenFileKeys": [
     "stills:04b85cc4-5a5c-4d95-9d52-460ceefa3ee5.jpg",
     "stills:0509b1d5-b5da-4b3c-8e65-edda97b86985.jpg",
@@ -381401,7 +382843,36 @@
     "File:Kusakabe Kimbei 88 Post Runner.JPG",
     "File:Portraits of a woman, 100-130 CE, painted in tempera on wood, Fayum, Ashmolean Museum.jpg",
     "File:Aerial landscape (AM 82363-1).jpg",
-    "File:Lascaux 025.jpg"
+    "File:Lascaux 025.jpg",
+    "loc:http://www.loc.gov/item/2004667188/resource/pnp.fsahsr-022",
+    "archive:clevelandart-1920.1594-textile-fragments",
+    "archive:mma_wedding_dress_84318",
+    "loc:http://www.loc.gov/item/2004667188/resource/pnp.fsahsr-013",
+    "archive:clevelandart-1954.313-length-of-textile",
+    "archive:clevelandart-1940.478-textile-fragment",
+    "archive:mma_morning_dress_109242",
+    "loc:http://www.loc.gov/item/2004667188/resource/pnp.fsahsr-011",
+    "loc:http://www.loc.gov/item/2004667188/resource/pnp.fsahsr-016",
+    "archive:clevelandart-1953.311.a-length-of-textile",
+    "archive:mma_morning_dress_107952",
+    "archive:arkivkopia.se-aboaka-1146",
+    "archive:clevelandart-1920.1939-textile-fragment",
+    "loc:http://www.loc.gov/item/2004667188/resource/pnp.fsahsr-009",
+    "archive:clevelandart-1952.549-length-of-textile",
+    "loc:http://www.loc.gov/item/2004667188/resource/pnp.fsahsr-015",
+    "archive:clevelandart-1920.773-textile-fragment",
+    "archive:csfcp_000469",
+    "archive:clevelandart-2019.78.2-rank-badge-with-sing",
+    "archive:mma_furniture_hardware_5236",
+    "archive:mma_french_commode_from_chippendale_drawings_vol_ii_390631",
+    "openverse:12761d57-cb03-4abc-9032-c964e5cd3a82",
+    "archive:clevelandart-1993.160.a-portrait-of-phagmo-d",
+    "archive:csfcp_000173",
+    "archive:mma_chinese_bed_in_chippendale_drawings_vol_i_390511",
+    "archive:mma_pier_glass_frames_in_chippendale_drawings_vol_i_390536",
+    "archive:mma_french_commode_table_from_chippendale_drawings_vol_ii_390629",
+    "archive:mma_hanging_shelves_from_chippendale_drawings_vol_ii_390667",
+    "File:20241025 Blue and White Porcelain Jar with Interlocking Lotus Design, Ming Dynasty.jpg"
   ],
   "seenContentHashes": [
     "ff8f20c0481cf3cffcf7ce58ffcffcffcd7e",
@@ -385839,6 +387310,24 @@
     "f8fe67cf3df1fe1f61f24e34c10c1dc09c0b",
     "0000807fc20c8f29d39f39f38e3a0b803fff",
     "3f83f03f83f03f01f01f01f01f01f01f01f0",
-    "ffeffee00c0000000080001c09f1df3fffff"
+    "ffeffee00c0000000080001c09f1df3fffff",
+    "83f83f83083083083083083083086083083f",
+    "fff7ff7ffffffbfc5ec1e738678000000000",
+    "820820928921820d21d27da3d27dafdafdbf",
+    "d03903803803803d03e03e03e03e07e0ff07",
+    "8c38e379efbcf38e39e71ed339fbcf9c78e7",
+    "80080080080082092480eedcb3cb3d81cfff",
+    "af7afffdfe3fa2f80fe07a06a07a9f024803",
+    "810800900fc0fc0b8082480088080080080c",
+    "fff77f67f47f1713713f93dd25d204000401",
+    "fffa00e9cec0bccbfcbf8a36f0eb9eb8e800",
+    "fff7c6ceecc67c77c6ee67c7ec74464c67c6",
+    "80f8078498498ed86f8cf9f5be5aa1881809",
+    "7ce72e7be03a07e03e03603203247e03e7fe",
+    "000ffdff9fe0fe0fe0fe1fe0fe0fe3fe0000",
+    "7e77e17e16796794e007807807b4f94f87f9",
+    "000ffffffffffc0f80f80f8ef83fbffff000",
+    "000fffffb9f19e14ff67f07f660060fff000",
+    "f07fc7febf83e01e01c01c01c03e01e07e07"
   ]
 }
