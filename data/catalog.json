@@ -375587,10 +375587,1141 @@
       "kind": "film",
       "photographer": "Windmemories",
       "sourceLabel": "维基共享资源",
-      "contentHash": "f07fc7febf83e01e01c01c01c03e01e07e07"
+      "contentHash": "f07fc7febf83e01e01c01c01c03e01e07e07",
+      "category": "film",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "8611076d-a0e8-40f2-a30a-7a9df12d611e",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/8611076d-a0e8-40f2-a30a-7a9df12d611e.jpg",
+      "thumbUrl": "/stills/8611076d-a0e8-40f2-a30a-7a9df12d611e.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_108416",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_108416",
+      "buckets": [
+        "blue",
+        "red",
+        "pink"
+      ],
+      "palette": [
+        {
+          "hex": "#b3b0c3",
+          "rgb": [
+            179,
+            176,
+            195
+          ],
+          "ratio": 0.3433159722222222,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#dcdce5",
+          "rgb": [
+            220,
+            220,
+            229
+          ],
+          "ratio": 0.2592230902777778,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#a0898e",
+          "rgb": [
+            160,
+            137,
+            142
+          ],
+          "ratio": 0.1812065972222222,
+          "bucket": "red"
+        },
+        {
+          "hex": "#75585a",
+          "rgb": [
+            117,
+            88,
+            90
+          ],
+          "ratio": 0.1284722222222222,
+          "bucket": "red"
+        },
+        {
+          "hex": "#3a2930",
+          "rgb": [
+            58,
+            41,
+            48
+          ],
+          "ratio": 0.08778211805555555,
+          "bucket": "pink"
+        }
+      ],
+      "addedAt": "2026-10-18T01:53:08.540Z",
+      "fileKey": "archive:mma_dress_108416",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "0ff76ff67e67e07e07c07c030030017037ff",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "2a09e8ab-b400-4258-b6c0-c3df44cb9751",
+      "title": "Comte d'Antrim. (with) Vue du Cap de Doon dans l'isle Raghery. Poiret sculp. (A Paris, Chez Mme. veuve Agasse, Imprimeur-Libraire, rue des Poitevins, no. 6. M.DCCCXXVII)",
+      "titleEn": "Comte d'Antrim. (with) Vue du Cap de Doon dans l'isle Raghery. Poiret sculp. (A Paris, Chez Mme. veuve Agasse, Imprimeur-Libraire, rue des Poitevins, no. 6. M.DCCCXXVII)",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/2a09e8ab-b400-4258-b6c0-c3df44cb9751.jpg",
+      "thumbUrl": "/stills/2a09e8ab-b400-4258-b6c0-c3df44cb9751.jpg",
+      "pageUrl": "https://archive.org/details/dr_comte-dantrim-with-vue-du-cap-de-doon-dans-lisle-raghery-poiret-sculp-1801037",
+      "author": "Bory de Saint-Vincent, M. (Jean Baptiste GeneviFve Marcellin), 1778-1846",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/dr_comte-dantrim-with-vue-du-cap-de-doon-dans-lisle-raghery-poiret-sculp-1801037",
+      "buckets": [
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#ecddc5",
+          "rgb": [
+            236,
+            221,
+            197
+          ],
+          "ratio": 0.283203125,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#dac7a9",
+          "rgb": [
+            218,
+            199,
+            169
+          ],
+          "ratio": 0.2273220486111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#c1ae90",
+          "rgb": [
+            193,
+            174,
+            144
+          ],
+          "ratio": 0.1889105902777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#a48f6f",
+          "rgb": [
+            164,
+            143,
+            111
+          ],
+          "ratio": 0.1574435763888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#766556",
+          "rgb": [
+            118,
+            101,
+            86
+          ],
+          "ratio": 0.1431206597222222,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-18T01:53:09.575Z",
+      "fileKey": "archive:dr_comte-dantrim-with-vue-du-cap-de-doon-dans-lisle-raghery-poiret-sculp-1801037",
+      "kind": "photo",
+      "photographer": "Bory de Saint-Vincent, M. (Jean Baptiste GeneviFve Marcellin), 1778-1846",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "000fff1e30c3000c8301993bbfffffffffff",
+      "category": "photo",
+      "subjects": [
+        "city"
+      ]
+    },
+    {
+      "id": "1ee09506-46e5-4614-aa67-d0e4379947b6",
+      "title": "Evening dress",
+      "titleEn": "Evening dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/1ee09506-46e5-4614-aa67-d0e4379947b6.jpg",
+      "thumbUrl": "/stills/1ee09506-46e5-4614-aa67-d0e4379947b6.jpg",
+      "pageUrl": "https://archive.org/details/mma_evening_dress_174717",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_evening_dress_174717",
+      "buckets": [
+        "yellow",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#ababa9",
+          "rgb": [
+            171,
+            171,
+            169
+          ],
+          "ratio": 0.3430989583333333,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#ccbfa2",
+          "rgb": [
+            204,
+            191,
+            162
+          ],
+          "ratio": 0.22721354166666666,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#b9ad8b",
+          "rgb": [
+            185,
+            173,
+            139
+          ],
+          "ratio": 0.21516927083333334,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#9c9070",
+          "rgb": [
+            156,
+            144,
+            112
+          ],
+          "ratio": 0.1540798611111111,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#6d5e37",
+          "rgb": [
+            109,
+            94,
+            55
+          ],
+          "ratio": 0.06043836805555555,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-18T01:53:10.640Z",
+      "fileKey": "archive:mma_evening_dress_174717",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "6f67fc7f972f66f657657657657257202248",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "2f30bb1a-6f49-478d-8927-187b49f3c2c2",
+      "title": "Group of student in costume for performance",
+      "titleEn": "Group of student in costume for performance",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/2f30bb1a-6f49-478d-8927-187b49f3c2c2.jpg",
+      "thumbUrl": "/stills/2f30bb1a-6f49-478d-8927-187b49f3c2c2.jpg",
+      "pageUrl": "https://archive.org/details/ddr-ajah-6-824",
+      "author": "Internet Archive",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "buckets": [
+        "brown",
+        "orange",
+        "gray",
+        "white"
+      ],
+      "palette": [
+        {
+          "hex": "#bab1a5",
+          "rgb": [
+            186,
+            177,
+            165
+          ],
+          "ratio": 0.2216796875,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#736a61",
+          "rgb": [
+            115,
+            106,
+            97
+          ],
+          "ratio": 0.21516927083333334,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#494037",
+          "rgb": [
+            73,
+            64,
+            55
+          ],
+          "ratio": 0.1945529513888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#f7f6f5",
+          "rgb": [
+            247,
+            246,
+            245
+          ],
+          "ratio": 0.1845703125,
+          "bucket": "white"
+        },
+        {
+          "hex": "#221912",
+          "rgb": [
+            34,
+            25,
+            18
+          ],
+          "ratio": 0.1840277777777778,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-18T01:53:11.687Z",
+      "fileKey": "archive:ddr-ajah-6-824",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "fff0004000000200200020009fffffffffff",
+      "category": "photo",
+      "people": "crowd",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "1ad0e0b0-1d16-4b4a-8564-1e566d3fa8e6",
+      "title": "Textile",
+      "titleEn": "Textile",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/1ad0e0b0-1d16-4b4a-8564-1e566d3fa8e6.jpg",
+      "thumbUrl": "/stills/1ad0e0b0-1d16-4b4a-8564-1e566d3fa8e6.jpg",
+      "pageUrl": "https://archive.org/details/mma_textile_173358",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_textile_173358",
+      "buckets": [
+        "yellow",
+        "black",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#100f0d",
+          "rgb": [
+            16,
+            15,
+            13
+          ],
+          "ratio": 0.3756510416666667,
+          "bucket": "black"
+        },
+        {
+          "hex": "#c2ad82",
+          "rgb": [
+            194,
+            173,
+            130
+          ],
+          "ratio": 0.2552083333333333,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#ddca9e",
+          "rgb": [
+            221,
+            202,
+            158
+          ],
+          "ratio": 0.2406684027777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#a8876c",
+          "rgb": [
+            168,
+            135,
+            108
+          ],
+          "ratio": 0.08344184027777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#5a6668",
+          "rgb": [
+            90,
+            102,
+            104
+          ],
+          "ratio": 0.04503038194444445,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-10-18T01:53:12.595Z",
+      "fileKey": "archive:mma_textile_173358",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "0003fc3fc3fc3fe3fe3fe3fe3fe3fe3fe000",
+      "category": "photo",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "ec4d2b18-109d-4cce-8aaa-5f43a2792bad",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/ec4d2b18-109d-4cce-8aaa-5f43a2792bad.jpg",
+      "thumbUrl": "/stills/ec4d2b18-109d-4cce-8aaa-5f43a2792bad.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_107807",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_107807",
+      "buckets": [
+        "brown",
+        "white",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#e2e2df",
+          "rgb": [
+            226,
+            226,
+            223
+          ],
+          "ratio": 0.3033854166666667,
+          "bucket": "white"
+        },
+        {
+          "hex": "#6c3d2c",
+          "rgb": [
+            108,
+            61,
+            44
+          ],
+          "ratio": 0.2349175347222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#985437",
+          "rgb": [
+            152,
+            84,
+            55
+          ],
+          "ratio": 0.16796875,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#bcbab6",
+          "rgb": [
+            188,
+            186,
+            182
+          ],
+          "ratio": 0.15690104166666666,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#3c251d",
+          "rgb": [
+            60,
+            37,
+            29
+          ],
+          "ratio": 0.13682725694444445,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-18T01:53:14.725Z",
+      "fileKey": "archive:mma_dress_107807",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "f3ff3ff3fe1fe0fe07c03803801801000800",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "6f678637-58e7-40da-ab28-45985a860a41",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/6f678637-58e7-40da-ab28-45985a860a41.jpg",
+      "thumbUrl": "/stills/6f678637-58e7-40da-ab28-45985a860a41.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_90493",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_90493",
+      "buckets": [
+        "yellow",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#ddcfb0",
+          "rgb": [
+            221,
+            207,
+            176
+          ],
+          "ratio": 0.3228081597222222,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#d8c9a7",
+          "rgb": [
+            216,
+            201,
+            167
+          ],
+          "ratio": 0.3173828125,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#e2d4b7",
+          "rgb": [
+            226,
+            212,
+            183
+          ],
+          "ratio": 0.1792534722222222,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#d1bf99",
+          "rgb": [
+            209,
+            191,
+            153
+          ],
+          "ratio": 0.09950086805555555,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#e7dac0",
+          "rgb": [
+            231,
+            218,
+            192
+          ],
+          "ratio": 0.0810546875,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-18T01:53:15.733Z",
+      "fileKey": "archive:mma_dress_90493",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "0fe0fe27f0bf1fb1ff1ff0df0ff02f07f026",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "6e70b14c-ecc2-4fd8-8c1d-cf9e1e90e8ba",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/6e70b14c-ecc2-4fd8-8c1d-cf9e1e90e8ba.jpg",
+      "thumbUrl": "/stills/6e70b14c-ecc2-4fd8-8c1d-cf9e1e90e8ba.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_107889",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_107889",
+      "buckets": [
+        "gray",
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#cfcdcb",
+          "rgb": [
+            207,
+            205,
+            203
+          ],
+          "ratio": 0.4461805555555556,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#a28b67",
+          "rgb": [
+            162,
+            139,
+            103
+          ],
+          "ratio": 0.1906467013888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#6e5537",
+          "rgb": [
+            110,
+            85,
+            55
+          ],
+          "ratio": 0.14388020833333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#bdb3a0",
+          "rgb": [
+            189,
+            179,
+            160
+          ],
+          "ratio": 0.11707899305555555,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#eceae6",
+          "rgb": [
+            236,
+            234,
+            230
+          ],
+          "ratio": 0.10221354166666667,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-18T01:53:16.770Z",
+      "fileKey": "archive:mma_dress_107889",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "fffeffc7fc03c03c03c018f18f98f98fbefb",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "dd1e384c-a053-4cad-af55-71c2eb442937",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/dd1e384c-a053-4cad-af55-71c2eb442937.jpg",
+      "thumbUrl": "/stills/dd1e384c-a053-4cad-af55-71c2eb442937.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_107695",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_107695",
+      "buckets": [
+        "yellow",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#c8bb90",
+          "rgb": [
+            200,
+            187,
+            144
+          ],
+          "ratio": 0.4232855902777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#c0af80",
+          "rgb": [
+            192,
+            175,
+            128
+          ],
+          "ratio": 0.2762586805555556,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#ab8c55",
+          "rgb": [
+            171,
+            140,
+            85
+          ],
+          "ratio": 0.1899956597222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#835b2f",
+          "rgb": [
+            131,
+            91,
+            47
+          ],
+          "ratio": 0.078125,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#deca9f",
+          "rgb": [
+            222,
+            202,
+            159
+          ],
+          "ratio": 0.03233506944444445,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-10-18T01:53:18.362Z",
+      "fileKey": "archive:mma_dress_107695",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "9ffbff783701600c00e007f07f03f93f9bff",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "e99036d1-b940-4946-b48e-ace854ef25b1",
+      "title": "Reproduction of a fresco with crocuses and violets",
+      "titleEn": "Reproduction of a fresco with crocuses and violets",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/e99036d1-b940-4946-b48e-ace854ef25b1.jpg",
+      "thumbUrl": "/stills/e99036d1-b940-4946-b48e-ace854ef25b1.jpg",
+      "pageUrl": "https://archive.org/details/mma_reproduction_of_a_fresco_with_crocuses_and_violets_258124",
+      "author": "Emile Gilliéron",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_reproduction_of_a_fresco_with_crocuses_and_violets_258124",
+      "buckets": [
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#dac19f",
+          "rgb": [
+            218,
+            193,
+            159
+          ],
+          "ratio": 0.3304036458333333,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#ddcbb5",
+          "rgb": [
+            221,
+            203,
+            181
+          ],
+          "ratio": 0.2416449652777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#c9a272",
+          "rgb": [
+            201,
+            162,
+            114
+          ],
+          "ratio": 0.16297743055555555,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d3b689",
+          "rgb": [
+            211,
+            182,
+            137
+          ],
+          "ratio": 0.1623263888888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#b98756",
+          "rgb": [
+            185,
+            135,
+            86
+          ],
+          "ratio": 0.10264756944444445,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-18T01:53:19.353Z",
+      "fileKey": "archive:mma_reproduction_of_a_fresco_with_crocuses_and_violets_258124",
+      "kind": "photo",
+      "photographer": "Emile Gilliéron",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "fffffdff9ff988101103900d803803e7ffff",
+      "category": "painting",
+      "subjects": [
+        "ancient"
+      ]
+    },
+    {
+      "id": "b920b066-db8f-43b3-a74d-89acdd8e3ff5",
+      "title": "Edith Crane saluting as \"Trilby\"",
+      "titleEn": "Edith Crane saluting as \"Trilby\"",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/b920b066-db8f-43b3-a74d-89acdd8e3ff5.jpg",
+      "thumbUrl": "/stills/b920b066-db8f-43b3-a74d-89acdd8e3ff5.jpg",
+      "pageUrl": "https://archive.org/details/csfcp_000175",
+      "author": "Morrison, W. M. (William McKenzie), 1857-1927",
+      "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "licenseUrl": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "buckets": [
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#8e775a",
+          "rgb": [
+            142,
+            119,
+            90
+          ],
+          "ratio": 0.24305555555555555,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#a7906d",
+          "rgb": [
+            167,
+            144,
+            109
+          ],
+          "ratio": 0.2348090277777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#c1aa81",
+          "rgb": [
+            193,
+            170,
+            129
+          ],
+          "ratio": 0.22450086805555555,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#2a201a",
+          "rgb": [
+            42,
+            32,
+            26
+          ],
+          "ratio": 0.1753472222222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#69523d",
+          "rgb": [
+            105,
+            82,
+            61
+          ],
+          "ratio": 0.1222873263888889,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-18T01:53:23.549Z",
+      "fileKey": "archive:csfcp_000175",
+      "kind": "photo",
+      "photographer": "Morrison, W. M. (William McKenzie), 1857-1927",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "7b673e7be6be43e41641e41e40670e79e7fe",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "4ff38f9a-c12e-4354-b9fb-f4674f9cb9ea",
+      "title": "Robert Morris Bailey, Class of 1872",
+      "titleEn": "Robert Morris Bailey, Class of 1872",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/4ff38f9a-c12e-4354-b9fb-f4674f9cb9ea.jpg",
+      "thumbUrl": "/stills/4ff38f9a-c12e-4354-b9fb-f4674f9cb9ea.jpg",
+      "pageUrl": "https://archive.org/details/middpf_a9pf_1872_baileyr",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/middpf_a9pf_1872_baileyr",
+      "buckets": [
+        "yellow",
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#f6ebcb",
+          "rgb": [
+            246,
+            235,
+            203
+          ],
+          "ratio": 0.4054904513888889,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#fcf6df",
+          "rgb": [
+            252,
+            246,
+            223
+          ],
+          "ratio": 0.24283854166666666,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#4c382c",
+          "rgb": [
+            76,
+            56,
+            44
+          ],
+          "ratio": 0.19151475694444445,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#8c7a6a",
+          "rgb": [
+            140,
+            122,
+            106
+          ],
+          "ratio": 0.08582899305555555,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#cdbea9",
+          "rgb": [
+            205,
+            190,
+            169
+          ],
+          "ratio": 0.07432725694444445,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-18T01:53:25.092Z",
+      "fileKey": "archive:middpf_a9pf_1872_baileyr",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "f77fe3f63f23ff7e47e0fe37831c21c83e87",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "4d0e9848-1d94-4cba-afc4-dc339c636cd7",
+      "title": "House of the Stags Oecus 16 Herculaneum Still Lifes 1760 engraving of fresco by Joan Elia Morghen and Niccola Oratis",
+      "titleEn": "House of the Stags Oecus 16 Herculaneum Still Lifes 1760 engraving of fresco by Joan Elia Morghen and Niccola Oratis",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/4d0e9848-1d94-4cba-afc4-dc339c636cd7.jpg",
+      "thumbUrl": "/stills/4d0e9848-1d94-4cba-afc4-dc339c636cd7.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:House_of_the_Stags_Oecus_16_Herculaneum_Still_Lifes_1760_engraving_of_fresco_by_Joan_Elia_Morghen_and_Niccola_Oratis.jpg",
+      "author": "Joan Elia Morghen, Giuseppe Aloja and Niccola Oratis",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:House_of_the_Stags_Oecus_16_Herculaneum_Still_Lifes_1760_engraving_of_fresco_by_Joan_Elia_Morghen_and_Niccola_Oratis.jpg",
+      "buckets": [
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#655442",
+          "rgb": [
+            101,
+            84,
+            66
+          ],
+          "ratio": 0.3113064236111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#44372c",
+          "rgb": [
+            68,
+            55,
+            44
+          ],
+          "ratio": 0.23253038194444445,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#877357",
+          "rgb": [
+            135,
+            115,
+            87
+          ],
+          "ratio": 0.20594618055555555,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#b19973",
+          "rgb": [
+            177,
+            153,
+            115
+          ],
+          "ratio": 0.1359592013888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d3bb90",
+          "rgb": [
+            211,
+            187,
+            144
+          ],
+          "ratio": 0.1142578125,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-18T01:57:02.495Z",
+      "fileKey": "File:House of the Stags Oecus 16 Herculaneum Still Lifes 1760 engraving of fresco by Joan Elia Morghen and Niccola Oratis.jpg",
+      "kind": "photo",
+      "photographer": "Joan Elia Morghen, Giuseppe Aloja and Niccola Oratis",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "fffabb880880082fff9f8ce0c0c83fde0fe0",
+      "category": "painting",
+      "subjects": [
+        "ancient"
+      ]
+    },
+    {
+      "id": "6b954af6-25fa-4831-a64b-1247805ec217",
+      "title": "Horimono niño Kintarô luchando contra carpa gigante",
+      "titleEn": "Horimono niño Kintarô luchando contra carpa gigante",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/6b954af6-25fa-4831-a64b-1247805ec217.jpg",
+      "thumbUrl": "/stills/6b954af6-25fa-4831-a64b-1247805ec217.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Horimono_ni%C3%B1o_Kintar%C3%B4_luchando_contra_carpa_gigante.jpg",
+      "author": "stekler",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "buckets": [
+        "gray",
+        "orange",
+        "red"
+      ],
+      "palette": [
+        {
+          "hex": "#958881",
+          "rgb": [
+            149,
+            136,
+            129
+          ],
+          "ratio": 0.2600911458333333,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#cab1a6",
+          "rgb": [
+            202,
+            177,
+            166
+          ],
+          "ratio": 0.24739583333333334,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#655e5d",
+          "rgb": [
+            101,
+            94,
+            93
+          ],
+          "ratio": 0.2279730902777778,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#2f2b31",
+          "rgb": [
+            47,
+            43,
+            49
+          ],
+          "ratio": 0.1550564236111111,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#c0635b",
+          "rgb": [
+            192,
+            99,
+            91
+          ],
+          "ratio": 0.10948350694444445,
+          "bucket": "red"
+        }
+      ],
+      "addedAt": "2026-10-18T01:57:03.693Z",
+      "fileKey": "File:Horimono niño Kintarô luchando contra carpa gigante.jpg",
+      "kind": "film",
+      "photographer": "stekler",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "ff8ffefff7ff17f0fb0f802002e01e000000"
     }
   ],
-  "lastIngestDate": "2026-10-17",
+  "lastIngestDate": "2026-10-18",
   "seenFileKeys": [
     "stills:04b85cc4-5a5c-4d95-9d52-460ceefa3ee5.jpg",
     "stills:0509b1d5-b5da-4b3c-8e65-edda97b86985.jpg",
@@ -382872,7 +384003,29 @@
     "archive:mma_pier_glass_frames_in_chippendale_drawings_vol_i_390536",
     "archive:mma_french_commode_table_from_chippendale_drawings_vol_ii_390629",
     "archive:mma_hanging_shelves_from_chippendale_drawings_vol_ii_390667",
-    "File:20241025 Blue and White Porcelain Jar with Interlocking Lotus Design, Ming Dynasty.jpg"
+    "File:20241025 Blue and White Porcelain Jar with Interlocking Lotus Design, Ming Dynasty.jpg",
+    "archive:clevelandart-1931.445.a-woman-s-costume-jack",
+    "archive:mma_dress_108416",
+    "archive:dr_comte-dantrim-with-vue-du-cap-de-doon-dans-lisle-raghery-poiret-sculp-1801037",
+    "archive:mma_evening_dress_174717",
+    "archive:ddr-ajah-6-824",
+    "archive:mma_textile_173358",
+    "archive:mma_modello_for_ceiling_fresco_with_papal_coat_of_arms_335653",
+    "archive:mma_dress_107807",
+    "archive:mma_dress_90493",
+    "archive:mma_dress_107889",
+    "archive:clevelandart-1942.976-histoire-du-costume",
+    "archive:mma_dress_107695",
+    "archive:mma_reproduction_of_a_fresco_with_crocuses_and_violets_258124",
+    "archive:mma_dress_108424",
+    "archive:clevelandart-1942.979-histoire-du-costume",
+    "archive:caargm_001007",
+    "archive:mma_armchair_202699",
+    "archive:csfcp_000175",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1977-03-10",
+    "archive:middpf_a9pf_1872_baileyr",
+    "File:House of the Stags Oecus 16 Herculaneum Still Lifes 1760 engraving of fresco by Joan Elia Morghen and Niccola Oratis.jpg",
+    "File:Horimono niño Kintarô luchando contra carpa gigante.jpg"
   ],
   "seenContentHashes": [
     "ff8f20c0481cf3cffcf7ce58ffcffcffcd7e",
@@ -387328,6 +388481,20 @@
     "7e77e17e16796794e007807807b4f94f87f9",
     "000ffffffffffc0f80f80f8ef83fbffff000",
     "000fffffb9f19e14ff67f07f660060fff000",
-    "f07fc7febf83e01e01c01c01c03e01e07e07"
+    "f07fc7febf83e01e01c01c01c03e01e07e07",
+    "0ff76ff67e67e07e07c07c030030017037ff",
+    "000fff1e30c3000c8301993bbfffffffffff",
+    "6f67fc7f972f66f657657657657257202248",
+    "fff0004000000200200020009fffffffffff",
+    "0003fc3fc3fc3fe3fe3fe3fe3fe3fe3fe000",
+    "f3ff3ff3fe1fe0fe07c03803801801000800",
+    "0fe0fe27f0bf1fb1ff1ff0df0ff02f07f026",
+    "fffeffc7fc03c03c03c018f18f98f98fbefb",
+    "9ffbff783701600c00e007f07f03f93f9bff",
+    "fffffdff9ff988101103900d803803e7ffff",
+    "7b673e7be6be43e41641e41e40670e79e7fe",
+    "f77fe3f63f23ff7e47e0fe37831c21c83e87",
+    "fffabb880880082fff9f8ce0c0c83fde0fe0",
+    "ff8ffefff7ff17f0fb0f802002e01e000000"
   ]
 }
