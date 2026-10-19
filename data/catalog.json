@@ -376718,10 +376718,334 @@
       "kind": "film",
       "photographer": "stekler",
       "sourceLabel": "维基共享资源",
-      "contentHash": "ff8ffefff7ff17f0fb0f802002e01e000000"
+      "contentHash": "ff8ffefff7ff17f0fb0f802002e01e000000",
+      "category": "film",
+      "subjects": [
+        "people"
+      ]
+    },
+    {
+      "id": "674d122b-ff96-4cb5-8b81-8c6cec371ac2",
+      "title": "20241018 Blue and White Porcelain Gu with Figures Design, Kangxi Reign of Qing Dynasty",
+      "titleEn": "20241018 Blue and White Porcelain Gu with Figures Design, Kangxi Reign of Qing Dynasty",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/674d122b-ff96-4cb5-8b81-8c6cec371ac2.jpg",
+      "thumbUrl": "/stills/674d122b-ff96-4cb5-8b81-8c6cec371ac2.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:20241018_Blue_and_White_Porcelain_Gu_with_Figures_Design,_Kangxi_Reign_of_Qing_Dynasty.jpg",
+      "author": "Windmemories",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "buckets": [
+        "gray",
+        "blue",
+        "black",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#3c444e",
+          "rgb": [
+            60,
+            68,
+            78
+          ],
+          "ratio": 0.2880859375,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#0d0f11",
+          "rgb": [
+            13,
+            15,
+            17
+          ],
+          "ratio": 0.2638888888888889,
+          "bucket": "black"
+        },
+        {
+          "hex": "#676b70",
+          "rgb": [
+            103,
+            107,
+            112
+          ],
+          "ratio": 0.1586371527777778,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#a9a49e",
+          "rgb": [
+            169,
+            164,
+            158
+          ],
+          "ratio": 0.1452907986111111,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#ebd9bc",
+          "rgb": [
+            235,
+            217,
+            188
+          ],
+          "ratio": 0.1440972222222222,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-19T02:37:01.048Z",
+      "fileKey": "File:20241018 Blue and White Porcelain Gu with Figures Design, Kangxi Reign of Qing Dynasty.jpg",
+      "kind": "film",
+      "photographer": "Windmemories",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "1c01ca5cbfca0f00f00f00f00f60f00f03ff",
+      "category": "film",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "1eea0f8f-8b1f-4806-88ca-1f1ec637de8f",
+      "title": "Self Portrait with Thonet Chair",
+      "titleEn": "Vaszary Self Portratit with Thonet Chair 1886",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/1eea0f8f-8b1f-4806-88ca-1f1ec637de8f.jpg",
+      "thumbUrl": "/stills/1eea0f8f-8b1f-4806-88ca-1f1ec637de8f.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Vaszary_Self_Portratit_with_Thonet_Chair_1886.jpg",
+      "author": "János Vaszary",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Vaszary_Self_Portratit_with_Thonet_Chair_1886.jpg",
+      "buckets": [
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#dabba5",
+          "rgb": [
+            218,
+            187,
+            165
+          ],
+          "ratio": 0.3297526041666667,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#e0c5b1",
+          "rgb": [
+            224,
+            197,
+            177
+          ],
+          "ratio": 0.22840711805555555,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#cfae96",
+          "rgb": [
+            207,
+            174,
+            150
+          ],
+          "ratio": 0.19954427083333334,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#b8947d",
+          "rgb": [
+            184,
+            148,
+            125
+          ],
+          "ratio": 0.15321180555555555,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#8b6752",
+          "rgb": [
+            139,
+            103,
+            82
+          ],
+          "ratio": 0.0890842013888889,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-19T02:37:02.939Z",
+      "fileKey": "File:Vaszary Self Portratit with Thonet Chair 1886.jpg",
+      "kind": "photo",
+      "photographer": "János Vaszary",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "c0ff07f83f83f81f89f0bf0ff3fe9fcc7de7",
+      "category": "photo",
+      "people": "one",
+      "subjects": [
+        "portrait",
+        "design"
+      ]
+    },
+    {
+      "id": "c82ca737-23e8-4ad3-b2bf-c442d5c611ab",
+      "title": "20260515 Blue and White Porcelain Gourd-Shaped Vase with Lotus Design",
+      "titleEn": "20260515 Blue and White Porcelain Gourd Shaped Vase with Lotus Design",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/c82ca737-23e8-4ad3-b2bf-c442d5c611ab.jpg",
+      "thumbUrl": "/stills/c82ca737-23e8-4ad3-b2bf-c442d5c611ab.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:20260515_Blue_and_White_Porcelain_Gourd-Shaped_Vase_with_Lotus_Design.jpg",
+      "author": "Windmemories",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "buckets": [
+        "black",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#030405",
+          "rgb": [
+            3,
+            4,
+            5
+          ],
+          "ratio": 0.3901909722222222,
+          "bucket": "black"
+        },
+        {
+          "hex": "#222122",
+          "rgb": [
+            34,
+            33,
+            34
+          ],
+          "ratio": 0.1791449652777778,
+          "bucket": "black"
+        },
+        {
+          "hex": "#7d7b88",
+          "rgb": [
+            125,
+            123,
+            136
+          ],
+          "ratio": 0.1498480902777778,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#494649",
+          "rgb": [
+            73,
+            70,
+            73
+          ],
+          "ratio": 0.14388020833333334,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#c8c2bd",
+          "rgb": [
+            200,
+            194,
+            189
+          ],
+          "ratio": 0.1369357638888889,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-10-19T02:37:08.893Z",
+      "fileKey": "File:20260515 Blue and White Porcelain Gourd-Shaped Vase with Lotus Design.jpg",
+      "kind": "film",
+      "photographer": "Windmemories",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "0638ff8ff1ff0900000001f83fc1f8000606",
+      "category": "film",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "05b5439c-272f-40df-9c66-40b2115e9889",
+      "title": "Marble sculpture in the shape of a closed book (01083)",
+      "titleEn": "the shape of a closed book (01083)",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/05b5439c-272f-40df-9c66-40b2115e9889.jpg",
+      "thumbUrl": "/stills/05b5439c-272f-40df-9c66-40b2115e9889.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Marble_sculpture_in_the_shape_of_a_closed_book_(01083).jpg",
+      "author": "Yair-haklai",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "buckets": [
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#bda186",
+          "rgb": [
+            189,
+            161,
+            134
+          ],
+          "ratio": 0.3779296875,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#c0b09e",
+          "rgb": [
+            192,
+            176,
+            158
+          ],
+          "ratio": 0.2565104166666667,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#a3907b",
+          "rgb": [
+            163,
+            144,
+            123
+          ],
+          "ratio": 0.1644965277777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#dbcdbf",
+          "rgb": [
+            219,
+            205,
+            191
+          ],
+          "ratio": 0.1142578125,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#856e55",
+          "rgb": [
+            133,
+            110,
+            85
+          ],
+          "ratio": 0.08680555555555555,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-19T02:37:14.764Z",
+      "fileKey": "File:Marble sculpture in the shape of a closed book (01083).jpg",
+      "kind": "film",
+      "photographer": "Marble sculpture in the shape of a closed book",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "bfe9789bb902901be1be23b6be3a03b04dc4"
     }
   ],
-  "lastIngestDate": "2026-10-18",
+  "lastIngestDate": "2026-10-19",
   "seenFileKeys": [
     "stills:04b85cc4-5a5c-4d95-9d52-460ceefa3ee5.jpg",
     "stills:0509b1d5-b5da-4b3c-8e65-edda97b86985.jpg",
@@ -384025,7 +384349,12 @@
     "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1977-03-10",
     "archive:middpf_a9pf_1872_baileyr",
     "File:House of the Stags Oecus 16 Herculaneum Still Lifes 1760 engraving of fresco by Joan Elia Morghen and Niccola Oratis.jpg",
-    "File:Horimono niño Kintarô luchando contra carpa gigante.jpg"
+    "File:Horimono niño Kintarô luchando contra carpa gigante.jpg",
+    "archive:mma_wainscot_armchair_9601",
+    "File:20241018 Blue and White Porcelain Gu with Figures Design, Kangxi Reign of Qing Dynasty.jpg",
+    "File:Vaszary Self Portratit with Thonet Chair 1886.jpg",
+    "File:20260515 Blue and White Porcelain Gourd-Shaped Vase with Lotus Design.jpg",
+    "File:Marble sculpture in the shape of a closed book (01083).jpg"
   ],
   "seenContentHashes": [
     "ff8f20c0481cf3cffcf7ce58ffcffcffcd7e",
@@ -388495,6 +388824,10 @@
     "7b673e7be6be43e41641e41e40670e79e7fe",
     "f77fe3f63f23ff7e47e0fe37831c21c83e87",
     "fffabb880880082fff9f8ce0c0c83fde0fe0",
-    "ff8ffefff7ff17f0fb0f802002e01e000000"
+    "ff8ffefff7ff17f0fb0f802002e01e000000",
+    "1c01ca5cbfca0f00f00f00f00f60f00f03ff",
+    "c0ff07f83f83f81f89f0bf0ff3fe9fcc7de7",
+    "0638ff8ff1ff0900000001f83fc1f8000606",
+    "bfe9789bb902901be1be23b6be3a03b04dc4"
   ]
 }
