@@ -377042,10 +377042,2930 @@
       "kind": "film",
       "photographer": "Marble sculpture in the shape of a closed book",
       "sourceLabel": "维基共享资源",
-      "contentHash": "bfe9789bb902901be1be23b6be3a03b04dc4"
+      "contentHash": "bfe9789bb902901be1be23b6be3a03b04dc4",
+      "category": "film",
+      "subjects": [
+        "sculpture"
+      ]
+    },
+    {
+      "id": "b1861794-6ff4-4ed6-b257-6655e0b6430c",
+      "title": "Textile",
+      "titleEn": "Textile",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/b1861794-6ff4-4ed6-b257-6655e0b6430c.jpg",
+      "thumbUrl": "/stills/b1861794-6ff4-4ed6-b257-6655e0b6430c.jpg",
+      "pageUrl": "https://archive.org/details/mma_textile_173428",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_textile_173428",
+      "buckets": [
+        "orange",
+        "black",
+        "brown",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#161411",
+          "rgb": [
+            22,
+            20,
+            17
+          ],
+          "ratio": 0.3470052083333333,
+          "bucket": "black"
+        },
+        {
+          "hex": "#cba184",
+          "rgb": [
+            203,
+            161,
+            132
+          ],
+          "ratio": 0.19032118055555555,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#b17762",
+          "rgb": [
+            177,
+            119,
+            98
+          ],
+          "ratio": 0.1863064236111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#82523e",
+          "rgb": [
+            130,
+            82,
+            62
+          ],
+          "ratio": 0.1533203125,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#dfd9ad",
+          "rgb": [
+            223,
+            217,
+            173
+          ],
+          "ratio": 0.123046875,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-10-21T02:51:10.336Z",
+      "fileKey": "archive:mma_textile_173428",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "000000fbff1ffbff9ff3ffbffbffbf010000",
+      "category": "photo",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "ec874510-c16c-4fff-94f7-c57415071589",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/ec874510-c16c-4fff-94f7-c57415071589.jpg",
+      "thumbUrl": "/stills/ec874510-c16c-4fff-94f7-c57415071589.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_107686",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_107686",
+      "buckets": [
+        "yellow",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#d1b886",
+          "rgb": [
+            209,
+            184,
+            134
+          ],
+          "ratio": 0.3207465277777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#c1a46e",
+          "rgb": [
+            193,
+            164,
+            110
+          ],
+          "ratio": 0.30859375,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#dec99b",
+          "rgb": [
+            222,
+            201,
+            155
+          ],
+          "ratio": 0.20008680555555555,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#222314",
+          "rgb": [
+            34,
+            35,
+            20
+          ],
+          "ratio": 0.09071180555555555,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#9d814d",
+          "rgb": [
+            157,
+            129,
+            77
+          ],
+          "ratio": 0.0798611111111111,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-21T02:51:11.180Z",
+      "fileKey": "archive:mma_dress_107686",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "ffcf9f99f9ff9fcf9cf9f9ff9f8ffcf9ff9f",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "df2c7de9-ae0d-414a-94d1-48a6b081203a",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/df2c7de9-ae0d-414a-94d1-48a6b081203a.jpg",
+      "thumbUrl": "/stills/df2c7de9-ae0d-414a-94d1-48a6b081203a.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_98137",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_98137",
+      "buckets": [
+        "red"
+      ],
+      "palette": [
+        {
+          "hex": "#4b1311",
+          "rgb": [
+            75,
+            19,
+            17
+          ],
+          "ratio": 0.2659505208333333,
+          "bucket": "red"
+        },
+        {
+          "hex": "#5e1816",
+          "rgb": [
+            94,
+            24,
+            22
+          ],
+          "ratio": 0.2645399305555556,
+          "bucket": "red"
+        },
+        {
+          "hex": "#721e1b",
+          "rgb": [
+            114,
+            30,
+            27
+          ],
+          "ratio": 0.1909722222222222,
+          "bucket": "red"
+        },
+        {
+          "hex": "#370e0c",
+          "rgb": [
+            55,
+            14,
+            12
+          ],
+          "ratio": 0.1863064236111111,
+          "bucket": "red"
+        },
+        {
+          "hex": "#240908",
+          "rgb": [
+            36,
+            9,
+            8
+          ],
+          "ratio": 0.09223090277777778,
+          "bucket": "red"
+        }
+      ],
+      "addedAt": "2026-10-21T02:51:12.094Z",
+      "fileKey": "archive:mma_dress_98137",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "0002001fe1f0bf0fbc6908387fe7f97fb6e8",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "447066d8-fe83-40c1-851a-5e7e82caa1fd",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/447066d8-fe83-40c1-851a-5e7e82caa1fd.jpg",
+      "thumbUrl": "/stills/447066d8-fe83-40c1-851a-5e7e82caa1fd.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_101665",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_101665",
+      "buckets": [
+        "yellow",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#d2bd94",
+          "rgb": [
+            210,
+            189,
+            148
+          ],
+          "ratio": 0.2586805555555556,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#e5d6b6",
+          "rgb": [
+            229,
+            214,
+            182
+          ],
+          "ratio": 0.24424913194444445,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#dccaa5",
+          "rgb": [
+            220,
+            202,
+            165
+          ],
+          "ratio": 0.2064887152777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#eaddc1",
+          "rgb": [
+            234,
+            221,
+            193
+          ],
+          "ratio": 0.1847873263888889,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#eee3cb",
+          "rgb": [
+            238,
+            227,
+            203
+          ],
+          "ratio": 0.10579427083333333,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-10-21T02:51:13.019Z",
+      "fileKey": "archive:mma_dress_101665",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "fffffffffffd3fd3fd3fc231210000000000",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "db5b6348-4b1e-4e01-85e7-58e9e9f56636",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/db5b6348-4b1e-4e01-85e7-58e9e9f56636.jpg",
+      "thumbUrl": "/stills/db5b6348-4b1e-4e01-85e7-58e9e9f56636.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_101814",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_101814",
+      "buckets": [
+        "yellow",
+        "black",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#1e1c1d",
+          "rgb": [
+            30,
+            28,
+            29
+          ],
+          "ratio": 0.3753255208333333,
+          "bucket": "black"
+        },
+        {
+          "hex": "#decca8",
+          "rgb": [
+            222,
+            204,
+            168
+          ],
+          "ratio": 0.2518446180555556,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#cfbd96",
+          "rgb": [
+            207,
+            189,
+            150
+          ],
+          "ratio": 0.2224392361111111,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#ebd9b7",
+          "rgb": [
+            235,
+            217,
+            183
+          ],
+          "ratio": 0.12098524305555555,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#99856a",
+          "rgb": [
+            153,
+            133,
+            106
+          ],
+          "ratio": 0.029405381944444444,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-21T02:51:13.884Z",
+      "fileKey": "archive:mma_dress_101814",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "0001f83fc6f21fa1f83fc7fc7feffeffe1f8",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "ab6fa85e-8097-45f5-a627-9cdad87f781b",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/ab6fa85e-8097-45f5-a627-9cdad87f781b.jpg",
+      "thumbUrl": "/stills/ab6fa85e-8097-45f5-a627-9cdad87f781b.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_82124",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_82124",
+      "buckets": [
+        "gray",
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#939291",
+          "rgb": [
+            147,
+            146,
+            145
+          ],
+          "ratio": 0.3973524305555556,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#adaba9",
+          "rgb": [
+            173,
+            171,
+            169
+          ],
+          "ratio": 0.21766493055555555,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#735d46",
+          "rgb": [
+            115,
+            93,
+            70
+          ],
+          "ratio": 0.15755208333333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#533c25",
+          "rgb": [
+            83,
+            60,
+            37
+          ],
+          "ratio": 0.123046875,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#8f7d6b",
+          "rgb": [
+            143,
+            125,
+            107
+          ],
+          "ratio": 0.10438368055555555,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-21T02:51:14.807Z",
+      "fileKey": "archive:mma_dress_82124",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "ffff9ff9ffbff3ff1fe07e07c07003003003",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "d91fea4c-2c97-4a58-8d6e-835fc6c54101",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/d91fea4c-2c97-4a58-8d6e-835fc6c54101.jpg",
+      "thumbUrl": "/stills/d91fea4c-2c97-4a58-8d6e-835fc6c54101.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_173295",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_173295",
+      "buckets": [
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#c4a36b",
+          "rgb": [
+            196,
+            163,
+            107
+          ],
+          "ratio": 0.3625217013888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#cfb27c",
+          "rgb": [
+            207,
+            178,
+            124
+          ],
+          "ratio": 0.2955729166666667,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#b08c57",
+          "rgb": [
+            176,
+            140,
+            87
+          ],
+          "ratio": 0.18033854166666666,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#936437",
+          "rgb": [
+            147,
+            100,
+            55
+          ],
+          "ratio": 0.1064453125,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#643817",
+          "rgb": [
+            100,
+            56,
+            23
+          ],
+          "ratio": 0.055121527777777776,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-21T02:51:16.338Z",
+      "fileKey": "archive:mma_dress_173295",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "0601b89b86ece7cbb8bfceec7f09b8ffe6ee",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "0f3b03ba-107a-4871-9871-2dcb24137fef",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/0f3b03ba-107a-4871-9871-2dcb24137fef.jpg",
+      "thumbUrl": "/stills/0f3b03ba-107a-4871-9871-2dcb24137fef.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_121328",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_121328",
+      "buckets": [
+        "yellow",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#ccb990",
+          "rgb": [
+            204,
+            185,
+            144
+          ],
+          "ratio": 0.3552517361111111,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#d5c59d",
+          "rgb": [
+            213,
+            197,
+            157
+          ],
+          "ratio": 0.3451605902777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#baa377",
+          "rgb": [
+            186,
+            163,
+            119
+          ],
+          "ratio": 0.1489800347222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#decfa8",
+          "rgb": [
+            222,
+            207,
+            168
+          ],
+          "ratio": 0.13704427083333334,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#543c1c",
+          "rgb": [
+            84,
+            60,
+            28
+          ],
+          "ratio": 0.013563368055555556,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-21T02:51:17.172Z",
+      "fileKey": "archive:mma_dress_121328",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "3ecffeffe3ffc7fffd6fc2783083fc1fc3e0",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "54e753d6-6001-40cc-a391-de7a660ef5d3",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/54e753d6-6001-40cc-a391-de7a660ef5d3.jpg",
+      "thumbUrl": "/stills/54e753d6-6001-40cc-a391-de7a660ef5d3.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_102999",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_102999",
+      "buckets": [
+        "yellow",
+        "black"
+      ],
+      "palette": [
+        {
+          "hex": "#101616",
+          "rgb": [
+            16,
+            22,
+            22
+          ],
+          "ratio": 0.3465711805555556,
+          "bucket": "black"
+        },
+        {
+          "hex": "#e8e3bd",
+          "rgb": [
+            232,
+            227,
+            189
+          ],
+          "ratio": 0.3385416666666667,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#d5cfaa",
+          "rgb": [
+            213,
+            207,
+            170
+          ],
+          "ratio": 0.2693142361111111,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#b0a486",
+          "rgb": [
+            176,
+            164,
+            134
+          ],
+          "ratio": 0.029730902777777776,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#564c40",
+          "rgb": [
+            86,
+            76,
+            64
+          ],
+          "ratio": 0.015842013888888888,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-21T02:51:18.133Z",
+      "fileKey": "archive:mma_dress_102999",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "1880f00f01f83f83fc7fe7fe7fffff7fc0e0",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "1912263c-4873-4144-b168-1562106e98bd",
+      "title": "Dressing gown",
+      "titleEn": "Dressing gown",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/1912263c-4873-4144-b168-1562106e98bd.jpg",
+      "thumbUrl": "/stills/1912263c-4873-4144-b168-1562106e98bd.jpg",
+      "pageUrl": "https://archive.org/details/mma_dressing_gown_106971",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dressing_gown_106971",
+      "buckets": [
+        "yellow",
+        "white",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#918e76",
+          "rgb": [
+            145,
+            142,
+            118
+          ],
+          "ratio": 0.2947048611111111,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#afab92",
+          "rgb": [
+            175,
+            171,
+            146
+          ],
+          "ratio": 0.23426649305555555,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#e3e3dd",
+          "rgb": [
+            227,
+            227,
+            221
+          ],
+          "ratio": 0.21006944444444445,
+          "bucket": "white"
+        },
+        {
+          "hex": "#cac8b6",
+          "rgb": [
+            202,
+            200,
+            182
+          ],
+          "ratio": 0.13444010416666666,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#645b3d",
+          "rgb": [
+            100,
+            91,
+            61
+          ],
+          "ratio": 0.1265190972222222,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-21T02:51:19.024Z",
+      "fileKey": "archive:mma_dressing_gown_106971",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "edce9ce9ce08e48ee8ec0e00e00e00e00e00",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "6d21194d-4ed7-4cde-afbc-4a2038005d11",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/6d21194d-4ed7-4cde-afbc-4a2038005d11.jpg",
+      "thumbUrl": "/stills/6d21194d-4ed7-4cde-afbc-4a2038005d11.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_105162",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_105162",
+      "buckets": [
+        "orange",
+        "black"
+      ],
+      "palette": [
+        {
+          "hex": "#d1bb9a",
+          "rgb": [
+            209,
+            187,
+            154
+          ],
+          "ratio": 0.3744574652777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#dbc6a8",
+          "rgb": [
+            219,
+            198,
+            168
+          ],
+          "ratio": 0.2942708333333333,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#201f1e",
+          "rgb": [
+            32,
+            31,
+            30
+          ],
+          "ratio": 0.2119140625,
+          "bucket": "black"
+        },
+        {
+          "hex": "#c3aa88",
+          "rgb": [
+            195,
+            170,
+            136
+          ],
+          "ratio": 0.10210503472222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#886d57",
+          "rgb": [
+            136,
+            109,
+            87
+          ],
+          "ratio": 0.017252604166666668,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-21T02:51:19.880Z",
+      "fileKey": "archive:mma_dress_105162",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "3bc3fc3fc3fc3fc7fe7fe7fe7fe7fe7ff400",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "9669d8ce-4ff7-4d29-a92e-aafee3a0149c",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/9669d8ce-4ff7-4d29-a92e-aafee3a0149c.jpg",
+      "thumbUrl": "/stills/9669d8ce-4ff7-4d29-a92e-aafee3a0149c.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_107192",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_107192",
+      "buckets": [
+        "brown",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#191714",
+          "rgb": [
+            25,
+            23,
+            20
+          ],
+          "ratio": 0.3244357638888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#eae7dd",
+          "rgb": [
+            234,
+            231,
+            221
+          ],
+          "ratio": 0.24815538194444445,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#faf9f6",
+          "rgb": [
+            250,
+            249,
+            246
+          ],
+          "ratio": 0.21983506944444445,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#413c35",
+          "rgb": [
+            65,
+            60,
+            53
+          ],
+          "ratio": 0.19422743055555555,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#a1948d",
+          "rgb": [
+            161,
+            148,
+            141
+          ],
+          "ratio": 0.013346354166666666,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-10-21T02:51:21.507Z",
+      "fileKey": "archive:mma_dress_107192",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "e03e07e07f0fe07e07e07e07e07e07c03c03",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "60b9ee7d-5d61-4d9d-b4cc-cab1a5d06ca2",
+      "title": "Bordighera (1884) Claude Monet",
+      "titleEn": "Bordighera (1884) Claude Monet",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/60b9ee7d-5d61-4d9d-b4cc-cab1a5d06ca2.jpg",
+      "thumbUrl": "/stills/60b9ee7d-5d61-4d9d-b4cc-cab1a5d06ca2.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/547230/monet-nature-painting",
+      "author": "artinstitutechicago",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "green",
+        "cyan"
+      ],
+      "palette": [
+        {
+          "hex": "#43593e",
+          "rgb": [
+            67,
+            89,
+            62
+          ],
+          "ratio": 0.2557508680555556,
+          "bucket": "green"
+        },
+        {
+          "hex": "#2f677c",
+          "rgb": [
+            47,
+            103,
+            124
+          ],
+          "ratio": 0.2033420138888889,
+          "bucket": "cyan"
+        },
+        {
+          "hex": "#6b7c3c",
+          "rgb": [
+            107,
+            124,
+            60
+          ],
+          "ratio": 0.19856770833333334,
+          "bucket": "green"
+        },
+        {
+          "hex": "#1c332c",
+          "rgb": [
+            28,
+            51,
+            44
+          ],
+          "ratio": 0.1794704861111111,
+          "bucket": "green"
+        },
+        {
+          "hex": "#758f88",
+          "rgb": [
+            117,
+            143,
+            136
+          ],
+          "ratio": 0.1628689236111111,
+          "bucket": "green"
+        }
+      ],
+      "addedAt": "2026-10-21T02:51:24.683Z",
+      "fileKey": "openverse:199a86a4-77ba-4300-ae5b-342e65218da8",
+      "kind": "photo",
+      "photographer": "Claude Monet",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "befc03601c03effc41ff8ff8f80980f807c0",
+      "category": "painting",
+      "subjects": []
+    },
+    {
+      "id": "ecef35a1-883b-4160-aed6-a4a3d38d0f83",
+      "title": "Scene from the Last Judgment, Study for the Fresco Decoration of One of the Segments of the Cupola of the Cathedral of Santa Maria del Fiore in Florence",
+      "titleEn": "Scene from the Last Judgment, Study for the Fresco Decoration of One of the Segments of the Cupola of the Cathedral of Santa Maria del Fiore in Florence",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/ecef35a1-883b-4160-aed6-a4a3d38d0f83.jpg",
+      "thumbUrl": "/stills/ecef35a1-883b-4160-aed6-a4a3d38d0f83.jpg",
+      "pageUrl": "https://archive.org/details/mma_scene_from_the_last_judgment_study_for_the_fresco_decoration_of_one_of_the__341618",
+      "author": "Federico Zuccaro (Zuccari)",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_scene_from_the_last_judgment_study_for_the_fresco_decoration_of_one_of_the__341618",
+      "buckets": [
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#e3cfb0",
+          "rgb": [
+            227,
+            207,
+            176
+          ],
+          "ratio": 0.3816189236111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#ac8f70",
+          "rgb": [
+            172,
+            143,
+            112
+          ],
+          "ratio": 0.24837239583333334,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#bda282",
+          "rgb": [
+            189,
+            162,
+            130
+          ],
+          "ratio": 0.1841362847222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#957a5d",
+          "rgb": [
+            149,
+            122,
+            93
+          ],
+          "ratio": 0.15462239583333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#f9f3de",
+          "rgb": [
+            249,
+            243,
+            222
+          ],
+          "ratio": 0.03125,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-10-21T02:51:25.639Z",
+      "fileKey": "archive:mma_scene_from_the_last_judgment_study_for_the_fresco_decoration_of_one_of_the__341618",
+      "kind": "photo",
+      "photographer": "Federico Zuccaro (Zuccari)",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "f0fe0fe0fe07c07c07c07c03c03803803803",
+      "category": "painting",
+      "subjects": [
+        "architecture",
+        "ancient"
+      ]
+    },
+    {
+      "id": "cf1a6dc0-38f6-49c0-bee3-9b8275fc1d6a",
+      "title": "Dinner dress",
+      "titleEn": "Dinner dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/cf1a6dc0-38f6-49c0-bee3-9b8275fc1d6a.jpg",
+      "thumbUrl": "/stills/cf1a6dc0-38f6-49c0-bee3-9b8275fc1d6a.jpg",
+      "pageUrl": "https://archive.org/details/mma_dinner_dress_107585",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dinner_dress_107585",
+      "buckets": [
+        "blue",
+        "white",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#d7d7d8",
+          "rgb": [
+            215,
+            215,
+            216
+          ],
+          "ratio": 0.3090277777777778,
+          "bucket": "white"
+        },
+        {
+          "hex": "#1b1e30",
+          "rgb": [
+            27,
+            30,
+            48
+          ],
+          "ratio": 0.2072482638888889,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#323659",
+          "rgb": [
+            50,
+            54,
+            89
+          ],
+          "ratio": 0.2043185763888889,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#c6c7c7",
+          "rgb": [
+            198,
+            199,
+            199
+          ],
+          "ratio": 0.20225694444444445,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#afafb1",
+          "rgb": [
+            175,
+            175,
+            177
+          ],
+          "ratio": 0.0771484375,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-10-21T02:51:26.527Z",
+      "fileKey": "archive:mma_dinner_dress_107585",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "e1fe0fe0fe1fe0fe0fe0fe0fe0fc0fc07c03",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "7cdd007b-1002-4411-b265-6bfc214fa835",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/7cdd007b-1002-4411-b265-6bfc214fa835.jpg",
+      "thumbUrl": "/stills/7cdd007b-1002-4411-b265-6bfc214fa835.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_82337",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_82337",
+      "buckets": [
+        "yellow",
+        "white"
+      ],
+      "palette": [
+        {
+          "hex": "#dddbd6",
+          "rgb": [
+            221,
+            219,
+            214
+          ],
+          "ratio": 0.2909071180555556,
+          "bucket": "white"
+        },
+        {
+          "hex": "#a59e6b",
+          "rgb": [
+            165,
+            158,
+            107
+          ],
+          "ratio": 0.2643229166666667,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#bfbbad",
+          "rgb": [
+            191,
+            187,
+            173
+          ],
+          "ratio": 0.2231987847222222,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#837d4c",
+          "rgb": [
+            131,
+            125,
+            76
+          ],
+          "ratio": 0.1618923611111111,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#4d4624",
+          "rgb": [
+            77,
+            70,
+            36
+          ],
+          "ratio": 0.05967881944444445,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-21T02:51:27.371Z",
+      "fileKey": "archive:mma_dress_82337",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "38f707707707f4ff47f07e07c03c03c01801",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "d4e6e8e7-3c11-4103-b538-18471c7d44c9",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/d4e6e8e7-3c11-4103-b538-18471c7d44c9.jpg",
+      "thumbUrl": "/stills/d4e6e8e7-3c11-4103-b538-18471c7d44c9.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_108180",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_108180",
+      "buckets": [
+        "yellow",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#afa77b",
+          "rgb": [
+            175,
+            167,
+            123
+          ],
+          "ratio": 0.2760416666666667,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#605c3f",
+          "rgb": [
+            96,
+            92,
+            63
+          ],
+          "ratio": 0.22786458333333334,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#90855a",
+          "rgb": [
+            144,
+            133,
+            90
+          ],
+          "ratio": 0.2094184027777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#d0c59d",
+          "rgb": [
+            208,
+            197,
+            157
+          ],
+          "ratio": 0.20399305555555555,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#37311b",
+          "rgb": [
+            55,
+            49,
+            27
+          ],
+          "ratio": 0.08268229166666667,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-21T02:51:28.222Z",
+      "fileKey": "archive:mma_dress_108180",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "3f89f8ff9fffffffff7fc0fc070070020020",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "1e839f1a-4d91-45fc-b932-ee73cdf1e6d6",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/1e839f1a-4d91-45fc-b932-ee73cdf1e6d6.jpg",
+      "thumbUrl": "/stills/1e839f1a-4d91-45fc-b932-ee73cdf1e6d6.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_108080",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_108080",
+      "buckets": [
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#bfa47e",
+          "rgb": [
+            191,
+            164,
+            126
+          ],
+          "ratio": 0.2654079861111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#945039",
+          "rgb": [
+            148,
+            80,
+            57
+          ],
+          "ratio": 0.1994357638888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#dcc399",
+          "rgb": [
+            220,
+            195,
+            153
+          ],
+          "ratio": 0.1986762152777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#b07b5d",
+          "rgb": [
+            176,
+            123,
+            93
+          ],
+          "ratio": 0.1818576388888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#5b2d21",
+          "rgb": [
+            91,
+            45,
+            33
+          ],
+          "ratio": 0.15462239583333334,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-21T02:51:29.139Z",
+      "fileKey": "archive:mma_dress_108080",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "a07fa7523d9741fe3fd03e03786781903041",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "5b40d56e-2a42-45b3-b687-ef893f375fa9",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/5b40d56e-2a42-45b3-b687-ef893f375fa9.jpg",
+      "thumbUrl": "/stills/5b40d56e-2a42-45b3-b687-ef893f375fa9.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_80115",
+      "author": "Thellier",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_80115",
+      "buckets": [
+        "yellow",
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#beb5a2",
+          "rgb": [
+            190,
+            181,
+            162
+          ],
+          "ratio": 0.2912326388888889,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#351c0f",
+          "rgb": [
+            53,
+            28,
+            15
+          ],
+          "ratio": 0.2856987847222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#d0cabb",
+          "rgb": [
+            208,
+            202,
+            187
+          ],
+          "ratio": 0.1745876736111111,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#64482e",
+          "rgb": [
+            100,
+            72,
+            46
+          ],
+          "ratio": 0.1518012152777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#99876d",
+          "rgb": [
+            153,
+            135,
+            109
+          ],
+          "ratio": 0.0966796875,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-21T02:51:29.952Z",
+      "fileKey": "archive:mma_dress_80115",
+      "kind": "photo",
+      "photographer": "Thellier",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "98998d99d9bd9ad9bd93db1db1d91db0cb04",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "4bd3cc53-5d83-496e-a1b1-7dc14adccbd0",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/4bd3cc53-5d83-496e-a1b1-7dc14adccbd0.jpg",
+      "thumbUrl": "/stills/4bd3cc53-5d83-496e-a1b1-7dc14adccbd0.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_107852",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_107852",
+      "buckets": [
+        "orange",
+        "brown",
+        "red"
+      ],
+      "palette": [
+        {
+          "hex": "#e8b78d",
+          "rgb": [
+            232,
+            183,
+            141
+          ],
+          "ratio": 0.3817274305555556,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#a3896a",
+          "rgb": [
+            163,
+            137,
+            106
+          ],
+          "ratio": 0.2092013888888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#805b3c",
+          "rgb": [
+            128,
+            91,
+            60
+          ],
+          "ratio": 0.1872829861111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#332919",
+          "rgb": [
+            51,
+            41,
+            25
+          ],
+          "ratio": 0.11121961805555555,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#e35a37",
+          "rgb": [
+            227,
+            90,
+            55
+          ],
+          "ratio": 0.1105685763888889,
+          "bucket": "red"
+        }
+      ],
+      "addedAt": "2026-10-21T02:51:30.827Z",
+      "fileKey": "archive:mma_dress_107852",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "f07f07fb7f07faff1fe07e07b07007807663",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "f5877adf-8192-44d6-9568-ba66f900d6ed",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/f5877adf-8192-44d6-9568-ba66f900d6ed.jpg",
+      "thumbUrl": "/stills/f5877adf-8192-44d6-9568-ba66f900d6ed.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_108050",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_108050",
+      "buckets": [
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#ae8357",
+          "rgb": [
+            174,
+            131,
+            87
+          ],
+          "ratio": 0.3117404513888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#be986d",
+          "rgb": [
+            190,
+            152,
+            109
+          ],
+          "ratio": 0.3079427083333333,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d0b18a",
+          "rgb": [
+            208,
+            177,
+            138
+          ],
+          "ratio": 0.1899956597222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#98643b",
+          "rgb": [
+            152,
+            100,
+            59
+          ],
+          "ratio": 0.1081814236111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#e3cfb1",
+          "rgb": [
+            227,
+            207,
+            177
+          ],
+          "ratio": 0.08213975694444445,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-21T02:51:32.924Z",
+      "fileKey": "archive:mma_dress_108050",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "fc0fb05c07f0ff0d40dc05c01c01c0bc0ff8",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "96ebf031-0de5-4a38-893a-3162ce94862e",
+      "title": "Ulysses and His Companions Fighting the Cicones Before the City of Ismaros, Study for a Destroyed Fresco in the Galerie d'Ulysee, Chateau de Fontainebleau",
+      "titleEn": "Ulysses and His Companions Fighting the Cicones Before the City of Ismaros, Study for a Destroyed Fresco in the Galerie d'Ulysee, Chateau de Fontainebleau",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/96ebf031-0de5-4a38-893a-3162ce94862e.jpg",
+      "thumbUrl": "/stills/96ebf031-0de5-4a38-893a-3162ce94862e.jpg",
+      "pageUrl": "https://archive.org/details/mma_ulysses_and_his_companions_fighting_the_cicones_before_the_city_of_ismaros__340556",
+      "author": "Francesco Primaticcio",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_ulysses_and_his_companions_fighting_the_cicones_before_the_city_of_ismaros__340556",
+      "buckets": [
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#c58963",
+          "rgb": [
+            197,
+            137,
+            99
+          ],
+          "ratio": 0.3649088541666667,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#ca9671",
+          "rgb": [
+            202,
+            150,
+            113
+          ],
+          "ratio": 0.251953125,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#dfceb5",
+          "rgb": [
+            223,
+            206,
+            181
+          ],
+          "ratio": 0.1365017361111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d1b993",
+          "rgb": [
+            209,
+            185,
+            147
+          ],
+          "ratio": 0.13151041666666666,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#b67f59",
+          "rgb": [
+            182,
+            127,
+            89
+          ],
+          "ratio": 0.11512586805555555,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-21T02:51:33.751Z",
+      "fileKey": "archive:mma_ulysses_and_his_companions_fighting_the_cicones_before_the_city_of_ismaros__340556",
+      "kind": "photo",
+      "photographer": "Francesco Primaticcio",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "fff001001001001001001001001041ffffbf",
+      "category": "painting",
+      "subjects": [
+        "city",
+        "ancient"
+      ]
+    },
+    {
+      "id": "60e2114f-c37a-46d8-ab9a-9c2743770e94",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/60e2114f-c37a-46d8-ab9a-9c2743770e94.jpg",
+      "thumbUrl": "/stills/60e2114f-c37a-46d8-ab9a-9c2743770e94.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_84556",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_84556",
+      "buckets": [
+        "orange",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#e1c790",
+          "rgb": [
+            225,
+            199,
+            144
+          ],
+          "ratio": 0.4548611111111111,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#d9bb81",
+          "rgb": [
+            217,
+            187,
+            129
+          ],
+          "ratio": 0.2777777777777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#231707",
+          "rgb": [
+            35,
+            23,
+            7
+          ],
+          "ratio": 0.1279296875,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#67270a",
+          "rgb": [
+            103,
+            39,
+            10
+          ],
+          "ratio": 0.0986328125,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#a6793f",
+          "rgb": [
+            166,
+            121,
+            63
+          ],
+          "ratio": 0.04079861111111111,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-21T02:51:34.588Z",
+      "fileKey": "archive:mma_dress_84556",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "7e17f1e3be3fe3fe77fc3fc39ce0fc0fc8f3",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "8c576d68-1feb-4ff1-a8b9-d6cee28355e5",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/8c576d68-1feb-4ff1-a8b9-d6cee28355e5.jpg",
+      "thumbUrl": "/stills/8c576d68-1feb-4ff1-a8b9-d6cee28355e5.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_103529",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_103529",
+      "buckets": [
+        "blue",
+        "orange",
+        "brown",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#faf9f8",
+          "rgb": [
+            250,
+            249,
+            248
+          ],
+          "ratio": 0.3045789930555556,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#596d7a",
+          "rgb": [
+            89,
+            109,
+            122
+          ],
+          "ratio": 0.2370876736111111,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#7c6a5a",
+          "rgb": [
+            124,
+            106,
+            90
+          ],
+          "ratio": 0.1851128472222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#3f454b",
+          "rgb": [
+            63,
+            69,
+            75
+          ],
+          "ratio": 0.14127604166666666,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#7f8f98",
+          "rgb": [
+            127,
+            143,
+            152
+          ],
+          "ratio": 0.13194444444444445,
+          "bucket": "blue"
+        }
+      ],
+      "addedAt": "2026-10-21T02:51:35.434Z",
+      "fileKey": "archive:mma_dress_103529",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "e0fc0791ba0be07c07c03c03801800800c01",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "5bf3c836-d35e-49f5-8e24-40bd5ade85b0",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/5bf3c836-d35e-49f5-8e24-40bd5ade85b0.jpg",
+      "thumbUrl": "/stills/5bf3c836-d35e-49f5-8e24-40bd5ade85b0.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_82674",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_82674",
+      "buckets": [
+        "brown",
+        "yellow",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#624b2a",
+          "rgb": [
+            98,
+            75,
+            42
+          ],
+          "ratio": 0.2605251736111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#fcfcfa",
+          "rgb": [
+            252,
+            252,
+            250
+          ],
+          "ratio": 0.2173394097222222,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#e2dfdb",
+          "rgb": [
+            226,
+            223,
+            219
+          ],
+          "ratio": 0.20052083333333334,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#2b1e10",
+          "rgb": [
+            43,
+            30,
+            16
+          ],
+          "ratio": 0.1669921875,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#907950",
+          "rgb": [
+            144,
+            121,
+            80
+          ],
+          "ratio": 0.15462239583333334,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-21T02:51:36.992Z",
+      "fileKey": "archive:mma_dress_82674",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "c03c03f07e77e07e07e07e03c03c03c03c03",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "f831ba7c-23ef-46ba-af98-930ca10d4cfd",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/f831ba7c-23ef-46ba-af98-930ca10d4cfd.jpg",
+      "thumbUrl": "/stills/f831ba7c-23ef-46ba-af98-930ca10d4cfd.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_107997",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_107997",
+      "buckets": [
+        "orange",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#d0c3aa",
+          "rgb": [
+            208,
+            195,
+            170
+          ],
+          "ratio": 0.3277994791666667,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d8cab0",
+          "rgb": [
+            216,
+            202,
+            176
+          ],
+          "ratio": 0.3207465277777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#cabca0",
+          "rgb": [
+            202,
+            188,
+            160
+          ],
+          "ratio": 0.1633029513888889,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#ded2bb",
+          "rgb": [
+            222,
+            210,
+            187
+          ],
+          "ratio": 0.1484375,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#beae8e",
+          "rgb": [
+            190,
+            174,
+            142
+          ],
+          "ratio": 0.039713541666666664,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-10-21T02:51:39.499Z",
+      "fileKey": "archive:mma_dress_107997",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "f78f7cffcffcf7cf74f74730100530930010",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "306a36ac-5c94-468e-95c4-9bace7b543db",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/306a36ac-5c94-468e-95c4-9bace7b543db.jpg",
+      "thumbUrl": "/stills/306a36ac-5c94-468e-95c4-9bace7b543db.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_94233",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_94233",
+      "buckets": [
+        "orange",
+        "white",
+        "yellow",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#dcd8d7",
+          "rgb": [
+            220,
+            216,
+            215
+          ],
+          "ratio": 0.2950303819444444,
+          "bucket": "white"
+        },
+        {
+          "hex": "#cbc4bd",
+          "rgb": [
+            203,
+            196,
+            189
+          ],
+          "ratio": 0.21495225694444445,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#c8b48b",
+          "rgb": [
+            200,
+            180,
+            139
+          ],
+          "ratio": 0.1762152777777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#b7b2b0",
+          "rgb": [
+            183,
+            178,
+            176
+          ],
+          "ratio": 0.17122395833333334,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#ab9160",
+          "rgb": [
+            171,
+            145,
+            96
+          ],
+          "ratio": 0.142578125,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-21T02:51:40.423Z",
+      "fileKey": "archive:mma_dress_94233",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "ff0ffbffbdf8cf88f8c78c78c38838c00800",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "a2324b4a-7eda-48b2-935f-e085912692f6",
+      "title": "Portrait of Anatole La Forge",
+      "titleEn": "Portrait of Anatole La Forge",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/a2324b4a-7eda-48b2-935f-e085912692f6.jpg",
+      "thumbUrl": "/stills/a2324b4a-7eda-48b2-935f-e085912692f6.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1994.5-portrait-of-anatole",
+      "author": "Aimé Millet (French, 1819–1891)",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "gray",
+        "black"
+      ],
+      "palette": [
+        {
+          "hex": "#755739",
+          "rgb": [
+            117,
+            87,
+            57
+          ],
+          "ratio": 0.2782118055555556,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#876e54",
+          "rgb": [
+            135,
+            110,
+            84
+          ],
+          "ratio": 0.18836805555555555,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#96918c",
+          "rgb": [
+            150,
+            145,
+            140
+          ],
+          "ratio": 0.18348524305555555,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#1c1d1c",
+          "rgb": [
+            28,
+            29,
+            28
+          ],
+          "ratio": 0.1826171875,
+          "bucket": "black"
+        },
+        {
+          "hex": "#504030",
+          "rgb": [
+            80,
+            64,
+            48
+          ],
+          "ratio": 0.16731770833333334,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-21T02:51:41.875Z",
+      "fileKey": "archive:clevelandart-1994.5-portrait-of-anatole",
+      "kind": "photo",
+      "photographer": "Aimé Millet (French, 1819–1891)",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "0000601f83fc7c47c6dc6f27c7fc1fc1ffff",
+      "category": "photo",
+      "people": "one",
+      "subjects": [
+        "portrait"
+      ]
+    },
+    {
+      "id": "016a8838-9078-4a1c-bfa3-f24215c4bb68",
+      "title": "Calm Sea (1866) Gustave Courbet",
+      "titleEn": "Calm Sea (1866) Gustave Courbet",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/016a8838-9078-4a1c-bfa3-f24215c4bb68.jpg",
+      "thumbUrl": "/stills/016a8838-9078-4a1c-bfa3-f24215c4bb68.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/7728205/image-art-public-domain-paintings",
+      "author": "nationalgalleryofart",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "yellow",
+        "orange",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#c5bba6",
+          "rgb": [
+            197,
+            187,
+            166
+          ],
+          "ratio": 0.3161892361111111,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#bcb19b",
+          "rgb": [
+            188,
+            177,
+            155
+          ],
+          "ratio": 0.2592230902777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#aea083",
+          "rgb": [
+            174,
+            160,
+            131
+          ],
+          "ratio": 0.18522135416666666,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#81826b",
+          "rgb": [
+            129,
+            130,
+            107
+          ],
+          "ratio": 0.12630208333333334,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#cdbda0",
+          "rgb": [
+            205,
+            189,
+            160
+          ],
+          "ratio": 0.1130642361111111,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-21T02:51:45.419Z",
+      "fileKey": "openverse:4d1568a9-8728-4b5a-8c50-5c5a1079eed2",
+      "kind": "photo",
+      "photographer": "Calm Sea",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "ffffff05f0ff3ffffffffffffff000000000",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "722feb63-4a54-4010-8437-f7c1dacc316d",
+      "title": "Grain Field Edge Wood (Corn",
+      "titleEn": "Grain Field Edge Wood (Corn",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/722feb63-4a54-4010-8437-f7c1dacc316d.jpg",
+      "thumbUrl": "/stills/722feb63-4a54-4010-8437-f7c1dacc316d.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/10008266/grain-field-the-edge-wood-corn-field-jacob-van-ruisdael",
+      "author": "rawpixel",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#d0bba3",
+          "rgb": [
+            208,
+            187,
+            163
+          ],
+          "ratio": 0.3345269097222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#76695b",
+          "rgb": [
+            118,
+            105,
+            91
+          ],
+          "ratio": 0.19053819444444445,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#544a40",
+          "rgb": [
+            84,
+            74,
+            64
+          ],
+          "ratio": 0.18370225694444445,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#bcaa92",
+          "rgb": [
+            188,
+            170,
+            146
+          ],
+          "ratio": 0.16710069444444445,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#9c8c79",
+          "rgb": [
+            156,
+            140,
+            121
+          ],
+          "ratio": 0.12413194444444445,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-21T02:51:49.800Z",
+      "fileKey": "openverse:be24e34d-0753-4aef-b240-b73617ae3f42",
+      "kind": "photo",
+      "photographer": "rawpixel",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "fffffffffff1fc1f81e00e00000000000fff",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "9c05c57f-1490-4572-97f7-975e89febbf6",
+      "title": "Leonardo da Vinci, Drawing for Christ in \"The Last Supper\"",
+      "titleEn": "Leonardo da Vinci, Drawing for Christ in \"The Last Supper\"",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/9c05c57f-1490-4572-97f7-975e89febbf6.jpg",
+      "thumbUrl": "/stills/9c05c57f-1490-4572-97f7-975e89febbf6.jpg",
+      "pageUrl": "https://archive.org/details/mma_leonardo_da_vinci_drawing_for_christ_in_the_last_supper_283132",
+      "author": "Léon Gérard",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_leonardo_da_vinci_drawing_for_christ_in_the_last_supper_283132",
+      "buckets": [
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#8e7c6b",
+          "rgb": [
+            142,
+            124,
+            107
+          ],
+          "ratio": 0.2872178819444444,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#493b35",
+          "rgb": [
+            73,
+            59,
+            53
+          ],
+          "ratio": 0.2380642361111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#6d5e53",
+          "rgb": [
+            109,
+            94,
+            83
+          ],
+          "ratio": 0.23567708333333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#aa9681",
+          "rgb": [
+            170,
+            150,
+            129
+          ],
+          "ratio": 0.19129774305555555,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#cab9a2",
+          "rgb": [
+            202,
+            185,
+            162
+          ],
+          "ratio": 0.04774305555555555,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-21T02:51:50.669Z",
+      "fileKey": "archive:mma_leonardo_da_vinci_drawing_for_christ_in_the_last_supper_283132",
+      "kind": "photo",
+      "photographer": "Leonardo da Vinci",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "f03ff3ffbfe3fe3cc36c30431c11c01e01f0",
+      "category": "painting",
+      "subjects": []
+    },
+    {
+      "id": "4aef4e2c-c604-4038-8020-eb596738bf88",
+      "title": "Portrait of John VIII Palaoelogus, Emperor of Constantinople, 1424-1428 (obverse) and (reverse)",
+      "titleEn": "Portrait of John VIII Palaoelogus, Emperor of Constantinople, 1424-1428 (obverse) and (reverse)",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/4aef4e2c-c604-4038-8020-eb596738bf88.jpg",
+      "thumbUrl": "/stills/4aef4e2c-c604-4038-8020-eb596738bf88.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1974.13-portrait-of-john-vii",
+      "author": "Pisanello (Italian, Ferrara, c. 1395–1455)",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#564a39",
+          "rgb": [
+            86,
+            74,
+            57
+          ],
+          "ratio": 0.2706163194444444,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#b1b1a8",
+          "rgb": [
+            177,
+            177,
+            168
+          ],
+          "ratio": 0.255859375,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#a2a297",
+          "rgb": [
+            162,
+            162,
+            151
+          ],
+          "ratio": 0.2131076388888889,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#322c20",
+          "rgb": [
+            50,
+            44,
+            32
+          ],
+          "ratio": 0.15907118055555555,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#7b705b",
+          "rgb": [
+            123,
+            112,
+            91
+          ],
+          "ratio": 0.1013454861111111,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-21T02:51:52.152Z",
+      "fileKey": "archive:clevelandart-1974.13-portrait-of-john-vii",
+      "kind": "photo",
+      "photographer": "Pisanello (Italian, Ferrara, c. 1395–1455)",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "f8fe03c01c81880880c40c01e03f07ffffff",
+      "category": "photo",
+      "people": "one",
+      "subjects": [
+        "portrait"
+      ]
+    },
+    {
+      "id": "cc331196-daf9-4d0c-8661-4e68aaaceb6f",
+      "title": "Portrait of a Man",
+      "titleEn": "Portrait of a Man",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/cc331196-daf9-4d0c-8661-4e68aaaceb6f.jpg",
+      "thumbUrl": "/stills/cc331196-daf9-4d0c-8661-4e68aaaceb6f.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1941.560-portrait-of-a-man",
+      "author": "Isaac Oliver (French, c. 1565–1617)",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "blue",
+        "gray",
+        "brown",
+        "orange",
+        "white"
+      ],
+      "palette": [
+        {
+          "hex": "#263542",
+          "rgb": [
+            38,
+            53,
+            66
+          ],
+          "ratio": 0.4752604166666667,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#cacbcd",
+          "rgb": [
+            202,
+            203,
+            205
+          ],
+          "ratio": 0.21451822916666666,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#6f624e",
+          "rgb": [
+            111,
+            98,
+            78
+          ],
+          "ratio": 0.11610243055555555,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#bcab93",
+          "rgb": [
+            188,
+            171,
+            147
+          ],
+          "ratio": 0.11078559027777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d2d3d7",
+          "rgb": [
+            210,
+            211,
+            215
+          ],
+          "ratio": 0.08333333333333333,
+          "bucket": "white"
+        }
+      ],
+      "addedAt": "2026-10-21T02:51:53.542Z",
+      "fileKey": "archive:clevelandart-1941.560-portrait-of-a-man",
+      "kind": "photo",
+      "photographer": "Isaac Oliver (French, c. 1565–1617)",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "f8ff07e03c418e18f18f9879811801c01c03",
+      "category": "photo",
+      "people": "one",
+      "subjects": [
+        "portrait",
+        "people"
+      ]
+    },
+    {
+      "id": "ffa974f4-90b1-4353-9544-1d2bd1bbfa30",
+      "title": "Two Fools Dancing Two Three",
+      "titleEn": "Two Fools Dancing Two Three",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/ffa974f4-90b1-4353-9544-1d2bd1bbfa30.jpg",
+      "thumbUrl": "/stills/ffa974f4-90b1-4353-9544-1d2bd1bbfa30.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/8214923/two-fools-dancing-from-two-and-three-fools-the-carnival",
+      "author": "themet",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "orange",
+        "brown",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#72685d",
+          "rgb": [
+            114,
+            104,
+            93
+          ],
+          "ratio": 0.2216796875,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#b4a896",
+          "rgb": [
+            180,
+            168,
+            150
+          ],
+          "ratio": 0.2144097222222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#908677",
+          "rgb": [
+            144,
+            134,
+            119
+          ],
+          "ratio": 0.1994357638888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#5a534b",
+          "rgb": [
+            90,
+            83,
+            75
+          ],
+          "ratio": 0.18977864583333334,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#d6c9b8",
+          "rgb": [
+            214,
+            201,
+            184
+          ],
+          "ratio": 0.17469618055555555,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-21T02:51:59.888Z",
+      "fileKey": "openverse:ee2a7f8a-4923-4549-a9fa-6d1d4321155b",
+      "kind": "photo",
+      "photographer": "themet",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "fcf0c9de0fe29e3180483200202060f87fff",
+      "category": "photo",
+      "people": "two",
+      "subjects": []
+    },
+    {
+      "id": "bc287ede-609c-418a-83d6-5762430bfa60",
+      "title": "Ball gown",
+      "titleEn": "Ball gown MET C.I.69.33.12b d2",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/bc287ede-609c-418a-83d6-5762430bfa60.jpg",
+      "thumbUrl": "/stills/bc287ede-609c-418a-83d6-5762430bfa60.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Ball_gown_MET_C.I.69.33.12b_d2.jpeg",
+      "author": "Émile Pingat",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "buckets": [
+        "orange",
+        "yellow",
+        "brown",
+        "black"
+      ],
+      "palette": [
+        {
+          "hex": "#c5b391",
+          "rgb": [
+            197,
+            179,
+            145
+          ],
+          "ratio": 0.3326822916666667,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d4c5a7",
+          "rgb": [
+            212,
+            197,
+            167
+          ],
+          "ratio": 0.2201605902777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#655744",
+          "rgb": [
+            101,
+            87,
+            68
+          ],
+          "ratio": 0.18782552083333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#a39072",
+          "rgb": [
+            163,
+            144,
+            114
+          ],
+          "ratio": 0.13172743055555555,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#16130e",
+          "rgb": [
+            22,
+            19,
+            14
+          ],
+          "ratio": 0.12760416666666666,
+          "bucket": "black"
+        }
+      ],
+      "addedAt": "2026-10-21T02:56:00.638Z",
+      "fileKey": "File:Ball gown MET C.I.69.33.12b d2.jpeg",
+      "kind": "film",
+      "photographer": "Émile Pingat",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "d9bd9bd9bd9bd9bd999998d9841811a91009",
+      "category": "film",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "ba78a5f5-75c2-47fd-9fe9-25dc6981da18",
+      "title": "VI.17 Herculaneum. May 2004. Looking towards painted decoration on north wall of triuclinium 13.",
+      "titleEn": "VI.17 Herculaneum. May 2004. Looking towards painted decoration on north wall of triuclinium 13.",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/ba78a5f5-75c2-47fd-9fe9-25dc6981da18.jpg",
+      "thumbUrl": "/stills/ba78a5f5-75c2-47fd-9fe9-25dc6981da18.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:VI.17_Herculaneum._May_2004._Looking_towards_painted_decoration_on_north_wall_of_triuclinium_13..jpg",
+      "author": "Ancient Roman frescos of Pompeii",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:VI.17_Herculaneum._May_2004._Looking_towards_painted_decoration_on_north_wall_of_triuclinium_13..jpg",
+      "buckets": [
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#726048",
+          "rgb": [
+            114,
+            96,
+            72
+          ],
+          "ratio": 0.3599175347222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#8d7a61",
+          "rgb": [
+            141,
+            122,
+            97
+          ],
+          "ratio": 0.2624782986111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#b09d85",
+          "rgb": [
+            176,
+            157,
+            133
+          ],
+          "ratio": 0.17957899305555555,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#503927",
+          "rgb": [
+            80,
+            57,
+            39
+          ],
+          "ratio": 0.1095920138888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#d7c9b8",
+          "rgb": [
+            215,
+            201,
+            184
+          ],
+          "ratio": 0.08843315972222222,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-21T02:56:07.125Z",
+      "fileKey": "File:VI.17 Herculaneum. May 2004. Looking towards painted decoration on north wall of triuclinium 13..jpg",
+      "kind": "film",
+      "photographer": "Ancient Roman frescos of Pompeii",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "000100500660fff7fcffffff2b8000200000"
     }
   ],
-  "lastIngestDate": "2026-10-19",
+  "lastIngestDate": "2026-10-21",
   "seenFileKeys": [
     "stills:04b85cc4-5a5c-4d95-9d52-460ceefa3ee5.jpg",
     "stills:0509b1d5-b5da-4b3c-8e65-edda97b86985.jpg",
@@ -384354,7 +387274,62 @@
     "File:20241018 Blue and White Porcelain Gu with Figures Design, Kangxi Reign of Qing Dynasty.jpg",
     "File:Vaszary Self Portratit with Thonet Chair 1886.jpg",
     "File:20260515 Blue and White Porcelain Gourd-Shaped Vase with Lotus Design.jpg",
-    "File:Marble sculpture in the shape of a closed book (01083).jpg"
+    "File:Marble sculpture in the shape of a closed book (01083).jpg",
+    "archive:mma_dress_106993",
+    "archive:mma_morning_dress_175608",
+    "archive:mma_textile_173428",
+    "archive:mma_dress_107686",
+    "archive:mma_dress_98137",
+    "archive:mma_dress_101665",
+    "archive:mma_dress_101814",
+    "archive:mma_dress_82124",
+    "archive:mma_dinner_dress_159468",
+    "archive:mma_dress_173295",
+    "archive:mma_dress_121328",
+    "archive:mma_dress_102999",
+    "archive:mma_dressing_gown_106971",
+    "archive:mma_dress_105162",
+    "archive:mma_tea_gown_158923",
+    "archive:mma_dress_107192",
+    "openverse:199a86a4-77ba-4300-ae5b-342e65218da8",
+    "archive:mma_scene_from_the_last_judgment_study_for_the_fresco_decoration_of_one_of_the__341618",
+    "archive:mma_dinner_dress_107585",
+    "archive:mma_dress_82337",
+    "archive:mma_dress_108180",
+    "archive:mma_dress_108080",
+    "archive:mma_dress_80115",
+    "archive:mma_dress_107852",
+    "archive:mma_dress_107987",
+    "archive:mma_dress_108181",
+    "archive:mma_dress_108050",
+    "archive:mma_ulysses_and_his_companions_fighting_the_cicones_before_the_city_of_ismaros__340556",
+    "archive:mma_dress_84556",
+    "archive:mma_dress_103529",
+    "archive:mma_tea_gown_81518",
+    "archive:mma_dress_82674",
+    "archive:mma_dress_90840",
+    "archive:mma_dress_157126",
+    "archive:mma_dress_107997",
+    "archive:mma_dress_94233",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1998-03-11",
+    "archive:clevelandart-1994.5-portrait-of-anatole",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1929-08-13",
+    "openverse:4d1568a9-8728-4b5a-8c50-5c5a1079eed2",
+    "archive:mma_chair_in_chippendale_drawings_vol_i_390497",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1935-09-10",
+    "openverse:be24e34d-0753-4aef-b240-b73617ae3f42",
+    "archive:mma_leonardo_da_vinci_drawing_for_christ_in_the_last_supper_283132",
+    "archive:mma_armchair_203753",
+    "archive:clevelandart-1974.13-portrait-of-john-vii",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1929-08-16",
+    "archive:clevelandart-1941.560-portrait-of-a-man",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1934-07-06",
+    "openverse:ed88e367-0dfa-4dc4-bbec-9c900702b079",
+    "openverse:ee2a7f8a-4923-4549-a9fa-6d1d4321155b",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1931-10-06",
+    "File:Ball gown MET C.I.69.33.12b d2.jpeg",
+    "File:Sichuan brocade, detail of a pipa storage bag.png",
+    "File:VI.17 Herculaneum. May 2004. Looking towards painted decoration on north wall of triuclinium 13..jpg"
   ],
   "seenContentHashes": [
     "ff8f20c0481cf3cffcf7ce58ffcffcffcd7e",
@@ -388828,6 +391803,42 @@
     "1c01ca5cbfca0f00f00f00f00f60f00f03ff",
     "c0ff07f83f83f81f89f0bf0ff3fe9fcc7de7",
     "0638ff8ff1ff0900000001f83fc1f8000606",
-    "bfe9789bb902901be1be23b6be3a03b04dc4"
+    "bfe9789bb902901be1be23b6be3a03b04dc4",
+    "000000fbff1ffbff9ff3ffbffbffbf010000",
+    "ffcf9f99f9ff9fcf9cf9f9ff9f8ffcf9ff9f",
+    "0002001fe1f0bf0fbc6908387fe7f97fb6e8",
+    "fffffffffffd3fd3fd3fc231210000000000",
+    "0001f83fc6f21fa1f83fc7fc7feffeffe1f8",
+    "ffff9ff9ffbff3ff1fe07e07c07003003003",
+    "0601b89b86ece7cbb8bfceec7f09b8ffe6ee",
+    "3ecffeffe3ffc7fffd6fc2783083fc1fc3e0",
+    "1880f00f01f83f83fc7fe7fe7fffff7fc0e0",
+    "edce9ce9ce08e48ee8ec0e00e00e00e00e00",
+    "3bc3fc3fc3fc3fc7fe7fe7fe7fe7fe7ff400",
+    "e03e07e07f0fe07e07e07e07e07e07c03c03",
+    "befc03601c03effc41ff8ff8f80980f807c0",
+    "f0fe0fe0fe07c07c07c07c03c03803803803",
+    "e1fe0fe0fe1fe0fe0fe0fe0fe0fc0fc07c03",
+    "38f707707707f4ff47f07e07c03c03c01801",
+    "3f89f8ff9fffffffff7fc0fc070070020020",
+    "a07fa7523d9741fe3fd03e03786781903041",
+    "98998d99d9bd9ad9bd93db1db1d91db0cb04",
+    "f07f07fb7f07faff1fe07e07b07007807663",
+    "fc0fb05c07f0ff0d40dc05c01c01c0bc0ff8",
+    "fff001001001001001001001001041ffffbf",
+    "7e17f1e3be3fe3fe77fc3fc39ce0fc0fc8f3",
+    "e0fc0791ba0be07c07c03c03801800800c01",
+    "c03c03f07e77e07e07e07e03c03c03c03c03",
+    "f78f7cffcffcf7cf74f74730100530930010",
+    "ff0ffbffbdf8cf88f8c78c78c38838c00800",
+    "0000601f83fc7c47c6dc6f27c7fc1fc1ffff",
+    "ffffff05f0ff3ffffffffffffff000000000",
+    "fffffffffff1fc1f81e00e00000000000fff",
+    "f03ff3ffbfe3fe3cc36c30431c11c01e01f0",
+    "f8fe03c01c81880880c40c01e03f07ffffff",
+    "f8ff07e03c418e18f18f9879811801c01c03",
+    "fcf0c9de0fe29e3180483200202060f87fff",
+    "d9bd9bd9bd9bd9bd999998d9841811a91009",
+    "000100500660fff7fcffffff2b8000200000"
   ]
 }
