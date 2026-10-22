@@ -379962,10 +379962,572 @@
       "kind": "film",
       "photographer": "Ancient Roman frescos of Pompeii",
       "sourceLabel": "维基共享资源",
-      "contentHash": "000100500660fff7fcffffff2b8000200000"
+      "contentHash": "000100500660fff7fcffffff2b8000200000",
+      "category": "film",
+      "subjects": [
+        "ancient"
+      ]
+    },
+    {
+      "id": "b8078a2f-4a4a-43cf-bbe8-e4cf53eaeaf3",
+      "title": "Textile",
+      "titleEn": "Textile",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/b8078a2f-4a4a-43cf-bbe8-e4cf53eaeaf3.jpg",
+      "thumbUrl": "/stills/b8078a2f-4a4a-43cf-bbe8-e4cf53eaeaf3.jpg",
+      "pageUrl": "https://archive.org/details/mma_textile_173388",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_textile_173388",
+      "buckets": [
+        "yellow",
+        "black",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#98906d",
+          "rgb": [
+            152,
+            144,
+            109
+          ],
+          "ratio": 0.2786458333333333,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#afa780",
+          "rgb": [
+            175,
+            167,
+            128
+          ],
+          "ratio": 0.23524305555555555,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#121311",
+          "rgb": [
+            18,
+            19,
+            17
+          ],
+          "ratio": 0.18326822916666666,
+          "bucket": "black"
+        },
+        {
+          "hex": "#7b7353",
+          "rgb": [
+            123,
+            115,
+            83
+          ],
+          "ratio": 0.17252604166666666,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#c4bc95",
+          "rgb": [
+            196,
+            188,
+            149
+          ],
+          "ratio": 0.1303168402777778,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-10-22T03:22:06.541Z",
+      "fileKey": "archive:mma_textile_173388",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "3e63f63fe3fe3fa7f27f67fe7fe7fe7fe7fe",
+      "category": "photo",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "37c377ba-434d-4701-9f81-5d53bb4eb02e",
+      "title": "Wedding dress",
+      "titleEn": "Wedding dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/37c377ba-434d-4701-9f81-5d53bb4eb02e.jpg",
+      "thumbUrl": "/stills/37c377ba-434d-4701-9f81-5d53bb4eb02e.jpg",
+      "pageUrl": "https://archive.org/details/mma_wedding_dress_91017",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_wedding_dress_91017",
+      "buckets": [
+        "yellow",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#cebd99",
+          "rgb": [
+            206,
+            189,
+            153
+          ],
+          "ratio": 0.326171875,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#d4c8b0",
+          "rgb": [
+            212,
+            200,
+            176
+          ],
+          "ratio": 0.2730034722222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#bdb6a3",
+          "rgb": [
+            189,
+            182,
+            163
+          ],
+          "ratio": 0.21864149305555555,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#bba57a",
+          "rgb": [
+            187,
+            165,
+            122
+          ],
+          "ratio": 0.14268663194444445,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#8f6d39",
+          "rgb": [
+            143,
+            109,
+            57
+          ],
+          "ratio": 0.039496527777777776,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-22T03:22:09.004Z",
+      "fileKey": "archive:mma_wedding_dress_91017",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "fb8f3cf3cf38e30e18cfedfcddcc4cc0c804",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "902bbeb9-817c-4456-b158-1890b565f3b3",
+      "title": "Still Life and Embroidery",
+      "titleEn": "Still Life and Embroidery",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/902bbeb9-817c-4456-b158-1890b565f3b3.jpg",
+      "thumbUrl": "/stills/902bbeb9-817c-4456-b158-1890b565f3b3.jpg",
+      "pageUrl": "https://archive.org/details/mma_still_life_and_embroidery_270836",
+      "author": "Robert Wilfred Skeffington Lutwidge",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_still_life_and_embroidery_270836",
+      "buckets": [
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#b69872",
+          "rgb": [
+            182,
+            152,
+            114
+          ],
+          "ratio": 0.3752170138888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#ccb089",
+          "rgb": [
+            204,
+            176,
+            137
+          ],
+          "ratio": 0.259765625,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#a1815f",
+          "rgb": [
+            161,
+            129,
+            95
+          ],
+          "ratio": 0.1762152777777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#886649",
+          "rgb": [
+            136,
+            102,
+            73
+          ],
+          "ratio": 0.1062282986111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#f1e5d7",
+          "rgb": [
+            241,
+            229,
+            215
+          ],
+          "ratio": 0.08257378472222222,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-22T03:22:10.106Z",
+      "fileKey": "archive:mma_still_life_and_embroidery_270836",
+      "kind": "photo",
+      "photographer": "Robert Wilfred Skeffington Lutwidge",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "fff05f09f31f717111005104304601401fff",
+      "category": "photo",
+      "people": "none",
+      "subjects": [
+        "still-life",
+        "design",
+        "pattern"
+      ]
+    },
+    {
+      "id": "55add70d-bb73-44e4-9b97-c5ecc194c808",
+      "title": "Suite of furniture",
+      "titleEn": "Suite of furniture",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/55add70d-bb73-44e4-9b97-c5ecc194c808.jpg",
+      "thumbUrl": "/stills/55add70d-bb73-44e4-9b97-c5ecc194c808.jpg",
+      "pageUrl": "https://archive.org/details/mma_suite_of_furniture_236078",
+      "author": "Philippe de Lasalle",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_suite_of_furniture_236078",
+      "buckets": [
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#543e27",
+          "rgb": [
+            84,
+            62,
+            39
+          ],
+          "ratio": 0.3369140625,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#3f2c1a",
+          "rgb": [
+            63,
+            44,
+            26
+          ],
+          "ratio": 0.2373046875,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#735a40",
+          "rgb": [
+            115,
+            90,
+            64
+          ],
+          "ratio": 0.2019314236111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#20140a",
+          "rgb": [
+            32,
+            20,
+            10
+          ],
+          "ratio": 0.1896701388888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#ceaf90",
+          "rgb": [
+            206,
+            175,
+            144
+          ],
+          "ratio": 0.0341796875,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-22T03:22:10.997Z",
+      "fileKey": "archive:mma_suite_of_furniture_236078",
+      "kind": "photo",
+      "photographer": "Philippe de Lasalle",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "ffff3e01f00bc07f07f1ef3fb01000000000",
+      "category": "photo",
+      "subjects": [
+        "design"
+      ]
+    },
+    {
+      "id": "28a55a3d-4791-41cd-b317-a5a4b561d149",
+      "title": "The Idolatry of Solomon",
+      "titleEn": "The Idolatry of Solomon",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/28a55a3d-4791-41cd-b317-a5a4b561d149.jpg",
+      "thumbUrl": "/stills/28a55a3d-4791-41cd-b317-a5a4b561d149.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1987.142-the-idolatry-of-solo",
+      "author": "Pietro da Cortona (Italian, 1596–1669)",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#62513e",
+          "rgb": [
+            98,
+            81,
+            62
+          ],
+          "ratio": 0.3002387152777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#534435",
+          "rgb": [
+            83,
+            68,
+            53
+          ],
+          "ratio": 0.2635633680555556,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#72604a",
+          "rgb": [
+            114,
+            96,
+            74
+          ],
+          "ratio": 0.21744791666666666,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#463a2e",
+          "rgb": [
+            70,
+            58,
+            46
+          ],
+          "ratio": 0.17903645833333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#d1ceba",
+          "rgb": [
+            209,
+            206,
+            186
+          ],
+          "ratio": 0.039713541666666664,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-10-22T03:22:11.953Z",
+      "fileKey": "archive:clevelandart-1987.142-the-idolatry-of-solo",
+      "kind": "photo",
+      "photographer": "Pietro da Cortona (Italian, 1596–1669)",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "fffffd7ea00f0080a0400208a00000078ffe",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "f57b5ec4-254c-4d0c-8d2e-39cdc2f9a741",
+      "title": "20120227-Herculaneum Fresco 001 banquet",
+      "titleEn": "20120227 Herculaneum Fresco 001 banquet",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/f57b5ec4-254c-4d0c-8d2e-39cdc2f9a741.jpg",
+      "thumbUrl": "/stills/f57b5ec4-254c-4d0c-8d2e-39cdc2f9a741.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:20120227-Herculaneum_Fresco_001_banquet.jpg",
+      "author": "Unknown author Unknown author",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:20120227-Herculaneum_Fresco_001_banquet.jpg",
+      "buckets": [
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#c8af88",
+          "rgb": [
+            200,
+            175,
+            136
+          ],
+          "ratio": 0.23643663194444445,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#ece4d6",
+          "rgb": [
+            236,
+            228,
+            214
+          ],
+          "ratio": 0.22786458333333334,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#623e1c",
+          "rgb": [
+            98,
+            62,
+            28
+          ],
+          "ratio": 0.19737413194444445,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#937c50",
+          "rgb": [
+            147,
+            124,
+            80
+          ],
+          "ratio": 0.1853298611111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#bb7929",
+          "rgb": [
+            187,
+            121,
+            41
+          ],
+          "ratio": 0.15299479166666666,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-22T03:26:04.178Z",
+      "fileKey": "File:20120227-Herculaneum Fresco 001 banquet.jpg",
+      "kind": "photo",
+      "photographer": "Unknown author Unknown author",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "3ff3ff3bf3ff37f2d604100b023061041000",
+      "category": "painting",
+      "subjects": [
+        "ancient"
+      ]
+    },
+    {
+      "id": "219c81b3-af48-4f6a-a02d-945d4b6415b8",
+      "title": "Eduardo El Chamorra Mural (Tenis Graffiti)",
+      "titleEn": "Eduardo El Chamorra Mural (Tenis Graffiti)",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/219c81b3-af48-4f6a-a02d-945d4b6415b8.jpg",
+      "thumbUrl": "/stills/219c81b3-af48-4f6a-a02d-945d4b6415b8.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Eduardo_El_Chamorra_Mural_(Tenis_Graffiti).jpg",
+      "author": "Image by km2bp on Mapillary",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "buckets": [
+        "gray",
+        "black",
+        "blue"
+      ],
+      "palette": [
+        {
+          "hex": "#888478",
+          "rgb": [
+            136,
+            132,
+            120
+          ],
+          "ratio": 0.3045789930555556,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#635d55",
+          "rgb": [
+            99,
+            93,
+            85
+          ],
+          "ratio": 0.2424045138888889,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#0c0913",
+          "rgb": [
+            12,
+            9,
+            19
+          ],
+          "ratio": 0.1945529513888889,
+          "bucket": "black"
+        },
+        {
+          "hex": "#332f33",
+          "rgb": [
+            51,
+            47,
+            51
+          ],
+          "ratio": 0.16514756944444445,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#1c4885",
+          "rgb": [
+            28,
+            72,
+            133
+          ],
+          "ratio": 0.09331597222222222,
+          "bucket": "blue"
+        }
+      ],
+      "addedAt": "2026-10-22T03:26:15.580Z",
+      "fileKey": "File:Eduardo El Chamorra Mural (Tenis Graffiti).jpg",
+      "kind": "photo",
+      "photographer": "Image by km2bp on Mapillary",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "f87c01c39c61c41cf9ff3ef3cf9c59c20cc7"
     }
   ],
-  "lastIngestDate": "2026-10-21",
+  "lastIngestDate": "2026-10-22",
   "seenFileKeys": [
     "stills:04b85cc4-5a5c-4d95-9d52-460ceefa3ee5.jpg",
     "stills:0509b1d5-b5da-4b3c-8e65-edda97b86985.jpg",
@@ -387329,7 +387891,19 @@
     "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1931-10-06",
     "File:Ball gown MET C.I.69.33.12b d2.jpeg",
     "File:Sichuan brocade, detail of a pipa storage bag.png",
-    "File:VI.17 Herculaneum. May 2004. Looking towards painted decoration on north wall of triuclinium 13..jpg"
+    "File:VI.17 Herculaneum. May 2004. Looking towards painted decoration on north wall of triuclinium 13..jpg",
+    "archive:mma_textile_sample_book_229174",
+    "archive:C1403CN005",
+    "archive:mma_textile_sample_book_229208",
+    "archive:mma_textile_173388",
+    "archive:mma_textile_173386",
+    "archive:mma_wedding_dress_91017",
+    "archive:mma_still_life_and_embroidery_270836",
+    "archive:mma_suite_of_furniture_236078",
+    "archive:clevelandart-1987.142-the-idolatry-of-solo",
+    "File:Ball gown MET 65.184.65a-b side CP4.jpg",
+    "File:20120227-Herculaneum Fresco 001 banquet.jpg",
+    "File:Eduardo El Chamorra Mural (Tenis Graffiti).jpg"
   ],
   "seenContentHashes": [
     "ff8f20c0481cf3cffcf7ce58ffcffcffcd7e",
@@ -391839,6 +392413,13 @@
     "f8ff07e03c418e18f18f9879811801c01c03",
     "fcf0c9de0fe29e3180483200202060f87fff",
     "d9bd9bd9bd9bd9bd999998d9841811a91009",
-    "000100500660fff7fcffffff2b8000200000"
+    "000100500660fff7fcffffff2b8000200000",
+    "3e63f63fe3fe3fa7f27f67fe7fe7fe7fe7fe",
+    "fb8f3cf3cf38e30e18cfedfcddcc4cc0c804",
+    "fff05f09f31f717111005104304601401fff",
+    "ffff3e01f00bc07f07f1ef3fb01000000000",
+    "fffffd7ea00f0080a0400208a00000078ffe",
+    "3ff3ff3bf3ff37f2d604100b023061041000",
+    "f87c01c39c61c41cf9ff3ef3cf9c59c20cc7"
   ]
 }
