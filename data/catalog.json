@@ -380524,10 +380524,416 @@
       "kind": "photo",
       "photographer": "Image by km2bp on Mapillary",
       "sourceLabel": "维基共享资源",
-      "contentHash": "f87c01c39c61c41cf9ff3ef3cf9c59c20cc7"
+      "contentHash": "f87c01c39c61c41cf9ff3ef3cf9c59c20cc7",
+      "category": "painting",
+      "subjects": [
+        "graffiti"
+      ]
+    },
+    {
+      "id": "7ce2992c-3c25-46c9-989a-be1ea6a71022",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/7ce2992c-3c25-46c9-989a-be1ea6a71022.jpg",
+      "thumbUrl": "/stills/7ce2992c-3c25-46c9-989a-be1ea6a71022.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_107611",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_107611",
+      "buckets": [
+        "gray",
+        "brown",
+        "blue"
+      ],
+      "palette": [
+        {
+          "hex": "#5f5a51",
+          "rgb": [
+            95,
+            90,
+            81
+          ],
+          "ratio": 0.4475911458333333,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#494b4f",
+          "rgb": [
+            73,
+            75,
+            79
+          ],
+          "ratio": 0.1812065972222222,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#786d5d",
+          "rgb": [
+            120,
+            109,
+            93
+          ],
+          "ratio": 0.17447916666666666,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#607ab7",
+          "rgb": [
+            96,
+            122,
+            183
+          ],
+          "ratio": 0.12532552083333334,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#423b31",
+          "rgb": [
+            66,
+            59,
+            49
+          ],
+          "ratio": 0.07139756944444445,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-23T02:16:04.813Z",
+      "fileKey": "archive:mma_dress_107611",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "af8239e3f71e19e3b606c19031863b93a01b",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "8365b94f-e0a4-4a69-8aec-59cb89aa0cba",
+      "title": "The Sacrifice of Isaac, Tobias and the Angel, The Angels Appearing to Abraham, Abraham Welcoming the Three Angels (painting series)",
+      "titleEn": "The Sacrifice of Isaac, Tobias and the Angel, The Angels Appearing to Abraham, Abraham Welcoming the Three Angels (painting series)",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/8365b94f-e0a4-4a69-8aec-59cb89aa0cba.jpg",
+      "thumbUrl": "/stills/8365b94f-e0a4-4a69-8aec-59cb89aa0cba.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1952.235-the-sacrifice-of-isa",
+      "author": "Francesco Guardi (Italian, 1712–1793)",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#2f261d",
+          "rgb": [
+            47,
+            38,
+            29
+          ],
+          "ratio": 0.3260633680555556,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#8e907d",
+          "rgb": [
+            142,
+            144,
+            125
+          ],
+          "ratio": 0.3174913194444444,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#4c3b2d",
+          "rgb": [
+            76,
+            59,
+            45
+          ],
+          "ratio": 0.1694878472222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#776650",
+          "rgb": [
+            119,
+            102,
+            80
+          ],
+          "ratio": 0.1130642361111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#c6b28d",
+          "rgb": [
+            198,
+            178,
+            141
+          ],
+          "ratio": 0.07389322916666667,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-23T02:16:05.955Z",
+      "fileKey": "archive:clevelandart-1952.235-the-sacrifice-of-isa",
+      "kind": "photo",
+      "photographer": "Francesco Guardi (Italian, 1712–1793)",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "ffeffeffeffef40e20e30c70c60840040000",
+      "category": "painting",
+      "subjects": []
+    },
+    {
+      "id": "51ea9630-136a-4fd1-9d4c-fd51d9040d6a",
+      "title": "Portrait of Francesca Gommi Maratti",
+      "titleEn": "Portrait of Francesca Gommi Maratti",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/51ea9630-136a-4fd1-9d4c-fd51d9040d6a.jpg",
+      "thumbUrl": "/stills/51ea9630-136a-4fd1-9d4c-fd51d9040d6a.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-2018.1-portrait-of-francesc",
+      "author": "Carlo Maratti (Italian, 1625–1713)",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "black",
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#18110e",
+          "rgb": [
+            24,
+            17,
+            14
+          ],
+          "ratio": 0.5305989583333334,
+          "bucket": "black"
+        },
+        {
+          "hex": "#35251c",
+          "rgb": [
+            53,
+            37,
+            28
+          ],
+          "ratio": 0.1508246527777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#b29d80",
+          "rgb": [
+            178,
+            157,
+            128
+          ],
+          "ratio": 0.11143663194444445,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#8e775c",
+          "rgb": [
+            142,
+            119,
+            92
+          ],
+          "ratio": 0.10601128472222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#594b40",
+          "rgb": [
+            89,
+            75,
+            64
+          ],
+          "ratio": 0.10112847222222222,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-23T02:16:06.843Z",
+      "fileKey": "archive:clevelandart-2018.1-portrait-of-francesc",
+      "kind": "photo",
+      "photographer": "Carlo Maratti (Italian, 1625–1713)",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "0000000c00e00400e01ff3bf19f00f0ff0ff",
+      "category": "photo",
+      "people": "one",
+      "subjects": [
+        "portrait"
+      ]
+    },
+    {
+      "id": "57d4661e-1dc2-4220-aa4e-23dfaa3e3c28",
+      "title": "20241025 Blue and White Porcelain Vase with Flower Branches Design and Qianlong Reign Mark, Qing Dynasty",
+      "titleEn": "20241025 Blue and White Porcelain Vase with Flower Branches Design and Qianlong Reign Mark, Qing Dynasty",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/57d4661e-1dc2-4220-aa4e-23dfaa3e3c28.jpg",
+      "thumbUrl": "/stills/57d4661e-1dc2-4220-aa4e-23dfaa3e3c28.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:20241025_Blue_and_White_Porcelain_Vase_with_Flower_Branches_Design_and_Qianlong_Reign_Mark,_Qing_Dynasty.jpg",
+      "author": "Windmemories",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "buckets": [
+        "blue",
+        "yellow",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#010734",
+          "rgb": [
+            1,
+            7,
+            52
+          ],
+          "ratio": 0.455078125,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#f0dfbc",
+          "rgb": [
+            240,
+            223,
+            188
+          ],
+          "ratio": 0.17805989583333334,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#d2c2b0",
+          "rgb": [
+            210,
+            194,
+            176
+          ],
+          "ratio": 0.158203125,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#414d64",
+          "rgb": [
+            65,
+            77,
+            100
+          ],
+          "ratio": 0.11870659722222222,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#808a9a",
+          "rgb": [
+            128,
+            138,
+            154
+          ],
+          "ratio": 0.08995225694444445,
+          "bucket": "blue"
+        }
+      ],
+      "addedAt": "2026-10-23T02:20:03.355Z",
+      "fileKey": "File:20241025 Blue and White Porcelain Vase with Flower Branches Design and Qianlong Reign Mark, Qing Dynasty.jpg",
+      "kind": "film",
+      "photographer": "Windmemories",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "0f00600000000f00f01f81f8ffff9ff0ff9f",
+      "category": "film",
+      "people": "none",
+      "subjects": [
+        "still-life",
+        "pattern"
+      ]
+    },
+    {
+      "id": "1aaeee8d-45ee-4eec-b87b-c37811f6f126",
+      "title": "20241025 Blue and White Porcelain Gu with Human Figure Design, Kangxi Reign of Qing Dynasty",
+      "titleEn": "20241025 Blue and White Porcelain Gu with Human Figure Design, Kangxi Reign of Qing Dynasty",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/1aaeee8d-45ee-4eec-b87b-c37811f6f126.jpg",
+      "thumbUrl": "/stills/1aaeee8d-45ee-4eec-b87b-c37811f6f126.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:20241025_Blue_and_White_Porcelain_Gu_with_Human_Figure_Design,_Kangxi_Reign_of_Qing_Dynasty.jpg",
+      "author": "Windmemories",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "buckets": [
+        "blue",
+        "gray",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#0a155e",
+          "rgb": [
+            10,
+            21,
+            94
+          ],
+          "ratio": 0.2901475694444444,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#76758c",
+          "rgb": [
+            118,
+            117,
+            140
+          ],
+          "ratio": 0.2463107638888889,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#1b2974",
+          "rgb": [
+            27,
+            41,
+            116
+          ],
+          "ratio": 0.1916232638888889,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#1b1a23",
+          "rgb": [
+            27,
+            26,
+            35
+          ],
+          "ratio": 0.15625,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#d8cfa6",
+          "rgb": [
+            216,
+            207,
+            166
+          ],
+          "ratio": 0.11566840277777778,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-10-23T02:20:16.517Z",
+      "fileKey": "File:20241025 Blue and White Porcelain Gu with Human Figure Design, Kangxi Reign of Qing Dynasty.jpg",
+      "kind": "film",
+      "photographer": "Windmemories",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "0000800900f00f00f00f00f00f0cf3fffbfd"
     }
   ],
-  "lastIngestDate": "2026-10-22",
+  "lastIngestDate": "2026-10-23",
   "seenFileKeys": [
     "stills:04b85cc4-5a5c-4d95-9d52-460ceefa3ee5.jpg",
     "stills:0509b1d5-b5da-4b3c-8e65-edda97b86985.jpg",
@@ -387903,7 +388309,13 @@
     "archive:clevelandart-1987.142-the-idolatry-of-solo",
     "File:Ball gown MET 65.184.65a-b side CP4.jpg",
     "File:20120227-Herculaneum Fresco 001 banquet.jpg",
-    "File:Eduardo El Chamorra Mural (Tenis Graffiti).jpg"
+    "File:Eduardo El Chamorra Mural (Tenis Graffiti).jpg",
+    "archive:mma_dress_107611",
+    "archive:clevelandart-1952.235-the-sacrifice-of-isa",
+    "archive:clevelandart-2018.1-portrait-of-francesc",
+    "File:20241025 Blue and White Porcelain Vase with Flower Branches Design and Qianlong Reign Mark, Qing Dynasty.jpg",
+    "File:Pompeii fresco garden.jpg",
+    "File:20241025 Blue and White Porcelain Gu with Human Figure Design, Kangxi Reign of Qing Dynasty.jpg"
   ],
   "seenContentHashes": [
     "ff8f20c0481cf3cffcf7ce58ffcffcffcd7e",
@@ -392420,6 +392832,11 @@
     "ffff3e01f00bc07f07f1ef3fb01000000000",
     "fffffd7ea00f0080a0400208a00000078ffe",
     "3ff3ff3bf3ff37f2d604100b023061041000",
-    "f87c01c39c61c41cf9ff3ef3cf9c59c20cc7"
+    "f87c01c39c61c41cf9ff3ef3cf9c59c20cc7",
+    "af8239e3f71e19e3b606c19031863b93a01b",
+    "ffeffeffeffef40e20e30c70c60840040000",
+    "0000000c00e00400e01ff3bf19f00f0ff0ff",
+    "0f00600000000f00f01f81f8ffff9ff0ff9f",
+    "0000800900f00f00f00f00f00f0cf3fffbfd"
   ]
 }
