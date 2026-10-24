@@ -380930,10 +380930,571 @@
       "kind": "film",
       "photographer": "Windmemories",
       "sourceLabel": "维基共享资源",
-      "contentHash": "0000800900f00f00f00f00f00f0cf3fffbfd"
+      "contentHash": "0000800900f00f00f00f00f00f0cf3fffbfd",
+      "category": "film",
+      "subjects": [
+        "people",
+        "pattern"
+      ]
+    },
+    {
+      "id": "22afb4fc-261a-4f00-812c-4ab7fbcfe480",
+      "title": "Textile Fragment",
+      "titleEn": "Textile Fragment",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/22afb4fc-261a-4f00-812c-4ab7fbcfe480.jpg",
+      "thumbUrl": "/stills/22afb4fc-261a-4f00-812c-4ab7fbcfe480.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1920.1541-textile-fragment",
+      "author": "Internet Archive",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#ad7332",
+          "rgb": [
+            173,
+            115,
+            50
+          ],
+          "ratio": 0.2559678819444444,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#b37b3b",
+          "rgb": [
+            179,
+            123,
+            59
+          ],
+          "ratio": 0.248046875,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#b98243",
+          "rgb": [
+            185,
+            130,
+            67
+          ],
+          "ratio": 0.21473524305555555,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#a46a2a",
+          "rgb": [
+            164,
+            106,
+            42
+          ],
+          "ratio": 0.16471354166666666,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#bf8a4b",
+          "rgb": [
+            191,
+            138,
+            75
+          ],
+          "ratio": 0.11653645833333333,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-24T02:30:52.469Z",
+      "fileKey": "archive:clevelandart-1920.1541-textile-fragment",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "b00fe0fe89f0ff0bfcffedfe1ee07e00c000",
+      "category": "photo",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "5aa9f26e-001f-4234-944b-9617f19081fb",
+      "title": "COSTUMES DES HOMMES SUIVANT LA MODELe Costume Historique Cinq [...] Racinet Albert Bpt 6k 65450551 55",
+      "titleEn": "COSTUMES DES HOMMES SUIVANT LA MODELe Costume Historique Cinq [...] Racinet Albert Bpt 6k 65450551 55",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/5aa9f26e-001f-4234-944b-9617f19081fb.jpg",
+      "thumbUrl": "/stills/5aa9f26e-001f-4234-944b-9617f19081fb.jpg",
+      "pageUrl": "https://archive.org/details/le-costume-historique-cinq-...-racinet-albert-bpt-6k-65450551-55",
+      "author": "uteur : Racinet, Albert (1825-1893).",
+      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "buckets": [
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#ecdfca",
+          "rgb": [
+            236,
+            223,
+            202
+          ],
+          "ratio": 0.4295789930555556,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#f0eadf",
+          "rgb": [
+            240,
+            234,
+            223
+          ],
+          "ratio": 0.2758246527777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d6c6af",
+          "rgb": [
+            214,
+            198,
+            175
+          ],
+          "ratio": 0.1374782986111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#bfae97",
+          "rgb": [
+            191,
+            174,
+            151
+          ],
+          "ratio": 0.11165364583333333,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#9e8e77",
+          "rgb": [
+            158,
+            142,
+            119
+          ],
+          "ratio": 0.045464409722222224,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-24T02:30:54.963Z",
+      "fileKey": "archive:le-costume-historique-cinq-...-racinet-albert-bpt-6k-65450551-55",
+      "kind": "photo",
+      "photographer": "uteur : Racinet, Albert (1825-1893).",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "fffe07c03fffe03c03c03c03ff7fffffffff",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "c335ee54-6503-4af8-8a28-e133de5e5b31",
+      "title": "Textile Fragment",
+      "titleEn": "Textile Fragment",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/c335ee54-6503-4af8-8a28-e133de5e5b31.jpg",
+      "thumbUrl": "/stills/c335ee54-6503-4af8-8a28-e133de5e5b31.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1920.765-textile-fragment",
+      "author": "Internet Archive",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#643d2c",
+          "rgb": [
+            100,
+            61,
+            44
+          ],
+          "ratio": 0.3464626736111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#704a37",
+          "rgb": [
+            112,
+            74,
+            55
+          ],
+          "ratio": 0.2888454861111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#7a5b46",
+          "rgb": [
+            122,
+            91,
+            70
+          ],
+          "ratio": 0.20030381944444445,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#b3b2ab",
+          "rgb": [
+            179,
+            178,
+            171
+          ],
+          "ratio": 0.08582899305555555,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#927261",
+          "rgb": [
+            146,
+            114,
+            97
+          ],
+          "ratio": 0.07855902777777778,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-24T02:30:56.065Z",
+      "fileKey": "archive:clevelandart-1920.765-textile-fragment",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "8419d9bd59f19718f1801801819801981bfd",
+      "category": "photo",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "49fdffa1-0ac1-4c4f-a660-bd6ac6ac4991",
+      "title": "Textile Fragment",
+      "titleEn": "Textile Fragment",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/49fdffa1-0ac1-4c4f-a660-bd6ac6ac4991.jpg",
+      "thumbUrl": "/stills/49fdffa1-0ac1-4c4f-a660-bd6ac6ac4991.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1920.1908-textile-fragment",
+      "author": "Internet Archive",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#877454",
+          "rgb": [
+            135,
+            116,
+            84
+          ],
+          "ratio": 0.3001302083333333,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#a08b68",
+          "rgb": [
+            160,
+            139,
+            104
+          ],
+          "ratio": 0.2662760416666667,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#6b5b45",
+          "rgb": [
+            107,
+            91,
+            69
+          ],
+          "ratio": 0.2523871527777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#463f31",
+          "rgb": [
+            70,
+            63,
+            49
+          ],
+          "ratio": 0.140625,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#edeadf",
+          "rgb": [
+            237,
+            234,
+            223
+          ],
+          "ratio": 0.040581597222222224,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-10-24T02:30:57.234Z",
+      "fileKey": "archive:clevelandart-1920.1908-textile-fragment",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "ffffcf8000000003333320fccfc94cd6dc8d",
+      "category": "photo",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "5fbc6c71-5ac6-4b0d-8feb-46a64bc36a10",
+      "title": "Textile Fragment",
+      "titleEn": "Textile Fragment",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/5fbc6c71-5ac6-4b0d-8feb-46a64bc36a10.jpg",
+      "thumbUrl": "/stills/5fbc6c71-5ac6-4b0d-8feb-46a64bc36a10.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1920.1587-textile-fragment",
+      "author": "Internet Archive",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#a47940",
+          "rgb": [
+            164,
+            121,
+            64
+          ],
+          "ratio": 0.2584635416666667,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#b38e52",
+          "rgb": [
+            179,
+            142,
+            82
+          ],
+          "ratio": 0.2534722222222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#c4a064",
+          "rgb": [
+            196,
+            160,
+            100
+          ],
+          "ratio": 0.19932725694444445,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#966b35",
+          "rgb": [
+            150,
+            107,
+            53
+          ],
+          "ratio": 0.16829427083333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#f8f0e9",
+          "rgb": [
+            248,
+            240,
+            233
+          ],
+          "ratio": 0.12044270833333333,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-24T02:30:58.519Z",
+      "fileKey": "archive:clevelandart-1920.1587-textile-fragment",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "801839801801885801801805a0180180189d",
+      "category": "photo",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "825bc908-98ce-4623-8e41-d914d43f4d79",
+      "title": "Set of seating furniture",
+      "titleEn": "Set of seating furniture",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/825bc908-98ce-4623-8e41-d914d43f4d79.jpg",
+      "thumbUrl": "/stills/825bc908-98ce-4623-8e41-d914d43f4d79.jpg",
+      "pageUrl": "https://archive.org/details/mma_set_of_seating_furniture_236748",
+      "author": "Jean-Baptiste-Bernard Demay",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_set_of_seating_furniture_236748",
+      "buckets": [
+        "brown",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#4f4231",
+          "rgb": [
+            79,
+            66,
+            49
+          ],
+          "ratio": 0.4266493055555556,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#302519",
+          "rgb": [
+            48,
+            37,
+            25
+          ],
+          "ratio": 0.2986111111111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#b9b4a5",
+          "rgb": [
+            185,
+            180,
+            165
+          ],
+          "ratio": 0.12489149305555555,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#8b816c",
+          "rgb": [
+            139,
+            129,
+            108
+          ],
+          "ratio": 0.11664496527777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#eeede4",
+          "rgb": [
+            238,
+            237,
+            228
+          ],
+          "ratio": 0.033203125,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-10-24T02:31:01.013Z",
+      "fileKey": "archive:mma_set_of_seating_furniture_236748",
+      "kind": "photo",
+      "photographer": "Jean-Baptiste-Bernard Demay",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "fc0f80e48e40ec0fc0fc0ec0ec000c000000",
+      "category": "photo",
+      "subjects": [
+        "design"
+      ]
+    },
+    {
+      "id": "fa6687e6-4663-434a-be11-d52778630d87",
+      "title": "Mural y graffiti. Comuna 13. Medellín Colombia",
+      "titleEn": "Mural y graffiti. Comuna 13. Medellín Colombia",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/fa6687e6-4663-434a-be11-d52778630d87.jpg",
+      "thumbUrl": "/stills/fa6687e6-4663-434a-be11-d52778630d87.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Mural_y_graffiti._Comuna_13._Medell%C3%ADn_Colombia.jpg",
+      "author": "Sierraluisfer",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "buckets": [
+        "gray",
+        "red"
+      ],
+      "palette": [
+        {
+          "hex": "#cfccca",
+          "rgb": [
+            207,
+            204,
+            202
+          ],
+          "ratio": 0.3953993055555556,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#3f3d45",
+          "rgb": [
+            63,
+            61,
+            69
+          ],
+          "ratio": 0.2146267361111111,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#c1b2b0",
+          "rgb": [
+            193,
+            178,
+            176
+          ],
+          "ratio": 0.21104600694444445,
+          "bucket": "red"
+        },
+        {
+          "hex": "#a4898a",
+          "rgb": [
+            164,
+            137,
+            138
+          ],
+          "ratio": 0.09516059027777778,
+          "bucket": "red"
+        },
+        {
+          "hex": "#c85739",
+          "rgb": [
+            200,
+            87,
+            57
+          ],
+          "ratio": 0.0837673611111111,
+          "bucket": "red"
+        }
+      ],
+      "addedAt": "2026-10-24T02:35:02.228Z",
+      "fileKey": "File:Mural y graffiti. Comuna 13. Medellín Colombia.jpg",
+      "kind": "photo",
+      "photographer": "Sierraluisfer",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "43f468800000800e1fe1fffffffffffffc7f"
     }
   ],
-  "lastIngestDate": "2026-10-23",
+  "lastIngestDate": "2026-10-24",
   "seenFileKeys": [
     "stills:04b85cc4-5a5c-4d95-9d52-460ceefa3ee5.jpg",
     "stills:0509b1d5-b5da-4b3c-8e65-edda97b86985.jpg",
@@ -388315,7 +388876,18 @@
     "archive:clevelandart-2018.1-portrait-of-francesc",
     "File:20241025 Blue and White Porcelain Vase with Flower Branches Design and Qianlong Reign Mark, Qing Dynasty.jpg",
     "File:Pompeii fresco garden.jpg",
-    "File:20241025 Blue and White Porcelain Gu with Human Figure Design, Kangxi Reign of Qing Dynasty.jpg"
+    "File:20241025 Blue and White Porcelain Gu with Human Figure Design, Kangxi Reign of Qing Dynasty.jpg",
+    "archive:clevelandart-1920.1541-textile-fragment",
+    "archive:clevelandart-1920.761-textile-fragment",
+    "archive:C1403CN017",
+    "archive:le-costume-historique-cinq-...-racinet-albert-bpt-6k-65450551-55",
+    "archive:clevelandart-1920.765-textile-fragment",
+    "archive:clevelandart-1920.1908-textile-fragment",
+    "archive:clevelandart-1920.1587-textile-fragment",
+    "archive:clevelandart-1993.244-textile",
+    "archive:calajhs_000043",
+    "archive:mma_set_of_seating_furniture_236748",
+    "File:Mural y graffiti. Comuna 13. Medellín Colombia.jpg"
   ],
   "seenContentHashes": [
     "ff8f20c0481cf3cffcf7ce58ffcffcffcd7e",
@@ -392837,6 +393409,13 @@
     "ffeffeffeffef40e20e30c70c60840040000",
     "0000000c00e00400e01ff3bf19f00f0ff0ff",
     "0f00600000000f00f01f81f8ffff9ff0ff9f",
-    "0000800900f00f00f00f00f00f0cf3fffbfd"
+    "0000800900f00f00f00f00f00f0cf3fffbfd",
+    "b00fe0fe89f0ff0bfcffedfe1ee07e00c000",
+    "fffe07c03fffe03c03c03c03ff7fffffffff",
+    "8419d9bd59f19718f1801801819801981bfd",
+    "ffffcf8000000003333320fccfc94cd6dc8d",
+    "801839801801885801801805a0180180189d",
+    "fc0f80e48e40ec0fc0fc0ec0ec000c000000",
+    "43f468800000800e1fe1fffffffffffffc7f"
   ]
 }
