@@ -381491,10 +381491,493 @@
       "kind": "photo",
       "photographer": "Sierraluisfer",
       "sourceLabel": "维基共享资源",
-      "contentHash": "43f468800000800e1fe1fffffffffffffc7f"
+      "contentHash": "43f468800000800e1fe1fffffffffffffc7f",
+      "category": "painting",
+      "subjects": [
+        "graffiti"
+      ]
+    },
+    {
+      "id": "b07a9e88-f0f6-4f47-8637-4aa5213dd506",
+      "title": "Large Kneeling Statue of Hatshepsut",
+      "titleEn": "Large Kneeling Statue of Hatshepsut",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/b07a9e88-f0f6-4f47-8637-4aa5213dd506.jpg",
+      "thumbUrl": "/stills/b07a9e88-f0f6-4f47-8637-4aa5213dd506.jpg",
+      "pageUrl": "https://archive.org/details/mma_large_kneeling_statue_of_hatshepsut_544448",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_large_kneeling_statue_of_hatshepsut_544448",
+      "buckets": [
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#e5e0dd",
+          "rgb": [
+            229,
+            224,
+            221
+          ],
+          "ratio": 0.62890625,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#9a705b",
+          "rgb": [
+            154,
+            112,
+            91
+          ],
+          "ratio": 0.15852864583333334,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#4d3125",
+          "rgb": [
+            77,
+            49,
+            37
+          ],
+          "ratio": 0.1027560763888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#cba894",
+          "rgb": [
+            203,
+            168,
+            148
+          ],
+          "ratio": 0.09754774305555555,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#efe8e2",
+          "rgb": [
+            239,
+            232,
+            226
+          ],
+          "ratio": 0.012261284722222222,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-25T02:34:59.873Z",
+      "fileKey": "archive:mma_large_kneeling_statue_of_hatshepsut_544448",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "e3fe3fe3febfc1fc1fc1fe0fe07e17e1fe03",
+      "category": "photo",
+      "subjects": [
+        "sculpture"
+      ]
+    },
+    {
+      "id": "0726db71-c07a-44bf-b07c-9c80c2bc79f3",
+      "title": "Kneeling Statue of Yuny",
+      "titleEn": "Kneeling Statue of Yuny",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/0726db71-c07a-44bf-b07c-9c80c2bc79f3.jpg",
+      "thumbUrl": "/stills/0726db71-c07a-44bf-b07c-9c80c2bc79f3.jpg",
+      "pageUrl": "https://archive.org/details/mma_kneeling_statue_of_yuny_544741",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_kneeling_statue_of_yuny_544741",
+      "buckets": [
+        "gray",
+        "orange",
+        "black"
+      ],
+      "palette": [
+        {
+          "hex": "#5e5958",
+          "rgb": [
+            94,
+            89,
+            88
+          ],
+          "ratio": 0.3641493055555556,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#474343",
+          "rgb": [
+            71,
+            67,
+            67
+          ],
+          "ratio": 0.2358940972222222,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#83756e",
+          "rgb": [
+            131,
+            117,
+            110
+          ],
+          "ratio": 0.205078125,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#a4968e",
+          "rgb": [
+            164,
+            150,
+            142
+          ],
+          "ratio": 0.1052517361111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#242122",
+          "rgb": [
+            36,
+            33,
+            34
+          ],
+          "ratio": 0.0896267361111111,
+          "bucket": "black"
+        }
+      ],
+      "addedAt": "2026-10-25T02:35:26.512Z",
+      "fileKey": "archive:mma_kneeling_statue_of_yuny_544741",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "01800870e01e39e3fe00601c3f23c60e40fe",
+      "category": "photo",
+      "subjects": [
+        "sculpture"
+      ]
+    },
+    {
+      "id": "ccc0b8f5-645a-4a04-80cd-3e0ab8a70d19",
+      "title": "Iles Sandwich, un officier du roi en grand costume, dessine par S. Leroy d'apres Js. Arago; grave par Lerouge et Forget",
+      "titleEn": "Iles Sandwich, un officier du roi en grand costume, dessine par S. Leroy d'apres Js. Arago; grave par Lerouge et Forget",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/ccc0b8f5-645a-4a04-80cd-3e0ab8a70d19.jpg",
+      "thumbUrl": "/stills/ccc0b8f5-645a-4a04-80cd-3e0ab8a70d19.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Iles_Sandwich,_un_officier_du_roi_en_grand_costume,_dessine_par_S._Leroy_d%27apres_Js._Arago;_grave_par_Lerouge_et_Forget.jpg",
+      "author": "Jacques Arago",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Iles_Sandwich,_un_officier_du_roi_en_grand_costume,_dessine_par_S._Leroy_d%27apres_Js._Arago;_grave_par_Lerouge_et_Forget.jpg",
+      "buckets": [
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#efe5d4",
+          "rgb": [
+            239,
+            229,
+            212
+          ],
+          "ratio": 0.4581163194444444,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#ece0cc",
+          "rgb": [
+            236,
+            224,
+            204
+          ],
+          "ratio": 0.24620225694444445,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#8f7159",
+          "rgb": [
+            143,
+            113,
+            89
+          ],
+          "ratio": 0.1547309027777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#b79f7b",
+          "rgb": [
+            183,
+            159,
+            123
+          ],
+          "ratio": 0.09765625,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d4c4a9",
+          "rgb": [
+            212,
+            196,
+            169
+          ],
+          "ratio": 0.043294270833333336,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-25T02:39:01.211Z",
+      "fileKey": "File:Iles Sandwich, un officier du roi en grand costume, dessine par S. Leroy d'apres Js. Arago; grave par Lerouge et Forget.jpg",
+      "kind": "film",
+      "photographer": "Jacques Arago",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "f9fe9fe0ff0ff8ff87f87faffafc01c01fff",
+      "category": "film",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "9104fca9-773f-480a-8c1f-e215e5611b81",
+      "title": "Ball gown",
+      "titleEn": "Ball gown MET 49.3.26a label",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/9104fca9-773f-480a-8c1f-e215e5611b81.jpg",
+      "thumbUrl": "/stills/9104fca9-773f-480a-8c1f-e215e5611b81.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Ball_gown_MET_49.3.26a_label.jpeg",
+      "author": "Jacques Doucet",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "buckets": [
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#ad8752",
+          "rgb": [
+            173,
+            135,
+            82
+          ],
+          "ratio": 0.24967447916666666,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#8f6431",
+          "rgb": [
+            143,
+            100,
+            49
+          ],
+          "ratio": 0.2319878472222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#c5a87b",
+          "rgb": [
+            197,
+            168,
+            123
+          ],
+          "ratio": 0.2310112847222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#e0ceab",
+          "rgb": [
+            224,
+            206,
+            171
+          ],
+          "ratio": 0.1711154513888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#5c320f",
+          "rgb": [
+            92,
+            50,
+            15
+          ],
+          "ratio": 0.1162109375,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-10-25T02:39:02.544Z",
+      "fileKey": "File:Ball gown MET 49.3.26a label.jpeg",
+      "kind": "film",
+      "photographer": "Jacques Doucet",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "3f30f00e00b2261bff17ef7e993983bff004",
+      "category": "film",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "e645e4a6-48f2-4160-825e-f56410ed5b3f",
+      "title": "Thonet-exhibition 05",
+      "titleEn": "Thonet exhibition 05",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/e645e4a6-48f2-4160-825e-f56410ed5b3f.jpg",
+      "thumbUrl": "/stills/e645e4a6-48f2-4160-825e-f56410ed5b3f.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Thonet-exhibition_05.JPG",
+      "author": "Dominik Matus",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "buckets": [
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#91725c",
+          "rgb": [
+            145,
+            114,
+            92
+          ],
+          "ratio": 0.322265625,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#bda180",
+          "rgb": [
+            189,
+            161,
+            128
+          ],
+          "ratio": 0.2823350694444444,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#573423",
+          "rgb": [
+            87,
+            52,
+            35
+          ],
+          "ratio": 0.23893229166666666,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#cbbca7",
+          "rgb": [
+            203,
+            188,
+            167
+          ],
+          "ratio": 0.10579427083333333,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#dcd9d7",
+          "rgb": [
+            220,
+            217,
+            215
+          ],
+          "ratio": 0.05067274305555555,
+          "bucket": "white"
+        }
+      ],
+      "addedAt": "2026-10-25T02:40:02.563Z",
+      "fileKey": "File:Thonet-exhibition 05.JPG",
+      "kind": "photo",
+      "photographer": "Dominik Matus",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "82000060667e506736c06e06fc6f06fcefe6",
+      "category": "photo",
+      "subjects": [
+        "design"
+      ]
+    },
+    {
+      "id": "c2e53705-dd18-4078-b665-efb3cd588b62",
+      "title": "Lascaux 030",
+      "titleEn": "Lascaux 030",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/c2e53705-dd18-4078-b665-efb3cd588b62.jpg",
+      "thumbUrl": "/stills/c2e53705-dd18-4078-b665-efb3cd588b62.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Lascaux_030.jpg",
+      "author": "JoJan",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "buckets": [
+        "yellow",
+        "green"
+      ],
+      "palette": [
+        {
+          "hex": "#575e3e",
+          "rgb": [
+            87,
+            94,
+            62
+          ],
+          "ratio": 0.2805989583333333,
+          "bucket": "green"
+        },
+        {
+          "hex": "#777c55",
+          "rgb": [
+            119,
+            124,
+            85
+          ],
+          "ratio": 0.2693142361111111,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#9fa174",
+          "rgb": [
+            159,
+            161,
+            116
+          ],
+          "ratio": 0.1875,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#353c25",
+          "rgb": [
+            53,
+            60,
+            37
+          ],
+          "ratio": 0.1773003472222222,
+          "bucket": "green"
+        },
+        {
+          "hex": "#d6d5b8",
+          "rgb": [
+            214,
+            213,
+            184
+          ],
+          "ratio": 0.08528645833333333,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-10-25T02:40:27.464Z",
+      "fileKey": "File:Lascaux 030.jpg",
+      "kind": "film",
+      "photographer": "JoJan",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "778e7c0fc1fe1fc1e40c02c8cf0ffcfc0080"
     }
   ],
-  "lastIngestDate": "2026-10-24",
+  "lastIngestDate": "2026-10-25",
   "seenFileKeys": [
     "stills:04b85cc4-5a5c-4d95-9d52-460ceefa3ee5.jpg",
     "stills:0509b1d5-b5da-4b3c-8e65-edda97b86985.jpg",
@@ -388887,7 +389370,15 @@
     "archive:clevelandart-1993.244-textile",
     "archive:calajhs_000043",
     "archive:mma_set_of_seating_furniture_236748",
-    "File:Mural y graffiti. Comuna 13. Medellín Colombia.jpg"
+    "File:Mural y graffiti. Comuna 13. Medellín Colombia.jpg",
+    "archive:mma_jugate_portrait_of_a_couple_in_roman_style_198369",
+    "archive:mma_large_kneeling_statue_of_hatshepsut_544448",
+    "archive:mma_kneeling_statue_of_yuny_544741",
+    "File:Iles Sandwich, un officier du roi en grand costume, dessine par S. Leroy d'apres Js. Arago; grave par Lerouge et Forget.jpg",
+    "File:Ball gown MET 49.3.26a label.jpeg",
+    "File:Kerr, Stuart and Company “Tattoo” Class in the final (1924) catalogue.jpg",
+    "File:Thonet-exhibition 05.JPG",
+    "File:Lascaux 030.jpg"
   ],
   "seenContentHashes": [
     "ff8f20c0481cf3cffcf7ce58ffcffcffcd7e",
@@ -393416,6 +393907,12 @@
     "ffffcf8000000003333320fccfc94cd6dc8d",
     "801839801801885801801805a0180180189d",
     "fc0f80e48e40ec0fc0fc0ec0ec000c000000",
-    "43f468800000800e1fe1fffffffffffffc7f"
+    "43f468800000800e1fe1fffffffffffffc7f",
+    "e3fe3fe3febfc1fc1fc1fe0fe07e17e1fe03",
+    "01800870e01e39e3fe00601c3f23c60e40fe",
+    "f9fe9fe0ff0ff8ff87f87faffafc01c01fff",
+    "3f30f00e00b2261bff17ef7e993983bff004",
+    "82000060667e506736c06e06fc6f06fcefe6",
+    "778e7c0fc1fe1fc1e40c02c8cf0ffcfc0080"
   ]
 }
