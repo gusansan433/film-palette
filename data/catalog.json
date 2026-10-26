@@ -381974,10 +381974,335 @@
       "kind": "film",
       "photographer": "JoJan",
       "sourceLabel": "维基共享资源",
-      "contentHash": "778e7c0fc1fe1fc1e40c02c8cf0ffcfc0080"
+      "contentHash": "778e7c0fc1fe1fc1e40c02c8cf0ffcfc0080",
+      "category": "film",
+      "subjects": [
+        "ancient"
+      ]
+    },
+    {
+      "id": "d33643ba-1a70-4973-9b18-f056f37adc75",
+      "title": "Evening dress",
+      "titleEn": "Evening dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/d33643ba-1a70-4973-9b18-f056f37adc75.jpg",
+      "thumbUrl": "/stills/d33643ba-1a70-4973-9b18-f056f37adc75.jpg",
+      "pageUrl": "https://archive.org/details/mma_evening_dress_173456",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_evening_dress_173456",
+      "buckets": [
+        "black",
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#020202",
+          "rgb": [
+            2,
+            2,
+            2
+          ],
+          "ratio": 0.4600694444444444,
+          "bucket": "black"
+        },
+        {
+          "hex": "#9c8d79",
+          "rgb": [
+            156,
+            141,
+            121
+          ],
+          "ratio": 0.2309027777777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#b7a894",
+          "rgb": [
+            183,
+            168,
+            148
+          ],
+          "ratio": 0.18077256944444445,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#796c5a",
+          "rgb": [
+            121,
+            108,
+            90
+          ],
+          "ratio": 0.11078559027777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#463e33",
+          "rgb": [
+            70,
+            62,
+            51
+          ],
+          "ratio": 0.017469618055555556,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-10-26T02:18:56.333Z",
+      "fileKey": "archive:mma_evening_dress_173456",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "3fc0700f00f80f81f81f81fc3fc3fc3fe3fe",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "f3ddace8-5c44-4c90-88a1-1372ca1f254a",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/f3ddace8-5c44-4c90-88a1-1372ca1f254a.jpg",
+      "thumbUrl": "/stills/f3ddace8-5c44-4c90-88a1-1372ca1f254a.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_103021",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_103021",
+      "buckets": [
+        "orange",
+        "cyan",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#fcfdfd",
+          "rgb": [
+            252,
+            253,
+            253
+          ],
+          "ratio": 0.3987630208333333,
+          "bucket": "cyan"
+        },
+        {
+          "hex": "#a77f59",
+          "rgb": [
+            167,
+            127,
+            89
+          ],
+          "ratio": 0.2823350694444444,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#c69f76",
+          "rgb": [
+            198,
+            159,
+            118
+          ],
+          "ratio": 0.20909288194444445,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#7c5a3c",
+          "rgb": [
+            124,
+            90,
+            60
+          ],
+          "ratio": 0.09027777777777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#dbd5c4",
+          "rgb": [
+            219,
+            213,
+            196
+          ],
+          "ratio": 0.01953125,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-10-26T02:18:57.668Z",
+      "fileKey": "archive:mma_dress_103021",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "d0ff0ff0fe07e07e07e03c03c03c03801801",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "fd536a28-b6f2-45f0-98fd-0c9418f940af",
+      "title": "Album of Textile Samples",
+      "titleEn": "Album of Textile Samples",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/fd536a28-b6f2-45f0-98fd-0c9418f940af.jpg",
+      "thumbUrl": "/stills/fd536a28-b6f2-45f0-98fd-0c9418f940af.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1920.1950-album-of-textile-sam",
+      "author": "Internet Archive",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "gray",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#5e4a3b",
+          "rgb": [
+            94,
+            74,
+            59
+          ],
+          "ratio": 0.2735460069444444,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#7e8181",
+          "rgb": [
+            126,
+            129,
+            129
+          ],
+          "ratio": 0.24522569444444445,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#776150",
+          "rgb": [
+            119,
+            97,
+            80
+          ],
+          "ratio": 0.1939019097222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#6c6e6e",
+          "rgb": [
+            108,
+            110,
+            110
+          ],
+          "ratio": 0.18956163194444445,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#636564",
+          "rgb": [
+            99,
+            101,
+            100
+          ],
+          "ratio": 0.09776475694444445,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-10-26T02:18:59.692Z",
+      "fileKey": "archive:clevelandart-1920.1950-album-of-textile-sam",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "f78e1fc07c01800000001e03f83fe7feffff",
+      "category": "photo",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "1e8cd985-4443-4bcb-8bfc-16bf4ad5e64b",
+      "title": "Cave 84 mural detail",
+      "titleEn": "Cave 84 mural detail",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/1e8cd985-4443-4bcb-8bfc-16bf4ad5e64b.jpg",
+      "thumbUrl": "/stills/1e8cd985-4443-4bcb-8bfc-16bf4ad5e64b.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Cave_84_mural_detail.jpg",
+      "author": "Painting: 5th century CE Photograph: Undetermined",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Cave_84_mural_detail.jpg",
+      "buckets": [
+        "orange",
+        "brown",
+        "cyan"
+      ],
+      "palette": [
+        {
+          "hex": "#897a6e",
+          "rgb": [
+            137,
+            122,
+            110
+          ],
+          "ratio": 0.3269314236111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#b1a59c",
+          "rgb": [
+            177,
+            165,
+            156
+          ],
+          "ratio": 0.2839626736111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#524642",
+          "rgb": [
+            82,
+            70,
+            66
+          ],
+          "ratio": 0.21223958333333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#56767c",
+          "rgb": [
+            86,
+            118,
+            124
+          ],
+          "ratio": 0.1318359375,
+          "bucket": "cyan"
+        },
+        {
+          "hex": "#040403",
+          "rgb": [
+            4,
+            4,
+            3
+          ],
+          "ratio": 0.04503038194444445,
+          "bucket": "black"
+        }
+      ],
+      "addedAt": "2026-10-26T02:23:41.580Z",
+      "fileKey": "File:Cave 84 mural detail.jpg",
+      "kind": "photo",
+      "photographer": "Painting: 5th century CE Photograph: Undetermined",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "0086497c37d37817c37f17e07e16f1ff1dfc"
     }
   ],
-  "lastIngestDate": "2026-10-25",
+  "lastIngestDate": "2026-10-26",
   "seenFileKeys": [
     "stills:04b85cc4-5a5c-4d95-9d52-460ceefa3ee5.jpg",
     "stills:0509b1d5-b5da-4b3c-8e65-edda97b86985.jpg",
@@ -389378,7 +389703,15 @@
     "File:Ball gown MET 49.3.26a label.jpeg",
     "File:Kerr, Stuart and Company “Tattoo” Class in the final (1924) catalogue.jpg",
     "File:Thonet-exhibition 05.JPG",
-    "File:Lascaux 030.jpg"
+    "File:Lascaux 030.jpg",
+    "archive:mma_evening_dress_173456",
+    "archive:mma_dress_103021",
+    "archive:mma_dress_171963",
+    "archive:cfcpl_000074",
+    "archive:clevelandart-1920.1950-album-of-textile-sam",
+    "File:Cave of the Ravine (Cave 178, mural).jpg",
+    "File:Aerial landscape (AM 80450-1).jpg",
+    "File:Cave 84 mural detail.jpg"
   ],
   "seenContentHashes": [
     "ff8f20c0481cf3cffcf7ce58ffcffcffcd7e",
@@ -393913,6 +394246,10 @@
     "f9fe9fe0ff0ff8ff87f87faffafc01c01fff",
     "3f30f00e00b2261bff17ef7e993983bff004",
     "82000060667e506736c06e06fc6f06fcefe6",
-    "778e7c0fc1fe1fc1e40c02c8cf0ffcfc0080"
+    "778e7c0fc1fe1fc1e40c02c8cf0ffcfc0080",
+    "3fc0700f00f80f81f81f81fc3fc3fc3fe3fe",
+    "d0ff0ff0fe07e07e07e03c03c03c03801801",
+    "f78e1fc07c01800000001e03f83fe7feffff",
+    "0086497c37d37817c37f17e07e16f1ff1dfc"
   ]
 }
