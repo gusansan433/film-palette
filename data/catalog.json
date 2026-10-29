@@ -382299,10 +382299,87 @@
       "kind": "photo",
       "photographer": "Painting: 5th century CE Photograph: Undetermined",
       "sourceLabel": "维基共享资源",
-      "contentHash": "0086497c37d37817c37f17e07e16f1ff1dfc"
+      "contentHash": "0086497c37d37817c37f17e07e16f1ff1dfc",
+      "category": "painting",
+      "subjects": []
+    },
+    {
+      "id": "e12ad88a-e207-46cf-94dd-0dc0a3da4f2b",
+      "title": "Tea Chests, in Chippendale Drawings, Vol. I",
+      "titleEn": "Tea Chests, in Chippendale Drawings, Vol. I",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/e12ad88a-e207-46cf-94dd-0dc0a3da4f2b.jpg",
+      "thumbUrl": "/stills/e12ad88a-e207-46cf-94dd-0dc0a3da4f2b.jpg",
+      "pageUrl": "https://archive.org/details/mma_tea_chests_in_chippendale_drawings_vol_i_390567",
+      "author": "Thomas Chippendale",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_tea_chests_in_chippendale_drawings_vol_i_390567",
+      "buckets": [
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#d2c8b1",
+          "rgb": [
+            210,
+            200,
+            177
+          ],
+          "ratio": 0.4256727430555556,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#d8ceb8",
+          "rgb": [
+            216,
+            206,
+            184
+          ],
+          "ratio": 0.3338758680555556,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#c1b9a2",
+          "rgb": [
+            193,
+            185,
+            162
+          ],
+          "ratio": 0.11328125,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#374564",
+          "rgb": [
+            55,
+            69,
+            100
+          ],
+          "ratio": 0.06976996527777778,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#a69e8a",
+          "rgb": [
+            166,
+            158,
+            138
+          ],
+          "ratio": 0.05740017361111111,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-10-29T03:09:40.696Z",
+      "fileKey": "archive:mma_tea_chests_in_chippendale_drawings_vol_i_390567",
+      "kind": "photo",
+      "photographer": "Thomas Chippendale",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "000fffffffffb8f38cf0dffffffffffff000"
     }
   ],
-  "lastIngestDate": "2026-10-26",
+  "lastIngestDate": "2026-10-29",
   "seenFileKeys": [
     "stills:04b85cc4-5a5c-4d95-9d52-460ceefa3ee5.jpg",
     "stills:0509b1d5-b5da-4b3c-8e65-edda97b86985.jpg",
@@ -389711,7 +389788,8 @@
     "archive:clevelandart-1920.1950-album-of-textile-sam",
     "File:Cave of the Ravine (Cave 178, mural).jpg",
     "File:Aerial landscape (AM 80450-1).jpg",
-    "File:Cave 84 mural detail.jpg"
+    "File:Cave 84 mural detail.jpg",
+    "archive:mma_tea_chests_in_chippendale_drawings_vol_i_390567"
   ],
   "seenContentHashes": [
     "ff8f20c0481cf3cffcf7ce58ffcffcffcd7e",
@@ -394250,6 +394328,7 @@
     "3fc0700f00f80f81f81f81fc3fc3fc3fe3fe",
     "d0ff0ff0fe07e07e07e03c03c03c03801801",
     "f78e1fc07c01800000001e03f83fe7feffff",
-    "0086497c37d37817c37f17e07e16f1ff1dfc"
+    "0086497c37d37817c37f17e07e16f1ff1dfc",
+    "000fffffffffb8f38cf0dffffffffffff000"
   ]
 }
