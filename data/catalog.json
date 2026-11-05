@@ -384486,10 +384486,412 @@
       "kind": "film",
       "photographer": "kallerna",
       "sourceLabel": "维基共享资源",
-      "contentHash": "0ec83f8731e3362fc6e87da6f26f04f80ff9"
+      "contentHash": "0ec83f8731e3362fc6e87da6f26f04f80ff9",
+      "category": "film",
+      "subjects": [
+        "people"
+      ]
+    },
+    {
+      "id": "7df3e979-52d3-40dd-b0b0-b467f747cb1d",
+      "title": "The River God Tiber (Study for a fresco, Miracle of the Snow, or the Foundation of Santa Maria Maggiore, Rome in the Canigiani chapel of S. Felicita, Florence)",
+      "titleEn": "The River God Tiber (Study for a fresco, Miracle of the Snow, or the Foundation of Santa Maria Maggiore, Rome in the Canigiani chapel of S. Felicita, Florence)",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/7df3e979-52d3-40dd-b0b0-b467f747cb1d.jpg",
+      "thumbUrl": "/stills/7df3e979-52d3-40dd-b0b0-b467f747cb1d.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-2012.36-the-river-god-tiber",
+      "author": "Bernardino Poccetti (Italian, 1548–1612)",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "orange",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#c7baac",
+          "rgb": [
+            199,
+            186,
+            172
+          ],
+          "ratio": 0.3314887152777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#b6a99d",
+          "rgb": [
+            182,
+            169,
+            157
+          ],
+          "ratio": 0.3158637152777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#a2968c",
+          "rgb": [
+            162,
+            150,
+            140
+          ],
+          "ratio": 0.22493489583333334,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#8c8176",
+          "rgb": [
+            140,
+            129,
+            118
+          ],
+          "ratio": 0.10069444444444445,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#efe6da",
+          "rgb": [
+            239,
+            230,
+            218
+          ],
+          "ratio": 0.027018229166666668,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-11-05T05:07:54.935Z",
+      "fileKey": "archive:clevelandart-2012.36-the-river-god-tiber",
+      "kind": "photo",
+      "photographer": "Bernardino Poccetti (Italian, 1548–1612)",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "fffff1fd1fe1f80d2caeca6091801c00680f",
+      "category": "painting",
+      "subjects": [
+        "landscape",
+        "ancient"
+      ]
+    },
+    {
+      "id": "98bc6b4a-8662-49c3-9b00-7f15616309b2",
+      "title": "Phryne Before The Chicago Tribunal 1884",
+      "titleEn": "Phryne Before The Chicago Tribunal 1884",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/98bc6b4a-8662-49c3-9b00-7f15616309b2.jpg",
+      "thumbUrl": "/stills/98bc6b4a-8662-49c3-9b00-7f15616309b2.jpg",
+      "pageUrl": "https://archive.org/details/phryne-before-the-chicago-tribunal-1884",
+      "author": "Bernhard Gillam (1856-1896)",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/phryne-before-the-chicago-tribunal-1884",
+      "buckets": [
+        "gray",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#5e604f",
+          "rgb": [
+            94,
+            96,
+            79
+          ],
+          "ratio": 0.2970920138888889,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#82816a",
+          "rgb": [
+            130,
+            129,
+            106
+          ],
+          "ratio": 0.2267795138888889,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#35392f",
+          "rgb": [
+            53,
+            57,
+            47
+          ],
+          "ratio": 0.2192925347222222,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#ccbfa0",
+          "rgb": [
+            204,
+            191,
+            160
+          ],
+          "ratio": 0.1359592013888889,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#aca387",
+          "rgb": [
+            172,
+            163,
+            135
+          ],
+          "ratio": 0.1208767361111111,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-11-05T05:07:56.000Z",
+      "fileKey": "archive:phryne-before-the-chicago-tribunal-1884",
+      "kind": "photo",
+      "photographer": "Bernhard Gillam (1856-1896)",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "fff3b66007026003006006002806c03dffff",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "02b82c5f-667e-4164-a41a-9f2554a8f8c1",
+      "title": "Smuggler Mountain. Geology Sheet XXVII. U. S. Geological Survey, Charles D. Walcott, Director. Monograph XXXI. A.H. Thompson, Geographer. Morris Bien, Topographer in charge. Triangulation by Morris Bien. Topography by F.F. Grove. Surveyed in 1891. S.F. Emmons, Geologist in charge. Geology by J.E. Spurr. Assistant, G.W. Tower. Julius Bien & Co. Lith. N.Y. (1898)",
+      "titleEn": "Smuggler Mountain. Geology Sheet XXVII. U. S. Geological Survey, Charles D. Walcott, Director. Monograph XXXI. A.H. Thompson, Geographer. Morris Bien, Topographer in charge. Triangulation by Morris Bien. Topography by F.F. Grove. Surveyed in 1891. S.F. Emmons, Geologist in charge. Geology by J.E. Spurr. Assistant, G.W. Tower. Julius Bien & Co. Lith. N.Y. (1898)",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/02b82c5f-667e-4164-a41a-9f2554a8f8c1.jpg",
+      "thumbUrl": "/stills/02b82c5f-667e-4164-a41a-9f2554a8f8c1.jpg",
+      "pageUrl": "https://archive.org/details/dr_smuggler-mountain-geology-sheet-xxvii-u-s-geological-survey-charles-d-0942024",
+      "author": "Spurr, Josiah Edward",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/dr_smuggler-mountain-geology-sheet-xxvii-u-s-geological-survey-charles-d-0942024",
+      "buckets": [
+        "gray",
+        "yellow",
+        "orange",
+        "red"
+      ],
+      "palette": [
+        {
+          "hex": "#d7cbac",
+          "rgb": [
+            215,
+            203,
+            172
+          ],
+          "ratio": 0.3612196180555556,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#8d9380",
+          "rgb": [
+            141,
+            147,
+            128
+          ],
+          "ratio": 0.2550998263888889,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#ba9969",
+          "rgb": [
+            186,
+            153,
+            105
+          ],
+          "ratio": 0.15245225694444445,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#606458",
+          "rgb": [
+            96,
+            100,
+            88
+          ],
+          "ratio": 0.14615885416666666,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#ba7768",
+          "rgb": [
+            186,
+            119,
+            104
+          ],
+          "ratio": 0.08506944444444445,
+          "bucket": "red"
+        }
+      ],
+      "addedAt": "2026-11-05T05:07:56.995Z",
+      "fileKey": "archive:dr_smuggler-mountain-geology-sheet-xxvii-u-s-geological-survey-charles-d-0942024",
+      "kind": "photo",
+      "photographer": "Spurr, Josiah Edward",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "ffa802802c02e02e02c02c02e03e03f03fff",
+      "category": "photo",
+      "people": "none",
+      "subjects": [
+        "landscape"
+      ]
+    },
+    {
+      "id": "8588134f-d643-48ca-a934-8a4729fd9a52",
+      "title": "Department of the Gulf. Map no. 5. Approaches to New Orleans, prepared by order of Maj. Gen. N.P. Banks (by) Henry L. Abbot, Capt. and Chief Top. Engrs., Feb. 14th, 1863. (with Fairburn, Ga., Aug. 15-16, 1864). (with) Position of Army of Tennessee near Atlanta, Ga., July 22, 1864. (with) Map of Spanish Fort, Ala., made during the siege by Lieut. J.A. Chalaron ... (with) Diagrams illustrating the different positions occupied by the 4th Division, 17th Army Corps, during the battle of Atlanta, Ga., July 22, 1864. (with) Part of Paulding County, showing the position of the Left Wing, 16th A.C., June 4, 1864. (with) Section of a map showing the lines new New Hope Church, Ga., 1864. From Chief Engineer's Office, Army of Mississippi, by Capt. W.J. Morris, Chief Engineer. (with) Topographical sketch of the position of the Second Division, 14th Army Corps, in front of Savannah, Ga., December 11th, 1864. Brig. Gen. Jas. D. Morgan, commanding Division. Surveyed and drawn by Chas. Petri ... (with) Map of the vicinity of Mechanicsville, Va. (with Spanish Fort, Ala., March 29-April 8, 1865. Chas. G. Johnson). (with) Spanish Fort, 1865. Drawn during siege by assistant surgeon Bull, C.S. Army. Julius Bien & Co., Lith., N.Y. (1891-1895)",
+      "titleEn": "Department of the Gulf. Map no. 5. Approaches to New Orleans, prepared by order of Maj. Gen. N.P. Banks (by) Henry L. Abbot, Capt. and Chief Top. Engrs., Feb. 14th, 1863. (with Fairburn, Ga., Aug. 15-16, 1864). (with) Position of Army of Tennessee near Atlanta, Ga., July 22, 1864. (with) Map of Spanish Fort, Ala., made during the siege by Lieut. J.A. Chalaron ... (with) Diagrams illustrating the different positions occupied by the 4th Division, 17th Army Corps, during the battle of Atlanta, Ga., July 22, 1864. (with) Part of Paulding County, showing the position of the Left Wing, 16th A.C., June 4, 1864. (with) Section of a map showing the lines new New Hope Church, Ga., 1864. From Chief Engineer's Office, Army of Mississippi, by Capt. W.J. Morris, Chief Engineer. (with) Topographical sketch of the position of the Second Division, 14th Army Corps, in front of Savannah, Ga., December 11th, 1864. Brig. Gen. Jas. D. Morgan, commanding Division. Surveyed and drawn by Chas. Petri ... (with) Map of the vicinity of Mechanicsville, Va. (with Spanish Fort, Ala., March 29-April 8, 1865. Chas. G. Johnson). (with) Spanish Fort, 1865. Drawn during siege by assistant surgeon Bull, C.S. Army. Julius Bien & Co., Lith., N.Y. (1891-1895)",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/8588134f-d643-48ca-a934-8a4729fd9a52.jpg",
+      "thumbUrl": "/stills/8588134f-d643-48ca-a934-8a4729fd9a52.jpg",
+      "pageUrl": "https://archive.org/details/dr_department-of-the-gulf-map-no-5-approaches-to-new-orleans-prepared-by-o-01104218",
+      "author": "Abbot, Henry L.",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/dr_department-of-the-gulf-map-no-5-approaches-to-new-orleans-prepared-by-o-01104218",
+      "buckets": [
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#eadfbf",
+          "rgb": [
+            234,
+            223,
+            191
+          ],
+          "ratio": 0.3001302083333333,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#f2e9cb",
+          "rgb": [
+            242,
+            233,
+            203
+          ],
+          "ratio": 0.2658420138888889,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#d9d0b1",
+          "rgb": [
+            217,
+            208,
+            177
+          ],
+          "ratio": 0.2378472222222222,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#bcb899",
+          "rgb": [
+            188,
+            184,
+            153
+          ],
+          "ratio": 0.12955729166666666,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#847c78",
+          "rgb": [
+            132,
+            124,
+            120
+          ],
+          "ratio": 0.0666232638888889,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-11-05T05:07:57.980Z",
+      "fileKey": "archive:dr_department-of-the-gulf-map-no-5-approaches-to-new-orleans-prepared-by-o-01104218",
+      "kind": "photo",
+      "photographer": "Abbot, Henry L.",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "0007fffff7ff1ff7fcffcffcffc31df9d000",
+      "category": "photo",
+      "subjects": [
+        "architecture"
+      ]
+    },
+    {
+      "id": "122a8a1e-2d33-433d-847c-8c297b35ceae",
+      "title": "Residence of C.W. Norton ... Wilton Tp., Muscatine Co., Iowa (with) Myers Tice & Co. ... Dubuque. (with) M.B. Cochran ... Davenport ... (with) O. Martin's stone front block, Bloomfield ... (with) Union Block, Lemars ... (with) Hardware stoves etc. by J.S. Nye & Son, Ackley, ... (with) T.E. Haines elevator, Altoona ... (with) Great Western Well Auger Co., Bloomfield ... (with) Warren & Collins Furniture Store ... (with) H.T. Wright Hardware store ... (with) George Carson Drug Store ... (all) New Sharon ... (with) Osage Brewery ... Osage ... (with) S.M. Smith Drug & Book Store, Clear Lake ... (with) Paragon Woolen Mills ... West Mitchell ... (with) Office of the New Sharon Star ... (with) Crow Creek Quarry ... Linn Co. ... Chas. Shober & Co., props., Chicago Lith. Co. (Published by the Andreas Atlas Co., Lakeside Building, Chicago, Ills. Engraved & printed by Chas. Shober & Co., Props. of Chicago Lithographing Co.)",
+      "titleEn": "Residence of C.W. Norton ... Wilton Tp., Muscatine Co., Iowa (with) Myers Tice & Co. ... Dubuque. (with) M.B. Cochran ... Davenport ... (with) O. Martin's stone front block, Bloomfield ... (with) Union Block, Lemars ... (with) Hardware stoves etc. by J.S. Nye & Son, Ackley, ... (with) T.E. Haines elevator, Altoona ... (with) Great Western Well Auger Co., Bloomfield ... (with) Warren & Collins Furniture Store ... (with) H.T. Wright Hardware store ... (with) George Carson Drug Store ... (all) New Sharon ... (with) Osage Brewery ... Osage ... (with) S.M. Smith Drug & Book Store, Clear Lake ... (with) Paragon Woolen Mills ... West Mitchell ... (with) Office of the New Sharon Star ... (with) Crow Creek Quarry ... Linn Co. ... Chas. Shober & Co., props., Chicago Lith. Co. (Published by the Andreas Atlas Co., Lakeside Building, Chicago, Ills. Engraved & printed by Chas. Shober & Co., Props. of Chicago Lithographing Co.)",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/122a8a1e-2d33-433d-847c-8c297b35ceae.jpg",
+      "thumbUrl": "/stills/122a8a1e-2d33-433d-847c-8c297b35ceae.jpg",
+      "pageUrl": "https://archive.org/details/dr_residence-of-cw-norton--wilton-tp-muscatine-co-iowa-with-myers-t-00724075",
+      "author": "Andreas, A. T. (Alfred Theodore), 1839-1900",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/dr_residence-of-cw-norton--wilton-tp-muscatine-co-iowa-with-myers-t-00724075",
+      "buckets": [
+        "orange",
+        "yellow",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#8a7f6d",
+          "rgb": [
+            138,
+            127,
+            109
+          ],
+          "ratio": 0.24305555555555555,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#ac9f88",
+          "rgb": [
+            172,
+            159,
+            136
+          ],
+          "ratio": 0.23643663194444445,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#61584b",
+          "rgb": [
+            97,
+            88,
+            75
+          ],
+          "ratio": 0.2279730902777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#c4b89e",
+          "rgb": [
+            196,
+            184,
+            158
+          ],
+          "ratio": 0.15397135416666666,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#ded1b5",
+          "rgb": [
+            222,
+            209,
+            181
+          ],
+          "ratio": 0.13856336805555555,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-11-05T05:08:25.451Z",
+      "fileKey": "archive:dr_residence-of-cw-norton--wilton-tp-muscatine-co-iowa-with-myers-t-00724075",
+      "kind": "photo",
+      "photographer": "Andreas, A. T. (Alfred Theodore), 1839-1900",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "fffda9febfffc81f03c00f03c00fffcd5c00"
     }
   ],
-  "lastIngestDate": "2026-11-04",
+  "lastIngestDate": "2026-11-05",
   "seenFileKeys": [
     "stills:04b85cc4-5a5c-4d95-9d52-460ceefa3ee5.jpg",
     "stills:0509b1d5-b5da-4b3c-8e65-edda97b86985.jpg",
@@ -391951,7 +392353,12 @@
     "archive:mma_fire_screens_in_chippendale_drawings_vol_i_390505",
     "File:Te po a Chief of Rarotonga.jpg",
     "File:The Scottonian (IA scottonian1939scot).pdf",
-    "File:Sølen 1.jpg"
+    "File:Sølen 1.jpg",
+    "archive:clevelandart-2012.36-the-river-god-tiber",
+    "archive:phryne-before-the-chicago-tribunal-1884",
+    "archive:dr_smuggler-mountain-geology-sheet-xxvii-u-s-geological-survey-charles-d-0942024",
+    "archive:dr_department-of-the-gulf-map-no-5-approaches-to-new-orleans-prepared-by-o-01104218",
+    "archive:dr_residence-of-cw-norton--wilton-tp-muscatine-co-iowa-with-myers-t-00724075"
   ],
   "seenContentHashes": [
     "ff8f20c0481cf3cffcf7ce58ffcffcffcd7e",
@@ -396517,6 +396924,11 @@
     "fc7f83fc3f83f83f83c03d83c038038039cb",
     "1ff0ffffff0f60700f01f000000000000000",
     "000ffffcf9cf9cfd8edef1cedcfdced86fff",
-    "0ec83f8731e3362fc6e87da6f26f04f80ff9"
+    "0ec83f8731e3362fc6e87da6f26f04f80ff9",
+    "fffff1fd1fe1f80d2caeca6091801c00680f",
+    "fff3b66007026003006006002806c03dffff",
+    "ffa802802c02e02e02c02c02e03e03f03fff",
+    "0007fffff7ff1ff7fcffcffcffc31df9d000",
+    "fffda9febfffc81f03c00f03c00fffcd5c00"
   ]
 }
