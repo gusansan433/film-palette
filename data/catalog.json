@@ -384888,10 +384888,176 @@
       "kind": "photo",
       "photographer": "Andreas, A. T. (Alfred Theodore), 1839-1900",
       "sourceLabel": "互联网档案馆",
-      "contentHash": "fffda9febfffc81f03c00f03c00fffcd5c00"
+      "contentHash": "fffda9febfffc81f03c00f03c00fffcd5c00",
+      "category": "photo",
+      "people": "none",
+      "subjects": [
+        "landscape",
+        "architecture",
+        "design"
+      ]
+    },
+    {
+      "id": "8d7fc89e-4c8d-4479-b6da-880511729af2",
+      "title": "Bonampak Fresh",
+      "titleEn": "Bonampak Fresh",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/8d7fc89e-4c8d-4479-b6da-880511729af2.jpg",
+      "thumbUrl": "/stills/8d7fc89e-4c8d-4479-b6da-880511729af2.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Bonampak_Fresh.jpg",
+      "author": "Itztli",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "buckets": [
+        "red",
+        "gray",
+        "blue",
+        "pink"
+      ],
+      "palette": [
+        {
+          "hex": "#685e67",
+          "rgb": [
+            104,
+            94,
+            103
+          ],
+          "ratio": 0.2431640625,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#7f99a6",
+          "rgb": [
+            127,
+            153,
+            166
+          ],
+          "ratio": 0.2202690972222222,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#a26969",
+          "rgb": [
+            162,
+            105,
+            105
+          ],
+          "ratio": 0.21983506944444445,
+          "bucket": "red"
+        },
+        {
+          "hex": "#4d313b",
+          "rgb": [
+            77,
+            49,
+            59
+          ],
+          "ratio": 0.1850043402777778,
+          "bucket": "pink"
+        },
+        {
+          "hex": "#cfb3ae",
+          "rgb": [
+            207,
+            179,
+            174
+          ],
+          "ratio": 0.13172743055555555,
+          "bucket": "red"
+        }
+      ],
+      "addedAt": "2026-11-06T04:30:01.799Z",
+      "fileKey": "File:Bonampak Fresh.jpg",
+      "kind": "film",
+      "photographer": "Itztli",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "ffffff5ff3ff2ff0820b209f11201001001f",
+      "category": "film",
+      "subjects": [
+        "ancient"
+      ]
+    },
+    {
+      "id": "1e92fdeb-c783-4099-bfac-ba2e77c4e22d",
+      "title": "Hieronymus Bosch - Triptych of Garden of Earthly Delights (detail) - WGA2511",
+      "titleEn": "Hieronymus Bosch Triptych of Garden of Earthly Delights (detail) WGA2511",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/1e92fdeb-c783-4099-bfac-ba2e77c4e22d.jpg",
+      "thumbUrl": "/stills/1e92fdeb-c783-4099-bfac-ba2e77c4e22d.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Hieronymus_Bosch_-_Triptych_of_Garden_of_Earthly_Delights_(detail)_-_WGA2511.jpg",
+      "author": "Wikimedia Commons",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Hieronymus_Bosch_-_Triptych_of_Garden_of_Earthly_Delights_(detail)_-_WGA2511.jpg",
+      "buckets": [
+        "orange",
+        "brown",
+        "black"
+      ],
+      "palette": [
+        {
+          "hex": "#a18357",
+          "rgb": [
+            161,
+            131,
+            87
+          ],
+          "ratio": 0.2639973958333333,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#715f42",
+          "rgb": [
+            113,
+            95,
+            66
+          ],
+          "ratio": 0.2465277777777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#ccb589",
+          "rgb": [
+            204,
+            181,
+            137
+          ],
+          "ratio": 0.1704644097222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#463e31",
+          "rgb": [
+            70,
+            62,
+            49
+          ],
+          "ratio": 0.16807725694444445,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#1e1b1a",
+          "rgb": [
+            30,
+            27,
+            26
+          ],
+          "ratio": 0.1509331597222222,
+          "bucket": "black"
+        }
+      ],
+      "addedAt": "2026-11-06T04:31:00.598Z",
+      "fileKey": "File:Hieronymus Bosch - Triptych of Garden of Earthly Delights (detail) - WGA2511.jpg",
+      "kind": "photo",
+      "photographer": "Hieronymus Bosch",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "000603de2de2de2cf20021106fffffe5f27b"
     }
   ],
-  "lastIngestDate": "2026-11-05",
+  "lastIngestDate": "2026-11-06",
   "seenFileKeys": [
     "stills:04b85cc4-5a5c-4d95-9d52-460ceefa3ee5.jpg",
     "stills:0509b1d5-b5da-4b3c-8e65-edda97b86985.jpg",
@@ -392358,7 +392524,11 @@
     "archive:phryne-before-the-chicago-tribunal-1884",
     "archive:dr_smuggler-mountain-geology-sheet-xxvii-u-s-geological-survey-charles-d-0942024",
     "archive:dr_department-of-the-gulf-map-no-5-approaches-to-new-orleans-prepared-by-o-01104218",
-    "archive:dr_residence-of-cw-norton--wilton-tp-muscatine-co-iowa-with-myers-t-00724075"
+    "archive:dr_residence-of-cw-norton--wilton-tp-muscatine-co-iowa-with-myers-t-00724075",
+    "File:Kizil cave donor.jpg",
+    "File:Bonampak Fresh.jpg",
+    "File:20241025 Black Wood Block for Nianhua Printing, ROC Period (1912-1949) 01.jpg",
+    "File:Hieronymus Bosch - Triptych of Garden of Earthly Delights (detail) - WGA2511.jpg"
   ],
   "seenContentHashes": [
     "ff8f20c0481cf3cffcf7ce58ffcffcffcd7e",
@@ -396929,6 +397099,8 @@
     "fff3b66007026003006006002806c03dffff",
     "ffa802802c02e02e02c02c02e03e03f03fff",
     "0007fffff7ff1ff7fcffcffcffc31df9d000",
-    "fffda9febfffc81f03c00f03c00fffcd5c00"
+    "fffda9febfffc81f03c00f03c00fffcd5c00",
+    "ffffff5ff3ff2ff0820b209f11201001001f",
+    "000603de2de2de2cf20021106fffffe5f27b"
   ]
 }
