@@ -385054,10 +385054,173 @@
       "kind": "photo",
       "photographer": "Hieronymus Bosch",
       "sourceLabel": "维基共享资源",
-      "contentHash": "000603de2de2de2cf20021106fffffe5f27b"
+      "contentHash": "000603de2de2de2cf20021106fffffe5f27b",
+      "category": "painting",
+      "subjects": [
+        "nature"
+      ]
+    },
+    {
+      "id": "7aab355b-ab31-4425-abb2-e7d03400f37f",
+      "title": "Hieronymus Bosch, Garden of Earthly Delights tryptich, centre panel - detail 3",
+      "titleEn": "Hieronymus Bosch, Garden of Earthly Delights tryptich, centre panel detail 3",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/7aab355b-ab31-4425-abb2-e7d03400f37f.jpg",
+      "thumbUrl": "/stills/7aab355b-ab31-4425-abb2-e7d03400f37f.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Hieronymus_Bosch,_Garden_of_Earthly_Delights_tryptich,_centre_panel_-_detail_3.JPG",
+      "author": "Wikimedia Commons",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Hieronymus_Bosch,_Garden_of_Earthly_Delights_tryptich,_centre_panel_-_detail_3.JPG",
+      "buckets": [
+        "brown",
+        "orange",
+        "blue",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#91642f",
+          "rgb": [
+            145,
+            100,
+            47
+          ],
+          "ratio": 0.2980685763888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#493423",
+          "rgb": [
+            73,
+            52,
+            35
+          ],
+          "ratio": 0.2662760416666667,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#b98b48",
+          "rgb": [
+            185,
+            139,
+            72
+          ],
+          "ratio": 0.2603081597222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#8990a3",
+          "rgb": [
+            137,
+            144,
+            163
+          ],
+          "ratio": 0.09309895833333333,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#dac8a4",
+          "rgb": [
+            218,
+            200,
+            164
+          ],
+          "ratio": 0.0822482638888889,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-11-07T03:42:08.988Z",
+      "fileKey": "File:Hieronymus Bosch, Garden of Earthly Delights tryptich, centre panel - detail 3.JPG",
+      "kind": "photo",
+      "photographer": "Hieronymus Bosch",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "7f87f800c08468d7c7be5ffb7f63ee000a00",
+      "category": "painting",
+      "subjects": [
+        "nature"
+      ]
+    },
+    {
+      "id": "454c46b9-a2a8-4db7-8778-43a1a49be3ad",
+      "title": "The Garden of Earthly Delights (lower right fragment)",
+      "titleEn": "The Garden of Earthly Delights (lower right fragment)",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/454c46b9-a2a8-4db7-8778-43a1a49be3ad.jpg",
+      "thumbUrl": "/stills/454c46b9-a2a8-4db7-8778-43a1a49be3ad.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:The_Garden_of_Earthly_Delights_(lower_right_fragment).jpg",
+      "author": "Hieronymus Bosch",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "buckets": [
+        "brown",
+        "black",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#30271b",
+          "rgb": [
+            48,
+            39,
+            27
+          ],
+          "ratio": 0.23958333333333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#100d0a",
+          "rgb": [
+            16,
+            13,
+            10
+          ],
+          "ratio": 0.2177734375,
+          "bucket": "black"
+        },
+        {
+          "hex": "#5c4425",
+          "rgb": [
+            92,
+            68,
+            37
+          ],
+          "ratio": 0.208984375,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#8b6b3d",
+          "rgb": [
+            139,
+            107,
+            61
+          ],
+          "ratio": 0.2048611111111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#b5966f",
+          "rgb": [
+            181,
+            150,
+            111
+          ],
+          "ratio": 0.12879774305555555,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-11-07T03:42:14.698Z",
+      "fileKey": "File:The Garden of Earthly Delights (lower right fragment).jpg",
+      "kind": "film",
+      "photographer": "Hieronymus Bosch",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "0000010610e04e06ebeebef3ff77fa3ba1fe"
     }
   ],
-  "lastIngestDate": "2026-11-06",
+  "lastIngestDate": "2026-11-07",
   "seenFileKeys": [
     "stills:04b85cc4-5a5c-4d95-9d52-460ceefa3ee5.jpg",
     "stills:0509b1d5-b5da-4b3c-8e65-edda97b86985.jpg",
@@ -392528,7 +392691,11 @@
     "File:Kizil cave donor.jpg",
     "File:Bonampak Fresh.jpg",
     "File:20241025 Black Wood Block for Nianhua Printing, ROC Period (1912-1949) 01.jpg",
-    "File:Hieronymus Bosch - Triptych of Garden of Earthly Delights (detail) - WGA2511.jpg"
+    "File:Hieronymus Bosch - Triptych of Garden of Earthly Delights (detail) - WGA2511.jpg",
+    "archive:LMG00063",
+    "archive:arkivkopia.se-digmus-nm-NMA.0070031",
+    "File:Hieronymus Bosch, Garden of Earthly Delights tryptich, centre panel - detail 3.JPG",
+    "File:The Garden of Earthly Delights (lower right fragment).jpg"
   ],
   "seenContentHashes": [
     "ff8f20c0481cf3cffcf7ce58ffcffcffcd7e",
@@ -397101,6 +397268,8 @@
     "0007fffff7ff1ff7fcffcffcffc31df9d000",
     "fffda9febfffc81f03c00f03c00fffcd5c00",
     "ffffff5ff3ff2ff0820b209f11201001001f",
-    "000603de2de2de2cf20021106fffffe5f27b"
+    "000603de2de2de2cf20021106fffffe5f27b",
+    "7f87f800c08468d7c7be5ffb7f63ee000a00",
+    "0000010610e04e06ebeebef3ff77fa3ba1fe"
   ]
 }
