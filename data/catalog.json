@@ -385217,10 +385217,653 @@
       "kind": "film",
       "photographer": "Hieronymus Bosch",
       "sourceLabel": "维基共享资源",
-      "contentHash": "0000010610e04e06ebeebef3ff77fa3ba1fe"
+      "contentHash": "0000010610e04e06ebeebef3ff77fa3ba1fe",
+      "category": "film",
+      "subjects": [
+        "nature"
+      ]
+    },
+    {
+      "id": "356ec511-d60f-4bb5-8585-c73df92dbb3e",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/356ec511-d60f-4bb5-8585-c73df92dbb3e.jpg",
+      "thumbUrl": "/stills/356ec511-d60f-4bb5-8585-c73df92dbb3e.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_103543",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_103543",
+      "buckets": [
+        "orange",
+        "yellow",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#f5f4f0",
+          "rgb": [
+            245,
+            244,
+            240
+          ],
+          "ratio": 0.3005642361111111,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#e9e4dd",
+          "rgb": [
+            233,
+            228,
+            221
+          ],
+          "ratio": 0.2146267361111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#e4cb9e",
+          "rgb": [
+            228,
+            203,
+            158
+          ],
+          "ratio": 0.2099609375,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#cbac7a",
+          "rgb": [
+            203,
+            172,
+            122
+          ],
+          "ratio": 0.1939019097222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#a77d4d",
+          "rgb": [
+            167,
+            125,
+            77
+          ],
+          "ratio": 0.08094618055555555,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-11-08T03:06:38.699Z",
+      "fileKey": "archive:mma_dress_103543",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "fff000000fd0f80f20fa4f04e0ce0ef1ef9f",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "c160d115-b1f0-45d6-bb97-3e3c85ab7e34",
+      "title": "Portrait of William Powell",
+      "titleEn": "Portrait of William Powell",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/c160d115-b1f0-45d6-bb97-3e3c85ab7e34.jpg",
+      "thumbUrl": "/stills/c160d115-b1f0-45d6-bb97-3e3c85ab7e34.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-2013.92-portrait-of-william",
+      "author": "James Scouler (British, 1740–1812)",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "black",
+        "brown",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#1e201e",
+          "rgb": [
+            30,
+            32,
+            30
+          ],
+          "ratio": 0.4942491319444444,
+          "bucket": "black"
+        },
+        {
+          "hex": "#4c412c",
+          "rgb": [
+            76,
+            65,
+            44
+          ],
+          "ratio": 0.1950954861111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#999389",
+          "rgb": [
+            153,
+            147,
+            137
+          ],
+          "ratio": 0.16861979166666666,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#746854",
+          "rgb": [
+            116,
+            104,
+            84
+          ],
+          "ratio": 0.09038628472222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#c8bda3",
+          "rgb": [
+            200,
+            189,
+            163
+          ],
+          "ratio": 0.05164930555555555,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-11-08T03:06:39.830Z",
+      "fileKey": "archive:clevelandart-2013.92-portrait-of-william",
+      "kind": "photo",
+      "photographer": "James Scouler (British, 1740–1812)",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "cd3ce98c59c01e40e606606002087f81dc01",
+      "category": "photo",
+      "people": "one",
+      "subjects": [
+        "portrait"
+      ]
+    },
+    {
+      "id": "abc73a67-6980-42cb-b56c-cad095e6126c",
+      "title": "RKO Radio Pictures ( 1929 1959) Logo Drawing",
+      "titleEn": "RKO Radio Pictures ( 1929 1959) Logo Drawing",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/abc73a67-6980-42cb-b56c-cad095e6126c.jpg",
+      "thumbUrl": "/stills/abc73a67-6980-42cb-b56c-cad095e6126c.jpg",
+      "pageUrl": "https://archive.org/details/rko-radio-pictures-1929-1959-logo-drawing",
+      "author": "Warner Bros. Discovery",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/rko-radio-pictures-1929-1959-logo-drawing",
+      "buckets": [
+        "orange",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#a9a193",
+          "rgb": [
+            169,
+            161,
+            147
+          ],
+          "ratio": 0.3508029513888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#c0b7a7",
+          "rgb": [
+            192,
+            183,
+            167
+          ],
+          "ratio": 0.2912326388888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#8f887d",
+          "rgb": [
+            143,
+            136,
+            125
+          ],
+          "ratio": 0.21592881944444445,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#1a2d48",
+          "rgb": [
+            26,
+            45,
+            72
+          ],
+          "ratio": 0.07291666666666667,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#646360",
+          "rgb": [
+            100,
+            99,
+            96
+          ],
+          "ratio": 0.0691189236111111,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-11-08T03:06:41.278Z",
+      "fileKey": "archive:rko-radio-pictures-1929-1959-logo-drawing",
+      "kind": "photo",
+      "photographer": "Warner Bros. Discovery",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "0007e01e31fff7f020331f7ffffffff2fc01",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "a61516dc-5d5e-4121-93ee-24703bf1049e",
+      "title": "Stereograph, Birds-Eye View from Observatory, George's Hill, Fairmount Park, Statue of Liberty arm faintly visible",
+      "titleEn": "Stereograph, Birds-Eye View from Observatory, George's Hill, Fairmount Park, Statue of Liberty arm faintly visible",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/a61516dc-5d5e-4121-93ee-24703bf1049e.jpg",
+      "thumbUrl": "/stills/a61516dc-5d5e-4121-93ee-24703bf1049e.jpg",
+      "pageUrl": "https://archive.org/details/stereograph_hsvr_20261024qf_liberty",
+      "author": "James Cremer",
+      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "buckets": [
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#c9a359",
+          "rgb": [
+            201,
+            163,
+            89
+          ],
+          "ratio": 0.3491753472222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d6b066",
+          "rgb": [
+            214,
+            176,
+            102
+          ],
+          "ratio": 0.3097873263888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#bc9548",
+          "rgb": [
+            188,
+            149,
+            72
+          ],
+          "ratio": 0.2204861111111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#ac8332",
+          "rgb": [
+            172,
+            131,
+            50
+          ],
+          "ratio": 0.09971788194444445,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#352607",
+          "rgb": [
+            53,
+            38,
+            7
+          ],
+          "ratio": 0.020833333333333332,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-11-08T03:06:42.223Z",
+      "fileKey": "archive:stereograph_hsvr_20261024qf_liberty",
+      "kind": "photo",
+      "photographer": "James Cremer",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "000ffffffffffffebf601f81f93000400000",
+      "category": "photo",
+      "subjects": [
+        "nature",
+        "sculpture"
+      ]
+    },
+    {
+      "id": "2e213d99-a23c-4724-b152-93261292b11c",
+      "title": "Tourtelotte Park Special. Geology Sheet XII. U. S. Geological Survey, Charles D. Walcott, Director. Monograph XXXI. A.H. Thompson, Geographer. Morris Bien, Topographer in charge. Triangulation by Morris Bien. Topography by F.F. Grove. Surveyed in 1891. S.F. Emmons, Geologist in charge. Geology by J.E. Spurr. Assistant, G.W. Tower. Julius Bien & Co. Lith. N.Y. (1898)",
+      "titleEn": "Tourtelotte Park Special. Geology Sheet XII. U. S. Geological Survey, Charles D. Walcott, Director. Monograph XXXI. A.H. Thompson, Geographer. Morris Bien, Topographer in charge. Triangulation by Morris Bien. Topography by F.F. Grove. Surveyed in 1891. S.F. Emmons, Geologist in charge. Geology by J.E. Spurr. Assistant, G.W. Tower. Julius Bien & Co. Lith. N.Y. (1898)",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/2e213d99-a23c-4724-b152-93261292b11c.jpg",
+      "thumbUrl": "/stills/2e213d99-a23c-4724-b152-93261292b11c.jpg",
+      "pageUrl": "https://archive.org/details/dr_tourtelotte-park-special-geology-sheet-xii-u-s-geological-survey-charl-0942009",
+      "author": "Spurr, Josiah Edward",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/dr_tourtelotte-park-special-geology-sheet-xii-u-s-geological-survey-charl-0942009",
+      "buckets": [
+        "gray",
+        "orange",
+        "yellow",
+        "red"
+      ],
+      "palette": [
+        {
+          "hex": "#bb9770",
+          "rgb": [
+            187,
+            151,
+            112
+          ],
+          "ratio": 0.2573784722222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d8ccb0",
+          "rgb": [
+            216,
+            204,
+            176
+          ],
+          "ratio": 0.2437065972222222,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#b46e61",
+          "rgb": [
+            180,
+            110,
+            97
+          ],
+          "ratio": 0.2322048611111111,
+          "bucket": "red"
+        },
+        {
+          "hex": "#919380",
+          "rgb": [
+            145,
+            147,
+            128
+          ],
+          "ratio": 0.14290364583333334,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#6a6c5d",
+          "rgb": [
+            106,
+            108,
+            93
+          ],
+          "ratio": 0.1238064236111111,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-11-08T03:06:43.150Z",
+      "fileKey": "archive:dr_tourtelotte-park-special-geology-sheet-xii-u-s-geological-survey-charl-0942009",
+      "kind": "photo",
+      "photographer": "Spurr, Josiah Edward",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "fffe06c06803806806806c03c07c03c03fff",
+      "category": "photo",
+      "subjects": [
+        "nature"
+      ]
+    },
+    {
+      "id": "af85d100-c17e-42e2-9a5c-164692dc5972",
+      "title": "Geological map of Scotland. Drawn and engraved by John Emslie. London. Published by James Reynolds 174 Strand. (inset) Shetland Isles. (inset views) Strathaired, Skye Fissures left vacant by decomposed trap. (with) Granite Rocks to the south of Hillswick Ness Shetland. (with) Fingal's Cave, Island of Staffa. (with) Rock and Spindle standrews. (with) Remarkable cured Strata of slate new St. Abb's Head. (to accompany) Geological Diagrams.",
+      "titleEn": "Geological map of Scotland. Drawn and engraved by John Emslie. London. Published by James Reynolds 174 Strand. (inset) Shetland Isles. (inset views) Strathaired, Skye Fissures left vacant by decomposed trap. (with) Granite Rocks to the south of Hillswick Ness Shetland. (with) Fingal's Cave, Island of Staffa. (with) Rock and Spindle standrews. (with) Remarkable cured Strata of slate new St. Abb's Head. (to accompany) Geological Diagrams.",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/af85d100-c17e-42e2-9a5c-164692dc5972.jpg",
+      "thumbUrl": "/stills/af85d100-c17e-42e2-9a5c-164692dc5972.jpg",
+      "pageUrl": "https://archive.org/details/dr_geological-map-of-scotland-drawn-and-engraved-by-john-emslie-london-publ-0848013",
+      "author": "Reynolds, James",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/dr_geological-map-of-scotland-drawn-and-engraved-by-john-emslie-london-publ-0848013",
+      "buckets": [
+        "orange",
+        "red"
+      ],
+      "palette": [
+        {
+          "hex": "#f7e9e0",
+          "rgb": [
+            247,
+            233,
+            224
+          ],
+          "ratio": 0.4597439236111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#decbc3",
+          "rgb": [
+            222,
+            203,
+            195
+          ],
+          "ratio": 0.2392578125,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#b9aaa5",
+          "rgb": [
+            185,
+            170,
+            165
+          ],
+          "ratio": 0.15418836805555555,
+          "bucket": "red"
+        },
+        {
+          "hex": "#9a867d",
+          "rgb": [
+            154,
+            134,
+            125
+          ],
+          "ratio": 0.09233940972222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#68564d",
+          "rgb": [
+            104,
+            86,
+            77
+          ],
+          "ratio": 0.05447048611111111,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-11-08T03:06:44.718Z",
+      "fileKey": "archive:dr_geological-map-of-scotland-drawn-and-engraved-by-john-emslie-london-publ-0848013",
+      "kind": "photo",
+      "photographer": "Reynolds, James",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "a37bfffeff9ff07f03f01f04f03f03cc9cf9",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "f2907be8-8a02-4992-9c24-f9b30efa1abd",
+      "title": "The General Proportion of the Doric Order, in Chippendale Drawings, Vol. I",
+      "titleEn": "The General Proportion of the Doric Order, in Chippendale Drawings, Vol. I",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/f2907be8-8a02-4992-9c24-f9b30efa1abd.jpg",
+      "thumbUrl": "/stills/f2907be8-8a02-4992-9c24-f9b30efa1abd.jpg",
+      "pageUrl": "https://archive.org/details/mma_the_general_proportion_of_the_doric_order_in_chippendale_drawings_vol_i_390478",
+      "author": "Thomas Chippendale",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_the_general_proportion_of_the_doric_order_in_chippendale_drawings_vol_i_390478",
+      "buckets": [
+        "yellow",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#ccc6a8",
+          "rgb": [
+            204,
+            198,
+            168
+          ],
+          "ratio": 0.2905815972222222,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#bbb497",
+          "rgb": [
+            187,
+            180,
+            151
+          ],
+          "ratio": 0.22764756944444445,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#dad4b9",
+          "rgb": [
+            218,
+            212,
+            185
+          ],
+          "ratio": 0.2113715277777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#9a947b",
+          "rgb": [
+            154,
+            148,
+            123
+          ],
+          "ratio": 0.1869574652777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#585b63",
+          "rgb": [
+            88,
+            91,
+            99
+          ],
+          "ratio": 0.08344184027777778,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-11-08T03:06:45.661Z",
+      "fileKey": "archive:mma_the_general_proportion_of_the_doric_order_in_chippendale_drawings_vol_i_390478",
+      "kind": "photo",
+      "photographer": "Thomas Chippendale",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "7f87f87f07f07f07f07f07f07f07f07f07f0",
+      "category": "photo",
+      "subjects": [
+        "design"
+      ]
+    },
+    {
+      "id": "da255e4b-2f04-4a3e-9da2-4ac2c4c0b3cf",
+      "title": "Thonet-exhibition 51",
+      "titleEn": "Thonet exhibition 51",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/da255e4b-2f04-4a3e-9da2-4ac2c4c0b3cf.jpg",
+      "thumbUrl": "/stills/da255e4b-2f04-4a3e-9da2-4ac2c4c0b3cf.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Thonet-exhibition_51.JPG",
+      "author": "Dominik Matus",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "buckets": [
+        "gray",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#adadab",
+          "rgb": [
+            173,
+            173,
+            171
+          ],
+          "ratio": 0.3233506944444444,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#90908b",
+          "rgb": [
+            144,
+            144,
+            139
+          ],
+          "ratio": 0.3142361111111111,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#613826",
+          "rgb": [
+            97,
+            56,
+            38
+          ],
+          "ratio": 0.1392144097222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#441f14",
+          "rgb": [
+            68,
+            31,
+            20
+          ],
+          "ratio": 0.11566840277777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#765e52",
+          "rgb": [
+            118,
+            94,
+            82
+          ],
+          "ratio": 0.10753038194444445,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-11-08T03:11:05.681Z",
+      "fileKey": "File:Thonet-exhibition 51.JPG",
+      "kind": "photo",
+      "photographer": "Dominik Matus",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "2007a37977b3707a07803d83c37de7ff7ff7"
     }
   ],
-  "lastIngestDate": "2026-11-07",
+  "lastIngestDate": "2026-11-08",
   "seenFileKeys": [
     "stills:04b85cc4-5a5c-4d95-9d52-460ceefa3ee5.jpg",
     "stills:0509b1d5-b5da-4b3c-8e65-edda97b86985.jpg",
@@ -392695,7 +393338,20 @@
     "archive:LMG00063",
     "archive:arkivkopia.se-digmus-nm-NMA.0070031",
     "File:Hieronymus Bosch, Garden of Earthly Delights tryptich, centre panel - detail 3.JPG",
-    "File:The Garden of Earthly Delights (lower right fragment).jpg"
+    "File:The Garden of Earthly Delights (lower right fragment).jpg",
+    "archive:mma_dress_103543",
+    "archive:clevelandart-2013.92-portrait-of-william",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1973-06-12",
+    "archive:rko-radio-pictures-1929-1959-logo-drawing",
+    "archive:stereograph_hsvr_20261024qf_liberty",
+    "archive:dr_tourtelotte-park-special-geology-sheet-xii-u-s-geological-survey-charl-0942009",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1918-09-20",
+    "archive:dr_geological-map-of-scotland-drawn-and-engraved-by-john-emslie-london-publ-0848013",
+    "archive:mma_the_general_proportion_of_the_doric_order_in_chippendale_drawings_vol_i_390478",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1989-03-18",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1944-09-27",
+    "File:Aerial landscape (AM 82286-1).jpg",
+    "File:Thonet-exhibition 51.JPG"
   ],
   "seenContentHashes": [
     "ff8f20c0481cf3cffcf7ce58ffcffcffcd7e",
@@ -397270,6 +397926,14 @@
     "ffffff5ff3ff2ff0820b209f11201001001f",
     "000603de2de2de2cf20021106fffffe5f27b",
     "7f87f800c08468d7c7be5ffb7f63ee000a00",
-    "0000010610e04e06ebeebef3ff77fa3ba1fe"
+    "0000010610e04e06ebeebef3ff77fa3ba1fe",
+    "fff000000fd0f80f20fa4f04e0ce0ef1ef9f",
+    "cd3ce98c59c01e40e606606002087f81dc01",
+    "0007e01e31fff7f020331f7ffffffff2fc01",
+    "000ffffffffffffebf601f81f93000400000",
+    "fffe06c06803806806806c03c07c03c03fff",
+    "a37bfffeff9ff07f03f01f04f03f03cc9cf9",
+    "7f87f87f07f07f07f07f07f07f07f07f07f0",
+    "2007a37977b3707a07803d83c37de7ff7ff7"
   ]
 }
