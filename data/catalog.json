@@ -385860,10 +385860,171 @@
       "kind": "photo",
       "photographer": "Dominik Matus",
       "sourceLabel": "维基共享资源",
-      "contentHash": "2007a37977b3707a07803d83c37de7ff7ff7"
+      "contentHash": "2007a37977b3707a07803d83c37de7ff7ff7",
+      "category": "photo",
+      "subjects": [
+        "design"
+      ]
+    },
+    {
+      "id": "3787ba21-91cf-49c6-822a-a353fc179114",
+      "title": "Design for a Fresco of the Tomb of Vincenzo Martinelli (1737-1807) in the Certosa of Bologna",
+      "titleEn": "Design for a Fresco of the Tomb of Vincenzo Martinelli (1737-1807) in the Certosa of Bologna",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/3787ba21-91cf-49c6-822a-a353fc179114.jpg",
+      "thumbUrl": "/stills/3787ba21-91cf-49c6-822a-a353fc179114.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-2013.10-design-for-a-fresco",
+      "author": "Pietro Fancelli (Italian, 1764–1850)",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "gray",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#666654",
+          "rgb": [
+            102,
+            102,
+            84
+          ],
+          "ratio": 0.3158637152777778,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#434238",
+          "rgb": [
+            67,
+            66,
+            56
+          ],
+          "ratio": 0.2875434027777778,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#8c8872",
+          "rgb": [
+            140,
+            136,
+            114
+          ],
+          "ratio": 0.1664496527777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#a9a790",
+          "rgb": [
+            169,
+            167,
+            144
+          ],
+          "ratio": 0.16080729166666666,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#cacbbe",
+          "rgb": [
+            202,
+            203,
+            190
+          ],
+          "ratio": 0.0693359375,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-11-09T03:32:31.345Z",
+      "fileKey": "archive:clevelandart-2013.10-design-for-a-fresco",
+      "kind": "photo",
+      "photographer": "Pietro Fancelli (Italian, 1764–1850)",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "ef9ff5bd3be3be39e99e1bf1f00800800800",
+      "category": "painting",
+      "subjects": [
+        "ancient"
+      ]
+    },
+    {
+      "id": "924bda22-506a-47ad-b793-bba0cf5ecb0f",
+      "title": "Cappella degli Scrovegni Padova 69",
+      "titleEn": "Cappella degli Scrovegni Padova 69",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/924bda22-506a-47ad-b793-bba0cf5ecb0f.jpg",
+      "thumbUrl": "/stills/924bda22-506a-47ad-b793-bba0cf5ecb0f.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Cappella_degli_Scrovegni_Padova_69.jpg",
+      "author": "FrDr",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "buckets": [
+        "orange",
+        "brown",
+        "blue"
+      ],
+      "palette": [
+        {
+          "hex": "#8d7b6b",
+          "rgb": [
+            141,
+            123,
+            107
+          ],
+          "ratio": 0.2892795138888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#ac9787",
+          "rgb": [
+            172,
+            151,
+            135
+          ],
+          "ratio": 0.2195095486111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#725d4c",
+          "rgb": [
+            114,
+            93,
+            76
+          ],
+          "ratio": 0.20106336805555555,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#ccb7a8",
+          "rgb": [
+            204,
+            183,
+            168
+          ],
+          "ratio": 0.14561631944444445,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#313b4c",
+          "rgb": [
+            49,
+            59,
+            76
+          ],
+          "ratio": 0.14453125,
+          "bucket": "blue"
+        }
+      ],
+      "addedAt": "2026-11-09T03:37:06.912Z",
+      "fileKey": "File:Cappella degli Scrovegni Padova 69.jpg",
+      "kind": "film",
+      "photographer": "FrDr",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "00000000004c04c04e8ffbfffffeffffffff"
     }
   ],
-  "lastIngestDate": "2026-11-08",
+  "lastIngestDate": "2026-11-09",
   "seenFileKeys": [
     "stills:04b85cc4-5a5c-4d95-9d52-460ceefa3ee5.jpg",
     "stills:0509b1d5-b5da-4b3c-8e65-edda97b86985.jpg",
@@ -393351,7 +393512,11 @@
     "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1989-03-18",
     "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1944-09-27",
     "File:Aerial landscape (AM 82286-1).jpg",
-    "File:Thonet-exhibition 51.JPG"
+    "File:Thonet-exhibition 51.JPG",
+    "archive:clevelandart-2013.10-design-for-a-fresco",
+    "File:Fresco from Pompeii - Terentius Neo and his wife 6.jpg",
+    "File:Guide to Life, No. 15, April 27, 1844 (IA guidetolifeno15a15walk).pdf",
+    "File:Cappella degli Scrovegni Padova 69.jpg"
   ],
   "seenContentHashes": [
     "ff8f20c0481cf3cffcf7ce58ffcffcffcd7e",
@@ -397934,6 +398099,8 @@
     "fffe06c06803806806806c03c07c03c03fff",
     "a37bfffeff9ff07f03f01f04f03f03cc9cf9",
     "7f87f87f07f07f07f07f07f07f07f07f07f0",
-    "2007a37977b3707a07803d83c37de7ff7ff7"
+    "2007a37977b3707a07803d83c37de7ff7ff7",
+    "ef9ff5bd3be3be39e99e1bf1f00800800800",
+    "00000000004c04c04e8ffbfffffeffffffff"
   ]
 }
