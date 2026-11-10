@@ -386021,10 +386021,897 @@
       "kind": "film",
       "photographer": "FrDr",
       "sourceLabel": "维基共享资源",
-      "contentHash": "00000000004c04c04e8ffbfffffeffffffff"
+      "contentHash": "00000000004c04c04e8ffbfffffeffffffff",
+      "category": "film",
+      "subjects": [
+        "people"
+      ]
+    },
+    {
+      "id": "9e435399-d618-419c-b72b-ad35af8d5923",
+      "title": "Cartoon for embroidery of a panel of a chasuble, decorated with floral, bud and animal designs",
+      "titleEn": "Cartoon for embroidery of a panel of a chasuble, decorated with floral, bud and animal designs",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/9e435399-d618-419c-b72b-ad35af8d5923.jpg",
+      "thumbUrl": "/stills/9e435399-d618-419c-b72b-ad35af8d5923.jpg",
+      "pageUrl": "https://archive.org/details/mma_cartoon_for_embroidery_of_a_panel_of_a_chasuble_decorated_with_floral_bud__350848",
+      "author": "Anonymous, Italian, 17th century",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_cartoon_for_embroidery_of_a_panel_of_a_chasuble_decorated_with_floral_bud__350848",
+      "buckets": [
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#c7ae93",
+          "rgb": [
+            199,
+            174,
+            147
+          ],
+          "ratio": 0.2982855902777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#feecd0",
+          "rgb": [
+            254,
+            236,
+            208
+          ],
+          "ratio": 0.2973090277777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d9c1a4",
+          "rgb": [
+            217,
+            193,
+            164
+          ],
+          "ratio": 0.22178819444444445,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#af967b",
+          "rgb": [
+            175,
+            150,
+            123
+          ],
+          "ratio": 0.16395399305555555,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#efd9bc",
+          "rgb": [
+            239,
+            217,
+            188
+          ],
+          "ratio": 0.018663194444444444,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-11-10T05:06:52.266Z",
+      "fileKey": "archive:mma_cartoon_for_embroidery_of_a_panel_of_a_chasuble_decorated_with_floral_bud__350848",
+      "kind": "photo",
+      "photographer": "Anonymous, Italian, 17th century",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "e00e00e00f00e00f01f01f01f01f01f01f01",
+      "category": "photo",
+      "subjects": [
+        "design",
+        "pattern"
+      ]
+    },
+    {
+      "id": "c9f9719c-7f66-430b-97bf-2b7e1518d78e",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/c9f9719c-7f66-430b-97bf-2b7e1518d78e.jpg",
+      "thumbUrl": "/stills/c9f9719c-7f66-430b-97bf-2b7e1518d78e.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_102254",
+      "author": "Mme. Martin Decalf",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_102254",
+      "buckets": [
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#9a8151",
+          "rgb": [
+            154,
+            129,
+            81
+          ],
+          "ratio": 0.2802734375,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#ac9365",
+          "rgb": [
+            172,
+            147,
+            101
+          ],
+          "ratio": 0.2240668402777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#826934",
+          "rgb": [
+            130,
+            105,
+            52
+          ],
+          "ratio": 0.22005208333333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#bea67a",
+          "rgb": [
+            190,
+            166,
+            122
+          ],
+          "ratio": 0.1401909722222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#5e4719",
+          "rgb": [
+            94,
+            71,
+            25
+          ],
+          "ratio": 0.13541666666666666,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-11-10T05:06:54.133Z",
+      "fileKey": "archive:mma_dress_102254",
+      "kind": "photo",
+      "photographer": "Mme. Martin Decalf",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "983801eebffffff018018dff453c6bc47002",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "dc2a228b-ad50-4388-846a-8cff240cfa04",
+      "title": "Length of Brocaded Textile",
+      "titleEn": "Length of Brocaded Textile",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/dc2a228b-ad50-4388-846a-8cff240cfa04.jpg",
+      "thumbUrl": "/stills/dc2a228b-ad50-4388-846a-8cff240cfa04.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1921.136-length-of-brocaded-t",
+      "author": "Internet Archive",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "yellow",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#d8cfb9",
+          "rgb": [
+            216,
+            207,
+            185
+          ],
+          "ratio": 0.2849392361111111,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#b0a185",
+          "rgb": [
+            176,
+            161,
+            133
+          ],
+          "ratio": 0.23079427083333334,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#bcaf94",
+          "rgb": [
+            188,
+            175,
+            148
+          ],
+          "ratio": 0.2195095486111111,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#c7c1ad",
+          "rgb": [
+            199,
+            193,
+            173
+          ],
+          "ratio": 0.2095269097222222,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#97876e",
+          "rgb": [
+            151,
+            135,
+            110
+          ],
+          "ratio": 0.055230034722222224,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-11-10T05:06:56.177Z",
+      "fileKey": "archive:clevelandart-1921.136-length-of-brocaded-t",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "c938919b99e9667861929893c9389196906b",
+      "category": "photo",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "a02e7c0f-d8e5-4567-9a9d-3169d9508a3f",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/a02e7c0f-d8e5-4567-9a9d-3169d9508a3f.jpg",
+      "thumbUrl": "/stills/a02e7c0f-d8e5-4567-9a9d-3169d9508a3f.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_82321",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_82321",
+      "buckets": [
+        "gray",
+        "orange",
+        "white"
+      ],
+      "palette": [
+        {
+          "hex": "#a5a99d",
+          "rgb": [
+            165,
+            169,
+            157
+          ],
+          "ratio": 0.3585069444444444,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#7f8589",
+          "rgb": [
+            127,
+            133,
+            137
+          ],
+          "ratio": 0.2952473958333333,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#a69069",
+          "rgb": [
+            166,
+            144,
+            105
+          ],
+          "ratio": 0.18934461805555555,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#ebebe9",
+          "rgb": [
+            235,
+            235,
+            233
+          ],
+          "ratio": 0.09407552083333333,
+          "bucket": "white"
+        },
+        {
+          "hex": "#5c554d",
+          "rgb": [
+            92,
+            85,
+            77
+          ],
+          "ratio": 0.06282552083333333,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-11-10T05:06:57.170Z",
+      "fileKey": "archive:mma_dress_82321",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "7ff2f122396112101101101305301b81b83b",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "62af080b-e7e5-4763-96f2-7e4bf8c0809c",
+      "title": "Ball gown",
+      "titleEn": "Ball gown",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/62af080b-e7e5-4763-96f2-7e4bf8c0809c.jpg",
+      "thumbUrl": "/stills/62af080b-e7e5-4763-96f2-7e4bf8c0809c.jpg",
+      "pageUrl": "https://archive.org/details/mma_ball_gown_107625",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_ball_gown_107625",
+      "buckets": [
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#d0ac97",
+          "rgb": [
+            208,
+            172,
+            151
+          ],
+          "ratio": 0.3071831597222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#cda28f",
+          "rgb": [
+            205,
+            162,
+            143
+          ],
+          "ratio": 0.2837456597222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#c89987",
+          "rgb": [
+            200,
+            153,
+            135
+          ],
+          "ratio": 0.1802300347222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d3b9a4",
+          "rgb": [
+            211,
+            185,
+            164
+          ],
+          "ratio": 0.16590711805555555,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#c18e7d",
+          "rgb": [
+            193,
+            142,
+            125
+          ],
+          "ratio": 0.06293402777777778,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-11-10T05:06:58.207Z",
+      "fileKey": "archive:mma_ball_gown_107625",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "0003ff7ff37e07e7fffff37e028000000000",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "dbd9bfd1-7e00-4bcc-ae34-188e9e072959",
+      "title": "Woman's Costume (Head Square)",
+      "titleEn": "Woman's Costume (Head Square)",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/dbd9bfd1-7e00-4bcc-ae34-188e9e072959.jpg",
+      "thumbUrl": "/stills/dbd9bfd1-7e00-4bcc-ae34-188e9e072959.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1931.445.c-woman-s-costume-head",
+      "author": "Internet Archive",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "blue",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#4a7ea4",
+          "rgb": [
+            74,
+            126,
+            164
+          ],
+          "ratio": 0.3196614583333333,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#969894",
+          "rgb": [
+            150,
+            152,
+            148
+          ],
+          "ratio": 0.20811631944444445,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#4a7a9b",
+          "rgb": [
+            74,
+            122,
+            155
+          ],
+          "ratio": 0.17567274305555555,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#5185a9",
+          "rgb": [
+            81,
+            133,
+            169
+          ],
+          "ratio": 0.15928819444444445,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#6d8080",
+          "rgb": [
+            109,
+            128,
+            128
+          ],
+          "ratio": 0.1372612847222222,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-11-10T05:06:59.128Z",
+      "fileKey": "archive:clevelandart-1931.445.c-woman-s-costume-head",
+      "kind": "photo",
+      "photographer": "Woman",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "ffff1f0010f00000000000000000000e8fff",
+      "category": "photo",
+      "subjects": [
+        "people",
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "862090dd-68b0-47c0-babc-2cd0bfadb3cf",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/862090dd-68b0-47c0-babc-2cd0bfadb3cf.jpg",
+      "thumbUrl": "/stills/862090dd-68b0-47c0-babc-2cd0bfadb3cf.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_108055",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_108055",
+      "buckets": [
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#dcca9e",
+          "rgb": [
+            220,
+            202,
+            158
+          ],
+          "ratio": 0.3322482638888889,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#d7c292",
+          "rgb": [
+            215,
+            194,
+            146
+          ],
+          "ratio": 0.2737630208333333,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#e2d2a8",
+          "rgb": [
+            226,
+            210,
+            168
+          ],
+          "ratio": 0.2570529513888889,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#cdb47f",
+          "rgb": [
+            205,
+            180,
+            127
+          ],
+          "ratio": 0.0847439236111111,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#eee0bf",
+          "rgb": [
+            238,
+            224,
+            191
+          ],
+          "ratio": 0.052191840277777776,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-11-10T05:07:00.076Z",
+      "fileKey": "archive:mma_dress_108055",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "0000603e03e43e47fc7ff5ff3ff0fc0fc07e",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "b2de7020-dd72-484d-b4a2-c2baf0acf2f5",
+      "title": "Sconce, in Chippendale Drawings, Vol. I",
+      "titleEn": "Sconce, in Chippendale Drawings, Vol. I",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/b2de7020-dd72-484d-b4a2-c2baf0acf2f5.jpg",
+      "thumbUrl": "/stills/b2de7020-dd72-484d-b4a2-c2baf0acf2f5.jpg",
+      "pageUrl": "https://archive.org/details/mma_sconce_in_chippendale_drawings_vol_i_390551",
+      "author": "Thomas Chippendale",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_sconce_in_chippendale_drawings_vol_i_390551",
+      "buckets": [
+        "yellow",
+        "gray",
+        "blue"
+      ],
+      "palette": [
+        {
+          "hex": "#ded6c3",
+          "rgb": [
+            222,
+            214,
+            195
+          ],
+          "ratio": 0.4780815972222222,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#d2ccb9",
+          "rgb": [
+            210,
+            204,
+            185
+          ],
+          "ratio": 0.19173177083333334,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#b8b3a4",
+          "rgb": [
+            184,
+            179,
+            164
+          ],
+          "ratio": 0.1312934027777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#9a9588",
+          "rgb": [
+            154,
+            149,
+            136
+          ],
+          "ratio": 0.111328125,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#4a5371",
+          "rgb": [
+            74,
+            83,
+            113
+          ],
+          "ratio": 0.08756510416666667,
+          "bucket": "blue"
+        }
+      ],
+      "addedAt": "2026-11-10T05:07:23.567Z",
+      "fileKey": "archive:mma_sconce_in_chippendale_drawings_vol_i_390551",
+      "kind": "photo",
+      "photographer": "Thomas Chippendale",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "79e79e78e70666676672e64660260671e7de",
+      "category": "photo",
+      "subjects": [
+        "design"
+      ]
+    },
+    {
+      "id": "f727e75f-cfba-49d0-a93e-e380586d53d7",
+      "title": "Departure Boats, étretat (1885) Claude",
+      "titleEn": "Departure Boats, étretat (1885) Claude",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/f727e75f-cfba-49d0-a93e-e380586d53d7.jpg",
+      "thumbUrl": "/stills/f727e75f-cfba-49d0-a93e-e380586d53d7.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/547264/monet-boats-painting",
+      "author": "artinstitutechicago",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "gray",
+        "cyan"
+      ],
+      "palette": [
+        {
+          "hex": "#4bafa3",
+          "rgb": [
+            75,
+            175,
+            163
+          ],
+          "ratio": 0.2414279513888889,
+          "bucket": "cyan"
+        },
+        {
+          "hex": "#afaeac",
+          "rgb": [
+            175,
+            174,
+            172
+          ],
+          "ratio": 0.2398003472222222,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#817774",
+          "rgb": [
+            129,
+            119,
+            116
+          ],
+          "ratio": 0.1898871527777778,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#3e383d",
+          "rgb": [
+            62,
+            56,
+            61
+          ],
+          "ratio": 0.18858506944444445,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#49626b",
+          "rgb": [
+            73,
+            98,
+            107
+          ],
+          "ratio": 0.14029947916666666,
+          "bucket": "cyan"
+        }
+      ],
+      "addedAt": "2026-11-10T05:07:25.350Z",
+      "fileKey": "openverse:74768735-4443-4502-bd3e-07093c473532",
+      "kind": "photo",
+      "photographer": "artinstitutechicago",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "ffffff7ef7ef7ff443e21801802402602603",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "2d106b07-3ea5-44dc-956b-ed83cd6db705",
+      "title": "Portrait of a Musician",
+      "titleEn": "Portrait of a Musician",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/2d106b07-3ea5-44dc-956b-ed83cd6db705.jpg",
+      "thumbUrl": "/stills/2d106b07-3ea5-44dc-956b-ed83cd6db705.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-2011.46-portrait-of-a-musici",
+      "author": "Andrea Appiani (Italian, 1754–1817)",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "orange",
+        "black"
+      ],
+      "palette": [
+        {
+          "hex": "#514630",
+          "rgb": [
+            81,
+            70,
+            48
+          ],
+          "ratio": 0.3182508680555556,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#211f1b",
+          "rgb": [
+            33,
+            31,
+            27
+          ],
+          "ratio": 0.22102864583333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#caa96c",
+          "rgb": [
+            202,
+            169,
+            108
+          ],
+          "ratio": 0.20182291666666666,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#977846",
+          "rgb": [
+            151,
+            120,
+            70
+          ],
+          "ratio": 0.16764322916666666,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#050402",
+          "rgb": [
+            5,
+            4,
+            2
+          ],
+          "ratio": 0.09125434027777778,
+          "bucket": "black"
+        }
+      ],
+      "addedAt": "2026-11-10T05:07:27.668Z",
+      "fileKey": "archive:clevelandart-2011.46-portrait-of-a-musici",
+      "kind": "photo",
+      "photographer": "Andrea Appiani (Italian, 1754–1817)",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "4034034034634734234034034034074067ff",
+      "category": "photo",
+      "people": "one",
+      "subjects": [
+        "portrait"
+      ]
+    },
+    {
+      "id": "a751a002-27a5-44c5-9585-f5c29415e6dc",
+      "title": "Alicia Vikander Met Gala 2016",
+      "titleEn": "Alicia Vikander Met Gala 2016",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/a751a002-27a5-44c5-9585-f5c29415e6dc.jpg",
+      "thumbUrl": "/stills/a751a002-27a5-44c5-9585-f5c29415e6dc.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Alicia_Vikander_Met_Gala_2016.jpg",
+      "author": "Danilo Lauria",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "buckets": [
+        "orange",
+        "red",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#b36d4e",
+          "rgb": [
+            179,
+            109,
+            78
+          ],
+          "ratio": 0.3165147569444444,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#724a39",
+          "rgb": [
+            114,
+            74,
+            57
+          ],
+          "ratio": 0.2922092013888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#c6251e",
+          "rgb": [
+            198,
+            37,
+            30
+          ],
+          "ratio": 0.2109375,
+          "bucket": "red"
+        },
+        {
+          "hex": "#231110",
+          "rgb": [
+            35,
+            17,
+            16
+          ],
+          "ratio": 0.13541666666666666,
+          "bucket": "red"
+        },
+        {
+          "hex": "#ebc39f",
+          "rgb": [
+            235,
+            195,
+            159
+          ],
+          "ratio": 0.044921875,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-11-10T05:11:08.232Z",
+      "fileKey": "File:Alicia Vikander Met Gala 2016.jpg",
+      "kind": "film",
+      "photographer": "Danilo Lauria",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "e60ef0ce0c20c60ef07fc7fc4fa6fa6fa4fa"
     }
   ],
-  "lastIngestDate": "2026-11-09",
+  "lastIngestDate": "2026-11-10",
   "seenFileKeys": [
     "stills:04b85cc4-5a5c-4d95-9d52-460ceefa3ee5.jpg",
     "stills:0509b1d5-b5da-4b3c-8e65-edda97b86985.jpg",
@@ -393516,7 +394403,22 @@
     "archive:clevelandart-2013.10-design-for-a-fresco",
     "File:Fresco from Pompeii - Terentius Neo and his wife 6.jpg",
     "File:Guide to Life, No. 15, April 27, 1844 (IA guidetolifeno15a15walk).pdf",
-    "File:Cappella degli Scrovegni Padova 69.jpg"
+    "File:Cappella degli Scrovegni Padova 69.jpg",
+    "archive:mma_cartoon_for_embroidery_of_a_panel_of_a_chasuble_decorated_with_floral_bud__350848",
+    "archive:mma_textile_173357",
+    "archive:mma_dress_102254",
+    "archive:mma_dress_103541",
+    "archive:clevelandart-1921.136-length-of-brocaded-t",
+    "archive:mma_dress_82321",
+    "archive:mma_ball_gown_107625",
+    "archive:clevelandart-1931.445.c-woman-s-costume-head",
+    "archive:mma_dress_108055",
+    "archive:dr_8-me-arrondissement--quartier-du-marais-no-29-a-2-sous-la-feuille-colo-13046034",
+    "archive:mma_sconce_in_chippendale_drawings_vol_i_390551",
+    "openverse:74768735-4443-4502-bd3e-07093c473532",
+    "archive:clevelandart-1967.19-landscape-with-a-win",
+    "archive:clevelandart-2011.46-portrait-of-a-musici",
+    "File:Alicia Vikander Met Gala 2016.jpg"
   ],
   "seenContentHashes": [
     "ff8f20c0481cf3cffcf7ce58ffcffcffcd7e",
@@ -398101,6 +399003,17 @@
     "7f87f87f07f07f07f07f07f07f07f07f07f0",
     "2007a37977b3707a07803d83c37de7ff7ff7",
     "ef9ff5bd3be3be39e99e1bf1f00800800800",
-    "00000000004c04c04e8ffbfffffeffffffff"
+    "00000000004c04c04e8ffbfffffeffffffff",
+    "e00e00e00f00e00f01f01f01f01f01f01f01",
+    "983801eebffffff018018dff453c6bc47002",
+    "c938919b99e9667861929893c9389196906b",
+    "7ff2f122396112101101101305301b81b83b",
+    "0003ff7ff37e07e7fffff37e028000000000",
+    "ffff1f0010f00000000000000000000e8fff",
+    "0000603e03e43e47fc7ff5ff3ff0fc0fc07e",
+    "79e79e78e70666676672e64660260671e7de",
+    "ffffff7ef7ef7ff443e21801802402602603",
+    "4034034034634734234034034034074067ff",
+    "e60ef0ce0c20c60ef07fc7fc4fa6fa6fa4fa"
   ]
 }
