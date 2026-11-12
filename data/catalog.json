@@ -386908,10 +386908,90 @@
       "kind": "film",
       "photographer": "Danilo Lauria",
       "sourceLabel": "维基共享资源",
-      "contentHash": "e60ef0ce0c20c60ef07fc7fc4fa6fa6fa4fa"
+      "contentHash": "e60ef0ce0c20c60ef07fc7fc4fa6fa6fa4fa",
+      "category": "film",
+      "subjects": [
+        "people"
+      ]
+    },
+    {
+      "id": "70fedde6-1c93-41d4-b36e-fbf324ad775f",
+      "title": "Landscape near Painesville",
+      "titleEn": "Landscape near Painesville",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/70fedde6-1c93-41d4-b36e-fbf324ad775f.jpg",
+      "thumbUrl": "/stills/70fedde6-1c93-41d4-b36e-fbf324ad775f.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1918.570-landscape-near-paine",
+      "author": "Allen Smith, Jr. (American, 1810–1891)",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "green",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#313928",
+          "rgb": [
+            49,
+            57,
+            40
+          ],
+          "ratio": 0.2513020833333333,
+          "bucket": "green"
+        },
+        {
+          "hex": "#505842",
+          "rgb": [
+            80,
+            88,
+            66
+          ],
+          "ratio": 0.2505425347222222,
+          "bucket": "green"
+        },
+        {
+          "hex": "#95a6a1",
+          "rgb": [
+            149,
+            166,
+            161
+          ],
+          "ratio": 0.22862413194444445,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#adbaaf",
+          "rgb": [
+            173,
+            186,
+            175
+          ],
+          "ratio": 0.1726345486111111,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#707760",
+          "rgb": [
+            112,
+            119,
+            96
+          ],
+          "ratio": 0.0968967013888889,
+          "bucket": "green"
+        }
+      ],
+      "addedAt": "2026-11-12T05:03:59.592Z",
+      "fileKey": "archive:clevelandart-1918.570-landscape-near-paine",
+      "kind": "photo",
+      "photographer": "Allen Smith, Jr. (American, 1810–1891)",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "fff7ff1ff1ff0ff07f000000002000000000"
     }
   ],
-  "lastIngestDate": "2026-11-10",
+  "lastIngestDate": "2026-11-12",
   "seenFileKeys": [
     "stills:04b85cc4-5a5c-4d95-9d52-460ceefa3ee5.jpg",
     "stills:0509b1d5-b5da-4b3c-8e65-edda97b86985.jpg",
@@ -394418,7 +394498,10 @@
     "openverse:74768735-4443-4502-bd3e-07093c473532",
     "archive:clevelandart-1967.19-landscape-with-a-win",
     "archive:clevelandart-2011.46-portrait-of-a-musici",
-    "File:Alicia Vikander Met Gala 2016.jpg"
+    "File:Alicia Vikander Met Gala 2016.jpg",
+    "archive:C1403CN132",
+    "archive:C1403CN016",
+    "archive:clevelandart-1918.570-landscape-near-paine"
   ],
   "seenContentHashes": [
     "ff8f20c0481cf3cffcf7ce58ffcffcffcd7e",
@@ -399014,6 +399097,7 @@
     "79e79e78e70666676672e64660260671e7de",
     "ffffff7ef7ef7ff443e21801802402602603",
     "4034034034634734234034034034074067ff",
-    "e60ef0ce0c20c60ef07fc7fc4fa6fa6fa4fa"
+    "e60ef0ce0c20c60ef07fc7fc4fa6fa6fa4fa",
+    "fff7ff1ff1ff0ff07f000000002000000000"
   ]
 }
