@@ -386988,10 +386988,493 @@
       "kind": "photo",
       "photographer": "Allen Smith, Jr. (American, 1810–1891)",
       "sourceLabel": "互联网档案馆",
-      "contentHash": "fff7ff1ff1ff0ff07f000000002000000000"
+      "contentHash": "fff7ff1ff1ff0ff07f000000002000000000",
+      "category": "photo",
+      "people": "none",
+      "subjects": [
+        "landscape"
+      ]
+    },
+    {
+      "id": "2f938644-108f-4dc4-9da3-e5c5c93551f2",
+      "title": "Study of a Girl in Japanese Dress",
+      "titleEn": "Study of a Girl in Japanese Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/2f938644-108f-4dc4-9da3-e5c5c93551f2.jpg",
+      "thumbUrl": "/stills/2f938644-108f-4dc4-9da3-e5c5c93551f2.jpg",
+      "pageUrl": "https://archive.org/details/brooklynmuseum-o64835-study-of-a-girl-in-japanese-dress",
+      "author": "William Merritt Chase",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/brooklynmuseum-o64835-study-of-a-girl-in-japanese-dress",
+      "buckets": [
+        "red"
+      ],
+      "palette": [
+        {
+          "hex": "#3d1713",
+          "rgb": [
+            61,
+            23,
+            19
+          ],
+          "ratio": 0.4164496527777778,
+          "bucket": "red"
+        },
+        {
+          "hex": "#9d2211",
+          "rgb": [
+            157,
+            34,
+            17
+          ],
+          "ratio": 0.2741970486111111,
+          "bucket": "red"
+        },
+        {
+          "hex": "#561e14",
+          "rgb": [
+            86,
+            30,
+            20
+          ],
+          "ratio": 0.20030381944444445,
+          "bucket": "red"
+        },
+        {
+          "hex": "#18110b",
+          "rgb": [
+            24,
+            17,
+            11
+          ],
+          "ratio": 0.07215711805555555,
+          "bucket": "black"
+        },
+        {
+          "hex": "#cb9068",
+          "rgb": [
+            203,
+            144,
+            104
+          ],
+          "ratio": 0.03689236111111111,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-11-13T04:06:24.537Z",
+      "fileKey": "archive:brooklynmuseum-o64835-study-of-a-girl-in-japanese-dress",
+      "kind": "photo",
+      "photographer": "William Merritt Chase",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "00006006006002007807c0fc0fc0fc0fc5ff",
+      "category": "photo",
+      "subjects": [
+        "people",
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "f301abb4-a26f-4d91-afa3-cd99be99434b",
+      "title": "Armchair",
+      "titleEn": "Armchair",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/f301abb4-a26f-4d91-afa3-cd99be99434b.jpg",
+      "thumbUrl": "/stills/f301abb4-a26f-4d91-afa3-cd99be99434b.jpg",
+      "pageUrl": "https://archive.org/details/mma_armchair_203715",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_armchair_203715",
+      "buckets": [
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#2d2319",
+          "rgb": [
+            45,
+            35,
+            25
+          ],
+          "ratio": 0.2899305555555556,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#762f17",
+          "rgb": [
+            118,
+            47,
+            23
+          ],
+          "ratio": 0.2062717013888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#4f4233",
+          "rgb": [
+            79,
+            66,
+            51
+          ],
+          "ratio": 0.19249131944444445,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#89735a",
+          "rgb": [
+            137,
+            115,
+            90
+          ],
+          "ratio": 0.15787760416666666,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#b9ac96",
+          "rgb": [
+            185,
+            172,
+            150
+          ],
+          "ratio": 0.15342881944444445,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-11-13T04:06:26.115Z",
+      "fileKey": "archive:mma_armchair_203715",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "672270070070020002801c01c73ef3ff7fff",
+      "category": "photo",
+      "subjects": [
+        "design"
+      ]
+    },
+    {
+      "id": "4d759ff0-ce66-4345-b4e8-01223085ca09",
+      "title": "Commode Clothes Press, from Chippendale Drawings, Vol. II",
+      "titleEn": "Commode Clothes Press, from Chippendale Drawings, Vol. II",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/4d759ff0-ce66-4345-b4e8-01223085ca09.jpg",
+      "thumbUrl": "/stills/4d759ff0-ce66-4345-b4e8-01223085ca09.jpg",
+      "pageUrl": "https://archive.org/details/mma_commode_clothes_press_from_chippendale_drawings_vol_ii_390642",
+      "author": "Thomas Chippendale",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_commode_clothes_press_from_chippendale_drawings_vol_ii_390642",
+      "buckets": [
+        "yellow",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#d9d2b8",
+          "rgb": [
+            217,
+            210,
+            184
+          ],
+          "ratio": 0.3705512152777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#d0c9ae",
+          "rgb": [
+            208,
+            201,
+            174
+          ],
+          "ratio": 0.3382161458333333,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#b9b39b",
+          "rgb": [
+            185,
+            179,
+            155
+          ],
+          "ratio": 0.13509114583333334,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#928e7c",
+          "rgb": [
+            146,
+            142,
+            124
+          ],
+          "ratio": 0.1103515625,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#3b4962",
+          "rgb": [
+            59,
+            73,
+            98
+          ],
+          "ratio": 0.04578993055555555,
+          "bucket": "blue"
+        }
+      ],
+      "addedAt": "2026-11-13T04:06:53.441Z",
+      "fileKey": "archive:mma_commode_clothes_press_from_chippendale_drawings_vol_ii_390642",
+      "kind": "photo",
+      "photographer": "Thomas Chippendale",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "000ff7fe0fc0fc57e77e6fc1fc0fc3fc13df",
+      "category": "photo",
+      "subjects": [
+        "design"
+      ]
+    },
+    {
+      "id": "b536e0b2-f269-486f-957f-4c42f68b5720",
+      "title": "Cornices for Beds or Windows, in Chippendale Drawings, Vol. I",
+      "titleEn": "Cornices for Beds or Windows, in Chippendale Drawings, Vol. I",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/b536e0b2-f269-486f-957f-4c42f68b5720.jpg",
+      "thumbUrl": "/stills/b536e0b2-f269-486f-957f-4c42f68b5720.jpg",
+      "pageUrl": "https://archive.org/details/mma_cornices_for_beds_or_windows_in_chippendale_drawings_vol_i_390519",
+      "author": "Thomas Chippendale",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_cornices_for_beds_or_windows_in_chippendale_drawings_vol_i_390519",
+      "buckets": [
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#dbcfb4",
+          "rgb": [
+            219,
+            207,
+            180
+          ],
+          "ratio": 0.5563151041666666,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#cdc3a9",
+          "rgb": [
+            205,
+            195,
+            169
+          ],
+          "ratio": 0.18055555555555555,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#b1a994",
+          "rgb": [
+            177,
+            169,
+            148
+          ],
+          "ratio": 0.11848958333333333,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#918a77",
+          "rgb": [
+            145,
+            138,
+            119
+          ],
+          "ratio": 0.07291666666666667,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#46546b",
+          "rgb": [
+            70,
+            84,
+            107
+          ],
+          "ratio": 0.07172309027777778,
+          "bucket": "blue"
+        }
+      ],
+      "addedAt": "2026-11-13T04:06:54.912Z",
+      "fileKey": "archive:mma_cornices_for_beds_or_windows_in_chippendale_drawings_vol_i_390519",
+      "kind": "photo",
+      "photographer": "Thomas Chippendale",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "0009ff071fff9ff078f60fff1ff060f7f000",
+      "category": "photo",
+      "subjects": [
+        "design"
+      ]
+    },
+    {
+      "id": "16831517-696e-4fe1-a8ce-712e5668ca1e",
+      "title": "Armchair",
+      "titleEn": "Armchair",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/16831517-696e-4fe1-a8ce-712e5668ca1e.jpg",
+      "thumbUrl": "/stills/16831517-696e-4fe1-a8ce-712e5668ca1e.jpg",
+      "pageUrl": "https://archive.org/details/mma_armchair_231935",
+      "author": "Jean Jacques François Le Barbier",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_armchair_231935",
+      "buckets": [
+        "brown",
+        "orange",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#ccaf84",
+          "rgb": [
+            204,
+            175,
+            132
+          ],
+          "ratio": 0.2562934027777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#765636",
+          "rgb": [
+            118,
+            86,
+            54
+          ],
+          "ratio": 0.2433810763888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#9b7c56",
+          "rgb": [
+            155,
+            124,
+            86
+          ],
+          "ratio": 0.18934461805555555,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#4a321c",
+          "rgb": [
+            74,
+            50,
+            28
+          ],
+          "ratio": 0.1806640625,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#b9b8b4",
+          "rgb": [
+            185,
+            184,
+            180
+          ],
+          "ratio": 0.1303168402777778,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-11-13T04:06:56.542Z",
+      "fileKey": "archive:mma_armchair_231935",
+      "kind": "photo",
+      "photographer": "Jean Jacques François Le Barbier",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "bfffffffdb1d84d800801000800801ffdf3f",
+      "category": "photo",
+      "subjects": [
+        "design"
+      ]
+    },
+    {
+      "id": "5ba54fb6-4be9-49a1-9af6-779291a79b21",
+      "title": "Graffiti-Mural, Swanage, Dorset - geograph.org.uk - 2925357",
+      "titleEn": "Graffiti Mural, Swanage, Dorset geograph.org.uk 2925357",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/5ba54fb6-4be9-49a1-9af6-779291a79b21.jpg",
+      "thumbUrl": "/stills/5ba54fb6-4be9-49a1-9af6-779291a79b21.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Graffiti-Mural,_Swanage,_Dorset_-_geograph.org.uk_-_2925357.jpg",
+      "author": "Christine Matthews",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "buckets": [
+        "gray",
+        "blue",
+        "black"
+      ],
+      "palette": [
+        {
+          "hex": "#7b8083",
+          "rgb": [
+            123,
+            128,
+            131
+          ],
+          "ratio": 0.2863498263888889,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#b9d3ec",
+          "rgb": [
+            185,
+            211,
+            236
+          ],
+          "ratio": 0.2209201388888889,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#686966",
+          "rgb": [
+            104,
+            105,
+            102
+          ],
+          "ratio": 0.1978081597222222,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#514e48",
+          "rgb": [
+            81,
+            78,
+            72
+          ],
+          "ratio": 0.1919487847222222,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#282326",
+          "rgb": [
+            40,
+            35,
+            38
+          ],
+          "ratio": 0.10297309027777778,
+          "bucket": "black"
+        }
+      ],
+      "addedAt": "2026-11-13T04:10:08.733Z",
+      "fileKey": "File:Graffiti-Mural, Swanage, Dorset - geograph.org.uk - 2925357.jpg",
+      "kind": "photo",
+      "photographer": "Christine Matthews",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "fff3ff07f00f003800f00f80780000f80480"
     }
   ],
-  "lastIngestDate": "2026-11-12",
+  "lastIngestDate": "2026-11-13",
   "seenFileKeys": [
     "stills:04b85cc4-5a5c-4d95-9d52-460ceefa3ee5.jpg",
     "stills:0509b1d5-b5da-4b3c-8e65-edda97b86985.jpg",
@@ -394501,7 +394984,18 @@
     "File:Alicia Vikander Met Gala 2016.jpg",
     "archive:C1403CN132",
     "archive:C1403CN016",
-    "archive:clevelandart-1918.570-landscape-near-paine"
+    "archive:clevelandart-1918.570-landscape-near-paine",
+    "archive:brooklynmuseum-o64835-study-of-a-girl-in-japanese-dress",
+    "archive:mma_design_for_furniture_in_a_variation_on_the_style_of_thomas_sheraton_a_desk__390020",
+    "archive:mma_armchair_203715",
+    "archive:mma_furniture_hardware_2079",
+    "archive:mma_commode_clothes_press_from_chippendale_drawings_vol_ii_390642",
+    "archive:mma_armchair_192776",
+    "archive:mma_cornices_for_beds_or_windows_in_chippendale_drawings_vol_i_390519",
+    "archive:mma_furniture_hardware_5248",
+    "archive:mma_armchair_231935",
+    "archive:mma_armchair_part_of_a_set_236091",
+    "File:Graffiti-Mural, Swanage, Dorset - geograph.org.uk - 2925357.jpg"
   ],
   "seenContentHashes": [
     "ff8f20c0481cf3cffcf7ce58ffcffcffcd7e",
@@ -399098,6 +399592,12 @@
     "ffffff7ef7ef7ff443e21801802402602603",
     "4034034034634734234034034034074067ff",
     "e60ef0ce0c20c60ef07fc7fc4fa6fa6fa4fa",
-    "fff7ff1ff1ff0ff07f000000002000000000"
+    "fff7ff1ff1ff0ff07f000000002000000000",
+    "00006006006002007807c0fc0fc0fc0fc5ff",
+    "672270070070020002801c01c73ef3ff7fff",
+    "000ff7fe0fc0fc57e77e6fc1fc0fc3fc13df",
+    "0009ff071fff9ff078f60fff1ff060f7f000",
+    "bfffffffdb1d84d800801000800801ffdf3f",
+    "fff3ff07f00f003800f00f80780000f80480"
   ]
 }
