@@ -387471,10 +387471,329 @@
       "kind": "photo",
       "photographer": "Christine Matthews",
       "sourceLabel": "维基共享资源",
-      "contentHash": "fff3ff07f00f003800f00f80780000f80480"
+      "contentHash": "fff3ff07f00f003800f00f80780000f80480",
+      "category": "painting",
+      "subjects": [
+        "graffiti"
+      ]
+    },
+    {
+      "id": "f3b37bbf-38f9-46d8-9f2e-56581d41ae6a",
+      "title": "The painter, gilder, and varnisher's companion: containing rules and regulations in everything relating to the arts of painting, gilding, varnishing, and glass-staining ...",
+      "titleEn": "The painter, gilder, and varnisher's companion: containing rules and regulations in everything relating to the arts of painting, gilding, varnishing, and glass-staining ...",
+      "titleZh": "",
+      "director": "",
+      "source": "loc",
+      "imageUrl": "/stills/f3b37bbf-38f9-46d8-9f2e-56581d41ae6a.jpg",
+      "thumbUrl": "/stills/f3b37bbf-38f9-46d8-9f2e-56581d41ae6a.jpg",
+      "pageUrl": "https://www.loc.gov/item/08031428/",
+      "author": "Library of Congress",
+      "license": "No known restrictions / public domain",
+      "licenseUrl": "https://www.loc.gov/item/08031428/",
+      "buckets": [
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#cfb381",
+          "rgb": [
+            207,
+            179,
+            129
+          ],
+          "ratio": 0.4350043402777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#cbaf7b",
+          "rgb": [
+            203,
+            175,
+            123
+          ],
+          "ratio": 0.22591145833333334,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d3b785",
+          "rgb": [
+            211,
+            183,
+            133
+          ],
+          "ratio": 0.2056206597222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#b0976a",
+          "rgb": [
+            176,
+            151,
+            106
+          ],
+          "ratio": 0.08094618055555555,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#947d55",
+          "rgb": [
+            148,
+            125,
+            85
+          ],
+          "ratio": 0.05251736111111111,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-11-14T04:27:16.938Z",
+      "fileKey": "loc:http://www.loc.gov/item/08031428/",
+      "kind": "photo",
+      "photographer": "Library of Congress",
+      "sourceLabel": "美国国会图书馆",
+      "contentHash": "e07fdfc03fdf801e03801c01f07fff7ff60f",
+      "category": "painting",
+      "subjects": []
+    },
+    {
+      "id": "1b7f5da3-7712-4403-be0a-78ef10efd011",
+      "title": "Length of Silk Textile",
+      "titleEn": "Length of Silk Textile",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/1b7f5da3-7712-4403-be0a-78ef10efd011.jpg",
+      "thumbUrl": "/stills/1b7f5da3-7712-4403-be0a-78ef10efd011.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1952.558.a-length-of-silk-texti",
+      "author": "Internet Archive",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "yellow",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#aba898",
+          "rgb": [
+            171,
+            168,
+            152
+          ],
+          "ratio": 0.2664930555555556,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#98917c",
+          "rgb": [
+            152,
+            145,
+            124
+          ],
+          "ratio": 0.240234375,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#c0bdad",
+          "rgb": [
+            192,
+            189,
+            173
+          ],
+          "ratio": 0.2329644097222222,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#7d7864",
+          "rgb": [
+            125,
+            120,
+            100
+          ],
+          "ratio": 0.15397135416666666,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#dcd7c5",
+          "rgb": [
+            220,
+            215,
+            197
+          ],
+          "ratio": 0.10633680555555555,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-11-14T04:27:19.144Z",
+      "fileKey": "archive:clevelandart-1952.558.a-length-of-silk-texti",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "09e4022040d20fa0df08e40601c1ff1ff7df",
+      "category": "photo",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "4ca1a734-effb-4c35-acdf-a527313434a3",
+      "title": "Length of Textile",
+      "titleEn": "Length of Textile",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/4ca1a734-effb-4c35-acdf-a527313434a3.jpg",
+      "thumbUrl": "/stills/4ca1a734-effb-4c35-acdf-a527313434a3.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1952.557.a-length-of-textile",
+      "author": "Internet Archive",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "red",
+        "pink",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#80615f",
+          "rgb": [
+            128,
+            97,
+            95
+          ],
+          "ratio": 0.3360460069444444,
+          "bucket": "red"
+        },
+        {
+          "hex": "#764d55",
+          "rgb": [
+            118,
+            77,
+            85
+          ],
+          "ratio": 0.2158203125,
+          "bucket": "red"
+        },
+        {
+          "hex": "#8d5464",
+          "rgb": [
+            141,
+            84,
+            100
+          ],
+          "ratio": 0.20225694444444445,
+          "bucket": "pink"
+        },
+        {
+          "hex": "#9b6d74",
+          "rgb": [
+            155,
+            109,
+            116
+          ],
+          "ratio": 0.1519097222222222,
+          "bucket": "red"
+        },
+        {
+          "hex": "#b4b3ae",
+          "rgb": [
+            180,
+            179,
+            174
+          ],
+          "ratio": 0.0939670138888889,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-11-14T04:27:23.287Z",
+      "fileKey": "archive:clevelandart-1952.557.a-length-of-textile",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "801809801847821a11a01b01801881c31831",
+      "category": "photo",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "182fc49a-b262-4a03-870b-0d3529735551",
+      "title": "Portrait of a Young Girl (Antoinette Kraushaar)",
+      "titleEn": "Portrait of a Young Girl (Antoinette Kraushaar)",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/182fc49a-b262-4a03-870b-0d3529735551.jpg",
+      "thumbUrl": "/stills/182fc49a-b262-4a03-870b-0d3529735551.jpg",
+      "pageUrl": "https://archive.org/details/brooklynmuseum-o2054-portrait-of-a-young-girl-antoinette",
+      "author": "George Benjamin Luks",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/brooklynmuseum-o2054-portrait-of-a-young-girl-antoinette",
+      "buckets": [
+        "black",
+        "orange",
+        "blue"
+      ],
+      "palette": [
+        {
+          "hex": "#110d0d",
+          "rgb": [
+            17,
+            13,
+            13
+          ],
+          "ratio": 0.4526909722222222,
+          "bucket": "black"
+        },
+        {
+          "hex": "#d4bc8e",
+          "rgb": [
+            212,
+            188,
+            142
+          ],
+          "ratio": 0.18326822916666666,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#090907",
+          "rgb": [
+            9,
+            9,
+            7
+          ],
+          "ratio": 0.16417100694444445,
+          "bucket": "black"
+        },
+        {
+          "hex": "#181a28",
+          "rgb": [
+            24,
+            26,
+            40
+          ],
+          "ratio": 0.134765625,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#98805c",
+          "rgb": [
+            152,
+            128,
+            92
+          ],
+          "ratio": 0.06510416666666667,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-11-14T04:27:25.396Z",
+      "fileKey": "archive:brooklynmuseum-o2054-portrait-of-a-young-girl-antoinette",
+      "kind": "photo",
+      "photographer": "George Benjamin Luks",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "0300380780780780f80c01e03e03e03e0070"
     }
   ],
-  "lastIngestDate": "2026-11-13",
+  "lastIngestDate": "2026-11-14",
   "seenFileKeys": [
     "stills:04b85cc4-5a5c-4d95-9d52-460ceefa3ee5.jpg",
     "stills:0509b1d5-b5da-4b3c-8e65-edda97b86985.jpg",
@@ -394995,7 +395314,17 @@
     "archive:mma_furniture_hardware_5248",
     "archive:mma_armchair_231935",
     "archive:mma_armchair_part_of_a_set_236091",
-    "File:Graffiti-Mural, Swanage, Dorset - geograph.org.uk - 2925357.jpg"
+    "File:Graffiti-Mural, Swanage, Dorset - geograph.org.uk - 2925357.jpg",
+    "loc:http://www.loc.gov/item/08031428/",
+    "archive:clevelandart-1954.300-length-of-textile",
+    "archive:clevelandart-1952.558.a-length-of-silk-texti",
+    "archive:mma_textile_sample_book_229453",
+    "archive:C1403CN133",
+    "archive:PhiladelphiaTextileSchool1900sA",
+    "archive:clevelandart-1952.557.a-length-of-textile",
+    "archive:C1403CN006a",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1991-04-24",
+    "archive:brooklynmuseum-o2054-portrait-of-a-young-girl-antoinette"
   ],
   "seenContentHashes": [
     "ff8f20c0481cf3cffcf7ce58ffcffcffcd7e",
@@ -399598,6 +399927,10 @@
     "000ff7fe0fc0fc57e77e6fc1fc0fc3fc13df",
     "0009ff071fff9ff078f60fff1ff060f7f000",
     "bfffffffdb1d84d800801000800801ffdf3f",
-    "fff3ff07f00f003800f00f80780000f80480"
+    "fff3ff07f00f003800f00f80780000f80480",
+    "e07fdfc03fdf801e03801c01f07fff7ff60f",
+    "09e4022040d20fa0df08e40601c1ff1ff7df",
+    "801809801847821a11a01b01801881c31831",
+    "0300380780780780f80c01e03e03e03e0070"
   ]
 }
