@@ -388764,10 +388764,825 @@
       "kind": "photo",
       "photographer": "Wenceslaus Hollar (Wenzel Vaclav)",
       "sourceLabel": "互联网档案馆",
-      "contentHash": "000fff03f03f03f03f03f03f03fdfffff09f"
+      "contentHash": "000fff03f03f03f03f03f03f03fdfffff09f",
+      "category": "photo",
+      "subjects": [
+        "sculpture"
+      ]
+    },
+    {
+      "id": "205ce57f-d558-4fae-ac48-f3dad607ddec",
+      "title": "Reproduction of a fresco with a woman carrying an ivory pyxis",
+      "titleEn": "Reproduction of a fresco with a woman carrying an ivory pyxis",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/205ce57f-d558-4fae-ac48-f3dad607ddec.jpg",
+      "thumbUrl": "/stills/205ce57f-d558-4fae-ac48-f3dad607ddec.jpg",
+      "pageUrl": "https://archive.org/details/mma_reproduction_of_a_fresco_with_a_woman_carrying_an_ivory_pyxis_258121",
+      "author": "Emile Gilliéron",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_reproduction_of_a_fresco_with_a_woman_carrying_an_ivory_pyxis_258121",
+      "buckets": [
+        "cyan",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#3f7a8c",
+          "rgb": [
+            63,
+            122,
+            140
+          ],
+          "ratio": 0.4093967013888889,
+          "bucket": "cyan"
+        },
+        {
+          "hex": "#6b99ab",
+          "rgb": [
+            107,
+            153,
+            171
+          ],
+          "ratio": 0.1826171875,
+          "bucket": "cyan"
+        },
+        {
+          "hex": "#786350",
+          "rgb": [
+            120,
+            99,
+            80
+          ],
+          "ratio": 0.1669921875,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#415e64",
+          "rgb": [
+            65,
+            94,
+            100
+          ],
+          "ratio": 0.12923177083333334,
+          "bucket": "cyan"
+        },
+        {
+          "hex": "#ac7240",
+          "rgb": [
+            172,
+            114,
+            64
+          ],
+          "ratio": 0.11176215277777778,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-11-17T05:37:43.509Z",
+      "fileKey": "archive:mma_reproduction_of_a_fresco_with_a_woman_carrying_an_ivory_pyxis_258121",
+      "kind": "photo",
+      "photographer": "Emile Gilliéron",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "c1fc47ce7c01c01c01ca1c01c01e07c03891",
+      "category": "painting",
+      "people": "one",
+      "subjects": [
+        "people",
+        "ancient"
+      ]
+    },
+    {
+      "id": "7b8e3fd2-9eda-436f-8109-dcdac13d2ab5",
+      "title": "Mourning Figures: possibly a copy after a fresco by Cimabue",
+      "titleEn": "Mourning Figures: possibly a copy after a fresco by Cimabue",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/7b8e3fd2-9eda-436f-8109-dcdac13d2ab5.jpg",
+      "thumbUrl": "/stills/7b8e3fd2-9eda-436f-8109-dcdac13d2ab5.jpg",
+      "pageUrl": "https://archive.org/details/mma_mourning_figures_possibly_a_copy_after_a_fresco_by_cimabue_355627",
+      "author": "George Romney",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_mourning_figures_possibly_a_copy_after_a_fresco_by_cimabue_355627",
+      "buckets": [
+        "orange",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#f3e7d3",
+          "rgb": [
+            243,
+            231,
+            211
+          ],
+          "ratio": 0.2870008680555556,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#f8eedc",
+          "rgb": [
+            248,
+            238,
+            220
+          ],
+          "ratio": 0.2724609375,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#eadec7",
+          "rgb": [
+            234,
+            222,
+            199
+          ],
+          "ratio": 0.22330729166666666,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#fbf4e3",
+          "rgb": [
+            251,
+            244,
+            227
+          ],
+          "ratio": 0.15928819444444445,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#d0c3ab",
+          "rgb": [
+            208,
+            195,
+            171
+          ],
+          "ratio": 0.057942708333333336,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-11-17T05:37:44.551Z",
+      "fileKey": "archive:mma_mourning_figures_possibly_a_copy_after_a_fresco_by_cimabue_355627",
+      "kind": "photo",
+      "photographer": "George Romney",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "1e0000ffefd30421421ff1f91f97f1ce15c8",
+      "category": "painting",
+      "subjects": [
+        "ancient"
+      ]
+    },
+    {
+      "id": "1f486658-f420-49c7-a6c1-ad7078bb6a83",
+      "title": "Portrait of a Man",
+      "titleEn": "Portrait of a Man",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/1f486658-f420-49c7-a6c1-ad7078bb6a83.jpg",
+      "thumbUrl": "/stills/1f486658-f420-49c7-a6c1-ad7078bb6a83.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1942.1137-portrait-of-a-man",
+      "author": "Richard Cosway (British, 1742–1821)",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "gray",
+        "cyan",
+        "purple"
+      ],
+      "palette": [
+        {
+          "hex": "#c9c7c1",
+          "rgb": [
+            201,
+            199,
+            193
+          ],
+          "ratio": 0.4269748263888889,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#abac9e",
+          "rgb": [
+            171,
+            172,
+            158
+          ],
+          "ratio": 0.17513020833333334,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#445554",
+          "rgb": [
+            68,
+            85,
+            84
+          ],
+          "ratio": 0.1669921875,
+          "bucket": "cyan"
+        },
+        {
+          "hex": "#858275",
+          "rgb": [
+            133,
+            130,
+            117
+          ],
+          "ratio": 0.1300998263888889,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#1a1220",
+          "rgb": [
+            26,
+            18,
+            32
+          ],
+          "ratio": 0.1008029513888889,
+          "bucket": "purple"
+        }
+      ],
+      "addedAt": "2026-11-17T05:38:06.227Z",
+      "fileKey": "archive:clevelandart-1942.1137-portrait-of-a-man",
+      "kind": "photo",
+      "photographer": "Richard Cosway (British, 1742–1821)",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "f8ff03df99fdbfcbe426e36e32c804801c01",
+      "category": "photo",
+      "people": "one",
+      "subjects": [
+        "portrait",
+        "people"
+      ]
+    },
+    {
+      "id": "298c2f32-38c4-46e6-886a-3f6ff586650f",
+      "title": "Arkville Landscape",
+      "titleEn": "Arkville Landscape",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/298c2f32-38c4-46e6-886a-3f6ff586650f.jpg",
+      "thumbUrl": "/stills/298c2f32-38c4-46e6-886a-3f6ff586650f.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1927.389-arkville-landscape",
+      "author": "Alexander H. Wyant (American, 1836–1892)",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "yellow",
+        "green",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#3a3823",
+          "rgb": [
+            58,
+            56,
+            35
+          ],
+          "ratio": 0.3452690972222222,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#625d41",
+          "rgb": [
+            98,
+            93,
+            65
+          ],
+          "ratio": 0.28125,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#80866d",
+          "rgb": [
+            128,
+            134,
+            109
+          ],
+          "ratio": 0.1928168402777778,
+          "bucket": "green"
+        },
+        {
+          "hex": "#989f85",
+          "rgb": [
+            152,
+            159,
+            133
+          ],
+          "ratio": 0.11219618055555555,
+          "bucket": "green"
+        },
+        {
+          "hex": "#bdb895",
+          "rgb": [
+            189,
+            184,
+            149
+          ],
+          "ratio": 0.06846788194444445,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-11-17T05:38:07.155Z",
+      "fileKey": "archive:clevelandart-1927.389-arkville-landscape",
+      "kind": "photo",
+      "photographer": "Alexander H. Wyant (American, 1836–1892)",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "fffffffe3fc1fc0fe30c05f0000000004004",
+      "category": "photo",
+      "people": "none",
+      "subjects": [
+        "landscape"
+      ]
+    },
+    {
+      "id": "4b71724a-80c1-4204-9270-82df20ff08d0",
+      "title": "Landscape with Venus and Adonis",
+      "titleEn": "Landscape with Venus and Adonis",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/4b71724a-80c1-4204-9270-82df20ff08d0.jpg",
+      "thumbUrl": "/stills/4b71724a-80c1-4204-9270-82df20ff08d0.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1962.293-landscape-with-venus",
+      "author": "Gillis van Coninxloo (Netherlandish, 1544–1607)",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "green",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#1d2016",
+          "rgb": [
+            29,
+            32,
+            22
+          ],
+          "ratio": 0.3401692708333333,
+          "bucket": "green"
+        },
+        {
+          "hex": "#a79f7e",
+          "rgb": [
+            167,
+            159,
+            126
+          ],
+          "ratio": 0.2377387152777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#283124",
+          "rgb": [
+            40,
+            49,
+            36
+          ],
+          "ratio": 0.18858506944444445,
+          "bucket": "green"
+        },
+        {
+          "hex": "#3c4c3a",
+          "rgb": [
+            60,
+            76,
+            58
+          ],
+          "ratio": 0.1199001736111111,
+          "bucket": "green"
+        },
+        {
+          "hex": "#536a58",
+          "rgb": [
+            83,
+            106,
+            88
+          ],
+          "ratio": 0.11360677083333333,
+          "bucket": "green"
+        }
+      ],
+      "addedAt": "2026-11-17T05:38:08.042Z",
+      "fileKey": "archive:clevelandart-1962.293-landscape-with-venus",
+      "kind": "photo",
+      "photographer": "Gillis van Coninxloo (Netherlandish, 1544–1607)",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "ffffff0ff07f03f03f03e07c000000000000",
+      "category": "photo",
+      "people": "none",
+      "subjects": [
+        "landscape"
+      ]
+    },
+    {
+      "id": "4533dc76-2504-4f36-816f-90cb81b730d6",
+      "title": "Portrait of Infante Don Luis de Borbon",
+      "titleEn": "Portrait of Infante Don Luis de Borbon",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/4533dc76-2504-4f36-816f-90cb81b730d6.jpg",
+      "thumbUrl": "/stills/4533dc76-2504-4f36-816f-90cb81b730d6.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1966.14-portrait-of-infante",
+      "author": "Anton Raphael Mengs (German, 1728–1779)",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#4c432a",
+          "rgb": [
+            76,
+            67,
+            42
+          ],
+          "ratio": 0.2748480902777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#3a3522",
+          "rgb": [
+            58,
+            53,
+            34
+          ],
+          "ratio": 0.24913194444444445,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#2c291b",
+          "rgb": [
+            44,
+            41,
+            27
+          ],
+          "ratio": 0.1877170138888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#6a5f44",
+          "rgb": [
+            106,
+            95,
+            68
+          ],
+          "ratio": 0.1850043402777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#968a70",
+          "rgb": [
+            150,
+            138,
+            112
+          ],
+          "ratio": 0.1032986111111111,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-11-17T05:38:08.991Z",
+      "fileKey": "archive:clevelandart-1966.14-portrait-of-infante",
+      "kind": "photo",
+      "photographer": "Raphael",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "03003003003807c07c0ec16c47c07e47ce78",
+      "category": "photo",
+      "people": "one",
+      "subjects": [
+        "portrait"
+      ]
+    },
+    {
+      "id": "6950b8e7-1259-4b3b-9022-4c9b88cfa2d3",
+      "title": "Padova Cappella degli Scrovegni Innen Fresken 6",
+      "titleEn": "Padova Cappella degli Scrovegni Innen Fresken 6",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/6950b8e7-1259-4b3b-9022-4c9b88cfa2d3.jpg",
+      "thumbUrl": "/stills/6950b8e7-1259-4b3b-9022-4c9b88cfa2d3.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Padova_Cappella_degli_Scrovegni_Innen_Fresken_6.jpg",
+      "author": "Zairon",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "buckets": [
+        "brown",
+        "gray",
+        "orange",
+        "cyan"
+      ],
+      "palette": [
+        {
+          "hex": "#94969d",
+          "rgb": [
+            148,
+            150,
+            157
+          ],
+          "ratio": 0.3332248263888889,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#745f4b",
+          "rgb": [
+            116,
+            95,
+            75
+          ],
+          "ratio": 0.21549479166666666,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#a98761",
+          "rgb": [
+            169,
+            135,
+            97
+          ],
+          "ratio": 0.2038845486111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#3e3524",
+          "rgb": [
+            62,
+            53,
+            36
+          ],
+          "ratio": 0.1599392361111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#e5e9ea",
+          "rgb": [
+            229,
+            233,
+            234
+          ],
+          "ratio": 0.08745659722222222,
+          "bucket": "cyan"
+        }
+      ],
+      "addedAt": "2026-11-17T05:42:47.845Z",
+      "fileKey": "File:Padova Cappella degli Scrovegni Innen Fresken 6.jpg",
+      "kind": "film",
+      "photographer": "Zairon",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "00000000043ce3efffffffffffffff2c9fe0",
+      "category": "film",
+      "subjects": [
+        "people"
+      ]
+    },
+    {
+      "id": "9d641b75-3b18-416a-9b93-cb9b99c5b57f",
+      "title": "Padova, Cappella degli Scrovegni, affrescchi (07)",
+      "titleEn": "Padova, Cappella degli Scrovegni, affrescchi (07)",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/9d641b75-3b18-416a-9b93-cb9b99c5b57f.jpg",
+      "thumbUrl": "/stills/9d641b75-3b18-416a-9b93-cb9b99c5b57f.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Padova,_Cappella_degli_Scrovegni,_affrescchi_(07).jpg",
+      "author": "Palickap",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "buckets": [
+        "brown",
+        "orange",
+        "blue"
+      ],
+      "palette": [
+        {
+          "hex": "#83695a",
+          "rgb": [
+            131,
+            105,
+            90
+          ],
+          "ratio": 0.2643229166666667,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#ad917d",
+          "rgb": [
+            173,
+            145,
+            125
+          ],
+          "ratio": 0.22916666666666666,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#192335",
+          "rgb": [
+            25,
+            35,
+            53
+          ],
+          "ratio": 0.2009548611111111,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#59443e",
+          "rgb": [
+            89,
+            68,
+            62
+          ],
+          "ratio": 0.1890190972222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#d7cdc1",
+          "rgb": [
+            215,
+            205,
+            193
+          ],
+          "ratio": 0.11653645833333333,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-11-17T05:43:13.215Z",
+      "fileKey": "File:Padova, Cappella degli Scrovegni, affrescchi (07).jpg",
+      "kind": "film",
+      "photographer": "Palickap",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "000600e00c00d86f86f80fc2ffaffbffbffe",
+      "category": "film",
+      "subjects": [
+        "people"
+      ]
+    },
+    {
+      "id": "eb3fad88-b7aa-4531-a75c-96610be534ee",
+      "title": "Padova Cappella degli Scrovegni Innen Langhaus West 5",
+      "titleEn": "Padova Cappella degli Scrovegni Innen Langhaus West 5",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/eb3fad88-b7aa-4531-a75c-96610be534ee.jpg",
+      "thumbUrl": "/stills/eb3fad88-b7aa-4531-a75c-96610be534ee.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Padova_Cappella_degli_Scrovegni_Innen_Langhaus_West_5.jpg",
+      "author": "Zairon",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "buckets": [
+        "orange",
+        "blue",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#a57d60",
+          "rgb": [
+            165,
+            125,
+            96
+          ],
+          "ratio": 0.3347439236111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#83533e",
+          "rgb": [
+            131,
+            83,
+            62
+          ],
+          "ratio": 0.23274739583333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#1e396c",
+          "rgb": [
+            30,
+            57,
+            108
+          ],
+          "ratio": 0.2080078125,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#bfa99a",
+          "rgb": [
+            191,
+            169,
+            154
+          ],
+          "ratio": 0.12044270833333333,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#525d7c",
+          "rgb": [
+            82,
+            93,
+            124
+          ],
+          "ratio": 0.10405815972222222,
+          "bucket": "blue"
+        }
+      ],
+      "addedAt": "2026-11-17T05:43:37.826Z",
+      "fileKey": "File:Padova Cappella degli Scrovegni Innen Langhaus West 5.jpg",
+      "kind": "film",
+      "photographer": "Zairon",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "000000001483c67c67c77e7ffc7fe7ff3f9f",
+      "category": "film",
+      "subjects": [
+        "people"
+      ]
+    },
+    {
+      "id": "c40041dd-6186-4d97-a0e1-d97fb14d6b3b",
+      "title": "Mural depicting Anne Frank and costumed dancers - Vitoria-Gasteiz - 2015-08-15",
+      "titleEn": "Mural depicting Anne Frank and costumed dancers Vitoria Gasteiz 2015 08 15",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/c40041dd-6186-4d97-a0e1-d97fb14d6b3b.jpg",
+      "thumbUrl": "/stills/c40041dd-6186-4d97-a0e1-d97fb14d6b3b.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Mural_depicting_Anne_Frank_and_costumed_dancers_-_Vitoria-Gasteiz_-_2015-08-15.jpg",
+      "author": "Norbert Nagel",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "buckets": [
+        "gray",
+        "black",
+        "cyan",
+        "blue"
+      ],
+      "palette": [
+        {
+          "hex": "#2a2c30",
+          "rgb": [
+            42,
+            44,
+            48
+          ],
+          "ratio": 0.2760416666666667,
+          "bucket": "black"
+        },
+        {
+          "hex": "#6b6059",
+          "rgb": [
+            107,
+            96,
+            89
+          ],
+          "ratio": 0.2711588541666667,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#919aa0",
+          "rgb": [
+            145,
+            154,
+            160
+          ],
+          "ratio": 0.20128038194444445,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#189ac5",
+          "rgb": [
+            24,
+            154,
+            197
+          ],
+          "ratio": 0.12977430555555555,
+          "bucket": "cyan"
+        },
+        {
+          "hex": "#3e5c73",
+          "rgb": [
+            62,
+            92,
+            115
+          ],
+          "ratio": 0.12174479166666667,
+          "bucket": "blue"
+        }
+      ],
+      "addedAt": "2026-11-17T05:43:39.040Z",
+      "fileKey": "File:Mural depicting Anne Frank and costumed dancers - Vitoria-Gasteiz - 2015-08-15.jpg",
+      "kind": "photo",
+      "photographer": "Norbert Nagel",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "fffee7ffbfdde000008c702722700e01f000"
     }
   ],
-  "lastIngestDate": "2026-11-16",
+  "lastIngestDate": "2026-11-17",
   "seenFileKeys": [
     "stills:04b85cc4-5a5c-4d95-9d52-460ceefa3ee5.jpg",
     "stills:0509b1d5-b5da-4b3c-8e65-edda97b86985.jpg",
@@ -396318,7 +397133,21 @@
     "archive:45000033238-output.o-0151",
     "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1939-03-12",
     "archive:GadoImages218107",
-    "archive:mma_the_works_of_publius_virgilius_maro_translated_adorned_with_sculpture_and_354833"
+    "archive:mma_the_works_of_publius_virgilius_maro_translated_adorned_with_sculpture_and_354833",
+    "archive:mma_textile_173369",
+    "archive:mma_reproduction_of_a_fresco_with_a_woman_carrying_an_ivory_pyxis_258121",
+    "archive:mma_mourning_figures_possibly_a_copy_after_a_fresco_by_cimabue_355627",
+    "archive:clevelandart-1964.357.d-altarpiece-with-reli",
+    "archive:clevelandart-1942.1137-portrait-of-a-man",
+    "archive:clevelandart-1927.389-arkville-landscape",
+    "archive:clevelandart-1962.293-landscape-with-venus",
+    "archive:clevelandart-1966.14-portrait-of-infante",
+    "archive:clevelandart-1940.1213.2-portrait-of-a-woman",
+    "File:Padova Cappella degli Scrovegni Innen Fresken 6.jpg",
+    "File:Indian myths; or, Legends, traditions, and symbols of the aborigines of America compared with those of other countries, including Hindostan, Egypt, Persia, Assyria and China (IA indianmythsorleg00emer).pdf",
+    "File:Padova, Cappella degli Scrovegni, affrescchi (07).jpg",
+    "File:Padova Cappella degli Scrovegni Innen Langhaus West 5.jpg",
+    "File:Mural depicting Anne Frank and costumed dancers - Vitoria-Gasteiz - 2015-08-15.jpg"
   ],
   "seenContentHashes": [
     "ff8f20c0481cf3cffcf7ce58ffcffcffcd7e",
@@ -400937,6 +401766,16 @@
     "8018018018c18c0d63de3de3de3ce3be3801",
     "0007fe7ffe8fe0f40e000000000000ffffff",
     "fff0006225e01c03907c03801800804027e1",
-    "000fff03f03f03f03f03f03f03fdfffff09f"
+    "000fff03f03f03f03f03f03f03fdfffff09f",
+    "c1fc47ce7c01c01c01ca1c01c01e07c03891",
+    "1e0000ffefd30421421ff1f91f97f1ce15c8",
+    "f8ff03df99fdbfcbe426e36e32c804801c01",
+    "fffffffe3fc1fc0fe30c05f0000000004004",
+    "ffffff0ff07f03f03f03e07c000000000000",
+    "03003003003807c07c0ec16c47c07e47ce78",
+    "00000000043ce3efffffffffffffff2c9fe0",
+    "000600e00c00d86f86f80fc2ffaffbffbffe",
+    "000000001483c67c67c77e7ffc7fe7ff3f9f",
+    "fffee7ffbfdde000008c702722700e01f000"
   ]
 }
