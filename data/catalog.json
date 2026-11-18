@@ -389579,10 +389579,412 @@
       "kind": "photo",
       "photographer": "Norbert Nagel",
       "sourceLabel": "维基共享资源",
-      "contentHash": "fffee7ffbfdde000008c702722700e01f000"
+      "contentHash": "fffee7ffbfdde000008c702722700e01f000",
+      "category": "painting",
+      "subjects": []
+    },
+    {
+      "id": "df5b71d6-2fac-4654-85cb-89ad5ddcb8f0",
+      "title": "Wedding dress",
+      "titleEn": "Wedding dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/df5b71d6-2fac-4654-85cb-89ad5ddcb8f0.jpg",
+      "thumbUrl": "/stills/df5b71d6-2fac-4654-85cb-89ad5ddcb8f0.jpg",
+      "pageUrl": "https://archive.org/details/mma_wedding_dress_120969",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_wedding_dress_120969",
+      "buckets": [
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#c4b58c",
+          "rgb": [
+            196,
+            181,
+            140
+          ],
+          "ratio": 0.3781467013888889,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#bfae84",
+          "rgb": [
+            191,
+            174,
+            132
+          ],
+          "ratio": 0.22591145833333334,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#cabc97",
+          "rgb": [
+            202,
+            188,
+            151
+          ],
+          "ratio": 0.20909288194444445,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#d5c8a8",
+          "rgb": [
+            213,
+            200,
+            168
+          ],
+          "ratio": 0.12120225694444445,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#b8a67a",
+          "rgb": [
+            184,
+            166,
+            122
+          ],
+          "ratio": 0.0656467013888889,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-11-18T05:04:43.058Z",
+      "fileKey": "archive:mma_wedding_dress_120969",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "0c03ff77f9ff9bf07f5df04f0f3028000000",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "4c326c20-7209-49b0-9120-f0ad87d96737",
+      "title": "Wedding Dress",
+      "titleEn": "Wedding Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/4c326c20-7209-49b0-9120-f0ad87d96737.jpg",
+      "thumbUrl": "/stills/4c326c20-7209-49b0-9120-f0ad87d96737.jpg",
+      "pageUrl": "https://archive.org/details/mma_wedding_dress_173474",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_wedding_dress_173474",
+      "buckets": [
+        "orange",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#a19c93",
+          "rgb": [
+            161,
+            156,
+            147
+          ],
+          "ratio": 0.3717447916666667,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#ebc78d",
+          "rgb": [
+            235,
+            199,
+            141
+          ],
+          "ratio": 0.23307291666666666,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#dab57a",
+          "rgb": [
+            218,
+            181,
+            122
+          ],
+          "ratio": 0.21571180555555555,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#c8a364",
+          "rgb": [
+            200,
+            163,
+            100
+          ],
+          "ratio": 0.13975694444444445,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#ad8543",
+          "rgb": [
+            173,
+            133,
+            67
+          ],
+          "ratio": 0.039713541666666664,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-11-18T05:04:44.193Z",
+      "fileKey": "archive:mma_wedding_dress_173474",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "0f00f00f81f83f81fc3fc3fc3fc1fc1fc0fc",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "d8c4a8f6-4553-4777-be03-07e1120f4b3d",
+      "title": "Portrait of a Man",
+      "titleEn": "Portrait of a Man",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/d8c4a8f6-4553-4777-be03-07e1120f4b3d.jpg",
+      "thumbUrl": "/stills/d8c4a8f6-4553-4777-be03-07e1120f4b3d.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1940.1213.1-portrait-of-a-man",
+      "author": "Anson Dickinson (American, 1779–1852)",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "black",
+        "gray",
+        "cyan"
+      ],
+      "palette": [
+        {
+          "hex": "#111515",
+          "rgb": [
+            17,
+            21,
+            21
+          ],
+          "ratio": 0.6139322916666666,
+          "bucket": "black"
+        },
+        {
+          "hex": "#919c9d",
+          "rgb": [
+            145,
+            156,
+            157
+          ],
+          "ratio": 0.15657552083333334,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#181e1e",
+          "rgb": [
+            24,
+            30,
+            30
+          ],
+          "ratio": 0.1123046875,
+          "bucket": "cyan"
+        },
+        {
+          "hex": "#77746e",
+          "rgb": [
+            119,
+            116,
+            110
+          ],
+          "ratio": 0.06293402777777778,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#42423a",
+          "rgb": [
+            66,
+            66,
+            58
+          ],
+          "ratio": 0.054253472222222224,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-11-18T05:04:59.218Z",
+      "fileKey": "archive:clevelandart-1940.1213.1-portrait-of-a-man",
+      "kind": "photo",
+      "photographer": "Anson Dickinson (American, 1779–1852)",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "0000200f81dc1fc3fe3fe33e00c004000000",
+      "category": "photo",
+      "people": "one",
+      "subjects": [
+        "portrait",
+        "people"
+      ]
+    },
+    {
+      "id": "4d19698e-ddf7-4ec6-8656-214cdcd70710",
+      "title": "O'Connell Statue, close-up - Dublin, capital of the Irish Republic",
+      "titleEn": "O'Connell Statue, close-up - Dublin, capital of the Irish Republic",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/4d19698e-ddf7-4ec6-8656-214cdcd70710.jpg",
+      "thumbUrl": "/stills/4d19698e-ddf7-4ec6-8656-214cdcd70710.jpg",
+      "pageUrl": "https://archive.org/details/F4_Geography_MCGSC-0443",
+      "author": "Robert Cheltenham, Blackhawk Films",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/F4_Geography_MCGSC-0443",
+      "buckets": [
+        "blue"
+      ],
+      "palette": [
+        {
+          "hex": "#cad8e7",
+          "rgb": [
+            202,
+            216,
+            231
+          ],
+          "ratio": 0.4377170138888889,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#9eafd2",
+          "rgb": [
+            158,
+            175,
+            210
+          ],
+          "ratio": 0.3374565972222222,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#14141d",
+          "rgb": [
+            20,
+            20,
+            29
+          ],
+          "ratio": 0.10883246527777778,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#817088",
+          "rgb": [
+            129,
+            112,
+            136
+          ],
+          "ratio": 0.06456163194444445,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#4b3f53",
+          "rgb": [
+            75,
+            63,
+            83
+          ],
+          "ratio": 0.051432291666666664,
+          "bucket": "purple"
+        }
+      ],
+      "addedAt": "2026-11-18T05:05:00.327Z",
+      "fileKey": "archive:F4_Geography_MCGSC-0443",
+      "kind": "photo",
+      "photographer": "Robert Cheltenham, Blackhawk Films",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "00019af8ff8ff8ff8ff8ff8ffcff07f07f07",
+      "category": "photo",
+      "people": "one",
+      "subjects": [
+        "sculpture"
+      ]
+    },
+    {
+      "id": "fab4f999-48d0-4085-a2e5-a75bf5e026b7",
+      "title": "From an Original Sketch of William Hogarth's in the Collection of Mr. Morrison",
+      "titleEn": "From an Original Sketch of William Hogarth's in the Collection of Mr. Morrison",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/fab4f999-48d0-4085-a2e5-a75bf5e026b7.jpg",
+      "thumbUrl": "/stills/fab4f999-48d0-4085-a2e5-a75bf5e026b7.jpg",
+      "pageUrl": "https://archive.org/details/mma_from_an_original_sketch_of_william_hogarths_in_the_collection_of_mr_morris_416964",
+      "author": "William Hogarth",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_from_an_original_sketch_of_william_hogarths_in_the_collection_of_mr_morris_416964",
+      "buckets": [
+        "yellow",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#eae0c9",
+          "rgb": [
+            234,
+            224,
+            201
+          ],
+          "ratio": 0.3960503472222222,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#f2e6ce",
+          "rgb": [
+            242,
+            230,
+            206
+          ],
+          "ratio": 0.2992621527777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#daccb5",
+          "rgb": [
+            218,
+            204,
+            181
+          ],
+          "ratio": 0.15201822916666666,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#c1b49e",
+          "rgb": [
+            193,
+            180,
+            158
+          ],
+          "ratio": 0.1025390625,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#a0927d",
+          "rgb": [
+            160,
+            146,
+            125
+          ],
+          "ratio": 0.050130208333333336,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-11-18T05:05:01.351Z",
+      "fileKey": "archive:mma_from_an_original_sketch_of_william_hogarths_in_the_collection_of_mr_morris_416964",
+      "kind": "photo",
+      "photographer": "From an Original Sketch of William Hogarth",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "ffffcfffff97fd7e7f64fc07c038010003fe"
     }
   ],
-  "lastIngestDate": "2026-11-17",
+  "lastIngestDate": "2026-11-18",
   "seenFileKeys": [
     "stills:04b85cc4-5a5c-4d95-9d52-460ceefa3ee5.jpg",
     "stills:0509b1d5-b5da-4b3c-8e65-edda97b86985.jpg",
@@ -397147,7 +397549,12 @@
     "File:Indian myths; or, Legends, traditions, and symbols of the aborigines of America compared with those of other countries, including Hindostan, Egypt, Persia, Assyria and China (IA indianmythsorleg00emer).pdf",
     "File:Padova, Cappella degli Scrovegni, affrescchi (07).jpg",
     "File:Padova Cappella degli Scrovegni Innen Langhaus West 5.jpg",
-    "File:Mural depicting Anne Frank and costumed dancers - Vitoria-Gasteiz - 2015-08-15.jpg"
+    "File:Mural depicting Anne Frank and costumed dancers - Vitoria-Gasteiz - 2015-08-15.jpg",
+    "archive:mma_wedding_dress_120969",
+    "archive:mma_wedding_dress_173474",
+    "archive:clevelandart-1940.1213.1-portrait-of-a-man",
+    "archive:F4_Geography_MCGSC-0443",
+    "archive:mma_from_an_original_sketch_of_william_hogarths_in_the_collection_of_mr_morris_416964"
   ],
   "seenContentHashes": [
     "ff8f20c0481cf3cffcf7ce58ffcffcffcd7e",
@@ -401776,6 +402183,11 @@
     "00000000043ce3efffffffffffffff2c9fe0",
     "000600e00c00d86f86f80fc2ffaffbffbffe",
     "000000001483c67c67c77e7ffc7fe7ff3f9f",
-    "fffee7ffbfdde000008c702722700e01f000"
+    "fffee7ffbfdde000008c702722700e01f000",
+    "0c03ff77f9ff9bf07f5df04f0f3028000000",
+    "0f00f00f81f83f81fc3fc3fc3fc1fc1fc0fc",
+    "0000200f81dc1fc3fe3fe33e00c004000000",
+    "00019af8ff8ff8ff8ff8ff8ffcff07f07f07",
+    "ffffcfffff97fd7e7f64fc07c038010003fe"
   ]
 }
