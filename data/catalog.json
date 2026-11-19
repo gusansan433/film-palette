@@ -389981,10 +389981,326 @@
       "kind": "photo",
       "photographer": "From an Original Sketch of William Hogarth",
       "sourceLabel": "互联网档案馆",
-      "contentHash": "ffffcfffff97fd7e7f64fc07c038010003fe"
+      "contentHash": "ffffcfffff97fd7e7f64fc07c038010003fe",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "02aebcaa-f3e3-44f4-8df9-4d4beb00645d",
+      "title": "Morning dress",
+      "titleEn": "Morning dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/02aebcaa-f3e3-44f4-8df9-4d4beb00645d.jpg",
+      "thumbUrl": "/stills/02aebcaa-f3e3-44f4-8df9-4d4beb00645d.jpg",
+      "pageUrl": "https://archive.org/details/mma_morning_dress_107774",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_morning_dress_107774",
+      "buckets": [
+        "brown",
+        "orange",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#877656",
+          "rgb": [
+            135,
+            118,
+            86
+          ],
+          "ratio": 0.2994791666666667,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#665536",
+          "rgb": [
+            102,
+            85,
+            54
+          ],
+          "ratio": 0.2085503472222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#9f8f71",
+          "rgb": [
+            159,
+            143,
+            113
+          ],
+          "ratio": 0.20377604166666666,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#3f2f17",
+          "rgb": [
+            63,
+            47,
+            23
+          ],
+          "ratio": 0.1882595486111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#baad92",
+          "rgb": [
+            186,
+            173,
+            146
+          ],
+          "ratio": 0.09993489583333333,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-11-19T04:55:43.369Z",
+      "fileKey": "archive:mma_morning_dress_107774",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "01c03f03f0ff1ff11f19f1bf1ff07f07ff7f",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "3c848b8d-05ec-457b-88e8-7b319a6d1b93",
+      "title": "Textile Fragment",
+      "titleEn": "Textile Fragment",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/3c848b8d-05ec-457b-88e8-7b319a6d1b93.jpg",
+      "thumbUrl": "/stills/3c848b8d-05ec-457b-88e8-7b319a6d1b93.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-1920.1721-textile-fragment",
+      "author": "Internet Archive",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "black",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#1c1c1f",
+          "rgb": [
+            28,
+            28,
+            31
+          ],
+          "ratio": 0.6034071180555556,
+          "bucket": "black"
+        },
+        {
+          "hex": "#3b332b",
+          "rgb": [
+            59,
+            51,
+            43
+          ],
+          "ratio": 0.17198350694444445,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#5a4b3c",
+          "rgb": [
+            90,
+            75,
+            60
+          ],
+          "ratio": 0.123046875,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#7e6e5b",
+          "rgb": [
+            126,
+            110,
+            91
+          ],
+          "ratio": 0.052734375,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#f4f2ed",
+          "rgb": [
+            244,
+            242,
+            237
+          ],
+          "ratio": 0.048828125,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-11-19T04:55:44.405Z",
+      "fileKey": "archive:clevelandart-1920.1721-textile-fragment",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "fff0486c643512180d06130180c1311098c9",
+      "category": "photo",
+      "subjects": [
+        "pattern"
+      ]
+    },
+    {
+      "id": "98cae203-c3e0-43a3-870c-76b22662acfc",
+      "title": "Guanyin as the Nine-Lotus Bodhisattva",
+      "titleEn": "Guanyin as the Nine-Lotus Bodhisattva",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/98cae203-c3e0-43a3-870c-76b22662acfc.jpg",
+      "thumbUrl": "/stills/98cae203-c3e0-43a3-870c-76b22662acfc.jpg",
+      "pageUrl": "https://www.metmuseum.org/art/collection/search/41472",
+      "author": "Unidentified artist",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#504534",
+          "rgb": [
+            80,
+            69,
+            52
+          ],
+          "ratio": 0.3021918402777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#9a8157",
+          "rgb": [
+            154,
+            129,
+            87
+          ],
+          "ratio": 0.23643663194444445,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#655139",
+          "rgb": [
+            101,
+            81,
+            57
+          ],
+          "ratio": 0.220703125,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#826a4e",
+          "rgb": [
+            130,
+            106,
+            78
+          ],
+          "ratio": 0.1781684027777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#0d0a0b",
+          "rgb": [
+            13,
+            10,
+            11
+          ],
+          "ratio": 0.0625,
+          "bucket": "black"
+        }
+      ],
+      "addedAt": "2026-11-19T04:55:59.447Z",
+      "fileKey": "openverse:3a1a2901-0705-4b74-b0b4-f560f0845d6d",
+      "kind": "photo",
+      "photographer": "Unidentified artist",
+      "sourceLabel": "Met Museum",
+      "contentHash": "4e64424024634624725fa5fa5ae476612422",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "476cb4f1-df38-468c-bbd9-1edd2a0858be",
+      "title": "Ayollar sahna libosi 18",
+      "titleEn": "Ayollar sahna libosi 18",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/476cb4f1-df38-468c-bbd9-1edd2a0858be.jpg",
+      "thumbUrl": "/stills/476cb4f1-df38-468c-bbd9-1edd2a0858be.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Ayollar_sahna_libosi_18.png",
+      "author": "AIDEPCUL",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "buckets": [
+        "blue"
+      ],
+      "palette": [
+        {
+          "hex": "#4a669b",
+          "rgb": [
+            74,
+            102,
+            155
+          ],
+          "ratio": 0.3044704861111111,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#0e3b59",
+          "rgb": [
+            14,
+            59,
+            89
+          ],
+          "ratio": 0.3018663194444444,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#274f78",
+          "rgb": [
+            39,
+            79,
+            120
+          ],
+          "ratio": 0.2269965277777778,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#032b41",
+          "rgb": [
+            3,
+            43,
+            65
+          ],
+          "ratio": 0.11295572916666667,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#a1a2bf",
+          "rgb": [
+            161,
+            162,
+            191
+          ],
+          "ratio": 0.0537109375,
+          "bucket": "blue"
+        }
+      ],
+      "addedAt": "2026-11-19T05:00:09.833Z",
+      "fileKey": "File:Ayollar sahna libosi 18.png",
+      "kind": "film",
+      "photographer": "AIDEPCUL",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "0000f00f00f00f01f00f001073cf3effffff"
     }
   ],
-  "lastIngestDate": "2026-11-18",
+  "lastIngestDate": "2026-11-19",
   "seenFileKeys": [
     "stills:04b85cc4-5a5c-4d95-9d52-460ceefa3ee5.jpg",
     "stills:0509b1d5-b5da-4b3c-8e65-edda97b86985.jpg",
@@ -397554,7 +397870,16 @@
     "archive:mma_wedding_dress_173474",
     "archive:clevelandart-1940.1213.1-portrait-of-a-man",
     "archive:F4_Geography_MCGSC-0443",
-    "archive:mma_from_an_original_sketch_of_william_hogarths_in_the_collection_of_mr_morris_416964"
+    "archive:mma_from_an_original_sketch_of_william_hogarths_in_the_collection_of_mr_morris_416964",
+    "archive:C1403CN131",
+    "archive:mma_morning_dress_107774",
+    "archive:clevelandart-1920.1721-textile-fragment",
+    "openverse:23745ad4-d776-4fe5-8d40-ea88c43a1b77",
+    "openverse:927657b5-3979-4af8-9858-04dff44862ab",
+    "openverse:94416db2-bada-4810-82f9-a9e31ab84eb7",
+    "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1929-06-25",
+    "openverse:3a1a2901-0705-4b74-b0b4-f560f0845d6d",
+    "File:Ayollar sahna libosi 18.png"
   ],
   "seenContentHashes": [
     "ff8f20c0481cf3cffcf7ce58ffcffcffcd7e",
@@ -402188,6 +402513,10 @@
     "0f00f00f81f83f81fc3fc3fc3fc1fc1fc0fc",
     "0000200f81dc1fc3fe3fe33e00c004000000",
     "00019af8ff8ff8ff8ff8ff8ffcff07f07f07",
-    "ffffcfffff97fd7e7f64fc07c038010003fe"
+    "ffffcfffff97fd7e7f64fc07c038010003fe",
+    "01c03f03f0ff1ff11f19f1bf1ff07f07ff7f",
+    "fff0486c643512180d06130180c1311098c9",
+    "4e64424024634624725fa5fa5ae476612422",
+    "0000f00f00f00f01f00f001073cf3effffff"
   ]
 }
