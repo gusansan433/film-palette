@@ -390297,10 +390297,1131 @@
       "kind": "film",
       "photographer": "AIDEPCUL",
       "sourceLabel": "维基共享资源",
-      "contentHash": "0000f00f00f00f01f00f001073cf3effffff"
+      "contentHash": "0000f00f00f00f01f00f001073cf3effffff",
+      "category": "film",
+      "subjects": [
+        "people"
+      ]
+    },
+    {
+      "id": "59ef8f83-26be-403c-9d57-3359778aad06",
+      "title": "Paris dress",
+      "titleEn": "Paris dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/59ef8f83-26be-403c-9d57-3359778aad06.jpg",
+      "thumbUrl": "/stills/59ef8f83-26be-403c-9d57-3359778aad06.jpg",
+      "pageUrl": "https://archive.org/details/LMG00041",
+      "author": "Mutlow, Henry",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "buckets": [
+        "yellow",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#f9ecbf",
+          "rgb": [
+            249,
+            236,
+            191
+          ],
+          "ratio": 0.5582682291666666,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#e4d9b6",
+          "rgb": [
+            228,
+            217,
+            182
+          ],
+          "ratio": 0.1635199652777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#d9b5a4",
+          "rgb": [
+            217,
+            181,
+            164
+          ],
+          "ratio": 0.1388888888888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#b69b8f",
+          "rgb": [
+            182,
+            155,
+            143
+          ],
+          "ratio": 0.07877604166666667,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#8c7770",
+          "rgb": [
+            140,
+            119,
+            112
+          ],
+          "ratio": 0.060546875,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-11-20T04:57:43.842Z",
+      "fileKey": "archive:LMG00041",
+      "kind": "photo",
+      "photographer": "Mutlow, Henry",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "f9f38f79f71d70f30f30f70f70f78f78f78f",
+      "category": "photo",
+      "subjects": [
+        "city",
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "8321c121-c27d-4f83-8a2f-337a3f0af0b3",
+      "title": "Paris dress",
+      "titleEn": "Paris dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/8321c121-c27d-4f83-8a2f-337a3f0af0b3.jpg",
+      "thumbUrl": "/stills/8321c121-c27d-4f83-8a2f-337a3f0af0b3.jpg",
+      "pageUrl": "https://archive.org/details/LMG00054",
+      "author": "Mutlow, Henry",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "buckets": [
+        "yellow",
+        "red",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#f3e4ba",
+          "rgb": [
+            243,
+            228,
+            186
+          ],
+          "ratio": 0.4296875,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#faeec2",
+          "rgb": [
+            250,
+            238,
+            194
+          ],
+          "ratio": 0.2019314236111111,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#844444",
+          "rgb": [
+            132,
+            68,
+            68
+          ],
+          "ratio": 0.1814236111111111,
+          "bucket": "red"
+        },
+        {
+          "hex": "#ddcfab",
+          "rgb": [
+            221,
+            207,
+            171
+          ],
+          "ratio": 0.09375,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#9e9177",
+          "rgb": [
+            158,
+            145,
+            119
+          ],
+          "ratio": 0.09320746527777778,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-11-20T04:57:44.876Z",
+      "fileKey": "archive:LMG00054",
+      "kind": "photo",
+      "photographer": "Mutlow, Henry",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "fcffc7fc7fcffcff87f87f87f87f87f07801",
+      "category": "photo",
+      "subjects": [
+        "city",
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "8327520f-f515-4bf5-834d-0bb6a3dc0a63",
+      "title": "Paris dress",
+      "titleEn": "Paris dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/8327520f-f515-4bf5-834d-0bb6a3dc0a63.jpg",
+      "thumbUrl": "/stills/8327520f-f515-4bf5-834d-0bb6a3dc0a63.jpg",
+      "pageUrl": "https://archive.org/details/LMG00062",
+      "author": "Mutlow, Henry",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "buckets": [
+        "yellow",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#bebaa3",
+          "rgb": [
+            190,
+            186,
+            163
+          ],
+          "ratio": 0.3131510416666667,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#f4e7bc",
+          "rgb": [
+            244,
+            231,
+            188
+          ],
+          "ratio": 0.3039279513888889,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#d8d0af",
+          "rgb": [
+            216,
+            208,
+            175
+          ],
+          "ratio": 0.2312282986111111,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#a4a190",
+          "rgb": [
+            164,
+            161,
+            144
+          ],
+          "ratio": 0.11610243055555555,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#847e6d",
+          "rgb": [
+            132,
+            126,
+            109
+          ],
+          "ratio": 0.035590277777777776,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-11-20T04:57:46.732Z",
+      "fileKey": "archive:LMG00062",
+      "kind": "photo",
+      "photographer": "Mutlow, Henry",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "07f0df0df1df10f10f10f10f00f00f0b30f3",
+      "category": "photo",
+      "subjects": [
+        "city",
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "ac2b3d7f-2ece-48ba-a661-23075c0404b0",
+      "title": "Varieties: Mlle. Lender et Brasseur",
+      "titleEn": "Varieties: Mlle. Lender et Brasseur",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/ac2b3d7f-2ece-48ba-a661-23075c0404b0.jpg",
+      "thumbUrl": "/stills/ac2b3d7f-2ece-48ba-a661-23075c0404b0.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/10051396/image-face-person-art",
+      "author": "rawpixel",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#f2e5c9",
+          "rgb": [
+            242,
+            229,
+            201
+          ],
+          "ratio": 0.5417751736111112,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#f4e7cb",
+          "rgb": [
+            244,
+            231,
+            203
+          ],
+          "ratio": 0.18489583333333334,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#e2d2ad",
+          "rgb": [
+            226,
+            210,
+            173
+          ],
+          "ratio": 0.12000868055555555,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#eddfc0",
+          "rgb": [
+            237,
+            223,
+            192
+          ],
+          "ratio": 0.09711371527777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#cbbc91",
+          "rgb": [
+            203,
+            188,
+            145
+          ],
+          "ratio": 0.056206597222222224,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-11-20T04:57:48.434Z",
+      "fileKey": "openverse:6f8fad5a-0588-41bd-b1bf-34467faf532c",
+      "kind": "photo",
+      "photographer": "rawpixel",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "000000c15f8ff8ffffffffffffffffedfeff",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "671a0dd1-080a-4493-a9e8-1f5222691f8c",
+      "title": "The General Proportion of the Ionick [Ionic] Order, in Chippendale Drawings, Vol. I",
+      "titleEn": "The General Proportion of the Ionick [Ionic] Order, in Chippendale Drawings, Vol. I",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/671a0dd1-080a-4493-a9e8-1f5222691f8c.jpg",
+      "thumbUrl": "/stills/671a0dd1-080a-4493-a9e8-1f5222691f8c.jpg",
+      "pageUrl": "https://archive.org/details/mma_the_general_proportion_of_the_ionick_ionic_order_in_chippendale_drawings_390479",
+      "author": "Thomas Chippendale",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_the_general_proportion_of_the_ionick_ionic_order_in_chippendale_drawings_390479",
+      "buckets": [
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#c9c3a7",
+          "rgb": [
+            201,
+            195,
+            167
+          ],
+          "ratio": 0.3803168402777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#dcd5b9",
+          "rgb": [
+            220,
+            213,
+            185
+          ],
+          "ratio": 0.2978515625,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#b3ad92",
+          "rgb": [
+            179,
+            173,
+            146
+          ],
+          "ratio": 0.2160373263888889,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#898674",
+          "rgb": [
+            137,
+            134,
+            116
+          ],
+          "ratio": 0.07194010416666667,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#434f6b",
+          "rgb": [
+            67,
+            79,
+            107
+          ],
+          "ratio": 0.033854166666666664,
+          "bucket": "blue"
+        }
+      ],
+      "addedAt": "2026-11-20T04:57:50.732Z",
+      "fileKey": "archive:mma_the_general_proportion_of_the_ionick_ionic_order_in_chippendale_drawings_390479",
+      "kind": "photo",
+      "photographer": "Thomas Chippendale",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "7f87fa7f85b87f87f84784385785f8478418",
+      "category": "photo",
+      "subjects": [
+        "design"
+      ]
+    },
+    {
+      "id": "432b2b00-6207-4f7a-a692-ea5934cb7aa6",
+      "title": "Henri-Gabriel Ibels (1867–1936)",
+      "titleEn": "Henri-Gabriel Ibels (1867–1936)",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/432b2b00-6207-4f7a-a692-ea5934cb7aa6.jpg",
+      "thumbUrl": "/stills/432b2b00-6207-4f7a-a692-ea5934cb7aa6.jpg",
+      "pageUrl": "https://www.metmuseum.org/art/collection/search/438017",
+      "author": "Henri de Toulouse-Lautrec",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#a69582",
+          "rgb": [
+            166,
+            149,
+            130
+          ],
+          "ratio": 0.4367404513888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#998876",
+          "rgb": [
+            153,
+            136,
+            118
+          ],
+          "ratio": 0.4105902777777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#403b4a",
+          "rgb": [
+            64,
+            59,
+            74
+          ],
+          "ratio": 0.05772569444444445,
+          "bucket": "purple"
+        },
+        {
+          "hex": "#6e6168",
+          "rgb": [
+            110,
+            97,
+            104
+          ],
+          "ratio": 0.05002170138888889,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#c0beb1",
+          "rgb": [
+            192,
+            190,
+            177
+          ],
+          "ratio": 0.044921875,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-11-20T04:57:51.649Z",
+      "fileKey": "openverse:95b423eb-3d7c-4170-a62f-33ce5f22eebd",
+      "kind": "photo",
+      "photographer": "Henri de Toulouse-Lautrec",
+      "sourceLabel": "Met Museum",
+      "contentHash": "780704778ffef04e1cf3ffffdf9ff1970200",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "27517006-94d1-4410-ad57-3439ac00caeb",
+      "title": "Palm Trees, Red (1890) Winslow",
+      "titleEn": "Palm Trees, Red (1890) Winslow",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/27517006-94d1-4410-ad57-3439ac00caeb.jpg",
+      "thumbUrl": "/stills/27517006-94d1-4410-ad57-3439ac00caeb.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/8231021/palm-trees-red-1890-winslow-homer",
+      "author": "nationalgalleryofart",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "orange",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#ddc6a7",
+          "rgb": [
+            221,
+            198,
+            167
+          ],
+          "ratio": 0.24348958333333334,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#b6a489",
+          "rgb": [
+            182,
+            164,
+            137
+          ],
+          "ratio": 0.2377387152777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#43443b",
+          "rgb": [
+            67,
+            68,
+            59
+          ],
+          "ratio": 0.2101779513888889,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#a58263",
+          "rgb": [
+            165,
+            130,
+            99
+          ],
+          "ratio": 0.15559895833333334,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#6d6a5a",
+          "rgb": [
+            109,
+            106,
+            90
+          ],
+          "ratio": 0.15299479166666666,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-11-20T04:57:53.093Z",
+      "fileKey": "openverse:285e62b1-41a9-4a89-86cc-87bbc116fb4a",
+      "kind": "photo",
+      "photographer": "nationalgalleryofart",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "ffffff1bf01f01f00301f03f01f00305f1ff",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "1a317c4b-95ab-44cf-8ec9-9f0525a5df8f",
+      "title": "Prout's Neck, Breaking Wave Winslow",
+      "titleEn": "Prout's Neck, Breaking Wave Winslow",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/1a317c4b-95ab-44cf-8ec9-9f0525a5df8f.jpg",
+      "thumbUrl": "/stills/1a317c4b-95ab-44cf-8ec9-9f0525a5df8f.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/8968804/prouts-neck-breaking-wave-winslow-homer",
+      "author": "artinstitutechicago",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "yellow",
+        "gray",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#cfcab5",
+          "rgb": [
+            207,
+            202,
+            181
+          ],
+          "ratio": 0.3865017361111111,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#5a5b51",
+          "rgb": [
+            90,
+            91,
+            81
+          ],
+          "ratio": 0.2463107638888889,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#838373",
+          "rgb": [
+            131,
+            131,
+            115
+          ],
+          "ratio": 0.1392144097222222,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#b2b09d",
+          "rgb": [
+            178,
+            176,
+            157
+          ],
+          "ratio": 0.1220703125,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#2f2925",
+          "rgb": [
+            47,
+            41,
+            37
+          ],
+          "ratio": 0.10590277777777778,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-11-20T04:57:54.684Z",
+      "fileKey": "openverse:6996cf87-0549-42b6-9217-cbf8681eeb92",
+      "kind": "photo",
+      "photographer": "Prout",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "00000003c07f07f0ff1ff3ff7ff7ff0ff01f",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "4a37d8bf-fae3-4a81-b4cd-0e9d12e4e158",
+      "title": "Portrait of the artist's mother",
+      "titleEn": "Portrait of the artist's mother",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/4a37d8bf-fae3-4a81-b4cd-0e9d12e4e158.jpg",
+      "thumbUrl": "/stills/4a37d8bf-fae3-4a81-b4cd-0e9d12e4e158.jpg",
+      "pageUrl": "https://archive.org/details/mma_portrait_of_the_artists_mother_238890",
+      "author": "Daniel Jean-Baptiste Dupuis",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_portrait_of_the_artists_mother_238890",
+      "buckets": [
+        "brown",
+        "orange",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#887159",
+          "rgb": [
+            136,
+            113,
+            89
+          ],
+          "ratio": 0.3414713541666667,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#978169",
+          "rgb": [
+            151,
+            129,
+            105
+          ],
+          "ratio": 0.2709418402777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#aba8a6",
+          "rgb": [
+            171,
+            168,
+            166
+          ],
+          "ratio": 0.21419270833333334,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#6b5947",
+          "rgb": [
+            107,
+            89,
+            71
+          ],
+          "ratio": 0.11653645833333333,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#23221f",
+          "rgb": [
+            35,
+            34,
+            31
+          ],
+          "ratio": 0.05685763888888889,
+          "bucket": "black"
+        }
+      ],
+      "addedAt": "2026-11-20T04:57:55.695Z",
+      "fileKey": "archive:mma_portrait_of_the_artists_mother_238890",
+      "kind": "photo",
+      "photographer": "Portrait of the artist",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "fffe07c7b97d8d587f00700f82703c839c03",
+      "category": "photo",
+      "people": "one",
+      "subjects": [
+        "portrait"
+      ]
+    },
+    {
+      "id": "cf6e2ced-8740-4b17-9f94-bdd91b442ef9",
+      "title": "death-bed, 1896, Edvard Munch",
+      "titleEn": "death-bed, 1896, Edvard Munch",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/cf6e2ced-8740-4b17-9f94-bdd91b442ef9.jpg",
+      "thumbUrl": "/stills/cf6e2ced-8740-4b17-9f94-bdd91b442ef9.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/8865078/the-death-bed-1896-edvard-munch",
+      "author": "rawpixel",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "black",
+        "yellow",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#111416",
+          "rgb": [
+            17,
+            20,
+            22
+          ],
+          "ratio": 0.3458116319444444,
+          "bucket": "black"
+        },
+        {
+          "hex": "#b0b09c",
+          "rgb": [
+            176,
+            176,
+            156
+          ],
+          "ratio": 0.2972005208333333,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#7c7e6d",
+          "rgb": [
+            124,
+            126,
+            109
+          ],
+          "ratio": 0.12586805555555555,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#4f5348",
+          "rgb": [
+            79,
+            83,
+            72
+          ],
+          "ratio": 0.12489149305555555,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#2a2f29",
+          "rgb": [
+            42,
+            47,
+            41
+          ],
+          "ratio": 0.1062282986111111,
+          "bucket": "black"
+        }
+      ],
+      "addedAt": "2026-11-20T04:57:58.198Z",
+      "fileKey": "openverse:afcdb9ff-c0cd-4ecb-9a04-0af2148705c3",
+      "kind": "photo",
+      "photographer": "rawpixel",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "ff8bc0f4cf3ff1be10f80ec0970380080fff",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "9b0d7245-8145-4209-a617-d3ecad5b847b",
+      "title": "Henri Rousseau 's Virgin Forest",
+      "titleEn": "Henri Rousseau 's Virgin Forest",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/9b0d7245-8145-4209-a617-d3ecad5b847b.jpg",
+      "thumbUrl": "/stills/9b0d7245-8145-4209-a617-d3ecad5b847b.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/3856482/illustration-image-flower-tree-art",
+      "author": "rawpixel",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "green",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#272f23",
+          "rgb": [
+            39,
+            47,
+            35
+          ],
+          "ratio": 0.3319227430555556,
+          "bucket": "green"
+        },
+        {
+          "hex": "#434e2b",
+          "rgb": [
+            67,
+            78,
+            43
+          ],
+          "ratio": 0.3256293402777778,
+          "bucket": "green"
+        },
+        {
+          "hex": "#6a6b44",
+          "rgb": [
+            106,
+            107,
+            68
+          ],
+          "ratio": 0.13411458333333334,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#ccede4",
+          "rgb": [
+            204,
+            237,
+            228
+          ],
+          "ratio": 0.123046875,
+          "bucket": "green"
+        },
+        {
+          "hex": "#939e84",
+          "rgb": [
+            147,
+            158,
+            132
+          ],
+          "ratio": 0.08528645833333333,
+          "bucket": "green"
+        }
+      ],
+      "addedAt": "2026-11-20T04:58:01.799Z",
+      "fileKey": "openverse:db774ece-8121-4ef2-ac61-a5714dcef161",
+      "kind": "photo",
+      "photographer": "Henri Rousseau",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "fffffcff87f0040000000000001000020000",
+      "category": "photo",
+      "people": "none",
+      "subjects": [
+        "nature"
+      ]
+    },
+    {
+      "id": "3ee0bcb1-c5a4-4585-b79b-7e22311f724b",
+      "title": "Frets, from Chippendale Drawings, Vol. II",
+      "titleEn": "Frets, from Chippendale Drawings, Vol. II",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/3ee0bcb1-c5a4-4585-b79b-7e22311f724b.jpg",
+      "thumbUrl": "/stills/3ee0bcb1-c5a4-4585-b79b-7e22311f724b.jpg",
+      "pageUrl": "https://archive.org/details/mma_frets_from_chippendale_drawings_vol_ii_390674",
+      "author": "Thomas Chippendale",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_frets_from_chippendale_drawings_vol_ii_390674",
+      "buckets": [
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#d1c5ab",
+          "rgb": [
+            209,
+            197,
+            171
+          ],
+          "ratio": 0.3729383680555556,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#ded2b8",
+          "rgb": [
+            222,
+            210,
+            184
+          ],
+          "ratio": 0.3198784722222222,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#bbb196",
+          "rgb": [
+            187,
+            177,
+            150
+          ],
+          "ratio": 0.17274305555555555,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#958e78",
+          "rgb": [
+            149,
+            142,
+            120
+          ],
+          "ratio": 0.09016927083333333,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#394665",
+          "rgb": [
+            57,
+            70,
+            101
+          ],
+          "ratio": 0.044270833333333336,
+          "bucket": "blue"
+        }
+      ],
+      "addedAt": "2026-11-20T04:58:03.247Z",
+      "fileKey": "archive:mma_frets_from_chippendale_drawings_vol_ii_390674",
+      "kind": "photo",
+      "photographer": "Thomas Chippendale",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "000f80fc0ffffe0ff0ffffc0fe0ffbfe0120",
+      "category": "photo",
+      "subjects": [
+        "design"
+      ]
+    },
+    {
+      "id": "2349813b-057c-4929-abd6-0f72a5980c64",
+      "title": "Sin, Woman Red Hair Green",
+      "titleEn": "Sin, Woman Red Hair Green",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/2349813b-057c-4929-abd6-0f72a5980c64.jpg",
+      "thumbUrl": "/stills/2349813b-057c-4929-abd6-0f72a5980c64.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/2043814/the-sin-woman-with-red-hair-and-green-eyes",
+      "author": "rijksmuseum",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "yellow",
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#d1cdba",
+          "rgb": [
+            209,
+            205,
+            186
+          ],
+          "ratio": 0.3262803819444444,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#b44d1e",
+          "rgb": [
+            180,
+            77,
+            30
+          ],
+          "ratio": 0.2781032986111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#bd6a32",
+          "rgb": [
+            189,
+            106,
+            50
+          ],
+          "ratio": 0.22352430555555555,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#ccb689",
+          "rgb": [
+            204,
+            182,
+            137
+          ],
+          "ratio": 0.09711371527777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#c28f5f",
+          "rgb": [
+            194,
+            143,
+            95
+          ],
+          "ratio": 0.0749782986111111,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-11-20T04:58:04.844Z",
+      "fileKey": "openverse:7295240c-8155-479e-83e1-fb08b1faa553",
+      "kind": "photo",
+      "photographer": "rijksmuseum",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "cc3ce3ce3cc38438e19e11e11e13e13e13e1",
+      "category": "photo",
+      "subjects": [
+        "people"
+      ]
+    },
+    {
+      "id": "16e67f86-82fe-4453-b08b-d0432a84f836",
+      "title": "Sous-Bois (ca. 1894) Paul Cézanne",
+      "titleEn": "Sous-Bois (ca. 1894) Paul Cézanne",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/16e67f86-82fe-4453-b08b-d0432a84f836.jpg",
+      "thumbUrl": "/stills/16e67f86-82fe-4453-b08b-d0432a84f836.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/2035190/sous-bois-paul-cezanne",
+      "author": "lacma",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "gray",
+        "cyan",
+        "yellow",
+        "green"
+      ],
+      "palette": [
+        {
+          "hex": "#95a094",
+          "rgb": [
+            149,
+            160,
+            148
+          ],
+          "ratio": 0.28515625,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#abbcb9",
+          "rgb": [
+            171,
+            188,
+            185
+          ],
+          "ratio": 0.201171875,
+          "bucket": "cyan"
+        },
+        {
+          "hex": "#d0be91",
+          "rgb": [
+            208,
+            190,
+            145
+          ],
+          "ratio": 0.1850043402777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#6f817c",
+          "rgb": [
+            111,
+            129,
+            124
+          ],
+          "ratio": 0.18359375,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#dadfc4",
+          "rgb": [
+            218,
+            223,
+            196
+          ],
+          "ratio": 0.1450737847222222,
+          "bucket": "green"
+        }
+      ],
+      "addedAt": "2026-11-20T04:58:32.456Z",
+      "fileKey": "openverse:9e977b0f-1584-4973-bd39-1cb99eb74ff8",
+      "kind": "photo",
+      "photographer": "Paul Cézanne",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "800c00ee1bc1fe3c729a73e03f8fe4dc6fc7"
     }
   ],
-  "lastIngestDate": "2026-11-19",
+  "lastIngestDate": "2026-11-20",
   "seenFileKeys": [
     "stills:04b85cc4-5a5c-4d95-9d52-460ceefa3ee5.jpg",
     "stills:0509b1d5-b5da-4b3c-8e65-edda97b86985.jpg",
@@ -397879,7 +399000,26 @@
     "openverse:94416db2-bada-4810-82f9-a9e31ab84eb7",
     "archive:mount-wilson-observatory_150-foot-solar-tower_drawing_1929-06-25",
     "openverse:3a1a2901-0705-4b74-b0b4-f560f0845d6d",
-    "File:Ayollar sahna libosi 18.png"
+    "File:Ayollar sahna libosi 18.png",
+    "archive:LMG00041",
+    "archive:LMG00054",
+    "archive:LMG00062",
+    "openverse:6f8fad5a-0588-41bd-b1bf-34467faf532c",
+    "openverse:f963003d-b06f-43da-b0f1-9806c6bd62c6",
+    "archive:mma_the_general_proportion_of_the_ionick_ionic_order_in_chippendale_drawings_390479",
+    "openverse:95b423eb-3d7c-4170-a62f-33ce5f22eebd",
+    "openverse:285e62b1-41a9-4a89-86cc-87bbc116fb4a",
+    "openverse:6996cf87-0549-42b6-9217-cbf8681eeb92",
+    "archive:mma_portrait_of_the_artists_mother_238890",
+    "openverse:afcdb9ff-c0cd-4ecb-9a04-0af2148705c3",
+    "archive:mma_portrait_of_mme_herbette_187523",
+    "openverse:96757808-d96c-492c-bfc9-e5d7cdf4be02",
+    "openverse:db774ece-8121-4ef2-ac61-a5714dcef161",
+    "archive:mma_folding_armchair_225",
+    "archive:mma_frets_from_chippendale_drawings_vol_ii_390674",
+    "openverse:7295240c-8155-479e-83e1-fb08b1faa553",
+    "archive:mma_the_gentleman_and_cabinetmakers_director__being_a_large_collection_of_the_347524",
+    "openverse:9e977b0f-1584-4973-bd39-1cb99eb74ff8"
   ],
   "seenContentHashes": [
     "ff8f20c0481cf3cffcf7ce58ffcffcffcd7e",
@@ -402517,6 +403657,20 @@
     "01c03f03f0ff1ff11f19f1bf1ff07f07ff7f",
     "fff0486c643512180d06130180c1311098c9",
     "4e64424024634624725fa5fa5ae476612422",
-    "0000f00f00f00f01f00f001073cf3effffff"
+    "0000f00f00f00f01f00f001073cf3effffff",
+    "f9f38f79f71d70f30f30f70f70f78f78f78f",
+    "fcffc7fc7fcffcff87f87f87f87f87f07801",
+    "07f0df0df1df10f10f10f10f00f00f0b30f3",
+    "000000c15f8ff8ffffffffffffffffedfeff",
+    "7f87fa7f85b87f87f84784385785f8478418",
+    "780704778ffef04e1cf3ffffdf9ff1970200",
+    "ffffff1bf01f01f00301f03f01f00305f1ff",
+    "00000003c07f07f0ff1ff3ff7ff7ff0ff01f",
+    "fffe07c7b97d8d587f00700f82703c839c03",
+    "ff8bc0f4cf3ff1be10f80ec0970380080fff",
+    "fffffcff87f0040000000000001000020000",
+    "000f80fc0ffffe0ff0ffffc0fe0ffbfe0120",
+    "cc3ce3ce3cc38438e19e11e11e13e13e13e1",
+    "800c00ee1bc1fe3c729a73e03f8fe4dc6fc7"
   ]
 }
