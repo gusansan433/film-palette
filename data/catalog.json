@@ -391418,10 +391418,651 @@
       "kind": "photo",
       "photographer": "Paul Cézanne",
       "sourceLabel": "Rawpixel",
-      "contentHash": "800c00ee1bc1fe3c729a73e03f8fe4dc6fc7"
+      "contentHash": "800c00ee1bc1fe3c729a73e03f8fe4dc6fc7",
+      "category": "painting",
+      "subjects": []
+    },
+    {
+      "id": "12740417-5de6-4f77-bde4-96323142b9f5",
+      "title": "Wedding dress",
+      "titleEn": "Wedding dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/12740417-5de6-4f77-bde4-96323142b9f5.jpg",
+      "thumbUrl": "/stills/12740417-5de6-4f77-bde4-96323142b9f5.jpg",
+      "pageUrl": "https://archive.org/details/mma_wedding_dress_108032",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_wedding_dress_108032",
+      "buckets": [
+        "orange",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#c6b9a2",
+          "rgb": [
+            198,
+            185,
+            162
+          ],
+          "ratio": 0.3472222222222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#b1a185",
+          "rgb": [
+            177,
+            161,
+            133
+          ],
+          "ratio": 0.24131944444444445,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#dfd0b0",
+          "rgb": [
+            223,
+            208,
+            176
+          ],
+          "ratio": 0.2062717013888889,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#ede1c7",
+          "rgb": [
+            237,
+            225,
+            199
+          ],
+          "ratio": 0.17274305555555555,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#765c35",
+          "rgb": [
+            118,
+            92,
+            53
+          ],
+          "ratio": 0.03244357638888889,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-11-21T04:40:50.887Z",
+      "fileKey": "archive:mma_wedding_dress_108032",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "0f00f40f40f44f60fa3ff37f33f33f01c01c",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "ed01f74d-a691-4c88-ba03-5f183e77dcb9",
+      "title": "Evening dress",
+      "titleEn": "Evening dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/ed01f74d-a691-4c88-ba03-5f183e77dcb9.jpg",
+      "thumbUrl": "/stills/ed01f74d-a691-4c88-ba03-5f183e77dcb9.jpg",
+      "pageUrl": "https://archive.org/details/mma_evening_dress_90492",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_evening_dress_90492",
+      "buckets": [
+        "orange",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#ccb995",
+          "rgb": [
+            204,
+            185,
+            149
+          ],
+          "ratio": 0.3684895833333333,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#c9b590",
+          "rgb": [
+            201,
+            181,
+            144
+          ],
+          "ratio": 0.2875434027777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#c5b08a",
+          "rgb": [
+            197,
+            176,
+            138
+          ],
+          "ratio": 0.1521267361111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d3c09a",
+          "rgb": [
+            211,
+            192,
+            154
+          ],
+          "ratio": 0.13172743055555555,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#bfa981",
+          "rgb": [
+            191,
+            169,
+            129
+          ],
+          "ratio": 0.060112847222222224,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-11-21T04:40:51.757Z",
+      "fileKey": "archive:mma_evening_dress_90492",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "0c60ec3ff1ff3ff5ff5ff5ff0ff4fa06a000",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "6ba08eae-a918-413b-afa6-b753a194f120",
+      "title": "An elegant new pattern for cuff and border of a dress",
+      "titleEn": "An elegant new pattern for cuff and border of a dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/6ba08eae-a918-413b-afa6-b753a194f120.jpg",
+      "thumbUrl": "/stills/6ba08eae-a918-413b-afa6-b753a194f120.jpg",
+      "pageUrl": "https://archive.org/details/LMG00019",
+      "author": "Lady's Magazine",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "buckets": [
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#f6f0d4",
+          "rgb": [
+            246,
+            240,
+            212
+          ],
+          "ratio": 0.4251302083333333,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#e4dfc6",
+          "rgb": [
+            228,
+            223,
+            198
+          ],
+          "ratio": 0.2241753472222222,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#c8c2ac",
+          "rgb": [
+            200,
+            194,
+            172
+          ],
+          "ratio": 0.1635199652777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#ada792",
+          "rgb": [
+            173,
+            167,
+            146
+          ],
+          "ratio": 0.12413194444444445,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#8f8976",
+          "rgb": [
+            143,
+            137,
+            118
+          ],
+          "ratio": 0.06304253472222222,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-11-21T04:40:52.563Z",
+      "fileKey": "archive:LMG00019",
+      "kind": "photo",
+      "photographer": "Lady's Magazine",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "ffffdff03c00000782fff480300800000fe1",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design",
+        "pattern"
+      ]
+    },
+    {
+      "id": "c90a5936-66b4-412e-9df1-f339aa461b2e",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/c90a5936-66b4-412e-9df1-f339aa461b2e.jpg",
+      "thumbUrl": "/stills/c90a5936-66b4-412e-9df1-f339aa461b2e.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_108195",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_108195",
+      "buckets": [
+        "purple"
+      ],
+      "palette": [
+        {
+          "hex": "#170e2d",
+          "rgb": [
+            23,
+            14,
+            45
+          ],
+          "ratio": 0.4743923611111111,
+          "bucket": "purple"
+        },
+        {
+          "hex": "#cea8e6",
+          "rgb": [
+            206,
+            168,
+            230
+          ],
+          "ratio": 0.2279730902777778,
+          "bucket": "purple"
+        },
+        {
+          "hex": "#b48be0",
+          "rgb": [
+            180,
+            139,
+            224
+          ],
+          "ratio": 0.177734375,
+          "bucket": "purple"
+        },
+        {
+          "hex": "#3b2467",
+          "rgb": [
+            59,
+            36,
+            103
+          ],
+          "ratio": 0.0675998263888889,
+          "bucket": "purple"
+        },
+        {
+          "hex": "#7c59ae",
+          "rgb": [
+            124,
+            89,
+            174
+          ],
+          "ratio": 0.052300347222222224,
+          "bucket": "purple"
+        }
+      ],
+      "addedAt": "2026-11-21T04:40:53.366Z",
+      "fileKey": "archive:mma_dress_108195",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "e63e07f0e30c800c61c6100038c70ee07e67",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "b641584c-c71e-4e05-bd5c-23551418f8df",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/b641584c-c71e-4e05-bd5c-23551418f8df.jpg",
+      "thumbUrl": "/stills/b641584c-c71e-4e05-bd5c-23551418f8df.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_174652",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_174652",
+      "buckets": [
+        "orange",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#c6c6c6",
+          "rgb": [
+            198,
+            198,
+            198
+          ],
+          "ratio": 0.2823350694444444,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#d0b27a",
+          "rgb": [
+            208,
+            178,
+            122
+          ],
+          "ratio": 0.279296875,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#dcc9a9",
+          "rgb": [
+            220,
+            201,
+            169
+          ],
+          "ratio": 0.1882595486111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#b28649",
+          "rgb": [
+            178,
+            134,
+            73
+          ],
+          "ratio": 0.1349826388888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#c1c0bf",
+          "rgb": [
+            193,
+            192,
+            191
+          ],
+          "ratio": 0.11512586805555555,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-11-21T04:40:54.957Z",
+      "fileKey": "archive:mma_dress_174652",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "cd3cf3eb7f07f07e07e33f13e17e07e03e03",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "724f9991-1861-41f9-88b4-700a21dcc08f",
+      "title": "man charged punishing slave venerated",
+      "titleEn": "man charged punishing slave venerated",
+      "titleZh": "",
+      "director": "",
+      "source": "openverse",
+      "imageUrl": "/stills/724f9991-1861-41f9-88b4-700a21dcc08f.jpg",
+      "thumbUrl": "/stills/724f9991-1861-41f9-88b4-700a21dcc08f.jpg",
+      "pageUrl": "https://www.rawpixel.com/image/13997317/image-person-art-man",
+      "author": "rawpixel",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#603b21",
+          "rgb": [
+            96,
+            59,
+            33
+          ],
+          "ratio": 0.2966579861111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#43291a",
+          "rgb": [
+            67,
+            41,
+            26
+          ],
+          "ratio": 0.2300347222222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#82552f",
+          "rgb": [
+            130,
+            85,
+            47
+          ],
+          "ratio": 0.2209201388888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#251710",
+          "rgb": [
+            37,
+            23,
+            16
+          ],
+          "ratio": 0.1716579861111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#a77c52",
+          "rgb": [
+            167,
+            124,
+            82
+          ],
+          "ratio": 0.08072916666666667,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-11-21T04:40:56.906Z",
+      "fileKey": "openverse:7049f355-75a1-4212-90ac-49278b0efdca",
+      "kind": "photo",
+      "photographer": "rawpixel",
+      "sourceLabel": "Rawpixel",
+      "contentHash": "3fc7f87f07f03e01cc102170078320788790",
+      "category": "photo",
+      "subjects": [
+        "people"
+      ]
+    },
+    {
+      "id": "87d032c6-bb59-4ceb-ab15-185a94fb5829",
+      "title": "The Meeting of King Solomon and the Queen of Sheba, with the Four Elements",
+      "titleEn": "The Meeting of King Solomon and the Queen of Sheba, with the Four Elements",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/87d032c6-bb59-4ceb-ab15-185a94fb5829.jpg",
+      "thumbUrl": "/stills/87d032c6-bb59-4ceb-ab15-185a94fb5829.jpg",
+      "pageUrl": "https://archive.org/details/mma_the_meeting_of_king_solomon_and_the_queen_of_sheba_with_the_four_elements_229008",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_the_meeting_of_king_solomon_and_the_queen_of_sheba_with_the_four_elements_229008",
+      "buckets": [
+        "gray",
+        "cyan",
+        "orange",
+        "white"
+      ],
+      "palette": [
+        {
+          "hex": "#576259",
+          "rgb": [
+            87,
+            98,
+            89
+          ],
+          "ratio": 0.2777777777777778,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#253336",
+          "rgb": [
+            37,
+            51,
+            54
+          ],
+          "ratio": 0.2404513888888889,
+          "bucket": "cyan"
+        },
+        {
+          "hex": "#867e70",
+          "rgb": [
+            134,
+            126,
+            112
+          ],
+          "ratio": 0.2099609375,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#b6a48c",
+          "rgb": [
+            182,
+            164,
+            140
+          ],
+          "ratio": 0.1689453125,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#e2e2df",
+          "rgb": [
+            226,
+            226,
+            223
+          ],
+          "ratio": 0.10286458333333333,
+          "bucket": "white"
+        }
+      ],
+      "addedAt": "2026-11-21T04:41:23.317Z",
+      "fileKey": "archive:mma_the_meeting_of_king_solomon_and_the_queen_of_sheba_with_the_four_elements_229008",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "fff0008718010700f37ff1fe0700408f00ff",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "c67f74fe-1746-47fe-bb97-51686439a42d",
+      "title": "Buxoro raqsi",
+      "titleEn": "Buxoro raqsi",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/c67f74fe-1746-47fe-bb97-51686439a42d.jpg",
+      "thumbUrl": "/stills/c67f74fe-1746-47fe-bb97-51686439a42d.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Buxoro_raqsi.png",
+      "author": "AIDEPCUL",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "buckets": [
+        "blue"
+      ],
+      "palette": [
+        {
+          "hex": "#103d5b",
+          "rgb": [
+            16,
+            61,
+            91
+          ],
+          "ratio": 0.3573133680555556,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#315684",
+          "rgb": [
+            49,
+            86,
+            132
+          ],
+          "ratio": 0.3439670138888889,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#6c7cae",
+          "rgb": [
+            108,
+            124,
+            174
+          ],
+          "ratio": 0.13856336805555555,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#04283a",
+          "rgb": [
+            4,
+            40,
+            58
+          ],
+          "ratio": 0.13053385416666666,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#525463",
+          "rgb": [
+            82,
+            84,
+            99
+          ],
+          "ratio": 0.029622395833333332,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-11-21T04:45:10.625Z",
+      "fileKey": "File:Buxoro raqsi.png",
+      "kind": "film",
+      "photographer": "AIDEPCUL",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "0000783f81f81f81380000800fcdfedfffff"
     }
   ],
-  "lastIngestDate": "2026-11-20",
+  "lastIngestDate": "2026-11-21",
   "seenFileKeys": [
     "stills:04b85cc4-5a5c-4d95-9d52-460ceefa3ee5.jpg",
     "stills:0509b1d5-b5da-4b3c-8e65-edda97b86985.jpg",
@@ -399019,7 +399660,18 @@
     "archive:mma_frets_from_chippendale_drawings_vol_ii_390674",
     "openverse:7295240c-8155-479e-83e1-fb08b1faa553",
     "archive:mma_the_gentleman_and_cabinetmakers_director__being_a_large_collection_of_the_347524",
-    "openverse:9e977b0f-1584-4973-bd39-1cb99eb74ff8"
+    "openverse:9e977b0f-1584-4973-bd39-1cb99eb74ff8",
+    "archive:mma_textile_sample_book_229378",
+    "archive:mma_wedding_dress_108032",
+    "archive:mma_evening_dress_90492",
+    "archive:LMG00019",
+    "archive:mma_dress_108195",
+    "archive:mma_dress_83084",
+    "archive:mma_dress_174652",
+    "openverse:7049f355-75a1-4212-90ac-49278b0efdca",
+    "archive:mma_the_meeting_of_king_solomon_and_the_queen_of_sheba_with_the_four_elements_229008",
+    "archive:PC001070",
+    "File:Buxoro raqsi.png"
   ],
   "seenContentHashes": [
     "ff8f20c0481cf3cffcf7ce58ffcffcffcd7e",
@@ -403671,6 +404323,14 @@
     "fffffcff87f0040000000000001000020000",
     "000f80fc0ffffe0ff0ffffc0fe0ffbfe0120",
     "cc3ce3ce3cc38438e19e11e11e13e13e13e1",
-    "800c00ee1bc1fe3c729a73e03f8fe4dc6fc7"
+    "800c00ee1bc1fe3c729a73e03f8fe4dc6fc7",
+    "0f00f40f40f44f60fa3ff37f33f33f01c01c",
+    "0c60ec3ff1ff3ff5ff5ff5ff0ff4fa06a000",
+    "ffffdff03c00000782fff480300800000fe1",
+    "e63e07f0e30c800c61c6100038c70ee07e67",
+    "cd3cf3eb7f07f07e07e33f13e17e07e03e03",
+    "3fc7f87f07f03e01cc102170078320788790",
+    "fff0008718010700f37ff1fe0700408f00ff",
+    "0000783f81f81f81380000800fcdfedfffff"
   ]
 }
