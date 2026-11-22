@@ -392059,10 +392059,496 @@
       "kind": "film",
       "photographer": "AIDEPCUL",
       "sourceLabel": "维基共享资源",
-      "contentHash": "0000783f81f81f81380000800fcdfedfffff"
+      "contentHash": "0000783f81f81f81380000800fcdfedfffff",
+      "category": "film",
+      "subjects": [
+        "people"
+      ]
+    },
+    {
+      "id": "156b5ef9-1ab0-46b7-bf72-7a2ad6e371d0",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/156b5ef9-1ab0-46b7-bf72-7a2ad6e371d0.jpg",
+      "thumbUrl": "/stills/156b5ef9-1ab0-46b7-bf72-7a2ad6e371d0.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_107777",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_107777",
+      "buckets": [
+        "brown",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#8d7f64",
+          "rgb": [
+            141,
+            127,
+            100
+          ],
+          "ratio": 0.3572048611111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#af9c73",
+          "rgb": [
+            175,
+            156,
+            115
+          ],
+          "ratio": 0.3142361111111111,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#d0c8b0",
+          "rgb": [
+            208,
+            200,
+            176
+          ],
+          "ratio": 0.1684027777777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#75633f",
+          "rgb": [
+            117,
+            99,
+            63
+          ],
+          "ratio": 0.11143663194444445,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#49391c",
+          "rgb": [
+            73,
+            57,
+            28
+          ],
+          "ratio": 0.04871961805555555,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-11-22T03:59:27.995Z",
+      "fileKey": "archive:mma_dress_107777",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "07007206206779b49b49941945141b79f7bf",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "4a974fbe-3f6a-4752-8b02-a3ca1847f33f",
+      "title": "The Blessed Egidius (Cartoon for a Fresco)",
+      "titleEn": "The Blessed Egidius (Cartoon for a Fresco)",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/4a974fbe-3f6a-4752-8b02-a3ca1847f33f.jpg",
+      "thumbUrl": "/stills/4a974fbe-3f6a-4752-8b02-a3ca1847f33f.jpg",
+      "pageUrl": "https://archive.org/details/mma_the_blessed_egidius_cartoon_for_a_fresco_358172",
+      "author": "Lo Spagna (Giovanni di Pietro)",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_the_blessed_egidius_cartoon_for_a_fresco_358172",
+      "buckets": [
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#a79174",
+          "rgb": [
+            167,
+            145,
+            116
+          ],
+          "ratio": 0.2883029513888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#b79e7d",
+          "rgb": [
+            183,
+            158,
+            125
+          ],
+          "ratio": 0.283203125,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#99856a",
+          "rgb": [
+            153,
+            133,
+            106
+          ],
+          "ratio": 0.263671875,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#8a775e",
+          "rgb": [
+            138,
+            119,
+            94
+          ],
+          "ratio": 0.12901475694444445,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#c9b193",
+          "rgb": [
+            201,
+            177,
+            147
+          ],
+          "ratio": 0.035807291666666664,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-11-22T03:59:29.781Z",
+      "fileKey": "archive:mma_the_blessed_egidius_cartoon_for_a_fresco_358172",
+      "kind": "photo",
+      "photographer": "Lo Spagna (Giovanni di Pietro)",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "daf99fc3fc63e4fc1f83f88d981801801981",
+      "category": "painting",
+      "subjects": [
+        "ancient"
+      ]
+    },
+    {
+      "id": "a16bb561-4bec-4190-9abb-fb4131b11da0",
+      "title": "[Mrs. Louis Kentin in Empire Dress]",
+      "titleEn": "[Mrs. Louis Kentin in Empire Dress]",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/a16bb561-4bec-4190-9abb-fb4131b11da0.jpg",
+      "thumbUrl": "/stills/a16bb561-4bec-4190-9abb-fb4131b11da0.jpg",
+      "pageUrl": "https://archive.org/details/mma_mrs_louis_kentin_in_empire_dress_271857",
+      "author": "Thomas Eakins",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_mrs_louis_kentin_in_empire_dress_271857",
+      "buckets": [
+        "red",
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#60433d",
+          "rgb": [
+            96,
+            67,
+            61
+          ],
+          "ratio": 0.4689670138888889,
+          "bucket": "red"
+        },
+        {
+          "hex": "#6c4f46",
+          "rgb": [
+            108,
+            79,
+            70
+          ],
+          "ratio": 0.2390407986111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#7c6155",
+          "rgb": [
+            124,
+            97,
+            85
+          ],
+          "ratio": 0.1264105902777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#bdaf96",
+          "rgb": [
+            189,
+            175,
+            150
+          ],
+          "ratio": 0.0851779513888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#9d8874",
+          "rgb": [
+            157,
+            136,
+            116
+          ],
+          "ratio": 0.08040364583333333,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-11-22T03:59:32.511Z",
+      "fileKey": "archive:mma_mrs_louis_kentin_in_empire_dress_271857",
+      "kind": "photo",
+      "photographer": "Thomas Eakins",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "8258008008e08f08f08f0af0ef08608678df",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "70c303ac-2b72-45a3-b84a-cf31e6ae576c",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/70c303ac-2b72-45a3-b84a-cf31e6ae576c.jpg",
+      "thumbUrl": "/stills/70c303ac-2b72-45a3-b84a-cf31e6ae576c.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_155095",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_155095",
+      "buckets": [
+        "yellow",
+        "brown",
+        "black"
+      ],
+      "palette": [
+        {
+          "hex": "#a69c88",
+          "rgb": [
+            166,
+            156,
+            136
+          ],
+          "ratio": 0.4520399305555556,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#79705a",
+          "rgb": [
+            121,
+            112,
+            90
+          ],
+          "ratio": 0.2185329861111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#cdc5b3",
+          "rgb": [
+            205,
+            197,
+            179
+          ],
+          "ratio": 0.11675347222222222,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#f3f1eb",
+          "rgb": [
+            243,
+            241,
+            235
+          ],
+          "ratio": 0.10894097222222222,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#2c2826",
+          "rgb": [
+            44,
+            40,
+            38
+          ],
+          "ratio": 0.1037326388888889,
+          "bucket": "black"
+        }
+      ],
+      "addedAt": "2026-11-22T03:59:33.465Z",
+      "fileKey": "archive:mma_dress_155095",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "fff7fe3fe1f00600600701703fc3fcbfcffe",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "4ba4bec9-02c8-4e44-bc5a-0c5f05570c55",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/4ba4bec9-02c8-4e44-bc5a-0c5f05570c55.jpg",
+      "thumbUrl": "/stills/4ba4bec9-02c8-4e44-bc5a-0c5f05570c55.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_103419",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_103419",
+      "buckets": [
+        "yellow",
+        "black"
+      ],
+      "palette": [
+        {
+          "hex": "#e9e1bd",
+          "rgb": [
+            233,
+            225,
+            189
+          ],
+          "ratio": 0.4001736111111111,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#dacda8",
+          "rgb": [
+            218,
+            205,
+            168
+          ],
+          "ratio": 0.2693142361111111,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#121512",
+          "rgb": [
+            18,
+            21,
+            18
+          ],
+          "ratio": 0.2416449652777778,
+          "bucket": "black"
+        },
+        {
+          "hex": "#282723",
+          "rgb": [
+            40,
+            39,
+            35
+          ],
+          "ratio": 0.06304253472222222,
+          "bucket": "black"
+        },
+        {
+          "hex": "#a79878",
+          "rgb": [
+            167,
+            152,
+            120
+          ],
+          "ratio": 0.025824652777777776,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-11-22T03:59:35.228Z",
+      "fileKey": "archive:mma_dress_103419",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "7fe1f01f01f81f83fc3fc3fc3fe3fe3fe7fe",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "9839a28e-16a1-4c40-9f9e-3aab139995bb",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/9839a28e-16a1-4c40-9f9e-3aab139995bb.jpg",
+      "thumbUrl": "/stills/9839a28e-16a1-4c40-9f9e-3aab139995bb.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_108093",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_108093",
+      "buckets": [
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#b47042",
+          "rgb": [
+            180,
+            112,
+            66
+          ],
+          "ratio": 0.3243272569444444,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#9b4b25",
+          "rgb": [
+            155,
+            75,
+            37
+          ],
+          "ratio": 0.1840277777777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#d4b989",
+          "rgb": [
+            212,
+            185,
+            137
+          ],
+          "ratio": 0.1711154513888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#cbab7b",
+          "rgb": [
+            203,
+            171,
+            123
+          ],
+          "ratio": 0.1691623263888889,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#c18d5e",
+          "rgb": [
+            193,
+            141,
+            94
+          ],
+          "ratio": 0.1513671875,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-11-22T03:59:37.559Z",
+      "fileKey": "archive:mma_dress_108093",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "8036de7fce4fa8789e0c404dc03801e25ffd"
     }
   ],
-  "lastIngestDate": "2026-11-21",
+  "lastIngestDate": "2026-11-22",
   "seenFileKeys": [
     "stills:04b85cc4-5a5c-4d95-9d52-460ceefa3ee5.jpg",
     "stills:0509b1d5-b5da-4b3c-8e65-edda97b86985.jpg",
@@ -399671,7 +400157,19 @@
     "openverse:7049f355-75a1-4212-90ac-49278b0efdca",
     "archive:mma_the_meeting_of_king_solomon_and_the_queen_of_sheba_with_the_four_elements_229008",
     "archive:PC001070",
-    "File:Buxoro raqsi.png"
+    "File:Buxoro raqsi.png",
+    "archive:mma_dress_107777",
+    "archive:mma_dress_84237",
+    "archive:mma_the_blessed_egidius_cartoon_for_a_fresco_358172",
+    "archive:mma_winged_female_figures_with_putto_framing_element_for_fresco_363759",
+    "archive:mma_mourning_dress_173904",
+    "archive:mma_dress_98068",
+    "archive:mma_mrs_louis_kentin_in_empire_dress_271857",
+    "archive:mma_dress_155095",
+    "archive:mma_evening_dress_158261",
+    "archive:mma_dress_103419",
+    "archive:mma_dress_108386",
+    "archive:mma_dress_108093"
   ],
   "seenContentHashes": [
     "ff8f20c0481cf3cffcf7ce58ffcffcffcd7e",
@@ -404331,6 +404829,12 @@
     "cd3cf3eb7f07f07e07e33f13e17e07e03e03",
     "3fc7f87f07f03e01cc102170078320788790",
     "fff0008718010700f37ff1fe0700408f00ff",
-    "0000783f81f81f81380000800fcdfedfffff"
+    "0000783f81f81f81380000800fcdfedfffff",
+    "07007206206779b49b49941945141b79f7bf",
+    "daf99fc3fc63e4fc1f83f88d981801801981",
+    "8258008008e08f08f08f0af0ef08608678df",
+    "fff7fe3fe1f00600600701703fc3fcbfcffe",
+    "7fe1f01f01f81f83fc3fc3fc3fe3fe3fe7fe",
+    "8036de7fce4fa8789e0c404dc03801e25ffd"
   ]
 }
