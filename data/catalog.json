@@ -394169,10 +394169,1471 @@
       "kind": "photo",
       "photographer": "Pottier Stymus Manufacturing Company",
       "sourceLabel": "互联网档案馆",
-      "contentHash": "0000100380300380122027c37c76c3fcffff"
+      "contentHash": "0000100380300380122027c37c76c3fcffff",
+      "category": "photo",
+      "subjects": [
+        "design"
+      ]
+    },
+    {
+      "id": "2e29b732-7bb4-40c2-a17a-23164879d8ff",
+      "title": "Evening dress",
+      "titleEn": "Evening dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/2e29b732-7bb4-40c2-a17a-23164879d8ff.jpg",
+      "thumbUrl": "/stills/2e29b732-7bb4-40c2-a17a-23164879d8ff.jpg",
+      "pageUrl": "https://archive.org/details/mma_evening_dress_107795",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_evening_dress_107795",
+      "buckets": [
+        "yellow",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#c1b396",
+          "rgb": [
+            193,
+            179,
+            150
+          ],
+          "ratio": 0.3430989583333333,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#ada082",
+          "rgb": [
+            173,
+            160,
+            130
+          ],
+          "ratio": 0.2808159722222222,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#d1c4ad",
+          "rgb": [
+            209,
+            196,
+            173
+          ],
+          "ratio": 0.18522135416666666,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#92896a",
+          "rgb": [
+            146,
+            137,
+            106
+          ],
+          "ratio": 0.1394314236111111,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#656347",
+          "rgb": [
+            101,
+            99,
+            71
+          ],
+          "ratio": 0.051432291666666664,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-11-24T07:33:06.727Z",
+      "fileKey": "archive:mma_evening_dress_107795",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "b66f6ef68ff8fffcce01f3def8ef84180188",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "14949b76-790f-4dd7-b215-c07a9c723a8e",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/14949b76-790f-4dd7-b215-c07a9c723a8e.jpg",
+      "thumbUrl": "/stills/14949b76-790f-4dd7-b215-c07a9c723a8e.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_103516",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_103516",
+      "buckets": [
+        "green",
+        "orange",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#fefdfc",
+          "rgb": [
+            254,
+            253,
+            252
+          ],
+          "ratio": 0.3173828125,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#546654",
+          "rgb": [
+            84,
+            102,
+            84
+          ],
+          "ratio": 0.2696397569444444,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#41513f",
+          "rgb": [
+            65,
+            81,
+            63
+          ],
+          "ratio": 0.2578125,
+          "bucket": "green"
+        },
+        {
+          "hex": "#293327",
+          "rgb": [
+            41,
+            51,
+            39
+          ],
+          "ratio": 0.1240234375,
+          "bucket": "green"
+        },
+        {
+          "hex": "#b4b4a7",
+          "rgb": [
+            180,
+            180,
+            167
+          ],
+          "ratio": 0.031141493055555556,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-11-24T07:33:07.752Z",
+      "fileKey": "archive:mma_dress_103516",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "c03909d9bc03e07e07e03c03c03c01801801",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "87f8be03-c663-4324-90da-a1528f6ce04d",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/87f8be03-c663-4324-90da-a1528f6ce04d.jpg",
+      "thumbUrl": "/stills/87f8be03-c663-4324-90da-a1528f6ce04d.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_107684",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_107684",
+      "buckets": [
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#9b8256",
+          "rgb": [
+            155,
+            130,
+            86
+          ],
+          "ratio": 0.2936197916666667,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#7a6b49",
+          "rgb": [
+            122,
+            107,
+            73
+          ],
+          "ratio": 0.2705078125,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#b79865",
+          "rgb": [
+            183,
+            152,
+            101
+          ],
+          "ratio": 0.2107204861111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#4d4730",
+          "rgb": [
+            77,
+            71,
+            48
+          ],
+          "ratio": 0.13465711805555555,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#c9af7f",
+          "rgb": [
+            201,
+            175,
+            127
+          ],
+          "ratio": 0.09049479166666667,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-11-24T07:33:08.661Z",
+      "fileKey": "archive:mma_dress_107684",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "21e83effcff8701003000800c08f3ef3ff3f",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "c901c623-5290-41cc-ad5b-4006afdd94cc",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/c901c623-5290-41cc-ad5b-4006afdd94cc.jpg",
+      "thumbUrl": "/stills/c901c623-5290-41cc-ad5b-4006afdd94cc.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_81778",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_81778",
+      "buckets": [
+        "white",
+        "gray",
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#ebe9e7",
+          "rgb": [
+            235,
+            233,
+            231
+          ],
+          "ratio": 0.2953559027777778,
+          "bucket": "white"
+        },
+        {
+          "hex": "#c3bebb",
+          "rgb": [
+            195,
+            190,
+            187
+          ],
+          "ratio": 0.2523871527777778,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#a1968b",
+          "rgb": [
+            161,
+            150,
+            139
+          ],
+          "ratio": 0.2302517361111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#977435",
+          "rgb": [
+            151,
+            116,
+            53
+          ],
+          "ratio": 0.12879774305555555,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#4d331a",
+          "rgb": [
+            77,
+            51,
+            26
+          ],
+          "ratio": 0.09320746527777778,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-11-24T07:33:12.456Z",
+      "fileKey": "archive:mma_dress_81778",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "05f05f3cf60f60f60f40f42f42f06f447c03",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "b1537345-964f-4696-a48f-e8ae20d542e7",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/b1537345-964f-4696-a48f-e8ae20d542e7.jpg",
+      "thumbUrl": "/stills/b1537345-964f-4696-a48f-e8ae20d542e7.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_81730",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_81730",
+      "buckets": [
+        "gray",
+        "red"
+      ],
+      "palette": [
+        {
+          "hex": "#a3a0a3",
+          "rgb": [
+            163,
+            160,
+            163
+          ],
+          "ratio": 0.2822265625,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#610f0b",
+          "rgb": [
+            97,
+            15,
+            11
+          ],
+          "ratio": 0.2547743055555556,
+          "bucket": "red"
+        },
+        {
+          "hex": "#b2afb2",
+          "rgb": [
+            178,
+            175,
+            178
+          ],
+          "ratio": 0.2004123263888889,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#aa3426",
+          "rgb": [
+            170,
+            52,
+            38
+          ],
+          "ratio": 0.146484375,
+          "bucket": "red"
+        },
+        {
+          "hex": "#938c8e",
+          "rgb": [
+            147,
+            140,
+            142
+          ],
+          "ratio": 0.11610243055555555,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-11-24T07:33:14.517Z",
+      "fileKey": "archive:mma_dress_81730",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "f8ff8ff8ff0fe07e27e27e07e07e07e03c03",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "e080d8b0-0b8d-4ff4-97a0-0497f01cdbc9",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/e080d8b0-0b8d-4ff4-97a0-0497f01cdbc9.jpg",
+      "thumbUrl": "/stills/e080d8b0-0b8d-4ff4-97a0-0497f01cdbc9.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_82113",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_82113",
+      "buckets": [
+        "brown",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#6c5a34",
+          "rgb": [
+            108,
+            90,
+            52
+          ],
+          "ratio": 0.2535807291666667,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#f1efeb",
+          "rgb": [
+            241,
+            239,
+            235
+          ],
+          "ratio": 0.22786458333333334,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#cecbc3",
+          "rgb": [
+            206,
+            203,
+            195
+          ],
+          "ratio": 0.19694010416666666,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#907d51",
+          "rgb": [
+            144,
+            125,
+            81
+          ],
+          "ratio": 0.1890190972222222,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#3c2e18",
+          "rgb": [
+            60,
+            46,
+            24
+          ],
+          "ratio": 0.1325954861111111,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-11-24T07:33:15.515Z",
+      "fileKey": "archive:mma_dress_82113",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "e07e07e07e47e07c07c07c07c07c03803803",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "253a0237-77e4-418d-89af-f50e33415fa6",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/253a0237-77e4-418d-89af-f50e33415fa6.jpg",
+      "thumbUrl": "/stills/253a0237-77e4-418d-89af-f50e33415fa6.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_85340",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_85340",
+      "buckets": [
+        "brown",
+        "cyan"
+      ],
+      "palette": [
+        {
+          "hex": "#3c392f",
+          "rgb": [
+            60,
+            57,
+            47
+          ],
+          "ratio": 0.3074001736111111,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#2a2820",
+          "rgb": [
+            42,
+            40,
+            32
+          ],
+          "ratio": 0.21180555555555555,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#568081",
+          "rgb": [
+            86,
+            128,
+            129
+          ],
+          "ratio": 0.1902126736111111,
+          "bucket": "cyan"
+        },
+        {
+          "hex": "#3d5d5d",
+          "rgb": [
+            61,
+            93,
+            93
+          ],
+          "ratio": 0.1552734375,
+          "bucket": "cyan"
+        },
+        {
+          "hex": "#7aaeb0",
+          "rgb": [
+            122,
+            174,
+            176
+          ],
+          "ratio": 0.1353081597222222,
+          "bucket": "cyan"
+        }
+      ],
+      "addedAt": "2026-11-24T07:33:16.434Z",
+      "fileKey": "archive:mma_dress_85340",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "7ff6447de31c3dc1dc1c80d80010f80517fb",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "28573015-7eb4-4eeb-9010-58bf78180437",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/28573015-7eb4-4eeb-9010-58bf78180437.jpg",
+      "thumbUrl": "/stills/28573015-7eb4-4eeb-9010-58bf78180437.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_126722",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_126722",
+      "buckets": [
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#81834e",
+          "rgb": [
+            129,
+            131,
+            78
+          ],
+          "ratio": 0.2255859375,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#aeab91",
+          "rgb": [
+            174,
+            171,
+            145
+          ],
+          "ratio": 0.212890625,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#d2d2c3",
+          "rgb": [
+            210,
+            210,
+            195
+          ],
+          "ratio": 0.20909288194444445,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#626535",
+          "rgb": [
+            98,
+            101,
+            53
+          ],
+          "ratio": 0.1799045138888889,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#a7945b",
+          "rgb": [
+            167,
+            148,
+            91
+          ],
+          "ratio": 0.17252604166666666,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-11-24T07:33:17.363Z",
+      "fileKey": "archive:mma_dress_126722",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "ea7fbbea9ca1c21c21c21c01e01e01e01e01",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "fc0c63f3-454d-404b-9bf8-97989a2f210d",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/fc0c63f3-454d-404b-9bf8-97989a2f210d.jpg",
+      "thumbUrl": "/stills/fc0c63f3-454d-404b-9bf8-97989a2f210d.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_83893",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_83893",
+      "buckets": [
+        "black",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#2a2c30",
+          "rgb": [
+            42,
+            44,
+            48
+          ],
+          "ratio": 0.4053819444444444,
+          "bucket": "black"
+        },
+        {
+          "hex": "#1d2021",
+          "rgb": [
+            29,
+            32,
+            33
+          ],
+          "ratio": 0.22667100694444445,
+          "bucket": "black"
+        },
+        {
+          "hex": "#706965",
+          "rgb": [
+            112,
+            105,
+            101
+          ],
+          "ratio": 0.1357421875,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#494646",
+          "rgb": [
+            73,
+            70,
+            70
+          ],
+          "ratio": 0.1322699652777778,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#a19795",
+          "rgb": [
+            161,
+            151,
+            149
+          ],
+          "ratio": 0.09993489583333333,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-11-24T07:33:20.420Z",
+      "fileKey": "archive:mma_dress_83893",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "0e01e01e01b01f80f80f80f81f81f81f8fbf",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "a02b1aca-60cd-4b70-b61f-f59d87c0d2c1",
+      "title": "Evening dress",
+      "titleEn": "Evening dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/a02b1aca-60cd-4b70-b61f-f59d87c0d2c1.jpg",
+      "thumbUrl": "/stills/a02b1aca-60cd-4b70-b61f-f59d87c0d2c1.jpg",
+      "pageUrl": "https://archive.org/details/mma_evening_dress_107097",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_evening_dress_107097",
+      "buckets": [
+        "orange",
+        "red"
+      ],
+      "palette": [
+        {
+          "hex": "#c7af86",
+          "rgb": [
+            199,
+            175,
+            134
+          ],
+          "ratio": 0.3143446180555556,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d2bb95",
+          "rgb": [
+            210,
+            187,
+            149
+          ],
+          "ratio": 0.224609375,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#b99d73",
+          "rgb": [
+            185,
+            157,
+            115
+          ],
+          "ratio": 0.2094184027777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#cb482d",
+          "rgb": [
+            203,
+            72,
+            45
+          ],
+          "ratio": 0.1521267361111111,
+          "bucket": "red"
+        },
+        {
+          "hex": "#ac8456",
+          "rgb": [
+            172,
+            132,
+            86
+          ],
+          "ratio": 0.09950086805555555,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-11-24T07:33:21.927Z",
+      "fileKey": "archive:mma_evening_dress_107097",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "f0d51c59ed9f198f9fd9b19bf9fd99f99f9f",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "4076a62b-86ca-4395-9d2a-0943865ab70f",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/4076a62b-86ca-4395-9d2a-0943865ab70f.jpg",
+      "thumbUrl": "/stills/4076a62b-86ca-4395-9d2a-0943865ab70f.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_107951",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_107951",
+      "buckets": [
+        "brown",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#4c4132",
+          "rgb": [
+            76,
+            65,
+            50
+          ],
+          "ratio": 0.2865668402777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#6a5f48",
+          "rgb": [
+            106,
+            95,
+            72
+          ],
+          "ratio": 0.23838975694444445,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#2e2420",
+          "rgb": [
+            46,
+            36,
+            32
+          ],
+          "ratio": 0.2025824652777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#908667",
+          "rgb": [
+            144,
+            134,
+            103
+          ],
+          "ratio": 0.1870659722222222,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#c3bb94",
+          "rgb": [
+            195,
+            187,
+            148
+          ],
+          "ratio": 0.08539496527777778,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-11-24T07:33:23.615Z",
+      "fileKey": "archive:mma_dress_107951",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "a1ca1c01c11d13d1fc57d47d77957d47d26d",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "8cdc5062-571d-4b01-9feb-2b7ce7ab5e06",
+      "title": "Dressing gown",
+      "titleEn": "Dressing gown",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/8cdc5062-571d-4b01-9feb-2b7ce7ab5e06.jpg",
+      "thumbUrl": "/stills/8cdc5062-571d-4b01-9feb-2b7ce7ab5e06.jpg",
+      "pageUrl": "https://archive.org/details/mma_dressing_gown_108158",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dressing_gown_108158",
+      "buckets": [
+        "orange",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#e6dcce",
+          "rgb": [
+            230,
+            220,
+            206
+          ],
+          "ratio": 0.2798394097222222,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#d4c9b5",
+          "rgb": [
+            212,
+            201,
+            181
+          ],
+          "ratio": 0.2715928819444444,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#c1b090",
+          "rgb": [
+            193,
+            176,
+            144
+          ],
+          "ratio": 0.1967230902777778,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#a9936d",
+          "rgb": [
+            169,
+            147,
+            109
+          ],
+          "ratio": 0.1540798611111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#8a714b",
+          "rgb": [
+            138,
+            113,
+            75
+          ],
+          "ratio": 0.09776475694444445,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-11-24T07:33:24.556Z",
+      "fileKey": "archive:mma_dressing_gown_108158",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "f06f07f1ff0ff0ff07e07e03e03c03c03e03",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "93b0391c-5bb6-46f3-9d46-91c08fcfc37f",
+      "title": "Dinner dress",
+      "titleEn": "Dinner dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/93b0391c-5bb6-46f3-9d46-91c08fcfc37f.jpg",
+      "thumbUrl": "/stills/93b0391c-5bb6-46f3-9d46-91c08fcfc37f.jpg",
+      "pageUrl": "https://archive.org/details/mma_dinner_dress_106988",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dinner_dress_106988",
+      "buckets": [
+        "orange",
+        "blue",
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#e8e0d4",
+          "rgb": [
+            232,
+            224,
+            212
+          ],
+          "ratio": 0.2556423611111111,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#18223b",
+          "rgb": [
+            24,
+            34,
+            59
+          ],
+          "ratio": 0.23502604166666666,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#f7f0e7",
+          "rgb": [
+            247,
+            240,
+            231
+          ],
+          "ratio": 0.22059461805555555,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#38476b",
+          "rgb": [
+            56,
+            71,
+            107
+          ],
+          "ratio": 0.177734375,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#d6cfc0",
+          "rgb": [
+            214,
+            207,
+            192
+          ],
+          "ratio": 0.11100260416666667,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-11-24T07:33:25.500Z",
+      "fileKey": "archive:mma_dinner_dress_106988",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "c7fe7fe3fe1fc0fc0fc0fc07c07e07e07e03",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "987fc4ba-0994-4795-8e58-16741caf073b",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/987fc4ba-0994-4795-8e58-16741caf073b.jpg",
+      "thumbUrl": "/stills/987fc4ba-0994-4795-8e58-16741caf073b.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_103401",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_103401",
+      "buckets": [
+        "yellow",
+        "black"
+      ],
+      "palette": [
+        {
+          "hex": "#b3a482",
+          "rgb": [
+            179,
+            164,
+            130
+          ],
+          "ratio": 0.2829861111111111,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#c3b793",
+          "rgb": [
+            195,
+            183,
+            147
+          ],
+          "ratio": 0.2772352430555556,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#131213",
+          "rgb": [
+            19,
+            18,
+            19
+          ],
+          "ratio": 0.248046875,
+          "bucket": "black"
+        },
+        {
+          "hex": "#d4c8a2",
+          "rgb": [
+            212,
+            200,
+            162
+          ],
+          "ratio": 0.123046875,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#948467",
+          "rgb": [
+            148,
+            132,
+            103
+          ],
+          "ratio": 0.06868489583333333,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-11-24T07:33:26.435Z",
+      "fileKey": "archive:mma_dress_103401",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "0f03f83fc7fe5fa4f81fc1fe3fe3fe3fe7fe",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "8debad1c-58af-4203-b7b6-bd9ba07de71d",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/8debad1c-58af-4203-b7b6-bd9ba07de71d.jpg",
+      "thumbUrl": "/stills/8debad1c-58af-4203-b7b6-bd9ba07de71d.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_107791",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_107791",
+      "buckets": [
+        "orange",
+        "black",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#17110a",
+          "rgb": [
+            23,
+            17,
+            10
+          ],
+          "ratio": 0.3478732638888889,
+          "bucket": "black"
+        },
+        {
+          "hex": "#cd912f",
+          "rgb": [
+            205,
+            145,
+            47
+          ],
+          "ratio": 0.2119140625,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#4c2f15",
+          "rgb": [
+            76,
+            47,
+            21
+          ],
+          "ratio": 0.20909288194444445,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#985e17",
+          "rgb": [
+            152,
+            94,
+            23
+          ],
+          "ratio": 0.16221788194444445,
+          "bucket": "orange"
+        },
+        {
+          "hex": "#f1d17a",
+          "rgb": [
+            241,
+            209,
+            122
+          ],
+          "ratio": 0.06890190972222222,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-11-24T07:33:27.401Z",
+      "fileKey": "archive:mma_dress_107791",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "e0fe67e0f8c90b7e35681093307133d9ffff",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "8203e20b-cbe4-4eb8-8345-55fdc4dea020",
+      "title": "Dress",
+      "titleEn": "Dress",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/8203e20b-cbe4-4eb8-8345-55fdc4dea020.jpg",
+      "thumbUrl": "/stills/8203e20b-cbe4-4eb8-8345-55fdc4dea020.jpg",
+      "pageUrl": "https://archive.org/details/mma_dress_92350",
+      "author": "Internet Archive",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_dress_92350",
+      "buckets": [
+        "yellow",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#724e27",
+          "rgb": [
+            114,
+            78,
+            39
+          ],
+          "ratio": 0.2601996527777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#d2cfc7",
+          "rgb": [
+            210,
+            207,
+            199
+          ],
+          "ratio": 0.2515190972222222,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#e3e0da",
+          "rgb": [
+            227,
+            224,
+            218
+          ],
+          "ratio": 0.2349175347222222,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#2c180e",
+          "rgb": [
+            44,
+            24,
+            14
+          ],
+          "ratio": 0.16178385416666666,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#bdb8ad",
+          "rgb": [
+            189,
+            184,
+            173
+          ],
+          "ratio": 0.0915798611111111,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-11-24T07:33:28.357Z",
+      "fileKey": "archive:mma_dress_92350",
+      "kind": "photo",
+      "photographer": "Internet Archive",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "e1ff1ff0fe0fe07f07f07f07f03f03f03f03",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "22b9a6b7-adb4-470d-b9f5-63cd10888cfb",
+      "title": "Coral Gables: America's Finest Suburb, Miami, Florida",
+      "titleEn": "Coral Gables America's finest suburb, Miami, Florida",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/22b9a6b7-adb4-470d-b9f5-63cd10888cfb.jpg",
+      "thumbUrl": "/stills/22b9a6b7-adb4-470d-b9f5-63cd10888cfb.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Coral_Gables_-_America%27s_finest_suburb,_Miami,_Florida_(1925).djvu",
+      "author": "Marjory Stoneman Douglas",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Coral_Gables_-_America%27s_finest_suburb,_Miami,_Florida_(1925).djvu",
+      "buckets": [
+        "gray",
+        "green"
+      ],
+      "palette": [
+        {
+          "hex": "#596453",
+          "rgb": [
+            89,
+            100,
+            83
+          ],
+          "ratio": 0.3980034722222222,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#575e49",
+          "rgb": [
+            87,
+            94,
+            73
+          ],
+          "ratio": 0.3383246527777778,
+          "bucket": "green"
+        },
+        {
+          "hex": "#5c6857",
+          "rgb": [
+            92,
+            104,
+            87
+          ],
+          "ratio": 0.1384548611111111,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#434b3e",
+          "rgb": [
+            67,
+            75,
+            62
+          ],
+          "ratio": 0.07486979166666667,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#242a28",
+          "rgb": [
+            36,
+            42,
+            40
+          ],
+          "ratio": 0.050347222222222224,
+          "bucket": "black"
+        }
+      ],
+      "addedAt": "2026-11-24T07:37:04.838Z",
+      "fileKey": "File:Coral Gables - America's finest suburb, Miami, Florida (1925).djvu",
+      "kind": "film",
+      "photographer": "Marjory Stoneman Douglas",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "dbf00f40f4039b3807e07eff7fffffffef0c",
+      "category": "film",
+      "subjects": [
+        "people"
+      ]
+    },
+    {
+      "id": "e20bb9b6-a0bc-498d-8999-c6e3871c56d6",
+      "title": "House of Worth, tea gown (robe d’intérieure), worn by Comtesse Élisabeth Greffulhe (1860–1952), collection of Musée Galliera",
+      "titleEn": "House of Worth, tea gown (robe d’intérieure), worn by Comtesse Élisabeth Greffulhe (1860–1952), collection of Musée Galliera",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/e20bb9b6-a0bc-498d-8999-c6e3871c56d6.jpg",
+      "thumbUrl": "/stills/e20bb9b6-a0bc-498d-8999-c6e3871c56d6.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:House_of_Worth,_tea_gown_(robe_d%E2%80%99int%C3%A9rieure),_worn_by_Comtesse_%C3%89lisabeth_Greffulhe_(1860%E2%80%931952),_collection_of_Mus%C3%A9e_Galliera.jpg",
+      "author": "Svante.tiren",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "buckets": [
+        "blue",
+        "gray",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#c6d2dc",
+          "rgb": [
+            198,
+            210,
+            220
+          ],
+          "ratio": 0.2609592013888889,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#131619",
+          "rgb": [
+            19,
+            22,
+            25
+          ],
+          "ratio": 0.2224392361111111,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#7e7163",
+          "rgb": [
+            126,
+            113,
+            99
+          ],
+          "ratio": 0.18196614583333334,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#363b38",
+          "rgb": [
+            54,
+            59,
+            56
+          ],
+          "ratio": 0.17578125,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#adaaa7",
+          "rgb": [
+            173,
+            170,
+            167
+          ],
+          "ratio": 0.15885416666666666,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-11-24T07:37:53.250Z",
+      "fileKey": "File:House of Worth, tea gown (robe d’intérieure), worn by Comtesse Élisabeth Greffulhe (1860–1952), collection of Musée Galliera.jpg",
+      "kind": "film",
+      "photographer": "Svante.tiren",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "f03f83f83f8ff8ff07f07f04e07c07c07c07"
     }
   ],
-  "lastIngestDate": "2026-11-23",
+  "lastIngestDate": "2026-11-24",
   "seenFileKeys": [
     "stills:04b85cc4-5a5c-4d95-9d52-460ceefa3ee5.jpg",
     "stills:0509b1d5-b5da-4b3c-8e65-edda97b86985.jpg",
@@ -401814,7 +403275,34 @@
     "archive:david-d-angers-pierre-jean-david",
     "archive:clevelandart-1940.1205-portrait-of-anne-hyd",
     "archive:clevelandart-1944.88-portrait-of-maria-ki",
-    "archive:mma_armchair_236"
+    "archive:mma_armchair_236",
+    "archive:mma_evening_dress_107795",
+    "archive:mma_dress_103516",
+    "archive:mma_dress_107684",
+    "archive:mma_dress_108184",
+    "archive:C1403CN015",
+    "archive:mma_dress_81778",
+    "archive:mma_dress_157871",
+    "archive:mma_dress_81730",
+    "archive:mma_dress_82113",
+    "archive:mma_dress_85340",
+    "archive:mma_dress_126722",
+    "archive:mma_dress_159244",
+    "archive:mma_dressing_gown_158276",
+    "archive:mma_dress_83893",
+    "archive:mma_dress_107658",
+    "archive:mma_evening_dress_107097",
+    "archive:mma_dress_103538",
+    "archive:mma_dress_107951",
+    "archive:mma_dressing_gown_108158",
+    "archive:mma_dinner_dress_106988",
+    "archive:mma_dress_103401",
+    "archive:mma_dress_107791",
+    "archive:mma_dress_92350",
+    "archive:mma_sketch_of_statue_of_venus_entering_the_bath_367157",
+    "archive:mma_statue_fragment_556794",
+    "File:Coral Gables - America's finest suburb, Miami, Florida (1925).djvu",
+    "File:House of Worth, tea gown (robe d’intérieure), worn by Comtesse Élisabeth Greffulhe (1860–1952), collection of Musée Galliera.jpg"
   ],
   "seenContentHashes": [
     "ff8f20c0481cf3cffcf7ce58ffcffcffcd7e",
@@ -406500,6 +407988,24 @@
     "fffff7feff07e03e03c03c03c1bc03c03c03",
     "0200300300f81f81bc18c39c03c06c17c1fa",
     "ffeffeffeffcf66e60c60840000000100300",
-    "0000100380300380122027c37c76c3fcffff"
+    "0000100380300380122027c37c76c3fcffff",
+    "b66f6ef68ff8fffcce01f3def8ef84180188",
+    "c03909d9bc03e07e07e03c03c03c01801801",
+    "21e83effcff8701003000800c08f3ef3ff3f",
+    "05f05f3cf60f60f60f40f42f42f06f447c03",
+    "f8ff8ff8ff0fe07e27e27e07e07e07e03c03",
+    "e07e07e07e47e07c07c07c07c07c03803803",
+    "7ff6447de31c3dc1dc1c80d80010f80517fb",
+    "ea7fbbea9ca1c21c21c21c01e01e01e01e01",
+    "0e01e01e01b01f80f80f80f81f81f81f8fbf",
+    "f0d51c59ed9f198f9fd9b19bf9fd99f99f9f",
+    "a1ca1c01c11d13d1fc57d47d77957d47d26d",
+    "f06f07f1ff0ff0ff07e07e03e03c03c03e03",
+    "c7fe7fe3fe1fc0fc0fc0fc07c07e07e07e03",
+    "0f03f83fc7fe5fa4f81fc1fe3fe3fe3fe7fe",
+    "e0fe67e0f8c90b7e35681093307133d9ffff",
+    "e1ff1ff0fe0fe07f07f07f07f03f03f03f03",
+    "dbf00f40f4039b3807e07eff7fffffffef0c",
+    "f03f83f83f8ff8ff07f07f04e07c07c07c07"
   ]
 }
