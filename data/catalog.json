@@ -406694,10 +406694,649 @@
       "kind": "photo",
       "photographer": "rawpixel",
       "sourceLabel": "Rawpixel",
-      "contentHash": "f7fe3ff07c0fc01d03f07c07883899000000"
+      "contentHash": "f7fe3ff07c0fc01d03f07c07883899000000",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "419eabd5-92cd-4fa2-8288-1d62f00e8820",
+      "title": "Coiffure et Costume Alsacien des villes et villages Alsaciens (TR, Obernai, Isenheim, Schleithal, Strasbourg, Vendenheim, Lampertheim, Wissembourg Geispolsheim, Meistratzheim,COSTUME, Femme,",
+      "titleEn": "Coiffure et Costume Alsacien des villes et villages Alsaciens (TR, Obernai, Isenheim, Schleithal, Strasbourg, Vendenheim, Lampertheim, Wissembourg Geispolsheim, Meistratzheim,COSTUME, Femme,",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/419eabd5-92cd-4fa2-8288-1d62f00e8820.jpg",
+      "thumbUrl": "/stills/419eabd5-92cd-4fa2-8288-1d62f00e8820.jpg",
+      "pageUrl": "https://archive.org/details/sem-titulo_20250725",
+      "author": "Éditeur : Ernst H (Paris)",
+      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "buckets": [
+        "yellow",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#fffffe",
+          "rgb": [
+            255,
+            255,
+            254
+          ],
+          "ratio": 0.3794487847222222,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#9a937f",
+          "rgb": [
+            154,
+            147,
+            127
+          ],
+          "ratio": 0.1965060763888889,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#cfc4a0",
+          "rgb": [
+            207,
+            196,
+            160
+          ],
+          "ratio": 0.1691623263888889,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#e1d6b8",
+          "rgb": [
+            225,
+            214,
+            184
+          ],
+          "ratio": 0.14756944444444445,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#6d6655",
+          "rgb": [
+            109,
+            102,
+            85
+          ],
+          "ratio": 0.10731336805555555,
+          "bucket": "brown"
+        }
+      ],
+      "addedAt": "2026-11-28T05:22:55.789Z",
+      "fileKey": "archive:sem-titulo_20250725",
+      "kind": "photo",
+      "photographer": "Éditeur : Ernst H (Paris)",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "fff00700f10700740f00f00f40f40f00f00f",
+      "category": "photo",
+      "subjects": [
+        "costume",
+        "design"
+      ]
+    },
+    {
+      "id": "335d4f0b-bb29-4232-a9a8-64d8cbf84d41",
+      "title": "Lady's Writing Table and Bookcase, from Chippendale Drawings, Vol. II",
+      "titleEn": "Lady's Writing Table and Bookcase, from Chippendale Drawings, Vol. II",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/335d4f0b-bb29-4232-a9a8-64d8cbf84d41.jpg",
+      "thumbUrl": "/stills/335d4f0b-bb29-4232-a9a8-64d8cbf84d41.jpg",
+      "pageUrl": "https://archive.org/details/mma_ladys_writing_table_and_bookcase_from_chippendale_drawings_vol_ii_390607",
+      "author": "Thomas Chippendale",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_ladys_writing_table_and_bookcase_from_chippendale_drawings_vol_ii_390607",
+      "buckets": [
+        "yellow",
+        "gray"
+      ],
+      "palette": [
+        {
+          "hex": "#e7e1d2",
+          "rgb": [
+            231,
+            225,
+            210
+          ],
+          "ratio": 0.3900824652777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#e1dbc9",
+          "rgb": [
+            225,
+            219,
+            201
+          ],
+          "ratio": 0.3478732638888889,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#cfc8b8",
+          "rgb": [
+            207,
+            200,
+            184
+          ],
+          "ratio": 0.10980902777777778,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#aeaaa0",
+          "rgb": [
+            174,
+            170,
+            160
+          ],
+          "ratio": 0.08832465277777778,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#344a6e",
+          "rgb": [
+            52,
+            74,
+            110
+          ],
+          "ratio": 0.06391059027777778,
+          "bucket": "blue"
+        }
+      ],
+      "addedAt": "2026-11-28T05:22:57.968Z",
+      "fileKey": "archive:mma_ladys_writing_table_and_bookcase_from_chippendale_drawings_vol_ii_390607",
+      "kind": "photo",
+      "photographer": "Lady",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "000fffdff07f07f4ff07f03f07ffffffffff",
+      "category": "photo",
+      "subjects": [
+        "design"
+      ]
+    },
+    {
+      "id": "0dd2ea3c-a075-4e83-94ae-04c78fa0d01a",
+      "title": "Fireplace Flanked by Commedia dell'arte Figures with Overmantle Showing a Gothic Gazebo, in Chippendale Drawings, Vol. I",
+      "titleEn": "Fireplace Flanked by Commedia dell'arte Figures with Overmantle Showing a Gothic Gazebo, in Chippendale Drawings, Vol. I",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/0dd2ea3c-a075-4e83-94ae-04c78fa0d01a.jpg",
+      "thumbUrl": "/stills/0dd2ea3c-a075-4e83-94ae-04c78fa0d01a.jpg",
+      "pageUrl": "https://archive.org/details/mma_fireplace_flanked_by_commedia_dellarte_figures_with_overmantle_showing_a_go_390549",
+      "author": "Thomas Chippendale",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_fireplace_flanked_by_commedia_dellarte_figures_with_overmantle_showing_a_go_390549",
+      "buckets": [
+        "yellow",
+        "gray",
+        "blue"
+      ],
+      "palette": [
+        {
+          "hex": "#dad1bb",
+          "rgb": [
+            218,
+            209,
+            187
+          ],
+          "ratio": 0.4064670138888889,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#b9b39f",
+          "rgb": [
+            185,
+            179,
+            159
+          ],
+          "ratio": 0.2505425347222222,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#9a9584",
+          "rgb": [
+            154,
+            149,
+            132
+          ],
+          "ratio": 0.1753472222222222,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#364465",
+          "rgb": [
+            54,
+            68,
+            101
+          ],
+          "ratio": 0.08528645833333333,
+          "bucket": "blue"
+        },
+        {
+          "hex": "#777368",
+          "rgb": [
+            119,
+            115,
+            104
+          ],
+          "ratio": 0.08235677083333333,
+          "bucket": "gray"
+        }
+      ],
+      "addedAt": "2026-11-28T05:23:00.952Z",
+      "fileKey": "archive:mma_fireplace_flanked_by_commedia_dellarte_figures_with_overmantle_showing_a_go_390549",
+      "kind": "photo",
+      "photographer": "Thomas Chippendale",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "7fe78e70e78e4065065124034024f04f94fb",
+      "category": "photo",
+      "subjects": [
+        "design"
+      ]
+    },
+    {
+      "id": "020050b3-c7b5-47d0-981a-75c1aa7cfade",
+      "title": "China Tables, from Chippendale Drawings, Vol. II",
+      "titleEn": "China Tables, from Chippendale Drawings, Vol. II",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/020050b3-c7b5-47d0-981a-75c1aa7cfade.jpg",
+      "thumbUrl": "/stills/020050b3-c7b5-47d0-981a-75c1aa7cfade.jpg",
+      "pageUrl": "https://archive.org/details/mma_china_tables_from_chippendale_drawings_vol_ii_390665",
+      "author": "Thomas Chippendale",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_china_tables_from_chippendale_drawings_vol_ii_390665",
+      "buckets": [
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#e4d9bf",
+          "rgb": [
+            228,
+            217,
+            191
+          ],
+          "ratio": 0.4533420138888889,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#dacfb3",
+          "rgb": [
+            218,
+            207,
+            179
+          ],
+          "ratio": 0.314453125,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#b6ae97",
+          "rgb": [
+            182,
+            174,
+            151
+          ],
+          "ratio": 0.11317274305555555,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#8d8774",
+          "rgb": [
+            141,
+            135,
+            116
+          ],
+          "ratio": 0.07432725694444445,
+          "bucket": "gray"
+        },
+        {
+          "hex": "#414a61",
+          "rgb": [
+            65,
+            74,
+            97
+          ],
+          "ratio": 0.04470486111111111,
+          "bucket": "blue"
+        }
+      ],
+      "addedAt": "2026-11-28T05:23:01.819Z",
+      "fileKey": "archive:mma_china_tables_from_chippendale_drawings_vol_ii_390665",
+      "kind": "photo",
+      "photographer": "Thomas Chippendale",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "000ffffff1e00e0ce1ff1ffff7fffffff000",
+      "category": "photo",
+      "subjects": [
+        "design"
+      ]
+    },
+    {
+      "id": "e969c1a5-f349-420f-b395-fad12c9ac25f",
+      "title": "King David the Poet",
+      "titleEn": "King David the Poet",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/e969c1a5-f349-420f-b395-fad12c9ac25f.jpg",
+      "thumbUrl": "/stills/e969c1a5-f349-420f-b395-fad12c9ac25f.jpg",
+      "pageUrl": "https://archive.org/details/mma_king_david_the_poet_209292",
+      "author": "William Morris",
+      "license": "Public domain",
+      "licenseUrl": "https://archive.org/details/mma_king_david_the_poet_209292",
+      "buckets": [
+        "yellow",
+        "black",
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#060606",
+          "rgb": [
+            6,
+            6,
+            6
+          ],
+          "ratio": 0.3087022569444444,
+          "bucket": "black"
+        },
+        {
+          "hex": "#8e8e5e",
+          "rgb": [
+            142,
+            142,
+            94
+          ],
+          "ratio": 0.2443576388888889,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#1a1814",
+          "rgb": [
+            26,
+            24,
+            20
+          ],
+          "ratio": 0.16786024305555555,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#dddebe",
+          "rgb": [
+            221,
+            222,
+            190
+          ],
+          "ratio": 0.1462673611111111,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#413f2a",
+          "rgb": [
+            65,
+            63,
+            42
+          ],
+          "ratio": 0.1328125,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-11-28T05:23:02.659Z",
+      "fileKey": "archive:mma_king_david_the_poet_209292",
+      "kind": "photo",
+      "photographer": "William Morris",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "77e70e60e70e70e70e70e70e60e706706406",
+      "category": "photo",
+      "subjects": []
+    },
+    {
+      "id": "0d6f8901-3b71-45f7-b910-86528555409f",
+      "title": "Portrait of a Woman with a Dog",
+      "titleEn": "Portrait of a Woman with a Dog",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/0d6f8901-3b71-45f7-b910-86528555409f.jpg",
+      "thumbUrl": "/stills/0d6f8901-3b71-45f7-b910-86528555409f.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-2011.47-portrait-of-a-woman",
+      "author": "Hendrik Gerritsz. Pot (Dutch, c. 1585–1657)",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown"
+      ],
+      "palette": [
+        {
+          "hex": "#5b4b31",
+          "rgb": [
+            91,
+            75,
+            49
+          ],
+          "ratio": 0.4736328125,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#25231e",
+          "rgb": [
+            37,
+            35,
+            30
+          ],
+          "ratio": 0.3578559027777778,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#695637",
+          "rgb": [
+            105,
+            86,
+            55
+          ],
+          "ratio": 0.08919270833333333,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#0a0908",
+          "rgb": [
+            10,
+            9,
+            8
+          ],
+          "ratio": 0.05978732638888889,
+          "bucket": "black"
+        },
+        {
+          "hex": "#9f8c66",
+          "rgb": [
+            159,
+            140,
+            102
+          ],
+          "ratio": 0.01953125,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-11-28T05:23:30.585Z",
+      "fileKey": "archive:clevelandart-2011.47-portrait-of-a-woman",
+      "kind": "photo",
+      "photographer": "Hendrik Gerritsz. Pot (Dutch, c. 1585–1657)",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "7fe7fe7fe7fe7ff7f97b0700600400c00f00",
+      "category": "photo",
+      "people": "one",
+      "subjects": [
+        "portrait",
+        "people"
+      ]
+    },
+    {
+      "id": "8ae95ded-aaa4-4912-ad43-3ccb1c7f2394",
+      "title": "Self-Portrait with Five Muses",
+      "titleEn": "Self-Portrait with Five Muses",
+      "titleZh": "",
+      "director": "",
+      "source": "archive",
+      "imageUrl": "/stills/8ae95ded-aaa4-4912-ad43-3ccb1c7f2394.jpg",
+      "thumbUrl": "/stills/8ae95ded-aaa4-4912-ad43-3ccb1c7f2394.jpg",
+      "pageUrl": "https://archive.org/details/clevelandart-2012.30-self-portrait-with-f",
+      "author": "Henry Church (American, 1836–1908)",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "buckets": [
+        "brown",
+        "orange"
+      ],
+      "palette": [
+        {
+          "hex": "#373029",
+          "rgb": [
+            55,
+            48,
+            41
+          ],
+          "ratio": 0.2940538194444444,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#786350",
+          "rgb": [
+            120,
+            99,
+            80
+          ],
+          "ratio": 0.2561848958333333,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#201a16",
+          "rgb": [
+            32,
+            26,
+            22
+          ],
+          "ratio": 0.1916232638888889,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#5a4637",
+          "rgb": [
+            90,
+            70,
+            55
+          ],
+          "ratio": 0.14615885416666666,
+          "bucket": "brown"
+        },
+        {
+          "hex": "#988470",
+          "rgb": [
+            152,
+            132,
+            112
+          ],
+          "ratio": 0.11197916666666667,
+          "bucket": "orange"
+        }
+      ],
+      "addedAt": "2026-11-28T05:23:31.414Z",
+      "fileKey": "archive:clevelandart-2012.30-self-portrait-with-f",
+      "kind": "photo",
+      "photographer": "Henry Church (American, 1836–1908)",
+      "sourceLabel": "互联网档案馆",
+      "contentHash": "0fc1fe13f37f3ff3df70f4034022060041e4",
+      "category": "painting",
+      "people": "one",
+      "subjects": [
+        "portrait"
+      ]
+    },
+    {
+      "id": "b25c300a-ef27-40ff-97ac-8c346ce3c34a",
+      "title": "Undulating landscape NE of Greetham, aerial 2020 - geograph.org.uk - 6611948",
+      "titleEn": "Undulating landscape NE of Greetham, aerial 2020 geograph.org.uk 6611948",
+      "titleZh": "未注明",
+      "director": "未注明",
+      "source": "commons",
+      "imageUrl": "/stills/b25c300a-ef27-40ff-97ac-8c346ce3c34a.jpg",
+      "thumbUrl": "/stills/b25c300a-ef27-40ff-97ac-8c346ce3c34a.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Undulating_landscape_NE_of_Greetham,_aerial_2020_-_geograph.org.uk_-_6611948.jpg",
+      "author": "Chris",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "buckets": [
+        "yellow"
+      ],
+      "palette": [
+        {
+          "hex": "#918e56",
+          "rgb": [
+            145,
+            142,
+            86
+          ],
+          "ratio": 0.3210720486111111,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#6d6c49",
+          "rgb": [
+            109,
+            108,
+            73
+          ],
+          "ratio": 0.2544487847222222,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#5d5e40",
+          "rgb": [
+            93,
+            94,
+            64
+          ],
+          "ratio": 0.2365451388888889,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#888150",
+          "rgb": [
+            136,
+            129,
+            80
+          ],
+          "ratio": 0.134765625,
+          "bucket": "yellow"
+        },
+        {
+          "hex": "#a29660",
+          "rgb": [
+            162,
+            150,
+            96
+          ],
+          "ratio": 0.053168402777777776,
+          "bucket": "yellow"
+        }
+      ],
+      "addedAt": "2026-11-28T05:27:14.757Z",
+      "fileKey": "File:Undulating landscape NE of Greetham, aerial 2020 - geograph.org.uk - 6611948.jpg",
+      "kind": "film",
+      "photographer": "Chris",
+      "sourceLabel": "维基共享资源",
+      "contentHash": "fe8ffcfbdf89fc0fc1fc0fc0f80f80100000"
     }
   ],
-  "lastIngestDate": "2026-11-27",
+  "lastIngestDate": "2026-11-28",
   "seenFileKeys": [
     "stills:04b85cc4-5a5c-4d95-9d52-460ceefa3ee5.jpg",
     "stills:0509b1d5-b5da-4b3c-8e65-edda97b86985.jpg",
@@ -414626,7 +415265,22 @@
     "openverse:2a257989-8d57-4115-b047-7648d177dd8d",
     "archive:mma_classical_sculpture_of_a_lion_front_and_side_views_367199",
     "openverse:f5aca258-245e-4cbf-854f-092cf2ac1ae8",
-    "openverse:19cb1502-71d7-4ef3-9f6e-8e20e73c1a87"
+    "openverse:19cb1502-71d7-4ef3-9f6e-8e20e73c1a87",
+    "archive:sem-titulo_20250725",
+    "archive:hdl-met-inst-501751",
+    "archive:dr_view-plate-11-ancient-sculpture-12190593",
+    "archive:mma_ladys_writing_table_and_bookcase_from_chippendale_drawings_vol_ii_390607",
+    "archive:mma_library_table_from_chippendale_drawings_vol_ii_390590",
+    "archive:mma_china_case_from_chippendale_drawings_vol_ii_390659",
+    "archive:mma_statue_fragment_from_a_standing_figure_whose_back_pillar_has_cartouche_of_ra_549371",
+    "archive:mma_fireplace_flanked_by_commedia_dellarte_figures_with_overmantle_showing_a_go_390549",
+    "archive:mma_china_tables_from_chippendale_drawings_vol_ii_390665",
+    "archive:mma_king_david_the_poet_209292",
+    "archive:mma_french_commode_table_from_chippendale_drawings_vol_ii_390625",
+    "archive:mma_frets_from_chippendale_drawings_vol_ii_390675",
+    "archive:clevelandart-2011.47-portrait-of-a-woman",
+    "archive:clevelandart-2012.30-self-portrait-with-f",
+    "File:Undulating landscape NE of Greetham, aerial 2020 - geograph.org.uk - 6611948.jpg"
   ],
   "seenContentHashes": [
     "ff8f20c0481cf3cffcf7ce58ffcffcffcd7e",
@@ -419468,6 +420122,14 @@
     "01a81ac3ae4ec1cc7dc78c7c86c47c43c612",
     "bfdbfffff8f98f90f94f94f84fa4fa0f6002",
     "e3fc993343200fc7fe7de61f71f79e67f60f",
-    "f7fe3ff07c0fc01d03f07c07883899000000"
+    "f7fe3ff07c0fc01d03f07c07883899000000",
+    "fff00700f10700740f00f00f40f40f00f00f",
+    "000fffdff07f07f4ff07f03f07ffffffffff",
+    "7fe78e70e78e4065065124034024f04f94fb",
+    "000ffffff1e00e0ce1ff1ffff7fffffff000",
+    "77e70e60e70e70e70e70e70e60e706706406",
+    "7fe7fe7fe7fe7ff7f97b0700600400c00f00",
+    "0fc1fe13f37f3ff3df70f4034022060041e4",
+    "fe8ffcfbdf89fc0fc1fc0fc0f80f80100000"
   ]
 }
